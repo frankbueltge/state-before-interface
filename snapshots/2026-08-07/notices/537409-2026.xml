@@ -1,0 +1,705 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><ContractNotice xmlns="urn:oasis:names:specification:ubl:schema:xsd:ContractNotice-2" xmlns:cac="urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-2" xmlns:cbc="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-2" xmlns:efac="http://data.europa.eu/p27/eforms-ubl-extension-aggregate-components/1" xmlns:efbc="http://data.europa.eu/p27/eforms-ubl-extension-basic-components/1" xmlns:efext="http://data.europa.eu/p27/eforms-ubl-extensions/1" xmlns:ext="urn:oasis:names:specification:ubl:schema:xsd:CommonExtensionComponents-2" xmlns:hilma="urn:hanselHilma:NationalNoticeExtension">
+  <ext:UBLExtensions>
+    <ext:UBLExtension>
+      <ext:ExtensionContent>
+        <efext:EformsExtension>
+          <efbc:TransmissionDate>2026-07-31+00:00</efbc:TransmissionDate>
+          <efbc:TransmissionTime>13:17:16+00:00</efbc:TransmissionTime>
+          <efac:NoticeSubType>
+            <cbc:SubTypeCode listName="notice-subtype">16</cbc:SubTypeCode>
+          </efac:NoticeSubType>
+          <efac:Organizations>
+            <efac:Organization>
+              <efac:Company>
+                <cbc:WebsiteURI>https://www.markkinaoikeus.fi</cbc:WebsiteURI>
+                <cac:PartyIdentification>
+                  <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+                </cac:PartyIdentification>
+                <cac:PartyName>
+                  <cbc:Name languageID="ENG">Markkinaoikeus</cbc:Name>
+                </cac:PartyName>
+                <cac:PostalAddress>
+                  <cbc:StreetName>Radanrakentajantie 5</cbc:StreetName>
+                  <cbc:CityName>Helsinki</cbc:CityName>
+                  <cbc:PostalZone>00520</cbc:PostalZone>
+                  <cbc:CountrySubentityCode listName="nuts">FI1B1</cbc:CountrySubentityCode>
+                  <cac:Country>
+                    <cbc:IdentificationCode listName="country">FIN</cbc:IdentificationCode>
+                  </cac:Country>
+                </cac:PostalAddress>
+                <cac:PartyLegalEntity>
+                  <cbc:CompanyID schemeID="002">3006157-6</cbc:CompanyID>
+                </cac:PartyLegalEntity>
+                <cac:Contact>
+                  <cbc:Telephone>+358 295643300</cbc:Telephone>
+                  <cbc:ElectronicMail>markkinaoikeus@oikeus.fi</cbc:ElectronicMail>
+                </cac:Contact>
+              </efac:Company>
+            </efac:Organization>
+            <efac:Organization>
+              <efbc:AcquiringCPBIndicator>false</efbc:AcquiringCPBIndicator>
+              <efbc:AwardingCPBIndicator>false</efbc:AwardingCPBIndicator>
+              <efac:Company>
+                <cbc:WebsiteURI>http://www.museovirasto.fi</cbc:WebsiteURI>
+                <cac:PartyIdentification>
+                  <cbc:ID schemeName="organization">ORG-0002</cbc:ID>
+                </cac:PartyIdentification>
+                <cac:PartyName>
+                  <cbc:Name languageID="ENG">Finnish Heritage Agency / Museovirasto</cbc:Name>
+                </cac:PartyName>
+                <cac:PostalAddress>
+                  <cbc:StreetName>PL 913</cbc:StreetName>
+                  <cbc:CityName>Helsinki</cbc:CityName>
+                  <cbc:PostalZone>00101</cbc:PostalZone>
+                  <cbc:CountrySubentityCode listName="nuts">FI1B1</cbc:CountrySubentityCode>
+                  <cac:Country>
+                    <cbc:IdentificationCode listName="country">FIN</cbc:IdentificationCode>
+                  </cac:Country>
+                </cac:PostalAddress>
+                <cac:PartyLegalEntity>
+                  <cbc:CompanyID schemeID="002">0292559-2</cbc:CompanyID>
+                </cac:PartyLegalEntity>
+                <cac:Contact>
+                  <cbc:Name>National Museum of Finland</cbc:Name>
+                  <cbc:Telephone>+358 295336070</cbc:Telephone>
+                  <cbc:ElectronicMail>hankinnat@museovirasto.fi</cbc:ElectronicMail>
+                </cac:Contact>
+              </efac:Company>
+            </efac:Organization>
+            <efac:Organization>
+              <efac:Company>
+                <cbc:WebsiteURI>http://hankintailmoitukset.fi</cbc:WebsiteURI>
+                <cac:PartyIdentification>
+                  <cbc:ID schemeName="organization">ORG-0003</cbc:ID>
+                </cac:PartyIdentification>
+                <cac:PartyName>
+                  <cbc:Name languageID="ENG">Hansel Oy (Hilma)</cbc:Name>
+                </cac:PartyName>
+                <cac:PostalAddress>
+                  <cbc:StreetName>Mannerheiminaukio 1a</cbc:StreetName>
+                  <cbc:CityName>Helsinki</cbc:CityName>
+                  <cbc:PostalZone>00100</cbc:PostalZone>
+                  <cbc:CountrySubentityCode listName="nuts">FI1B1</cbc:CountrySubentityCode>
+                  <cac:Country>
+                    <cbc:IdentificationCode listName="country">FIN</cbc:IdentificationCode>
+                  </cac:Country>
+                </cac:PostalAddress>
+                <cac:PartyLegalEntity>
+                  <cbc:CompanyID schemeID="002">FI09880841</cbc:CompanyID>
+                </cac:PartyLegalEntity>
+                <cac:Contact>
+                  <cbc:Name>eSender</cbc:Name>
+                  <cbc:Telephone>029 55 636 30</cbc:Telephone>
+                  <cbc:ElectronicMail>tekninen@hankintailmoitukset.fi</cbc:ElectronicMail>
+                </cac:Contact>
+              </efac:Company>
+            </efac:Organization>
+          </efac:Organizations>
+        <efac:Publication><efbc:NoticePublicationID schemeName="ojs-notice-id">00537409-2026</efbc:NoticePublicationID><efbc:GazetteID schemeName="ojs-id">148/2026</efbc:GazetteID><efbc:PublicationDate>2026-08-04+02:00</efbc:PublicationDate></efac:Publication></efext:EformsExtension>
+      </ext:ExtensionContent>
+    </ext:UBLExtension>
+  </ext:UBLExtensions>
+  <cbc:UBLVersionID>2.3</cbc:UBLVersionID>
+  <cbc:CustomizationID>eforms-sdk-1.13</cbc:CustomizationID>
+  <cbc:ID schemeName="notice-id">5ee357e9-712d-43bc-895a-d3932967dbc8</cbc:ID>
+  <cbc:ContractFolderID>d090c66f-fef3-4e35-b5a0-1bf61475478a</cbc:ContractFolderID>
+  <cbc:IssueDate>2026-07-31+00:00</cbc:IssueDate>
+  <cbc:IssueTime>13:17:15+00:00</cbc:IssueTime>
+  <cbc:VersionID>01</cbc:VersionID>
+  <cbc:RegulatoryDomain>32014L0024</cbc:RegulatoryDomain>
+  <cbc:NoticeTypeCode listName="competition">cn-standard</cbc:NoticeTypeCode>
+  <cbc:NoticeLanguageCode>ENG</cbc:NoticeLanguageCode>
+  <cac:ContractingParty>
+    <cac:ContractingPartyType>
+      <cbc:PartyTypeCode listName="buyer-legal-type">body-pl</cbc:PartyTypeCode>
+    </cac:ContractingPartyType>
+    <cac:ContractingActivity>
+      <cbc:ActivityTypeCode listName="authority-activity">gen-pub</cbc:ActivityTypeCode>
+    </cac:ContractingActivity>
+    <cac:Party>
+      <cac:PartyIdentification>
+        <cbc:ID schemeName="organization">ORG-0002</cbc:ID>
+      </cac:PartyIdentification>
+      <cac:ServiceProviderParty>
+        <cbc:ServiceTypeCode listName="organisation-role">ted-esen</cbc:ServiceTypeCode>
+        <cac:Party>
+          <cac:PartyIdentification>
+            <cbc:ID schemeName="organization">ORG-0003</cbc:ID>
+          </cac:PartyIdentification>
+        </cac:Party>
+      </cac:ServiceProviderParty>
+    </cac:Party>
+  </cac:ContractingParty>
+  <cac:TenderingTerms>
+    <cac:TendererQualificationRequest>
+      <cac:SpecificTendererRequirement>
+        <cbc:TendererRequirementTypeCode listName="exclusion-ground">exg-crim-corrpt</cbc:TendererRequirementTypeCode>
+        <cbc:Description languageID="ENG">The economic operator itself or any person who is a member of its administrative, management or supervisory body or has powers of representation, decision or control therein has been the subject of a conviction by final judgment for corruption, by a conviction rendered at the most five years ago or in which an exclusion period set out directly in the conviction continues to be applicable.</cbc:Description>
+      </cac:SpecificTendererRequirement>
+      <cac:SpecificTendererRequirement>
+        <cbc:TendererRequirementTypeCode listName="exclusion-ground">exg-crim-fraud</cbc:TendererRequirementTypeCode>
+        <cbc:Description languageID="ENG">The economic operator itself or any person who is a member of its administrative, management or supervisory body or has powers of representation, decision or control therein has been the subject of a conviction by final judgment for fraud, by a conviction rendered at the most five years ago or in which an exclusion period set out directly in the conviction continues to be applicable.</cbc:Description>
+      </cac:SpecificTendererRequirement>
+      <cac:SpecificTendererRequirement>
+        <cbc:TendererRequirementTypeCode listName="exclusion-ground">exg-crim-laund</cbc:TendererRequirementTypeCode>
+        <cbc:Description languageID="ENG">The economic operator itself or any person who is a member of its administrative, management or supervisory body or has powers of representation, decision or control therein has been the subject of a conviction by final judgment for money laundering or terrorist financing, by a conviction rendered at the most five years ago or in which an exclusion period set out directly in the conviction continues to be applicable.</cbc:Description>
+      </cac:SpecificTendererRequirement>
+      <cac:SpecificTendererRequirement>
+        <cbc:TendererRequirementTypeCode listName="exclusion-ground">exg-crim-part</cbc:TendererRequirementTypeCode>
+        <cbc:Description languageID="ENG">The economic operator itself or any person who is a member of its administrative, management or supervisory body or has powers of representation, decision or control therein has been the subject of a conviction by final judgment for participation in a criminal organisation, by a conviction rendered at the most five years ago or in which an exclusion period set out directly in the conviction continues to be applicable.</cbc:Description>
+      </cac:SpecificTendererRequirement>
+      <cac:SpecificTendererRequirement>
+        <cbc:TendererRequirementTypeCode listName="exclusion-ground">exg-crim-terror</cbc:TendererRequirementTypeCode>
+        <cbc:Description languageID="ENG">The economic operator itself or any person who is a member of its administrative, management or supervisory body or has powers of representation, decision or control therein has been the subject of a conviction by final judgment for terrorist offences or offences linked to terrorist activities, by a conviction rendered at the most five years ago or in which an exclusion period set out directly in the conviction continues to be applicable.</cbc:Description>
+      </cac:SpecificTendererRequirement>
+      <cac:SpecificTendererRequirement>
+        <cbc:TendererRequirementTypeCode listName="exclusion-ground">exg-crim-traffick</cbc:TendererRequirementTypeCode>
+        <cbc:Description languageID="ENG">The economic operator itself or any person who is a member of its administrative, management or supervisory body or has powers of representation, decision or control therein has been the subject of a conviction by final judgment for child labour and other forms of trafficking in human beings, by a conviction rendered at the most five years ago or in which an exclusion period set out directly in the conviction continues to be applicable.</cbc:Description>
+      </cac:SpecificTendererRequirement>
+      <cac:SpecificTendererRequirement>
+        <cbc:TendererRequirementTypeCode listName="exclusion-ground">exg-mis-bre-env-law</cbc:TendererRequirementTypeCode>
+        <cbc:Description languageID="ENG">The economic operator has breached its obligations in the field of environmental law.</cbc:Description>
+      </cac:SpecificTendererRequirement>
+      <cac:SpecificTendererRequirement>
+        <cbc:TendererRequirementTypeCode listName="exclusion-ground">exg-mis-bre-lab-law</cbc:TendererRequirementTypeCode>
+        <cbc:Description languageID="ENG">The economic operator has breached its obligations in the field of labour law.</cbc:Description>
+      </cac:SpecificTendererRequirement>
+      <cac:SpecificTendererRequirement>
+        <cbc:TendererRequirementTypeCode listName="exclusion-ground">exg-mis-bre-soc-law</cbc:TendererRequirementTypeCode>
+        <cbc:Description languageID="ENG">The economic operator has breached its obligations in the field of social law.</cbc:Description>
+      </cac:SpecificTendererRequirement>
+      <cac:SpecificTendererRequirement>
+        <cbc:TendererRequirementTypeCode listName="exclusion-ground">exg-mis-distortion</cbc:TendererRequirementTypeCode>
+        <cbc:Description languageID="ENG">The economic operator has entered into agreements with other economic operators aimed at distorting competition.</cbc:Description>
+      </cac:SpecificTendererRequirement>
+      <cac:SpecificTendererRequirement>
+        <cbc:TendererRequirementTypeCode listName="exclusion-ground">exg-mis-misconduct</cbc:TendererRequirementTypeCode>
+        <cbc:Description languageID="ENG">The economic operator is guilty of grave professional misconduct.</cbc:Description>
+      </cac:SpecificTendererRequirement>
+      <cac:SpecificTendererRequirement>
+        <cbc:TendererRequirementTypeCode listName="exclusion-ground">exg-mis-misrepresent</cbc:TendererRequirementTypeCode>
+        <cbc:Description languageID="ENG">The economic operator can confirm that: 
+a) It has been guilty of serious misrepresentation in supplying the information required for the verification of the absence of grounds for exclusion or the fulfilment of the selection criteria, 
+b) It has withheld such information, 
+c) It has not been able, without delay, to submit the supporting documents required by a contracting authority or contracting entity, and 
+d) It has undertaken to unduly influence the decision making process of the contracting authority or contracting entity, to obtain confidential information that may confer upon it undue advantages in the procurement procedure or to negligently provide misleading information that may have a material influence on decisions concerning exclusion, selection or award.</cbc:Description>
+      </cac:SpecificTendererRequirement>
+      <cac:SpecificTendererRequirement>
+        <cbc:TendererRequirementTypeCode listName="exclusion-ground">exg-mis-partic-confl</cbc:TendererRequirementTypeCode>
+        <cbc:Description languageID="ENG">The economic operator is aware of any conflict of interest, as indicated in national law, the relevant notice or the procurement documents due to its participation in the procurement procedure.</cbc:Description>
+      </cac:SpecificTendererRequirement>
+      <cac:SpecificTendererRequirement>
+        <cbc:TendererRequirementTypeCode listName="exclusion-ground">exg-mis-prep-confl</cbc:TendererRequirementTypeCode>
+        <cbc:Description languageID="ENG">The economic operator or an undertaking related to it has advised the contracting authority or contracting entity or otherwise been involved in the preparation of the procurement procedure.</cbc:Description>
+      </cac:SpecificTendererRequirement>
+      <cac:SpecificTendererRequirement>
+        <cbc:TendererRequirementTypeCode listName="exclusion-ground">exg-mis-sanction</cbc:TendererRequirementTypeCode>
+        <cbc:Description languageID="ENG">The economic operator has experienced that a prior public contract, a prior contract with a contracting entity or a prior concession contract was terminated early, or that damages or other comparable sanctions were imposed in connection with that prior contract.</cbc:Description>
+      </cac:SpecificTendererRequirement>
+      <cac:SpecificTendererRequirement>
+        <cbc:TendererRequirementTypeCode listName="exclusion-ground">exg-natl-bre-nat-law</cbc:TendererRequirementTypeCode>
+        <cbc:Description languageID="ENG">Any person who is a member of the economic operator’s administrative, management or supervisory body or has powers of representation, decision or control therein has been the subject of a conviction by final judgment for work safety offence, working hours offence, work discrimination, extortionate work discrimination, violation of the right to organise or unauthorised use of foreign labour.</cbc:Description>
+      </cac:SpecificTendererRequirement>
+      <cac:SpecificTendererRequirement>
+        <cbc:TendererRequirementTypeCode listName="exclusion-ground">exg-pmt-bre-ssc</cbc:TendererRequirementTypeCode>
+        <cbc:Description languageID="ENG">The economic operator has breached its obligations relating to the payment social security contributions, both in the country in which it is established and in Member State of the contracting authority or contracting entity if other than the country of establishment.</cbc:Description>
+      </cac:SpecificTendererRequirement>
+      <cac:SpecificTendererRequirement>
+        <cbc:TendererRequirementTypeCode listName="exclusion-ground">exg-pmt-bre-tax</cbc:TendererRequirementTypeCode>
+        <cbc:Description languageID="ENG">The economic operator has breached its obligations relating to the payment of taxes, both in the country in which it is established and in Member State of the contracting authority or contracting entity if other than the country of establishment.</cbc:Description>
+      </cac:SpecificTendererRequirement>
+      <cac:SpecificTendererRequirement>
+        <cbc:TendererRequirementTypeCode listName="exclusion-ground">exg-sitn-as-susp</cbc:TendererRequirementTypeCode>
+        <cbc:Description languageID="ENG">The business activities of the economic operator are suspended.</cbc:Description>
+      </cac:SpecificTendererRequirement>
+      <cac:SpecificTendererRequirement>
+        <cbc:TendererRequirementTypeCode listName="exclusion-ground">exg-sitn-bankr</cbc:TendererRequirementTypeCode>
+        <cbc:Description languageID="ENG">The economic operator is bankrupt.</cbc:Description>
+      </cac:SpecificTendererRequirement>
+      <cac:SpecificTendererRequirement>
+        <cbc:TendererRequirementTypeCode listName="exclusion-ground">exg-sitn-cred-arran</cbc:TendererRequirementTypeCode>
+        <cbc:Description languageID="ENG">The economic operator is in arrangement with creditors.</cbc:Description>
+      </cac:SpecificTendererRequirement>
+      <cac:SpecificTendererRequirement>
+        <cbc:TendererRequirementTypeCode listName="exclusion-ground">exg-sitn-insolvency</cbc:TendererRequirementTypeCode>
+        <cbc:Description languageID="ENG">The economic operator is the subject of insolvency or winding-up.</cbc:Description>
+      </cac:SpecificTendererRequirement>
+      <cac:SpecificTendererRequirement>
+        <cbc:TendererRequirementTypeCode listName="exclusion-ground">exg-sitn-liq-admin</cbc:TendererRequirementTypeCode>
+        <cbc:Description languageID="ENG">The assets of the economic operator are being administered by a liquidator or by the court.</cbc:Description>
+      </cac:SpecificTendererRequirement>
+      <cac:SpecificTendererRequirement>
+        <cbc:TendererRequirementTypeCode listName="exclusion-ground">exg-sitn-other</cbc:TendererRequirementTypeCode>
+        <cbc:Description languageID="ENG">The economic operator is in any analogous situation like bankruptcy arising from a similar procedure under national laws and regulations.</cbc:Description>
+      </cac:SpecificTendererRequirement>
+    </cac:TendererQualificationRequest>
+    <cac:TendererQualificationRequest>
+      <cac:SpecificTendererRequirement>
+        <cbc:TendererRequirementTypeCode listName="exclusion-grounds-source">epo-procurement-document</cbc:TendererRequirementTypeCode>
+      </cac:SpecificTendererRequirement>
+      <cac:SpecificTendererRequirement>
+        <cbc:TendererRequirementTypeCode listName="exclusion-grounds-source">epo-notice</cbc:TendererRequirementTypeCode>
+      </cac:SpecificTendererRequirement>
+      <cac:SpecificTendererRequirement>
+        <cbc:TendererRequirementTypeCode listName="exclusion-grounds-source">epo-sub-espd</cbc:TendererRequirementTypeCode>
+      </cac:SpecificTendererRequirement>
+    </cac:TendererQualificationRequest>
+  </cac:TenderingTerms>
+  <cac:TenderingProcess>
+    <cbc:ProcedureCode listName="procurement-procedure-type">open</cbc:ProcedureCode>
+    <cac:ProcessJustification>
+      <cbc:ProcessReasonCode listName="accelerated-procedure">false</cbc:ProcessReasonCode>
+    </cac:ProcessJustification>
+  </cac:TenderingProcess>
+  <cac:ProcurementProject>
+    <cbc:ID>610535</cbc:ID>
+    <cbc:Name languageID="ENG">Digital exhibition design, software development and production for the reopening exhibition for the National Museum of Finland.</cbc:Name>
+    <cbc:Description languageID="ENG">The Finnish Heritage Agency, the Exhibitions and Events department of the National Museum of Finland (hereinafter the “Procurement unit”) invites suppliers to submit tenders for media design and production (hereinafter the “Service”) in this call for tenders and its attached annexes. The Service consists of programming, project management and technical delivery of an artificial iIntelligence System in the form of an interactive media software which will be used according to attached plans. The entire deliverable procurement is referred to in hereinafter as the "System".  
+
+The National Museum of Finland will conduct the procurement through an open tendering procedure. The aim is for production to begin immediately after the selection of the supplier in approximately September 2026, and for delivery to the Procurement Unit to be completed no later than January 2027. 
+
+The procurement documents are available in English.
+
+The Procurement unit requests a tender for:
+
+1. Exhibition Media, AV and Interactive Elements including:
+
+- Lobby Screen
+- Intro to the Universe (projection)
+
+- Chatty objects - 9 interactive conversational artificial intelligence stations:
+- Chatty Objects Birds
+- Chatty Object Scarab
+- Chatty Object Meteorite
+- Chatty Object Shiva
+- Chatty Object Canoe
+- Chatty Object Turtle Seats
+- Chatty Object Raven Mask
+- Chatty Object Chilkat Blanket
+- Chatty Object Bad Luck Bird
+
+- Chatty Object Scarab - Projection (Hybrid element)
+- Agnicayana film projection solution
+
+-Exhibition wide - soundscapes including:
+
+- Anvil &amp; hammer
+- Chatty Objects Birds - Audio
+- Egg 
+- Chatty Object Meteorite - (hybrid element)
+- Chatty Object Canoe - (hybrid element)
+- Chatty Object Raven Mask - (hybrid element)
+- World tree 
+- Conch 
+
+- Universe - Overhead Screen
+- Universe - Chatty Universe 
+
+The following items are not included within this tender:
+
+- Film content for the Agnicayana film projection
+- Recording of poem for the Egg Soundscape
+
+2. Software, Services and Project Management including:
+
+- Software development and testing
+- Software installation and configuration
+- Technical and user documentation
+- Support and on-call services during the exhibtion run
+- Training for the client's staff in the operation of the delivered systems
+- Project management covering the entire Procurement
+
+3. Documentation set:
+
+- Technical documentation (architecture, APIs, content formats, deployment instructions).
+- Operational documentation for daily use by exhibition staff.
+- Maintenance instructions, including restart procedures and troubleshooting steps.
+- Documentation required under the attached Annex 3 "03_Data and privacy requirements annex".
+- The tenderer shall provide sufficient documentation to enable re-installation and re-use of the System by the Procurement unit without dependency on the tenderer if the Procurement unit wants to use the System in the future after the exhibition.
+
+
+4. Installation &amp; on site deployment
+
+The tenderer shall:
+- Install all required system software components on site in coordination with the AV integrator contractor (procured separately) and the Procurement unit's team. 
+- Integrate "The Universe" content into existing overhead LED screen and newly purchased hardware.
+- Conduct full system testing.
+
+5. Training for museum staff
+The tenderer shall:
+
+- Provide training sessions for Procurement unit's staff on System operation, daily use and safety as applicable and needed for the procurement.
+- Provide training materials (slides, troubleshooting guides, quickstart sheets).
+
+6. Final handover package
+
+The tenderer shall provide:
+
+- Final approved versions of all media assets.
+- Backup copies of the System and its configurations.
+- A complete inventory of all delivered software. 
+- End of project report summarizing methods, design decisions, and technical notes.
+
+
+The procurements requirements are explained in more detail further on in this call for tenders and its attached annexes.
+
+The estimated value of the procurement is according to the Procurement unit 400 000 - 550 000 EUR (VAT 0%). 
+
+Some of the attached annexes in the call for tenders contains confidential information. The documents are available upon request via email to hankinnat@museovirasto.fi. The tenderer shall in its request to receive the documents ensure, that it keeps the information received from the Procurement unit only to itself and uses that information for its tender according to this procurement process. The information is considered confidential even after the procurement process has ended.</cbc:Description>
+    <cbc:ProcurementTypeCode listName="contract-nature">services</cbc:ProcurementTypeCode>
+    <cac:MainCommodityClassification>
+      <cbc:ItemClassificationCode listName="cpv">72000000</cbc:ItemClassificationCode>
+    </cac:MainCommodityClassification>
+    <cac:AdditionalCommodityClassification>
+      <cbc:ItemClassificationCode listName="cpv">72200000</cbc:ItemClassificationCode>
+    </cac:AdditionalCommodityClassification>
+    <cac:AdditionalCommodityClassification>
+      <cbc:ItemClassificationCode listName="cpv">72212100</cbc:ItemClassificationCode>
+    </cac:AdditionalCommodityClassification>
+    <cac:AdditionalCommodityClassification>
+      <cbc:ItemClassificationCode listName="cpv">72222200</cbc:ItemClassificationCode>
+    </cac:AdditionalCommodityClassification>
+    <cac:AdditionalCommodityClassification>
+      <cbc:ItemClassificationCode listName="cpv">72224100</cbc:ItemClassificationCode>
+    </cac:AdditionalCommodityClassification>
+    <cac:AdditionalCommodityClassification>
+      <cbc:ItemClassificationCode listName="cpv">73300000</cbc:ItemClassificationCode>
+    </cac:AdditionalCommodityClassification>
+    <cac:AdditionalCommodityClassification>
+      <cbc:ItemClassificationCode listName="cpv">92521100</cbc:ItemClassificationCode>
+    </cac:AdditionalCommodityClassification>
+    <cac:RealizedLocation>
+      <cac:Address>
+        <cbc:StreetName>National museum of Finland, Mannerheimintie 34, 00100, Helsinki</cbc:StreetName>
+        <cbc:CityName>Helsinki</cbc:CityName>
+        <cbc:PostalZone>00100</cbc:PostalZone>
+        <cbc:CountrySubentityCode listName="nuts">FI1B1</cbc:CountrySubentityCode>
+        <cac:Country>
+          <cbc:IdentificationCode listName="country">FIN</cbc:IdentificationCode>
+        </cac:Country>
+      </cac:Address>
+    </cac:RealizedLocation>
+    <cac:RealizedLocation>
+      <cac:Address>
+        <cbc:StreetName>Finnish heritage agency, PL 913, 00101 Helsinki</cbc:StreetName>
+        <cbc:CityName>Helsinki</cbc:CityName>
+        <cbc:PostalZone>00101</cbc:PostalZone>
+        <cbc:CountrySubentityCode listName="nuts">FI1B1</cbc:CountrySubentityCode>
+        <cac:Country>
+          <cbc:IdentificationCode listName="country">FIN</cbc:IdentificationCode>
+        </cac:Country>
+      </cac:Address>
+    </cac:RealizedLocation>
+  </cac:ProcurementProject>
+  <cac:ProcurementProjectLot>
+    <cbc:ID schemeName="Lot">LOT-0000</cbc:ID>
+    <cac:TenderingTerms>
+      <ext:UBLExtensions>
+        <ext:UBLExtension>
+          <ext:ExtensionContent>
+            <efext:EformsExtension>
+              <efac:SelectionCriteria>
+                <cbc:TendererRequirementTypeCode listName="selection-criterion">slc-abil-ref-supply</cbc:TendererRequirementTypeCode>
+                <cbc:Description languageID="ENG">Description (English): The tenderer assures it has experience in delivering at least 
+two (2) generative media systems. 
+References must have been done within the last five (5) 
+years, counting from the deadline for submitting tenders.</cbc:Description>
+              </efac:SelectionCriteria>
+              <efac:SelectionCriteria>
+                <cbc:TendererRequirementTypeCode listName="selection-criterion">slc-stand-to-avg</cbc:TendererRequirementTypeCode>
+                <cbc:Description languageID="ENG">Description (English): Tenderers turnover for each of the two (2) most recent fiscal years must exceed 1 000 000 euros.</cbc:Description>
+              </efac:SelectionCriteria>
+            </efext:EformsExtension>
+          </ext:ExtensionContent>
+        </ext:UBLExtension>
+      </ext:UBLExtensions>
+      <cbc:FundingProgramCode listName="eu-funded">no-eu-funds</cbc:FundingProgramCode>
+      <cbc:MultipleTendersCode listName="permission">not-allowed</cbc:MultipleTendersCode>
+      <cac:CallForTendersDocumentReference>
+        <cbc:ID>Link to procurement documents</cbc:ID>
+        <cbc:DocumentType>non-restricted-document</cbc:DocumentType>
+        <cac:Attachment>
+          <cac:ExternalReference>
+            <cbc:URI>https://tarjouspalvelu.fi/museovirasto?id=610535&amp;tpk=f6f2964d-2e09-48f0-841d-2c542bf854d2</cbc:URI>
+          </cac:ExternalReference>
+        </cac:Attachment>
+      </cac:CallForTendersDocumentReference>
+      <cac:TendererQualificationRequest>
+        <cac:SpecificTendererRequirement>
+          <cbc:TendererRequirementTypeCode listName="reserved-procurement">none</cbc:TendererRequirementTypeCode>
+        </cac:SpecificTendererRequirement>
+      </cac:TendererQualificationRequest>
+      <cac:TendererQualificationRequest>
+        <cac:SpecificTendererRequirement>
+          <cbc:TendererRequirementTypeCode listName="selection-criteria-source">epo-procurement-document</cbc:TendererRequirementTypeCode>
+        </cac:SpecificTendererRequirement>
+        <cac:SpecificTendererRequirement>
+          <cbc:TendererRequirementTypeCode listName="selection-criteria-source">epo-notice</cbc:TendererRequirementTypeCode>
+        </cac:SpecificTendererRequirement>
+        <cac:SpecificTendererRequirement>
+          <cbc:TendererRequirementTypeCode listName="selection-criteria-source">epo-sub-espd</cbc:TendererRequirementTypeCode>
+        </cac:SpecificTendererRequirement>
+      </cac:TendererQualificationRequest>
+      <cac:ContractExecutionRequirement>
+        <cbc:ExecutionRequirementCode listName="einvoicing">required</cbc:ExecutionRequirementCode>
+      </cac:ContractExecutionRequirement>
+      <cac:ContractExecutionRequirement>
+        <cbc:ExecutionRequirementCode listName="reserved-execution">no</cbc:ExecutionRequirementCode>
+      </cac:ContractExecutionRequirement>
+      <cac:ContractExecutionRequirement>
+        <cbc:ExecutionRequirementCode listName="ecatalog-submission">not-allowed</cbc:ExecutionRequirementCode>
+      </cac:ContractExecutionRequirement>
+      <cac:AwardingTerms>
+        <cac:AwardingCriterion>
+          <cac:SubordinateAwardingCriterion>
+            <ext:UBLExtensions>
+              <ext:UBLExtension>
+                <ext:ExtensionContent>
+                  <efext:EformsExtension>
+                    <efac:AwardCriterionParameter>
+                      <efbc:ParameterCode listName="number-fixed">fix-tot</efbc:ParameterCode>
+                      <efbc:ParameterNumeric>12345678</efbc:ParameterNumeric>
+                    </efac:AwardCriterionParameter>
+                  </efext:EformsExtension>
+                </ext:ExtensionContent>
+              </ext:UBLExtension>
+            </ext:UBLExtensions>
+            <cbc:AwardingCriterionTypeCode listName="award-criterion-type">price</cbc:AwardingCriterionTypeCode>
+            <cbc:Name languageID="ENG">Halvin hinta</cbc:Name>
+            <cbc:Description languageID="ENG">Halvimman kokonaishinnan saanut tarjoaja saa 
+hinnan osalta täydet pisteet. Muiden tarjousten pisteet määräytyvät tarjotun 
+hinnan suhteessa halvimpaan tarjoukseen kaavalla: halvin hinta / tarjottu hinta * 
+hinnan kokonaispisteet.</cbc:Description>
+          </cac:SubordinateAwardingCriterion>
+          <cac:SubordinateAwardingCriterion>
+            <ext:UBLExtensions>
+              <ext:UBLExtension>
+                <ext:ExtensionContent>
+                  <efext:EformsExtension>
+                    <efac:AwardCriterionParameter>
+                      <efbc:ParameterCode listName="number-fixed">fix-tot</efbc:ParameterCode>
+                      <efbc:ParameterNumeric>12345678</efbc:ParameterNumeric>
+                    </efac:AwardCriterionParameter>
+                  </efext:EformsExtension>
+                </ext:ExtensionContent>
+              </ext:UBLExtension>
+            </ext:UBLExtensions>
+            <cbc:AwardingCriterionTypeCode listName="award-criterion-type">quality</cbc:AwardingCriterionTypeCode>
+            <cbc:Name languageID="ENG">Laatuvaatimukset</cbc:Name>
+            <cbc:Description languageID="ENG">Laatuvaatimuksista tarjoajat saavat pisteitä. Laadulliset tekijät pisteytetään kohdassa "Quality Requirements".</cbc:Description>
+          </cac:SubordinateAwardingCriterion>
+        </cac:AwardingCriterion>
+      </cac:AwardingTerms>
+      <cac:TenderRecipientParty>
+        <cbc:EndpointID>https://tarjouspalvelu.fi/museovirasto?id=610535&amp;tpk=f6f2964d-2e09-48f0-841d-2c542bf854d2</cbc:EndpointID>
+      </cac:TenderRecipientParty>
+      <cac:TenderValidityPeriod>
+        <cbc:DurationMeasure unitCode="MONTH">3</cbc:DurationMeasure>
+      </cac:TenderValidityPeriod>
+      <cac:AppealTerms>
+        <cac:PresentationPeriod>
+          <cbc:Description languageID="ENG">Suomeksi:
+
+Hankintapäätöksestä on oikeus tehdä valitus Markkinaoikeuteen. Valitus on tehtävä 
+kirjallisesti 14 päivän kuluessa siitä, kun asianosainenon saanut tiedon hankintaa 
+koskevasta päätöksestä valitusosoituksineen. Tiedoksisaantipäivää ei lasketa 
+mukaan valitusaikaan.</cbc:Description>
+        </cac:PresentationPeriod>
+        <cac:AppealInformationParty>
+          <cac:PartyIdentification>
+            <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+          </cac:PartyIdentification>
+        </cac:AppealInformationParty>
+        <cac:AppealReceiverParty>
+          <cac:PartyIdentification>
+            <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+          </cac:PartyIdentification>
+        </cac:AppealReceiverParty>
+        <cac:MediationParty>
+          <cac:PartyIdentification>
+            <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+          </cac:PartyIdentification>
+        </cac:MediationParty>
+      </cac:AppealTerms>
+      <cac:Language>
+        <cbc:ID>ENG</cbc:ID>
+      </cac:Language>
+      <cac:PostAwardProcess>
+        <cbc:ElectronicOrderUsageIndicator>true</cbc:ElectronicOrderUsageIndicator>
+        <cbc:ElectronicPaymentUsageIndicator>true</cbc:ElectronicPaymentUsageIndicator>
+      </cac:PostAwardProcess>
+    </cac:TenderingTerms>
+    <cac:TenderingProcess>
+      <cbc:SubmissionMethodCode listName="esubmission">required</cbc:SubmissionMethodCode>
+      <cbc:GovernmentAgreementConstraintIndicator>true</cbc:GovernmentAgreementConstraintIndicator>
+      <cac:TenderSubmissionDeadlinePeriod>
+        <cbc:EndDate>2026-09-02+00:00</cbc:EndDate>
+        <cbc:EndTime>09:00:00+00:00</cbc:EndTime>
+      </cac:TenderSubmissionDeadlinePeriod>
+      <cac:AdditionalInformationRequestPeriod>
+        <cbc:EndDate>2026-08-20+00:00</cbc:EndDate>
+        <cbc:EndTime>13:00:00+00:00</cbc:EndTime>
+      </cac:AdditionalInformationRequestPeriod>
+      <cac:OpenTenderEvent>
+        <cbc:OccurrenceDate>2026-09-02+00:00</cbc:OccurrenceDate>
+        <cbc:OccurrenceTime>09:05:00+00:00</cbc:OccurrenceTime>
+      </cac:OpenTenderEvent>
+      <cac:AuctionTerms>
+        <cbc:AuctionConstraintIndicator>false</cbc:AuctionConstraintIndicator>
+      </cac:AuctionTerms>
+      <cac:ContractingSystem>
+        <cbc:ContractingSystemTypeCode listName="dps-usage">none</cbc:ContractingSystemTypeCode>
+      </cac:ContractingSystem>
+      <cac:ContractingSystem>
+        <cbc:ContractingSystemTypeCode listName="framework-agreement">none</cbc:ContractingSystemTypeCode>
+      </cac:ContractingSystem>
+    </cac:TenderingProcess>
+    <cac:ProcurementProject>
+      <cbc:ID>610535</cbc:ID>
+      <cbc:Name languageID="ENG">Digital exhibition design, software development and production for the reopening exhibition for the National Museum of Finland.</cbc:Name>
+      <cbc:Description languageID="ENG">The Finnish Heritage Agency, the Exhibitions and Events department of the National Museum of Finland (hereinafter the “Procurement unit”) invites suppliers to submit tenders for media design and production (hereinafter the “Service”) in this call for tenders and its attached annexes. The Service consists of programming, project management and technical delivery of an artificial iIntelligence System in the form of an interactive media software which will be used according to attached plans. The entire deliverable procurement is referred to in hereinafter as the "System".  
+
+The National Museum of Finland will conduct the procurement through an open tendering procedure. The aim is for production to begin immediately after the selection of the supplier in approximately September 2026, and for delivery to the Procurement Unit to be completed no later than January 2027. 
+
+The procurement documents are available in English.
+
+The Procurement unit requests a tender for:
+
+1. Exhibition Media, AV and Interactive Elements including:
+
+- Lobby Screen
+- Intro to the Universe (projection)
+
+- Chatty objects - 9 interactive conversational artificial intelligence stations:
+- Chatty Objects Birds
+- Chatty Object Scarab
+- Chatty Object Meteorite
+- Chatty Object Shiva
+- Chatty Object Canoe
+- Chatty Object Turtle Seats
+- Chatty Object Raven Mask
+- Chatty Object Chilkat Blanket
+- Chatty Object Bad Luck Bird
+
+- Chatty Object Scarab - Projection (Hybrid element)
+- Agnicayana film projection solution
+
+-Exhibition wide - soundscapes including:
+
+- Anvil &amp; hammer
+- Chatty Objects Birds - Audio
+- Egg 
+- Chatty Object Meteorite - (hybrid element)
+- Chatty Object Canoe - (hybrid element)
+- Chatty Object Raven Mask - (hybrid element)
+- World tree 
+- Conch 
+
+- Universe - Overhead Screen
+- Universe - Chatty Universe 
+
+The following items are not included within this tender:
+
+- Film content for the Agnicayana film projection
+- Recording of poem for the Egg Soundscape
+
+2. Software, Services and Project Management including:
+
+- Software development and testing
+- Software installation and configuration
+- Technical and user documentation
+- Support and on-call services during the exhibtion run
+- Training for the client's staff in the operation of the delivered systems
+- Project management covering the entire Procurement
+
+3. Documentation set:
+
+- Technical documentation (architecture, APIs, content formats, deployment instructions).
+- Operational documentation for daily use by exhibition staff.
+- Maintenance instructions, including restart procedures and troubleshooting steps.
+- Documentation required under the attached Annex 3 "03_Data and privacy requirements annex".
+- The tenderer shall provide sufficient documentation to enable re-installation and re-use of the System by the Procurement unit without dependency on the tenderer if the Procurement unit wants to use the System in the future after the exhibition.
+
+
+4. Installation &amp; on site deployment
+
+The tenderer shall:
+- Install all required system software components on site in coordination with the AV integrator contractor (procured separately) and the Procurement unit's team. 
+- Integrate "The Universe" content into existing overhead LED screen and newly purchased hardware.
+- Conduct full system testing.
+
+5. Training for museum staff
+The tenderer shall:
+
+- Provide training sessions for Procurement unit's staff on System operation, daily use and safety as applicable and needed for the procurement.
+- Provide training materials (slides, troubleshooting guides, quickstart sheets).
+
+6. Final handover package
+
+The tenderer shall provide:
+
+- Final approved versions of all media assets.
+- Backup copies of the System and its configurations.
+- A complete inventory of all delivered software. 
+- End of project report summarizing methods, design decisions, and technical notes.
+
+
+The procurements requirements are explained in more detail further on in this call for tenders and its attached annexes.
+
+The estimated value of the procurement is according to the Procurement unit 400 000 - 550 000 EUR (VAT 0%). 
+
+Some of the attached annexes in the call for tenders contains confidential information. The documents are available upon request via email to hankinnat@museovirasto.fi. The tenderer shall in its request to receive the documents ensure, that it keeps the information received from the Procurement unit only to itself and uses that information for its tender according to this procurement process. The information is considered confidential even after the procurement process has ended.</cbc:Description>
+      <cbc:ProcurementTypeCode listName="contract-nature">services</cbc:ProcurementTypeCode>
+      <cbc:SMESuitableIndicator>false</cbc:SMESuitableIndicator>
+      <cac:ProcurementAdditionalType>
+        <cbc:ProcurementTypeCode listName="innovative-acquisition">mar-nov</cbc:ProcurementTypeCode>
+      </cac:ProcurementAdditionalType>
+      <cac:MainCommodityClassification>
+        <cbc:ItemClassificationCode listName="cpv">72000000</cbc:ItemClassificationCode>
+      </cac:MainCommodityClassification>
+      <cac:AdditionalCommodityClassification>
+        <cbc:ItemClassificationCode listName="cpv">72200000</cbc:ItemClassificationCode>
+      </cac:AdditionalCommodityClassification>
+      <cac:AdditionalCommodityClassification>
+        <cbc:ItemClassificationCode listName="cpv">72212100</cbc:ItemClassificationCode>
+      </cac:AdditionalCommodityClassification>
+      <cac:AdditionalCommodityClassification>
+        <cbc:ItemClassificationCode listName="cpv">72222200</cbc:ItemClassificationCode>
+      </cac:AdditionalCommodityClassification>
+      <cac:AdditionalCommodityClassification>
+        <cbc:ItemClassificationCode listName="cpv">72224100</cbc:ItemClassificationCode>
+      </cac:AdditionalCommodityClassification>
+      <cac:AdditionalCommodityClassification>
+        <cbc:ItemClassificationCode listName="cpv">73300000</cbc:ItemClassificationCode>
+      </cac:AdditionalCommodityClassification>
+      <cac:AdditionalCommodityClassification>
+        <cbc:ItemClassificationCode listName="cpv">92521100</cbc:ItemClassificationCode>
+      </cac:AdditionalCommodityClassification>
+      <cac:RealizedLocation>
+        <cac:Address>
+          <cbc:StreetName>National museum of Finland, Mannerheimintie 34, 00100, Helsinki</cbc:StreetName>
+          <cbc:CityName>Helsinki</cbc:CityName>
+          <cbc:PostalZone>00100</cbc:PostalZone>
+          <cbc:CountrySubentityCode listName="nuts">FI1B1</cbc:CountrySubentityCode>
+          <cac:Country>
+            <cbc:IdentificationCode listName="country">FIN</cbc:IdentificationCode>
+          </cac:Country>
+        </cac:Address>
+      </cac:RealizedLocation>
+      <cac:RealizedLocation>
+        <cac:Address>
+          <cbc:StreetName>Finnish heritage agency, PL 913, 00101 Helsinki</cbc:StreetName>
+          <cbc:CityName>Helsinki</cbc:CityName>
+          <cbc:PostalZone>00101</cbc:PostalZone>
+          <cbc:CountrySubentityCode listName="nuts">FI1B1</cbc:CountrySubentityCode>
+          <cac:Country>
+            <cbc:IdentificationCode listName="country">FIN</cbc:IdentificationCode>
+          </cac:Country>
+        </cac:Address>
+      </cac:RealizedLocation>
+      <cac:PlannedPeriod>
+        <cbc:DescriptionCode listName="Duration">UNKNOWN</cbc:DescriptionCode>
+      </cac:PlannedPeriod>
+    </cac:ProcurementProject>
+  </cac:ProcurementProjectLot>
+</ContractNotice>

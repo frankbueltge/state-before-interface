@@ -1,0 +1,125 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>state before interface — an autonomous observatory of public AI procurement</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+<h1>STATE BEFORE THE INTERFACE</h1>
+<p class="sub">An autonomous observatory of public AI procurement in Europe.
+Working state V0 · observations as of <strong>2026-08-07</strong></p>
+<p class="question">One machine runs the chain
+<code>signal → candidate → investigation → evidence → verification → form →
+public result</code> on its own. Autonomy is the research object: every step is
+attributed, every intervention logged. Most candidates are expected to die —
+a published <em>false alarm</em> is a successful outcome, not a failure.</p>
+</header>
+<main>
+<section>
+<h2>Observed so far</h2>
+<ul class="stats">
+<li><strong>7</strong> notices preserved</li>
+<li><strong>7</strong> signals</li>
+<li><strong>0</strong> candidates opened</li>
+<li><strong>7</strong> candidates declined</li>
+<li><strong>0</strong> cases</li>
+</ul>
+</section>
+<section>
+<h2>The envelope</h2>
+<p>The sentinel queries the TED Search API nightly for these exact phrases
+(envelope v1, every change is a committed
+revision with a reason):</p>
+<ul class="phrases"><li><code>artificial intelligence</code> <span class=lang>(eng)</span></li><li><code>Künstliche Intelligenz</code> <span class=lang>(deu)</span></li><li><code>intelligence artificielle</code> <span class=lang>(fra)</span></li></ul>
+<details><summary>Why no CPV filter?</summary>
+<p>V1 keeps the envelope to three exact phrases whose yield was measured on 2026-08-08 (EN ~200-250/yr, DE ~107/yr for DEU buyers, FR unmeasured but structurally expected). No CPV filter: no AI-specific CPV code exists, and filtering by CPV would presuppose the very classification gap this observatory measures. Bycatch is expected and is handled by the gate, not the envelope. Every change to this file is a commit with a reason.</p></details>
+</section>
+<section>
+<h2>Runs</h2>
+<div class="scroll"><table>
+<thead><tr><th>night</th><th>new</th><th>rechecked</th><th>signals</th>
+<th>opened</th><th>declined</th><th>outages</th></tr></thead>
+<tbody><tr><td>2026-08-07</td><td>7</td><td>0</td><td>7</td><td>0</td><td>7</td><td>0</td></tr></tbody>
+</table></div>
+<p class="note">A night without signal is the normal case and is committed as
+exactly that. Source outages are recorded, never bridged.</p>
+</section>
+<section>
+<h2>Candidates</h2>
+<p>Every signal faces six criteria; each verdict is committed with
+per-criterion reasons. Declined candidates stay on record.</p>
+
+<article class="candidate declined">
+<h3><a href="https://github.com/frankbueltge/state-before-interface/blob/main/candidates/c-20260807-07.json">c-20260807-07</a>
+<span class="badge declined">DECLINED</span>
+<span class="type">NEW_MATCH</span></h3>
+<p>notice 549482-2026 entered the envelope (phrases: artificial intelligence)</p>
+<p class="reasons">no marker of a sensitive administrative domain (employment, welfare, policing, migration, health, education, justice, taxation) · no machine-testable proposition can be formed yet · a single first-seen notice is equally visible to any human reader of the journal</p>
+<p class="notices">record(s): <a href="https://github.com/frankbueltge/state-before-interface/blob/main/snapshots/2026-08-07/notices/549482-2026.xml">549482-2026</a></p>
+</article>
+<article class="candidate declined">
+<h3><a href="https://github.com/frankbueltge/state-before-interface/blob/main/candidates/c-20260807-06.json">c-20260807-06</a>
+<span class="badge declined">DECLINED</span>
+<span class="type">NEW_MATCH</span></h3>
+<p>notice 548393-2026 entered the envelope (phrases: Künstliche Intelligenz, artificial intelligence)</p>
+<p class="reasons">no marker of a sensitive administrative domain (employment, welfare, policing, migration, health, education, justice, taxation) · no machine-testable proposition can be formed yet · a single first-seen notice is equally visible to any human reader of the journal</p>
+<p class="notices">record(s): <a href="https://github.com/frankbueltge/state-before-interface/blob/main/snapshots/2026-08-07/notices/548393-2026.xml">548393-2026</a></p>
+</article>
+<article class="candidate declined">
+<h3><a href="https://github.com/frankbueltge/state-before-interface/blob/main/candidates/c-20260807-05.json">c-20260807-05</a>
+<span class="badge declined">DECLINED</span>
+<span class="type">NEW_MATCH</span></h3>
+<p>notice 547440-2026 entered the envelope (phrases: intelligence artificielle)</p>
+<p class="reasons">no marker of a sensitive administrative domain (employment, welfare, policing, migration, health, education, justice, taxation) · no machine-testable proposition can be formed yet · a single first-seen notice is equally visible to any human reader of the journal</p>
+<p class="notices">record(s): <a href="https://github.com/frankbueltge/state-before-interface/blob/main/snapshots/2026-08-07/notices/547440-2026.xml">547440-2026</a></p>
+</article>
+<article class="candidate declined">
+<h3><a href="https://github.com/frankbueltge/state-before-interface/blob/main/candidates/c-20260807-04.json">c-20260807-04</a>
+<span class="badge declined">DECLINED</span>
+<span class="type">NEW_MATCH</span></h3>
+<p>notice 545074-2026 entered the envelope (phrases: artificial intelligence)</p>
+<p class="reasons">no marker of a sensitive administrative domain (employment, welfare, policing, migration, health, education, justice, taxation) · no machine-testable proposition can be formed yet · a single first-seen notice is equally visible to any human reader of the journal</p>
+<p class="notices">record(s): <a href="https://github.com/frankbueltge/state-before-interface/blob/main/snapshots/2026-08-07/notices/545074-2026.xml">545074-2026</a></p>
+</article>
+<article class="candidate declined">
+<h3><a href="https://github.com/frankbueltge/state-before-interface/blob/main/candidates/c-20260807-03.json">c-20260807-03</a>
+<span class="badge declined">DECLINED</span>
+<span class="type">NEW_MATCH</span></h3>
+<p>notice 543753-2026 entered the envelope (phrases: artificial intelligence)</p>
+<p class="reasons">no marker of a sensitive administrative domain (employment, welfare, policing, migration, health, education, justice, taxation) · no machine-testable proposition can be formed yet · a single first-seen notice is equally visible to any human reader of the journal</p>
+<p class="notices">record(s): <a href="https://github.com/frankbueltge/state-before-interface/blob/main/snapshots/2026-08-07/notices/543753-2026.xml">543753-2026</a></p>
+</article>
+<article class="candidate declined">
+<h3><a href="https://github.com/frankbueltge/state-before-interface/blob/main/candidates/c-20260807-02.json">c-20260807-02</a>
+<span class="badge declined">DECLINED</span>
+<span class="type">NEW_MATCH</span></h3>
+<p>notice 538787-2026 entered the envelope (phrases: artificial intelligence, intelligence artificielle)</p>
+<p class="reasons">no marker of a sensitive administrative domain (employment, welfare, policing, migration, health, education, justice, taxation) · no machine-testable proposition can be formed yet · a single first-seen notice is equally visible to any human reader of the journal</p>
+<p class="notices">record(s): <a href="https://github.com/frankbueltge/state-before-interface/blob/main/snapshots/2026-08-07/notices/538787-2026.xml">538787-2026</a></p>
+</article>
+<article class="candidate declined">
+<h3><a href="https://github.com/frankbueltge/state-before-interface/blob/main/candidates/c-20260807-01.json">c-20260807-01</a>
+<span class="badge declined">DECLINED</span>
+<span class="type">NEW_MATCH</span></h3>
+<p>notice 537409-2026 entered the envelope (phrases: artificial intelligence)</p>
+<p class="reasons">no marker of a sensitive administrative domain (employment, welfare, policing, migration, health, education, justice, taxation) · no machine-testable proposition can be formed yet · a single first-seen notice is equally visible to any human reader of the journal</p>
+<p class="notices">record(s): <a href="https://github.com/frankbueltge/state-before-interface/blob/main/snapshots/2026-08-07/notices/537409-2026.xml">537409-2026</a></p>
+</article>
+</section>
+</main>
+<footer>
+<p>Every figure on this page is derived from committed records; the page is
+rebuilt deterministically from the repository and from nothing else. Verify the
+chain yourself: <code>python verify.py --repo-root .</code> in <a href="https://github.com/frankbueltge/state-before-interface">the repository</a>.
+Preserved notices remain documents of the Publications Office of the European
+Union (freely reusable); retrieval time and SHA-256 are kept with every copy.
+Derived data: CC0. Texts: CC BY 4.0. Code: Apache-2.0.</p>
+<p>No natural persons: derived data carries organization-level fields only.
+Nothing sends itself: any outbound letter would be prepared as a draft and
+dispatched only by a human hand.</p>
+</footer>
+</body>
+</html>

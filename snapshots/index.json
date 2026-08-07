@@ -1,0 +1,436 @@
+{
+  "emitted": [
+    "NEW_MATCH:537409-2026",
+    "NEW_MATCH:538787-2026",
+    "NEW_MATCH:543753-2026",
+    "NEW_MATCH:545074-2026",
+    "NEW_MATCH:547440-2026",
+    "NEW_MATCH:548393-2026",
+    "NEW_MATCH:549482-2026"
+  ],
+  "notices": {
+    "537409-2026": {
+      "buyer_countries": [
+        "FIN"
+      ],
+      "buyer_names": [
+        "Finnish Heritage Agency / Museovirasto"
+      ],
+      "cpv": [
+        "72000000",
+        "72200000",
+        "72212100",
+        "72222200",
+        "72224100",
+        "73300000",
+        "92521100"
+      ],
+      "first_seen": "2026-08-07",
+      "gone": false,
+      "last_checked": "2026-08-07",
+      "notice_type": "cn-standard",
+      "phrases": [
+        "artificial intelligence"
+      ],
+      "publication_date": "2026-08-04",
+      "title": "Finland – IT services: consulting, software development, Internet and support – Digital exhibition design, software development and production for the reopening exhibition for the National Museum of Finland.",
+      "titles": [
+        "An Fhionlainn – IT services: consulting, software development, Internet and support – Digital exhibition design, software development and production for the reopening exhibition for the National Museum of Finland.",
+        "Finland – IT services: consulting, software development, Internet and support – Digital exhibition design, software development and production for the reopening exhibition for the National Museum of Finland.",
+        "Finland – IT-diensten: adviezen, softwareontwikkeling, internet en ondersteuning – Digital exhibition design, software development and production for the reopening exhibition for the National Museum of Finland.",
+        "Finland – IT-tjänster: konsultverksamhet, programvaruutveckling, Internet och stöd – Digital exhibition design, software development and production for the reopening exhibition for the National Museum of Finland.",
+        "Finland – It-tjenester: rådgivning, programmeludvikling, internet og support – Digital exhibition design, software development and production for the reopening exhibition for the National Museum of Finland.",
+        "Finlanda – Servicii IT: consultanţă, dezvoltare de software, internet şi asistenţă – Digital exhibition design, software development and production for the reopening exhibition for the National Museum of Finland.",
+        "Finlande – Services de technologies de l'information, conseil, développement de logiciels, internet et appui – Digital exhibition design, software development and production for the reopening exhibition for the National Museum of Finland.",
+        "Finlandia – Servicios TI: consultoría, desarrollo de software, Internet y apoyo – Digital exhibition design, software development and production for the reopening exhibition for the National Museum of Finland.",
+        "Finlandia – Servizi informatici: consulenza, sviluppo di software, Internet e supporto – Digital exhibition design, software development and production for the reopening exhibition for the National Museum of Finland.",
+        "Finlandia – Usługi informatyczne: konsultacyjne, opracowywania oprogramowania, internetowe i wsparcia – Digital exhibition design, software development and production for the reopening exhibition for the National Museum of Finland.",
+        "Finlândia – Serviços de TI: consultoria, desenvolvimento de software, Internet e apoio – Digital exhibition design, software development and production for the reopening exhibition for the National Museum of Finland.",
+        "Finnland – IT-Dienste: Beratung, Software-Entwicklung, Internet und Hilfestellung – Digital exhibition design, software development and production for the reopening exhibition for the National Museum of Finland.",
+        "Finnország – IT-szolgáltatások: tanácsadás, szoftverfejlesztés, internet és támogatás – Digital exhibition design, software development and production for the reopening exhibition for the National Museum of Finland.",
+        "Finska – Storitve informacijske tehnologije: svetovanje, razvoj programske opreme, internet in podpora – Digital exhibition design, software development and production for the reopening exhibition for the National Museum of Finland.",
+        "Finska – Usluge informacijske tehnologije: savjetovanje, razvoj programske podrške, internet i podrška – Digital exhibition design, software development and production for the reopening exhibition for the National Museum of Finland.",
+        "Finsko – Informační technologie: poradenství, vývoj programového vybavení, internet a podpora – Digital exhibition design, software development and production for the reopening exhibition for the National Museum of Finland.",
+        "Fínsko – Služby informačných technológií: konzultácie, vývoj softvéru, internet a podpora – Digital exhibition design, software development and production for the reopening exhibition for the National Museum of Finland.",
+        "Il-Finlandja – Servizzi ta' IT: konsulenza, żvilupp ta' softwer, Internet u appoġġ – Digital exhibition design, software development and production for the reopening exhibition for the National Museum of Finland.",
+        "Somija – IT pakalpojumi konsultēšana, programmatūras izstrāde, internets un atbalsts – Digital exhibition design, software development and production for the reopening exhibition for the National Museum of Finland.",
+        "Soome – IT-teenused: nõuande-, tarkvaraarendus-, Interneti- ja tugiteenused – Digital exhibition design, software development and production for the reopening exhibition for the National Museum of Finland.",
+        "Suomi – Tietotekniset palvelut: neuvonta, ohjelmistojen kehittäminen, Internet ja tuki – Digital exhibition design, software development and production for the reopening exhibition for the National Museum of Finland.",
+        "Suomija – IT paslaugos: konsultavimas, programinės įrangos kūrimas, internetas ir aptarnavimo paslaugos – Digital exhibition design, software development and production for the reopening exhibition for the National Museum of Finland.",
+        "Φινλανδία – Υπηρεσίες τεχνολογίας των πληροφοριών: παροχή συμβουλών, ανάπτυξη λογισμικού, Διαδίκτυο και υποστήριξη – Digital exhibition design, software development and production for the reopening exhibition for the National Museum of Finland.",
+        "Финлaндия – ИТ услуги: консултации, разработване на софтуер, Интернет и поддръжка – Digital exhibition design, software development and production for the reopening exhibition for the National Museum of Finland."
+      ],
+      "vendor_keys": [],
+      "versions": [
+        {
+          "date": "2026-08-07",
+          "file": "snapshots/2026-08-07/notices/537409-2026.xml",
+          "sha256": "f46a077ca7b32fe7437299f78253a75ee035eba3dda4ce40fc4edae1db22a0a3"
+        }
+      ],
+      "winner_names": [],
+      "xml_url": "https://ted.europa.eu/en/notice/537409-2026/xml"
+    },
+    "538787-2026": {
+      "buyer_countries": [
+        "FRA"
+      ],
+      "buyer_names": [
+        "MERCATOR OCEAN"
+      ],
+      "cpv": [
+        "71350000",
+        "71351900",
+        "71351920",
+        "72212460",
+        "72265000",
+        "72310000"
+      ],
+      "first_seen": "2026-08-07",
+      "gone": false,
+      "last_checked": "2026-08-07",
+      "notice_type": "can-standard",
+      "phrases": [
+        "artificial intelligence",
+        "intelligence artificielle"
+      ],
+      "publication_date": "2026-08-04",
+      "title": "France – Geology, oceanography and hydrology services – COPERNICUS MARINE - INNOVATION - CORRECTION PAR INTELLIGENCE ARTIFICIELLE DU FORÇAGE ATMOSPHERIQUE UTILISE POUR LE SYSTEME GLOBAL D'ANALYSE ET DE PREVISION",
+      "titles": [
+        "An Fhrainc – Geology, oceanography and hydrology services – COPERNICUS MARINE - INNOVATION - CORRECTION PAR INTELLIGENCE ARTIFICIELLE DU FORÇAGE ATMOSPHERIQUE UTILISE POUR LE SYSTEME GLOBAL D'ANALYSE ET DE PREVISION",
+        "France – Geology, oceanography and hydrology services – COPERNICUS MARINE - INNOVATION - CORRECTION PAR INTELLIGENCE ARTIFICIELLE DU FORÇAGE ATMOSPHERIQUE UTILISE POUR LE SYSTEME GLOBAL D'ANALYSE ET DE PREVISION",
+        "France – Services de géologie, d'océanographie et d'hydrologie – COPERNICUS MARINE - INNOVATION - CORRECTION PAR INTELLIGENCE ARTIFICIELLE DU FORÇAGE ATMOSPHERIQUE UTILISE POUR LE SYSTEME GLOBAL D'ANALYSE ET DE PREVISION",
+        "Francia – Servicios de geología, oceanografía e hidrología – COPERNICUS MARINE - INNOVATION - CORRECTION PAR INTELLIGENCE ARTIFICIELLE DU FORÇAGE ATMOSPHERIQUE UTILISE POUR LE SYSTEME GLOBAL D'ANALYSE ET DE PREVISION",
+        "Francia – Servizi geologici, oceanografici e idrologici – COPERNICUS MARINE - INNOVATION - CORRECTION PAR INTELLIGENCE ARTIFICIELLE DU FORÇAGE ATMOSPHERIQUE UTILISE POUR LE SYSTEME GLOBAL D'ANALYSE ET DE PREVISION",
+        "Franciaország – Geológiai, oceanográfiai és fidrológiai szolgáltatások – COPERNICUS MARINE - INNOVATION - CORRECTION PAR INTELLIGENCE ARTIFICIELLE DU FORÇAGE ATMOSPHERIQUE UTILISE POUR LE SYSTEME GLOBAL D'ANALYSE ET DE PREVISION",
+        "Francie – Geologické, oceánografické a hydrologické služby – COPERNICUS MARINE - INNOVATION - CORRECTION PAR INTELLIGENCE ARTIFICIELLE DU FORÇAGE ATMOSPHERIQUE UTILISE POUR LE SYSTEME GLOBAL D'ANALYSE ET DE PREVISION",
+        "Francija – Storitve, povezane z geologijo, oceanografijo in hidrologijo – COPERNICUS MARINE - INNOVATION - CORRECTION PAR INTELLIGENCE ARTIFICIELLE DU FORÇAGE ATMOSPHERIQUE UTILISE POUR LE SYSTEME GLOBAL D'ANALYSE ET DE PREVISION",
+        "Francija – Ģeoloģijas, okeanogrāfijas un hidroloģijas pakalpojumi – COPERNICUS MARINE - INNOVATION - CORRECTION PAR INTELLIGENCE ARTIFICIELLE DU FORÇAGE ATMOSPHERIQUE UTILISE POUR LE SYSTEME GLOBAL D'ANALYSE ET DE PREVISION",
+        "Francja – Usługi geologiczne, oceanograficzne i hydrologiczne – COPERNICUS MARINE - INNOVATION - CORRECTION PAR INTELLIGENCE ARTIFICIELLE DU FORÇAGE ATMOSPHERIQUE UTILISE POUR LE SYSTEME GLOBAL D'ANALYSE ET DE PREVISION",
+        "Francuska – Geološke, oceanografske i hidrološke usluge – COPERNICUS MARINE - INNOVATION - CORRECTION PAR INTELLIGENCE ARTIFICIELLE DU FORÇAGE ATMOSPHERIQUE UTILISE POUR LE SYSTEME GLOBAL D'ANALYSE ET DE PREVISION",
+        "Francúzsko – Geologické, oceánografické a hydrologické služby – COPERNICUS MARINE - INNOVATION - CORRECTION PAR INTELLIGENCE ARTIFICIELLE DU FORÇAGE ATMOSPHERIQUE UTILISE POUR LE SYSTEME GLOBAL D'ANALYSE ET DE PREVISION",
+        "Frankreich – Geologische, ozeanografische und hydrologische Untersuchungen – COPERNICUS MARINE - INNOVATION - CORRECTION PAR INTELLIGENCE ARTIFICIELLE DU FORÇAGE ATMOSPHERIQUE UTILISE POUR LE SYSTEME GLOBAL D'ANALYSE ET DE PREVISION",
+        "Frankrig – Geologiske, oceanografiske og hydrologiske tjenester – COPERNICUS MARINE - INNOVATION - CORRECTION PAR INTELLIGENCE ARTIFICIELLE DU FORÇAGE ATMOSPHERIQUE UTILISE POUR LE SYSTEME GLOBAL D'ANALYSE ET DE PREVISION",
+        "Frankrijk – Geologische, oceanografische en hydrologische diensten – COPERNICUS MARINE - INNOVATION - CORRECTION PAR INTELLIGENCE ARTIFICIELLE DU FORÇAGE ATMOSPHERIQUE UTILISE POUR LE SYSTEME GLOBAL D'ANALYSE ET DE PREVISION",
+        "Frankrike – Geologi, oceanografi och hydrologi – COPERNICUS MARINE - INNOVATION - CORRECTION PAR INTELLIGENCE ARTIFICIELLE DU FORÇAGE ATMOSPHERIQUE UTILISE POUR LE SYSTEME GLOBAL D'ANALYSE ET DE PREVISION",
+        "Franza – Servizzi ta' ġeoloġija, oċeanografija u idroloġija – COPERNICUS MARINE - INNOVATION - CORRECTION PAR INTELLIGENCE ARTIFICIELLE DU FORÇAGE ATMOSPHERIQUE UTILISE POUR LE SYSTEME GLOBAL D'ANALYSE ET DE PREVISION",
+        "França – Serviços de geologia, oceanografia e hidrologia – COPERNICUS MARINE - INNOVATION - CORRECTION PAR INTELLIGENCE ARTIFICIELLE DU FORÇAGE ATMOSPHERIQUE UTILISE POUR LE SYSTEME GLOBAL D'ANALYSE ET DE PREVISION",
+        "Franţa – Servicii de geologie, de oceanografie şi de hidrologie – COPERNICUS MARINE - INNOVATION - CORRECTION PAR INTELLIGENCE ARTIFICIELLE DU FORÇAGE ATMOSPHERIQUE UTILISE POUR LE SYSTEME GLOBAL D'ANALYSE ET DE PREVISION",
+        "Prancūzija – Geologijos, okeanografijos ir hidrologijos paslaugos – COPERNICUS MARINE - INNOVATION - CORRECTION PAR INTELLIGENCE ARTIFICIELLE DU FORÇAGE ATMOSPHERIQUE UTILISE POUR LE SYSTEME GLOBAL D'ANALYSE ET DE PREVISION",
+        "Prantsusmaa – Geoloogia-, okeanograafia- ja hüdroloogiateenused – COPERNICUS MARINE - INNOVATION - CORRECTION PAR INTELLIGENCE ARTIFICIELLE DU FORÇAGE ATMOSPHERIQUE UTILISE POUR LE SYSTEME GLOBAL D'ANALYSE ET DE PREVISION",
+        "Ranska – Geologiset ja meri- ja vesitieteelliset palvelut – COPERNICUS MARINE - INNOVATION - CORRECTION PAR INTELLIGENCE ARTIFICIELLE DU FORÇAGE ATMOSPHERIQUE UTILISE POUR LE SYSTEME GLOBAL D'ANALYSE ET DE PREVISION",
+        "Γαλλία – Υπηρεσίες γεωλογίας, ωκεανογραφίας και υδρολογίας – COPERNICUS MARINE - INNOVATION - CORRECTION PAR INTELLIGENCE ARTIFICIELLE DU FORÇAGE ATMOSPHERIQUE UTILISE POUR LE SYSTEME GLOBAL D'ANALYSE ET DE PREVISION",
+        "Фpaнция – Геоложки, океанографски и хидроложки услуги – COPERNICUS MARINE - INNOVATION - CORRECTION PAR INTELLIGENCE ARTIFICIELLE DU FORÇAGE ATMOSPHERIQUE UTILISE POUR LE SYSTEME GLOBAL D'ANALYSE ET DE PREVISION"
+      ],
+      "vendor_keys": [
+        "neuralio artificial intelligence"
+      ],
+      "versions": [
+        {
+          "date": "2026-08-07",
+          "file": "snapshots/2026-08-07/notices/538787-2026.xml",
+          "sha256": "73082980dcf322b5d5b0697b4aabf4f1b09be0ef06f4556a4571b611e8ee3eb2"
+        }
+      ],
+      "winner_names": [
+        "NEURALIO ARTIFICIAL INTELLIGENCE"
+      ],
+      "xml_url": "https://ted.europa.eu/en/notice/538787-2026/xml"
+    },
+    "543753-2026": {
+      "buyer_countries": [
+        "IRL"
+      ],
+      "buyer_names": [
+        "Enterprise Ireland"
+      ],
+      "cpv": [
+        "73000000",
+        "79300000"
+      ],
+      "first_seen": "2026-08-07",
+      "gone": false,
+      "last_checked": "2026-08-07",
+      "notice_type": "cn-standard",
+      "phrases": [
+        "artificial intelligence"
+      ],
+      "publication_date": "2026-08-06",
+      "title": "Ireland – Market and economic research; polling and statistics – 2026/023 The supply of commercially published Business Information/Market Research Databases available electronically in Twelve (12) Lots",
+      "titles": [
+        "Airija – Rinkos ir ekonominiai tyrimai; apklausos ir statistika – 2026/023 The supply of commercially published Business Information/Market Research Databases available electronically in Twelve (12) Lots",
+        "Ierland – Markt- en economieonderzoek; enquêtes en statistieken – 2026/023 The supply of commercially published Business Information/Market Research Databases available electronically in Twelve (12) Lots",
+        "Iirimaa – Turu- ja majandusuuringud, avaliku arvamuse uuringud ja statistika – 2026/023 The supply of commercially published Business Information/Market Research Databases available electronically in Twelve (12) Lots",
+        "Ireland – Market and economic research; polling and statistics – 2026/023 The supply of commercially published Business Information/Market Research Databases available electronically in Twelve (12) Lots",
+        "Irland – Markedsundersøgelser og økonomiske konsekvensanalyser, rundspørger og statistikker – 2026/023 The supply of commercially published Business Information/Market Research Databases available electronically in Twelve (12) Lots",
+        "Irland – Marknadsundersökningar och ekonomiska undersökningar; opinionsundersökningar och statistik – 2026/023 The supply of commercially published Business Information/Market Research Databases available electronically in Twelve (12) Lots",
+        "Irland – Markt- und Wirtschaftsforschung; Umfragen und Statistiken – 2026/023 The supply of commercially published Business Information/Market Research Databases available electronically in Twelve (12) Lots",
+        "Irlanda – Investigación mercadotécnica y económica; sondeos y estadísticas – 2026/023 The supply of commercially published Business Information/Market Research Databases available electronically in Twelve (12) Lots",
+        "Irlanda – Pesquisa de mercado e económica; sondagem e estatísticas – 2026/023 The supply of commercially published Business Information/Market Research Databases available electronically in Twelve (12) Lots",
+        "Irlanda – Ricerca di mercato ed economica, indagini e statistiche – 2026/023 The supply of commercially published Business Information/Market Research Databases available electronically in Twelve (12) Lots",
+        "Irlanda – Studii de piaţă şi cercetare economică; sondaje şi statistici – 2026/023 The supply of commercially published Business Information/Market Research Databases available electronically in Twelve (12) Lots",
+        "Irlande – Études de marché et recherche économique; sondages et statistiques – 2026/023 The supply of commercially published Business Information/Market Research Databases available electronically in Twelve (12) Lots",
+        "Irlandia – Badania rynkowe i ekonomiczne; ankietowanie i statystyka – 2026/023 The supply of commercially published Business Information/Market Research Databases available electronically in Twelve (12) Lots",
+        "Irlanti – Markkina- ja taloustutkimuspalvelut; mielipidetutkimukset ja tilastot – 2026/023 The supply of commercially published Business Information/Market Research Databases available electronically in Twelve (12) Lots",
+        "Irska – Tržišno i ekonomsko istraživanje: anketiranje i statistika – 2026/023 The supply of commercially published Business Information/Market Research Databases available electronically in Twelve (12) Lots",
+        "Irska – Tržne in ekonomske raziskave; javnomnenjske raziskave in statistični podatki – 2026/023 The supply of commercially published Business Information/Market Research Databases available electronically in Twelve (12) Lots",
+        "Irsko – Průzkum trhu a ekonomický průzkum; průzkum veřejného mínění a statistiky – 2026/023 The supply of commercially published Business Information/Market Research Databases available electronically in Twelve (12) Lots",
+        "L-Irlanda – Riċerka tas-suq u ekonomika; stħarriġ ta' l-opinjoni pubblika u statistika – 2026/023 The supply of commercially published Business Information/Market Research Databases available electronically in Twelve (12) Lots",
+        "Éire – Market and economic research; polling and statistics – 2026/023 The supply of commercially published Business Information/Market Research Databases available electronically in Twelve (12) Lots",
+        "Írország – Gazdasági és piackutatás; közvéleménykutatás és statisztika – 2026/023 The supply of commercially published Business Information/Market Research Databases available electronically in Twelve (12) Lots",
+        "Írsko – Prieskum trhu a ekonomický prieskum; prieskum verejnej mienky a štatistika – 2026/023 The supply of commercially published Business Information/Market Research Databases available electronically in Twelve (12) Lots",
+        "Īrija – Tirgus un ekonomikas pētniecība; sabiedriskās domas izpēte un statistika – 2026/023 The supply of commercially published Business Information/Market Research Databases available electronically in Twelve (12) Lots",
+        "Ιρλανδία – Έρευνα αγοράς και οικονομική έρευνα δημοσκοπήσεις και στατιστικές – 2026/023 The supply of commercially published Business Information/Market Research Databases available electronically in Twelve (12) Lots",
+        "Иpлaндия – Пазарни и стопански проучвания; проучвания на общественото мнение и статистика – 2026/023 The supply of commercially published Business Information/Market Research Databases available electronically in Twelve (12) Lots"
+      ],
+      "vendor_keys": [],
+      "versions": [
+        {
+          "date": "2026-08-07",
+          "file": "snapshots/2026-08-07/notices/543753-2026.xml",
+          "sha256": "ae74b832aae0f588a76a1ea4b712fa869640c11383f59fdf477ae7ce8a500db7"
+        }
+      ],
+      "winner_names": [],
+      "xml_url": "https://ted.europa.eu/en/notice/543753-2026/xml"
+    },
+    "545074-2026": {
+      "buyer_countries": [
+        "LVA"
+      ],
+      "buyer_names": [
+        "Sabiedrība ar ierobežotu atbildību \"Daugavpils reģionālā slimnīca\""
+      ],
+      "cpv": [
+        "33100000"
+      ],
+      "first_seen": "2026-08-07",
+      "gone": false,
+      "last_checked": "2026-08-07",
+      "notice_type": "can-standard",
+      "phrases": [
+        "artificial intelligence"
+      ],
+      "publication_date": "2026-08-06",
+      "title": "Latvia – Medical equipments – Ultrasonogrāfijas iekārtu piegāde",
+      "titles": [
+        "An Laitvia – Medical equipments – Ultrasonogrāfijas iekārtu piegāde",
+        "Il-Latvja – Tagħmir mediku – Ultrasonogrāfijas iekārtu piegāde",
+        "Latvia – Lääketieteelliset laitteet – Ultrasonogrāfijas iekārtu piegāde",
+        "Latvia – Medical equipments – Ultrasonogrāfijas iekārtu piegāde",
+        "Latvija – Medicinos įranga – Ultrasonogrāfijas iekārtu piegāde",
+        "Latvija – Medicinska oprema – Ultrasonogrāfijas iekārtu piegāde",
+        "Latvija – Medicinske naprave – Ultrasonogrāfijas iekārtu piegāde",
+        "Latvija – Medicīniskās ierīces – Ultrasonogrāfijas iekārtu piegāde",
+        "Letland – Medicinsk udstyr – Ultrasonogrāfijas iekārtu piegāde",
+        "Letland – Medische apparatuur – Ultrasonogrāfijas iekārtu piegāde",
+        "Letonia – Echipamente medicale – Ultrasonogrāfijas iekārtu piegāde",
+        "Letonia – Equipamiento médico – Ultrasonogrāfijas iekārtu piegāde",
+        "Lettland – Medicinsk utrustning – Ultrasonogrāfijas iekārtu piegāde",
+        "Lettland – Medizinische Geräte – Ultrasonogrāfijas iekārtu piegāde",
+        "Lettonia – Apparecchiature mediche – Ultrasonogrāfijas iekārtu piegāde",
+        "Lettonie – Équipements médicaux – Ultrasonogrāfijas iekārtu piegāde",
+        "Lettország – Orvosi felszerelések – Ultrasonogrāfijas iekārtu piegāde",
+        "Letónia – Equipamento médico – Ultrasonogrāfijas iekārtu piegāde",
+        "Lotyšsko – Zdravotnické přístroje – Ultrasonogrāfijas iekārtu piegāde",
+        "Lotyšsko – Zdravotnícke vybavenie – Ultrasonogrāfijas iekārtu piegāde",
+        "Läti – Meditsiiniseadmed – Ultrasonogrāfijas iekārtu piegāde",
+        "Łotwa – Urządzenia medyczne – Ultrasonogrāfijas iekārtu piegāde",
+        "Λετονία – Ιατρικές συσκευές – Ultrasonogrāfijas iekārtu piegāde",
+        "Лaтвия – Медицинско оборудване – Ultrasonogrāfijas iekārtu piegāde"
+      ],
+      "vendor_keys": [
+        "sia a medical",
+        "tradintek sia"
+      ],
+      "versions": [
+        {
+          "date": "2026-08-07",
+          "file": "snapshots/2026-08-07/notices/545074-2026.xml",
+          "sha256": "b2362143281dc1512b5e570d948dc2722775935aa54184ff3a0f79a7d4d4623d"
+        }
+      ],
+      "winner_names": [
+        "\"TRADINTEK\" SIA",
+        "SIA \"A.MEDICAL\""
+      ],
+      "xml_url": "https://ted.europa.eu/en/notice/545074-2026/xml"
+    },
+    "547440-2026": {
+      "buyer_countries": [
+        "FRA"
+      ],
+      "buyer_names": [
+        "CAIH"
+      ],
+      "cpv": [
+        "72220000",
+        "72227000",
+        "72600000"
+      ],
+      "first_seen": "2026-08-07",
+      "gone": false,
+      "last_checked": "2026-08-07",
+      "notice_type": "cn-standard",
+      "phrases": [
+        "intelligence artificielle"
+      ],
+      "publication_date": "2026-08-07",
+      "title": "France – Computer support and consultancy services – FORMATIONS, PRESTATIONS D’EXPERTISE ET D’ACCOMPAGNEMENT AUTOUR DES TECHNOLOGIES MICROSOFT, DES ENVIRONNEMENTS M365, AZURE, DATA, IA ET SERVICES ASSOCIÉS",
+      "titles": [
+        "An Fhrainc – Computer support and consultancy services – FORMATIONS, PRESTATIONS D’EXPERTISE ET D’ACCOMPAGNEMENT AUTOUR DES TECHNOLOGIES MICROSOFT, DES ENVIRONNEMENTS M365, AZURE, DATA, IA ET SERVICES ASSOCIÉS",
+        "France – Computer support and consultancy services – FORMATIONS, PRESTATIONS D’EXPERTISE ET D’ACCOMPAGNEMENT AUTOUR DES TECHNOLOGIES MICROSOFT, DES ENVIRONNEMENTS M365, AZURE, DATA, IA ET SERVICES ASSOCIÉS",
+        "France – Services d'assistance et de conseils informatiques – FORMATIONS, PRESTATIONS D’EXPERTISE ET D’ACCOMPAGNEMENT AUTOUR DES TECHNOLOGIES MICROSOFT, DES ENVIRONNEMENTS M365, AZURE, DATA, IA ET SERVICES ASSOCIÉS",
+        "Francia – Servicios de apoyo informático y de consultoría – FORMATIONS, PRESTATIONS D’EXPERTISE ET D’ACCOMPAGNEMENT AUTOUR DES TECHNOLOGIES MICROSOFT, DES ENVIRONNEMENTS M365, AZURE, DATA, IA ET SERVICES ASSOCIÉS",
+        "Francia – Servizi di consulenza e assistenza informatica – FORMATIONS, PRESTATIONS D’EXPERTISE ET D’ACCOMPAGNEMENT AUTOUR DES TECHNOLOGIES MICROSOFT, DES ENVIRONNEMENTS M365, AZURE, DATA, IA ET SERVICES ASSOCIÉS",
+        "Franciaország – Számítógépes támogatási és tanácsadói szolgáltatások – FORMATIONS, PRESTATIONS D’EXPERTISE ET D’ACCOMPAGNEMENT AUTOUR DES TECHNOLOGIES MICROSOFT, DES ENVIRONNEMENTS M365, AZURE, DATA, IA ET SERVICES ASSOCIÉS",
+        "Francie – Výpočetní podpora a poradenské služby – FORMATIONS, PRESTATIONS D’EXPERTISE ET D’ACCOMPAGNEMENT AUTOUR DES TECHNOLOGIES MICROSOFT, DES ENVIRONNEMENTS M365, AZURE, DATA, IA ET SERVICES ASSOCIÉS",
+        "Francija – Datoru atbalsta un konsultāciju pakalpojumi – FORMATIONS, PRESTATIONS D’EXPERTISE ET D’ACCOMPAGNEMENT AUTOUR DES TECHNOLOGIES MICROSOFT, DES ENVIRONNEMENTS M365, AZURE, DATA, IA ET SERVICES ASSOCIÉS",
+        "Francija – Storitve računalniške podpore in svetovanja – FORMATIONS, PRESTATIONS D’EXPERTISE ET D’ACCOMPAGNEMENT AUTOUR DES TECHNOLOGIES MICROSOFT, DES ENVIRONNEMENTS M365, AZURE, DATA, IA ET SERVICES ASSOCIÉS",
+        "Francja – Usługi doradcze i dodatkowe w zakresie sprzętu komputerowego – FORMATIONS, PRESTATIONS D’EXPERTISE ET D’ACCOMPAGNEMENT AUTOUR DES TECHNOLOGIES MICROSOFT, DES ENVIRONNEMENTS M365, AZURE, DATA, IA ET SERVICES ASSOCIÉS",
+        "Francuska – Usluge računalne potpore i savjetovanja – FORMATIONS, PRESTATIONS D’EXPERTISE ET D’ACCOMPAGNEMENT AUTOUR DES TECHNOLOGIES MICROSOFT, DES ENVIRONNEMENTS M365, AZURE, DATA, IA ET SERVICES ASSOCIÉS",
+        "Francúzsko – Počítačové podporné služby a poradenstvo – FORMATIONS, PRESTATIONS D’EXPERTISE ET D’ACCOMPAGNEMENT AUTOUR DES TECHNOLOGIES MICROSOFT, DES ENVIRONNEMENTS M365, AZURE, DATA, IA ET SERVICES ASSOCIÉS",
+        "Frankreich – Computerunterstützung und -beratung – FORMATIONS, PRESTATIONS D’EXPERTISE ET D’ACCOMPAGNEMENT AUTOUR DES TECHNOLOGIES MICROSOFT, DES ENVIRONNEMENTS M365, AZURE, DATA, IA ET SERVICES ASSOCIÉS",
+        "Frankrig – Support- og konsulentvirksomhed i forbindelse med edb – FORMATIONS, PRESTATIONS D’EXPERTISE ET D’ACCOMPAGNEMENT AUTOUR DES TECHNOLOGIES MICROSOFT, DES ENVIRONNEMENTS M365, AZURE, DATA, IA ET SERVICES ASSOCIÉS",
+        "Frankrijk – Diensten voor computerondersteuning en -advies – FORMATIONS, PRESTATIONS D’EXPERTISE ET D’ACCOMPAGNEMENT AUTOUR DES TECHNOLOGIES MICROSOFT, DES ENVIRONNEMENTS M365, AZURE, DATA, IA ET SERVICES ASSOCIÉS",
+        "Frankrike – Datorstöd och rådgivningstjänster – FORMATIONS, PRESTATIONS D’EXPERTISE ET D’ACCOMPAGNEMENT AUTOUR DES TECHNOLOGIES MICROSOFT, DES ENVIRONNEMENTS M365, AZURE, DATA, IA ET SERVICES ASSOCIÉS",
+        "Franza – Servizzi ta' appoġġ u konsulenza dwar il-kompjuter – FORMATIONS, PRESTATIONS D’EXPERTISE ET D’ACCOMPAGNEMENT AUTOUR DES TECHNOLOGIES MICROSOFT, DES ENVIRONNEMENTS M365, AZURE, DATA, IA ET SERVICES ASSOCIÉS",
+        "França – Serviços de consultoria e assistência informáticas – FORMATIONS, PRESTATIONS D’EXPERTISE ET D’ACCOMPAGNEMENT AUTOUR DES TECHNOLOGIES MICROSOFT, DES ENVIRONNEMENTS M365, AZURE, DATA, IA ET SERVICES ASSOCIÉS",
+        "Franţa – Servicii de asistenţă şi de consultanţă informatică – FORMATIONS, PRESTATIONS D’EXPERTISE ET D’ACCOMPAGNEMENT AUTOUR DES TECHNOLOGIES MICROSOFT, DES ENVIRONNEMENTS M365, AZURE, DATA, IA ET SERVICES ASSOCIÉS",
+        "Prancūzija – Kompiuterių palaikymo ir konsultacinės paslaugos – FORMATIONS, PRESTATIONS D’EXPERTISE ET D’ACCOMPAGNEMENT AUTOUR DES TECHNOLOGIES MICROSOFT, DES ENVIRONNEMENTS M365, AZURE, DATA, IA ET SERVICES ASSOCIÉS",
+        "Prantsusmaa – Arvuti tugi- ja nõustamisteenused – FORMATIONS, PRESTATIONS D’EXPERTISE ET D’ACCOMPAGNEMENT AUTOUR DES TECHNOLOGIES MICROSOFT, DES ENVIRONNEMENTS M365, AZURE, DATA, IA ET SERVICES ASSOCIÉS",
+        "Ranska – Tietotekniset tuki- ja neuvontapalvelut – FORMATIONS, PRESTATIONS D’EXPERTISE ET D’ACCOMPAGNEMENT AUTOUR DES TECHNOLOGIES MICROSOFT, DES ENVIRONNEMENTS M365, AZURE, DATA, IA ET SERVICES ASSOCIÉS",
+        "Γαλλία – Υπηρεσίες παροχής συμβουλών και υποστήριξης Η/Υ – FORMATIONS, PRESTATIONS D’EXPERTISE ET D’ACCOMPAGNEMENT AUTOUR DES TECHNOLOGIES MICROSOFT, DES ENVIRONNEMENTS M365, AZURE, DATA, IA ET SERVICES ASSOCIÉS",
+        "Фpaнция – Услуги по оказване на помощ и консултации в областта на компютърните системи – FORMATIONS, PRESTATIONS D’EXPERTISE ET D’ACCOMPAGNEMENT AUTOUR DES TECHNOLOGIES MICROSOFT, DES ENVIRONNEMENTS M365, AZURE, DATA, IA ET SERVICES ASSOCIÉS"
+      ],
+      "vendor_keys": [],
+      "versions": [
+        {
+          "date": "2026-08-07",
+          "file": "snapshots/2026-08-07/notices/547440-2026.xml",
+          "sha256": "32e0f3fe23b8490be99d15430947ee33d2f30446b75103b011570078576ed562"
+        }
+      ],
+      "winner_names": [],
+      "xml_url": "https://ted.europa.eu/en/notice/547440-2026/xml"
+    },
+    "548393-2026": {
+      "buyer_countries": [
+        "DEU"
+      ],
+      "buyer_names": [
+        "Ostbayerische Technische Hochschule (OTH) Amberg-Weiden, Standort Amberg"
+      ],
+      "cpv": [
+        "32000000"
+      ],
+      "first_seen": "2026-08-07",
+      "gone": false,
+      "last_checked": "2026-08-07",
+      "notice_type": "cn-standard",
+      "phrases": [
+        "Künstliche Intelligenz",
+        "artificial intelligence"
+      ],
+      "publication_date": "2026-08-07",
+      "title": "Germany – Radio, television, communication, telecommunication and related equipment – Modernisierung der Infrastruktur des Videostudios im Multimedialabor am Standort Amberg",
+      "titles": [
+        "Alemanha – Equipamento de rádio, televisão, comunicação, telecomunicações e afins – Modernisierung der Infrastruktur des Videostudios im Multimedialabor am Standort Amberg",
+        "Alemania – Equipos de radio, televisión, comunicaciones y telecomunicaciones y equipos conexos – Modernisierung der Infrastruktur des Videostudios im Multimedialabor am Standort Amberg",
+        "Allemagne – Équipements et appareils de radio, de télévision, de communication, de télécommunication et équipements connexes – Modernisierung der Infrastruktur des Videostudios im Multimedialabor am Standort Amberg",
+        "An Ghearmáin – Radio, television, communication, telecommunication and related equipment – Modernisierung der Infrastruktur des Videostudios im Multimedialabor am Standort Amberg",
+        "Deutschland – Rundfunk- und Fernsehgeräte, Kommunikations- und Fernmeldeanlagen und Zubehör – Modernisierung der Infrastruktur des Videostudios im Multimedialabor am Standort Amberg",
+        "Duitsland – Radio-, televisie-, communicatie-, telecommunicatietoestellen en aanverwante apparatuur – Modernisierung der Infrastruktur des Videostudios im Multimedialabor am Standort Amberg",
+        "Germania – Attrezzature per radiodiffusione, televisione, comunicazione, telecomunicazione e affini – Modernisierung der Infrastruktur des Videostudios im Multimedialabor am Standort Amberg",
+        "Germania – Echipament de radio, televiziune, comunicaţii, telecomunicaţii şi articole conexe – Modernisierung der Infrastruktur des Videostudios im Multimedialabor am Standort Amberg",
+        "Germany – Radio, television, communication, telecommunication and related equipment – Modernisierung der Infrastruktur des Videostudios im Multimedialabor am Standort Amberg",
+        "Il-Ġermanja – Tagħmir tar-radju, tat-televiżjoni, tal-komunikazzjoni, tat-telekomunikazzjoni u tagħmir relatat – Modernisierung der Infrastruktur des Videostudios im Multimedialabor am Standort Amberg",
+        "Nemecko – Rozhlas, televízia, komunikácie, telekomunikácie a príbuzné zariadenia – Modernisierung der Infrastruktur des Videostudios im Multimedialabor am Standort Amberg",
+        "Nemčija – Radijski in televizijski aparati, komunikacijska, telekomunikacijska in z njimi povezana oprema – Modernisierung der Infrastruktur des Videostudios im Multimedialabor am Standort Amberg",
+        "Niemcy – Sprzęt radiowy, telewizyjny, komunikacyjny, telekomunikacyjny i podobny – Modernisierung der Infrastruktur des Videostudios im Multimedialabor am Standort Amberg",
+        "Njemačka – Radijska, televizijska, komunikacijska i srodna oprema – Modernisierung der Infrastruktur des Videostudios im Multimedialabor am Standort Amberg",
+        "Németország – Rádiós, televíziós, hírközlési, távközlési és kapcsolódó berendezések – Modernisierung der Infrastruktur des Videostudios im Multimedialabor am Standort Amberg",
+        "Německo – Rozhlas, televize, komunikace, telekomunikace a související zařízení – Modernisierung der Infrastruktur des Videostudios im Multimedialabor am Standort Amberg",
+        "Saksa – Radio-, televisio- ja viestintä- ja teleliikennelaitteet ja niihin liittyvät laitteet – Modernisierung der Infrastruktur des Videostudios im Multimedialabor am Standort Amberg",
+        "Saksamaa – Raadio-, televisiooni-, kommunikatsiooni-, teleside- ja sellega seotud seadmed – Modernisierung der Infrastruktur des Videostudios im Multimedialabor am Standort Amberg",
+        "Tyskland – Radio-, fjernsyns-, kommunikations- og telekommunikationsudstyr og beslægtet udstyr – Modernisierung der Infrastruktur des Videostudios im Multimedialabor am Standort Amberg",
+        "Tyskland – Radio-, televisions-, kommuniktions- och telekommunikationsutrustning samt tillhörande utrustning – Modernisierung der Infrastruktur des Videostudios im Multimedialabor am Standort Amberg",
+        "Vokietija – Radijo, televizijos, komunikacijų, telekomunikacijų ir susijusi įranga – Modernisierung der Infrastruktur des Videostudios im Multimedialabor am Standort Amberg",
+        "Vācija – Radio, televīzijas, komunikāciju, telekomunikāciju un saistītās iekārtas un aparāti – Modernisierung der Infrastruktur des Videostudios im Multimedialabor am Standort Amberg",
+        "Γερμανία – Εξοπλισμός ραδιοφωνίας, τηλεόρασης, επικοινωνιών, τηλεπικοινωνιών και συναφής εξοπλισμός – Modernisierung der Infrastruktur des Videostudios im Multimedialabor am Standort Amberg",
+        "Гepмaния – Радио-, телевизионно, съобщително, далекосъобщително и сродни видове оборудване – Modernisierung der Infrastruktur des Videostudios im Multimedialabor am Standort Amberg"
+      ],
+      "vendor_keys": [],
+      "versions": [
+        {
+          "date": "2026-08-07",
+          "file": "snapshots/2026-08-07/notices/548393-2026.xml",
+          "sha256": "3fd0c5e1c4c2c23ee4ad08dabfcdacb9082dc1f59e66feb9d05323f23d508083"
+        }
+      ],
+      "winner_names": [],
+      "xml_url": "https://ted.europa.eu/en/notice/548393-2026/xml"
+    },
+    "549482-2026": {
+      "buyer_countries": [
+        "DEU"
+      ],
+      "buyer_names": [
+        "Max-Planck-Gesellschaft z.F.d.W. Generalverwaltung"
+      ],
+      "cpv": [
+        "79000000",
+        "79340000"
+      ],
+      "first_seen": "2026-08-07",
+      "gone": false,
+      "last_checked": "2026-08-07",
+      "notice_type": "can-standard",
+      "phrases": [
+        "artificial intelligence"
+      ],
+      "publication_date": "2026-08-07",
+      "title": "Germany – Business services: law, marketing, consulting, recruitment, printing and security – RV Full Service Marketing MPS",
+      "titles": [
+        "Alemanha – Serviços a empresas: direito, comercialização, consultoria, recrutamento, impressão e segurança – RV Full Service Marketing MPS",
+        "Alemania – Servicios a empresas: legislación, mercadotecnia, asesoría, selección de personal, imprenta y seguridad – RV Full Service Marketing MPS",
+        "Allemagne – Services aux entreprises: droit, marketing, conseil, recrutement, impression et sécurité – RV Full Service Marketing MPS",
+        "An Ghearmáin – Business services: law, marketing, consulting, recruitment, printing and security – RV Full Service Marketing MPS",
+        "Deutschland – Dienstleistungen für Unternehmen: Recht, Marketing, Consulting, Einstellungen, Druck und Sicherheit – RV Full Service Marketing MPS",
+        "Duitsland – Zakelijke dienstverlening: juridisch, marketing, consulting, drukkerij en beveiliging – RV Full Service Marketing MPS",
+        "Germania – Servicii pentru întreprinderi: drept, marketing, consultanţă, recrutare, tipărire şi securitate – RV Full Service Marketing MPS",
+        "Germania – Servizi per le imprese: servizi giuridici, di marketing, di consulenza, di reclutamento, di stampa e di sicurezza – RV Full Service Marketing MPS",
+        "Germany – Business services: law, marketing, consulting, recruitment, printing and security – RV Full Service Marketing MPS",
+        "Il-Ġermanja – Servizzi ta' negozju: Liġi, kummerċjalizzazzjoni, konsulenza, reklutaġġ, stampar u sigurtà – RV Full Service Marketing MPS",
+        "Nemecko – Podnikateľské služby: právo, marketing, konzultácie, nábor pracovníkov, tlačiarenské a bezpečnostné služby – RV Full Service Marketing MPS",
+        "Nemčija – Poslovne storitve: pravo, trženje, svetovanje, zaposlovanje, tiskanje in varnost – RV Full Service Marketing MPS",
+        "Niemcy – Usługi biznesowe: prawnicze, marketingowe, konsultingowe, rekrutacji, drukowania i zabezpieczania – RV Full Service Marketing MPS",
+        "Njemačka – Poslovne usluge: pravo, marketing, savjetovanje, zapošljavanje, tiskanje i sigurnost – RV Full Service Marketing MPS",
+        "Németország – Üzleti szolgáltatások: jog, marketing, tanácsadás, munkaerő-felvétel, nyomtatás és biztonság – RV Full Service Marketing MPS",
+        "Německo – Obchodní služby: právní, marketingové, poradenské služby, nábor zaměstnanců, tiskařské a bezpečnostní služby – RV Full Service Marketing MPS",
+        "Saksa – Liike-elämän palvelut: laki, markkinointi, neuvonta, työhönotto, painatus ja turvallisuus – RV Full Service Marketing MPS",
+        "Saksamaa – Õigus-, turundus-, nõustamis-, värbamis-, trüki- ja turvaalased kommertsteenused – RV Full Service Marketing MPS",
+        "Tyskland – Forretningstjenesteydelser: forskrifter, markedsføring, rådgivning, rekruttering, trykning og sikkerhed – RV Full Service Marketing MPS",
+        "Tyskland – Företagstjänster: lagstiftning, marknadsföring, rådgivning, rekrytering, tryckning och säkerhet – RV Full Service Marketing MPS",
+        "Vokietija – Verslo paslaugos: teisinės, rinkodaros, konsultavimo, įdarbinimo, spausdinimo ir apsaugos – RV Full Service Marketing MPS",
+        "Vācija – Uzņēmējdarbības pakalpojumi: tiesības, tirgzinība, konsultēšana, darbinieku vervēšana, iespiešana un drošība – RV Full Service Marketing MPS",
+        "Γερμανία – Επιχειρηματικές υπηρεσίες: νομικές, μάρκετινγκ, παροχής συμβουλών, πρόσληψης, εκτύπωσης και ασφάλειας – RV Full Service Marketing MPS",
+        "Гepмaния – Бизнес услуги: право, маркетинг, консултиране, набиране на персонал, печат и охрана – RV Full Service Marketing MPS"
+      ],
+      "vendor_keys": [
+        "territory media"
+      ],
+      "versions": [
+        {
+          "date": "2026-08-07",
+          "file": "snapshots/2026-08-07/notices/549482-2026.xml",
+          "sha256": "65185534fe9cd0400e3f75e99203763c9dd00afc66faf6a1cffbde4876b9154b"
+        }
+      ],
+      "winner_names": [
+        "TERRITORY MEDIA GmbH"
+      ],
+      "xml_url": "https://ted.europa.eu/en/notice/549482-2026/xml"
+    }
+  }
+}

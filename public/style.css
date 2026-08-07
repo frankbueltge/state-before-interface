@@ -1,0 +1,45 @@
+:root {
+  color-scheme: light dark;
+  --bg: #faf9f6; --fg: #1c1c1a; --muted: #6b6a64; --line: #e2e0d8;
+  --open: #0a6b3d; --open-bg: #e3f2e9; --declined: #7a4a12; --declined-bg: #f6ead9;
+  --accent: #1a4f8a;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #16161a; --fg: #e8e6e0; --muted: #9a988f; --line: #32323a;
+    --open: #6fce9e; --open-bg: #10301f; --declined: #e0a86a; --declined-bg: #33240f;
+    --accent: #7aaede;
+  }
+}
+* { box-sizing: border-box; }
+body {
+  margin: 0 auto; padding: 2rem 1rem 4rem; max-width: 46rem;
+  background: var(--bg); color: var(--fg);
+  font: 1rem/1.55 ui-sans-serif, system-ui, sans-serif;
+}
+header h1 { font-size: 1.4rem; letter-spacing: 0.14em; margin: 0 0 0.4rem; }
+.sub { color: var(--muted); margin: 0 0 1rem; }
+.question { border-left: 3px solid var(--accent); padding-left: 0.8rem; }
+h2 { font-size: 1.05rem; margin: 2.2rem 0 0.6rem; letter-spacing: 0.04em; }
+h3 { font-size: 0.95rem; margin: 0 0 0.3rem; }
+a { color: var(--accent); }
+code { font-family: ui-monospace, monospace; font-size: 0.9em; }
+.stats { list-style: none; padding: 0; display: flex; flex-wrap: wrap; gap: 0.5rem 1.4rem; }
+.phrases { list-style: none; padding: 0; }
+.lang { color: var(--muted); }
+.scroll { overflow-x: auto; }
+table { border-collapse: collapse; width: 100%; font-size: 0.9rem; }
+th, td { text-align: left; padding: 0.3rem 0.7rem 0.3rem 0; border-bottom: 1px solid var(--line); }
+th { color: var(--muted); font-weight: 600; }
+.candidate { border: 1px solid var(--line); border-radius: 6px; padding: 0.7rem 0.9rem; margin: 0.7rem 0; }
+.badge { font-size: 0.72rem; padding: 0.1rem 0.45rem; border-radius: 99px; vertical-align: middle; letter-spacing: 0.06em; }
+.badge.open { background: var(--open-bg); color: var(--open); }
+.badge.declined { background: var(--declined-bg); color: var(--declined); }
+.type { color: var(--muted); font-size: 0.78rem; margin-left: 0.4rem; }
+.reasons, .notices, .note { color: var(--muted); font-size: 0.88rem; }
+.cases { list-style: none; padding: 0; }
+.state { letter-spacing: 0.05em; font-size: 0.85rem; }
+footer { margin-top: 3rem; border-top: 1px solid var(--line); padding-top: 1rem;
+         color: var(--muted); font-size: 0.85rem; }
+details summary { cursor: pointer; color: var(--accent); }
+@media (prefers-reduced-motion: reduce) { * { scroll-behavior: auto; } }

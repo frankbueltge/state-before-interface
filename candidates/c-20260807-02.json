@@ -1,0 +1,54 @@
+{
+  "created": "2026-08-07T23:46:06+00:00",
+  "criteria": {
+    "consequential_relation": {
+      "passed": false,
+      "reason": "no marker of a sensitive administrative domain (employment, welfare, policing, migration, health, education, justice, taxation)"
+    },
+    "digital_form_possible": {
+      "passed": true,
+      "reason": "form hypothesis: an annotated dossier along the structure of the notice"
+    },
+    "falsifiable_investigation": {
+      "passed": false,
+      "reason": "no machine-testable proposition can be formed yet"
+    },
+    "machine_readable_evidence": {
+      "passed": true,
+      "reason": "1 preserved eForms XML record(s) with SHA-256 on file"
+    },
+    "machine_scale_advantage": {
+      "passed": false,
+      "reason": "a single first-seen notice is equally visible to any human reader of the journal"
+    },
+    "observable_public_problem": {
+      "passed": true,
+      "reason": "identifiable public buyer(s): MERCATOR OCEAN"
+    }
+  },
+  "form_hypothesis": "an annotated dossier along the structure of the notice",
+  "id": "c-20260807-02",
+  "notices_context": [
+    {
+      "buyers": [
+        "MERCATOR OCEAN"
+      ],
+      "countries": [
+        "FRA"
+      ],
+      "publication_number": "538787-2026",
+      "title": "France – Geology, oceanography and hydrology services – COPERNICUS MARINE - INNOVATION - CORRECTION PAR INTELLIGENCE ARTIFICIELLE DU FORÇAGE ATMOSPHERIQUE UTILISE POUR LE SYSTEME GLOBAL D'ANALYSE ET DE PREVISION"
+    }
+  ],
+  "proposition": null,
+  "signal": {
+    "date": "2026-08-07",
+    "detail": "notice 538787-2026 entered the envelope (phrases: artificial intelligence, intelligence artificielle)",
+    "key": "NEW_MATCH:538787-2026",
+    "notices": [
+      "538787-2026"
+    ],
+    "type": "NEW_MATCH"
+  },
+  "verdict": "DECLINED"
+}

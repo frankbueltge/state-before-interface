@@ -1,0 +1,29 @@
+# Completes the standing delegation for case deliveries: once ci (tests +
+# verify.py) is green on a case/* branch, the pull request merges itself.
+# verify.py is the gate; a red chain never publishes.
+name: automerge
+
+on:
+  workflow_run:
+    workflows: [ci]
+    types: [completed]
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  merge:
+    if: >
+      github.event.workflow_run.conclusion == 'success' &&
+      startsWith(github.event.workflow_run.head_branch, 'case/')
+    runs-on: ubuntu-latest
+    steps:
+      - name: Merge the case delivery
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh pr merge "${{ github.event.workflow_run.head_branch }}" \
+            --repo "${{ github.repository }}" \
+            --squash --delete-branch \
+            || echo "no open PR for this branch (already merged or closed)"

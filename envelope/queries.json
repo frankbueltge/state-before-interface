@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "as_of": "2026-08-08",
+  "rationale": "V1 keeps the envelope to three exact phrases whose yield was measured on 2026-08-08 (EN ~200-250/yr, DE ~107/yr for DEU buyers, FR unmeasured but structurally expected). No CPV filter: no AI-specific CPV code exists, and filtering by CPV would presuppose the very classification gap this observatory measures. Bycatch is expected and is handled by the gate, not the envelope. Every change to this file is a commit with a reason.",
+  "phrases": [
+    { "lang": "eng", "text": "artificial intelligence" },
+    { "lang": "deu", "text": "Künstliche Intelligenz" },
+    { "lang": "fra", "text": "intelligence artificielle" }
+  ],
+  "lookback_days": 3,
+  "change_window_days": 14,
+  "pattern_window_days": 90
+}

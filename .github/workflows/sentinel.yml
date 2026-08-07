@@ -1,0 +1,64 @@
+# The nightly observation. Pattern proven in frankbueltge.de's pipelines:
+# the run only writes files; committing is a separate step under the
+# machine's own identity; deploys hang off the push via deploy.yml.
+name: sentinel
+
+on:
+  schedule:
+    - cron: "15 5 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  actions: write
+
+concurrency:
+  group: sentinel
+
+jobs:
+  observe:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install sentinel
+        run: python -m pip install --quiet -e ./sentinel
+
+      - name: Observe
+        run: python -m sentinel.run --repo-root . --summary-out "$RUNNER_TEMP/summary.json"
+
+      - name: Rebuild public page
+        run: python site/generate.py --repo-root .
+
+      - name: Verify provenance chain
+        run: python verify.py --repo-root .
+
+      - name: Commit observation
+        run: |
+          git config user.name "Observatory"
+          git config user.email "observatory@state-before-interface.invalid"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "nothing to commit"
+            exit 0
+          fi
+          git commit -m "sentinel: observation of $(date -u +%F)"
+          for attempt in 1 2 3 4 5; do
+            if git push; then exit 0; fi
+            git pull --rebase
+          done
+          echo "push failed after 5 attempts" >&2
+          exit 1
+
+      - name: Open case mode for surviving candidates
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          for cid in $(jq -r '.opened[]' "$RUNNER_TEMP/summary.json"); do
+            gh workflow run case-mode.yml -f candidate_id="$cid" \
+              || echo "case-mode trigger failed for $cid"
+          done

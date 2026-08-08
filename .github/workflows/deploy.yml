@@ -1,6 +1,7 @@
-# Publishes the committed public/ directory to Cloudflare Pages.
-# Lesson from frankbueltge.de kept: exactly ONE deployer for the project.
-# Degrades honestly: without the CF secret the page lives only in the repo.
+# Publishes the committed public/ directory to GitHub Pages.
+# Decision 2026-08-08: GitHub Pages instead of Cloudflare Pages — zero secrets,
+# zero manual setup, live from day one. The lesson from frankbueltge.de is
+# kept either way: exactly ONE deployer for this project.
 name: deploy
 
 on:
@@ -8,23 +9,31 @@ on:
     branches: [main]
   workflow_dispatch:
 
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
 concurrency:
   group: deploy
+  cancel-in-progress: true
 
 jobs:
   pages:
     runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
 
-      - name: Deploy public/ to Cloudflare Pages
-        env:
-          CLOUDFLARE_API_TOKEN: ${{ secrets.CF }}
-          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CF_ACCOUNT_ID }}
-        run: |
-          if [ -z "$CLOUDFLARE_API_TOKEN" ]; then
-            echo "CF secret not configured — deploy skipped; the page exists in the repo."
-            exit 0
-          fi
-          npx wrangler@4 pages deploy public \
-            --project-name=state-before-interface --branch=main
+      - uses: actions/configure-pages@v5
+        with:
+          enablement: true
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+
+      - id: deployment
+        uses: actions/deploy-pages@v4

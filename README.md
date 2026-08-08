@@ -105,8 +105,8 @@ source classes · anything irreversible.
   secret (subscription auth, preferred) or `ANTHROPIC_API_KEY` (API billing).
   With subscription auth the protocol records model and tokens; the cost field
   stays 0 (covered by the subscription).
-- `deploy.yml` — publishes `public/` to Cloudflare Pages; requires the `CF`
-  secret. Both workflows degrade honestly when their secret is missing.
+- `deploy.yml` — publishes `public/` to GitHub Pages on every push to main
+  (no secrets required): https://frankbueltge.github.io/state-before-interface/
 
 Local:
 

@@ -1,7 +1,9 @@
 # Case mode: an ephemeral agent run investigating exactly one candidate.
 # Delivers via pull request; ci.yml (tests + verify.py) is the publication
 # gate, automerge.yml completes the standing delegation once CI is green.
-# Degrades honestly: without ANTHROPIC_API_KEY the run fails visibly.
+# Auth: CLAUDE_CODE_OAUTH_TOKEN (subscription, preferred — no per-token
+# billing) or ANTHROPIC_API_KEY (API billing, fallback). Degrades honestly:
+# without either secret the run fails visibly.
 name: case-mode
 
 on:
@@ -24,12 +26,13 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Require the model key
+      - name: Require model access
         env:
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: |
-          if [ -z "$ANTHROPIC_API_KEY" ]; then
-            echo "::error::ANTHROPIC_API_KEY is not configured — case mode cannot run. The candidate stays OPEN; nothing is invented."
+          if [ -z "$CLAUDE_CODE_OAUTH_TOKEN" ] && [ -z "$ANTHROPIC_API_KEY" ]; then
+            echo "::error::Neither CLAUDE_CODE_OAUTH_TOKEN (subscription) nor ANTHROPIC_API_KEY (API billing) is configured — case mode cannot run. The candidate stays OPEN; nothing is invented."
             exit 1
           fi
 
@@ -48,6 +51,7 @@ jobs:
 
       - name: Investigate
         env:
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           CANDIDATE: ${{ inputs.candidate_id }}
         run: |

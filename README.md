@@ -101,7 +101,10 @@ source classes · anything irreversible.
   <observatory@state-before-interface.invalid>`, triggers case mode for newly
   opened candidates.
 - `ci.yml` — tests + `verify.py` on every push and PR.
-- `case-mode.yml` — the agent run; requires the `ANTHROPIC_API_KEY` secret.
+- `case-mode.yml` — the agent run; requires the `CLAUDE_CODE_OAUTH_TOKEN`
+  secret (subscription auth, preferred) or `ANTHROPIC_API_KEY` (API billing).
+  With subscription auth the protocol records model and tokens; the cost field
+  stays 0 (covered by the subscription).
 - `deploy.yml` — publishes `public/` to Cloudflare Pages; requires the `CF`
   secret. Both workflows degrade honestly when their secret is missing.
 

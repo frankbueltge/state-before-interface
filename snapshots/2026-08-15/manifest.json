@@ -1,0 +1,29 @@
+{
+  "entries": [
+    {
+      "bytes": 39707,
+      "file": "snapshots/2026-08-15/search/artificial-intelligence-p1.json",
+      "http_status": 200,
+      "retrieved_at": "2026-08-15T05:43:47+00:00",
+      "sha256": "b7f82aa11a2a3388f75a049b04161fd48d582203877e3fd20b0e714b619971f2",
+      "url": "https://api.ted.europa.eu/v3/notices/search"
+    },
+    {
+      "bytes": 24595,
+      "file": "snapshots/2026-08-15/search/kunstliche-intelligenz-p1.json",
+      "http_status": 200,
+      "retrieved_at": "2026-08-15T05:43:48+00:00",
+      "sha256": "f5be5097ac06047666ea6e6371b806d53d6192b99b5975381e835d90c7479e30",
+      "url": "https://api.ted.europa.eu/v3/notices/search"
+    },
+    {
+      "bytes": 6952,
+      "file": "snapshots/2026-08-15/search/intelligence-artificielle-p1.json",
+      "http_status": 200,
+      "retrieved_at": "2026-08-15T05:43:50+00:00",
+      "sha256": "4035c5fc41afb81bf77a69e8805b7fcf0c2f3dde7abdcf1a09dd4a29b1ea71f7",
+      "url": "https://api.ted.europa.eu/v3/notices/search"
+    }
+  ],
+  "run_date": "2026-08-15"
+}

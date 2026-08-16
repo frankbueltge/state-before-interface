@@ -1,0 +1,563 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><ContractNotice xmlns="urn:oasis:names:specification:ubl:schema:xsd:ContractNotice-2" xmlns:cac="urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-2" xmlns:cbc="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-2" xmlns:efac="http://data.europa.eu/p27/eforms-ubl-extension-aggregate-components/1" xmlns:efbc="http://data.europa.eu/p27/eforms-ubl-extension-basic-components/1" xmlns:efext="http://data.europa.eu/p27/eforms-ubl-extensions/1" xmlns:ext="urn:oasis:names:specification:ubl:schema:xsd:CommonExtensionComponents-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <ext:UBLExtensions>
+      <ext:UBLExtension>
+         <ext:ExtensionContent>
+            <efext:EformsExtension>
+               <efac:Changes>
+                  <efbc:ChangedNoticeIdentifier>1fd6bc64-d9c7-4d2d-bc3d-fb6222ef191b-01</efbc:ChangedNoticeIdentifier>
+                  <efac:Change>
+                     <efac:ChangedSection>
+                        <efbc:ChangedSectionIdentifier>LOT-0000</efbc:ChangedSectionIdentifier>
+                     </efac:ChangedSection>
+                  </efac:Change>
+                  <efac:ChangeReason>
+                     <cbc:ReasonCode listName="change-corrig-justification">update-add</cbc:ReasonCode>
+                     <efbc:ReasonDescription languageID="DEU">Informationen zur Ortsbesichtigung.</efbc:ReasonDescription>
+                  </efac:ChangeReason>
+               </efac:Changes>
+               <efac:NoticeSubType>
+                  <cbc:SubTypeCode listName="notice-subtype">16</cbc:SubTypeCode>
+               </efac:NoticeSubType>
+               <efac:Organizations>
+                  <efac:Organization>
+                     <efbc:AcquiringCPBIndicator>false</efbc:AcquiringCPBIndicator>
+                     <efbc:AwardingCPBIndicator>false</efbc:AwardingCPBIndicator>
+                     <efac:Company>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-7001</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="DEU">Ostbayerische Technische Hochschule (OTH) Amberg-Weiden, Standort Amberg</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:StreetName>Kaiser-Wilhelm-Ring 23</cbc:StreetName>
+                           <cbc:CityName>Amberg</cbc:CityName>
+                           <cbc:PostalZone>92224</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">DE231</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">DEU</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>DE814759583</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:Telephone>022885029175</cbc:Telephone>
+                           <cbc:ElectronicMail>vergabe@ebnerstolz.de</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+                  <efac:Organization>
+                     <efac:Company>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-7004</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="DEU">Vergabekammer Nordbayern, Regierung Mittelfranken</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:StreetName>Promenade 27</cbc:StreetName>
+                           <cbc:CityName>Ansbach</cbc:CityName>
+                           <cbc:PostalZone>91522</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">DE251</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">DEU</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>0981531837</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                     </efac:Company>
+                  </efac:Organization>
+               <efac:Organization><efac:Company><cac:PartyIdentification><cbc:ID schemeName="organization">ORG-7005</cbc:ID></cac:PartyIdentification><cac:PartyName><cbc:Name languageID="DEU">Datenservice Öffentlicher Einkauf (in Verantwortung des Beschaffungsamts des BMI)</cbc:Name></cac:PartyName><cac:PostalAddress><cbc:CityName>Bonn</cbc:CityName><cbc:PostalZone>53119</cbc:PostalZone><cbc:CountrySubentityCode listName="nuts">DEA22</cbc:CountrySubentityCode><cac:Country><cbc:IdentificationCode listName="country">DEU</cbc:IdentificationCode></cac:Country></cac:PostalAddress><cac:PartyLegalEntity><cbc:CompanyID schemeID="002">0204:994-DOEVD-83</cbc:CompanyID></cac:PartyLegalEntity><cac:Contact><cbc:Telephone>+49228996100</cbc:Telephone><cbc:ElectronicMail>noreply.esender_hub@bescha.bund.de</cbc:ElectronicMail></cac:Contact></efac:Company></efac:Organization></efac:Organizations>
+            <efac:Publication><efbc:NoticePublicationID schemeName="ojs-notice-id">00561106-2026</efbc:NoticePublicationID><efbc:GazetteID schemeName="ojs-id">155/2026</efbc:GazetteID><efbc:PublicationDate>2026-08-13+02:00</efbc:PublicationDate></efac:Publication></efext:EformsExtension>
+         </ext:ExtensionContent>
+      </ext:UBLExtension>
+   </ext:UBLExtensions>
+   <cbc:UBLVersionID>2.3</cbc:UBLVersionID>
+   <cbc:CustomizationID>eforms-sdk-1.13</cbc:CustomizationID>
+   <cbc:ProfileID>eforms-sdk-1.13</cbc:ProfileID>
+   <cbc:ID schemeName="notice-id">7de131d6-003f-43d3-b752-f89a1e834605</cbc:ID>
+   <cbc:ContractFolderID>988be722-9dd7-4eb9-89b7-d17a18f1cf69</cbc:ContractFolderID>
+   <cbc:IssueDate>2026-08-11+02:00</cbc:IssueDate>
+   <cbc:IssueTime>15:25:42+02:00</cbc:IssueTime>
+   <cbc:VersionID>01</cbc:VersionID>
+   <cbc:RequestedPublicationDate>2026-08-11+02:00</cbc:RequestedPublicationDate>
+   <cbc:RegulatoryDomain>32014L0024</cbc:RegulatoryDomain>
+   <cbc:NoticeTypeCode listName="competition">cn-standard</cbc:NoticeTypeCode>
+   <cbc:NoticeLanguageCode listName="language">DEU</cbc:NoticeLanguageCode>
+   <cac:ContractingParty>
+      <cac:ContractingPartyType>
+         <cbc:PartyTypeCode listName="buyer-legal-type">body-pl-ra</cbc:PartyTypeCode>
+      </cac:ContractingPartyType>
+      <cac:ContractingActivity>
+         <cbc:ActivityTypeCode listName="authority-activity">education</cbc:ActivityTypeCode>
+      </cac:ContractingActivity>
+      <cac:Party>
+         <cac:PartyIdentification>
+            <cbc:ID schemeName="organization">ORG-7001</cbc:ID>
+         </cac:PartyIdentification>
+      <cac:ServiceProviderParty><cbc:ServiceTypeCode listName="organisation-role">ted-esen</cbc:ServiceTypeCode><cac:Party><cac:PartyIdentification><cbc:ID schemeName="organization">ORG-7005</cbc:ID></cac:PartyIdentification></cac:Party></cac:ServiceProviderParty></cac:Party>
+   </cac:ContractingParty>
+   <cac:TenderingTerms>
+      <cac:ProcurementLegislationDocumentReference>
+         <cbc:ID>vgv</cbc:ID>
+      </cac:ProcurementLegislationDocumentReference>
+      <cac:TendererQualificationRequest>
+         <cac:SpecificTendererRequirement>
+            <cbc:TendererRequirementTypeCode listName="exclusion-grounds-source">epo-notice</cbc:TendererRequirementTypeCode>
+         </cac:SpecificTendererRequirement>
+      </cac:TendererQualificationRequest>
+      <cac:TendererQualificationRequest>
+         <cac:SpecificTendererRequirement>
+            <cbc:TendererRequirementTypeCode listName="exclusion-ground">exg-sitn-other</cbc:TendererRequirementTypeCode>
+            <cbc:Description languageID="DEU">Beschreibung und Nachweis über die
+Anlage 2F2 Eigenerklärungen zur Eignung; auf die §§ 123, 124 GWB verwiesen.</cbc:Description>
+         </cac:SpecificTendererRequirement>
+         <cac:SpecificTendererRequirement>
+            <cbc:TendererRequirementTypeCode listName="exclusion-ground">exg-crim-corrpt</cbc:TendererRequirementTypeCode>
+            <cbc:Description languageID="DEU">Beschreibung und Nachweis über die
+Anlage 2F2 Eigenerklärungen zur Eignung; auf die §§ 123, 124 GWB wird verwiesen.</cbc:Description>
+         </cac:SpecificTendererRequirement>
+         <cac:SpecificTendererRequirement>
+            <cbc:TendererRequirementTypeCode listName="exclusion-ground">exg-crim-part</cbc:TendererRequirementTypeCode>
+            <cbc:Description languageID="DEU">Beschreibung und Nachweis über die
+Anlage 2F2 Eigenerklärungen zur Eignung; auf die §§ 123, 124 GWB wird verwiesen.</cbc:Description>
+         </cac:SpecificTendererRequirement>
+         <cac:SpecificTendererRequirement>
+            <cbc:TendererRequirementTypeCode listName="exclusion-ground">exg-mis-distortion</cbc:TendererRequirementTypeCode>
+            <cbc:Description languageID="DEU">Beschreibung und Nachweis über die
+Anlage 2F2 Eigenerklärungen zur Eignung; auf die §§ 123, 124 GWB wird verwiesen.</cbc:Description>
+         </cac:SpecificTendererRequirement>
+         <cac:SpecificTendererRequirement>
+            <cbc:TendererRequirementTypeCode listName="exclusion-ground">exg-mis-bre-env-law</cbc:TendererRequirementTypeCode>
+            <cbc:Description languageID="DEU">Beschreibung und Nachweis über die
+Anlage 2F2 Eigenerklärungen zur Eignung; auf die §§ 123, 124 GWB wird verwiesen.</cbc:Description>
+         </cac:SpecificTendererRequirement>
+         <cac:SpecificTendererRequirement>
+            <cbc:TendererRequirementTypeCode listName="exclusion-ground">exg-crim-laund</cbc:TendererRequirementTypeCode>
+            <cbc:Description languageID="DEU">Beschreibung und Nachweis über die
+Anlage 2F2 Eigenerklärungen zur Eignung; auf die §§ 123, 124 GWB wird verwiesen.</cbc:Description>
+         </cac:SpecificTendererRequirement>
+         <cac:SpecificTendererRequirement>
+            <cbc:TendererRequirementTypeCode listName="exclusion-ground">exg-crim-fraud</cbc:TendererRequirementTypeCode>
+            <cbc:Description languageID="DEU">Beschreibung und Nachweis über die
+Anlage 2F2 Eigenerklärungen zur Eignung; auf die §§ 123, 124 GWB wird verwiesen.</cbc:Description>
+         </cac:SpecificTendererRequirement>
+         <cac:SpecificTendererRequirement>
+            <cbc:TendererRequirementTypeCode listName="exclusion-ground">exg-crim-traffick</cbc:TendererRequirementTypeCode>
+            <cbc:Description languageID="DEU">Beschreibung und Nachweis über die
+Anlage 2F2 Eigenerklärungen zur Eignung; auf die §§ 123, 124 GWB wird verwiesen.</cbc:Description>
+         </cac:SpecificTendererRequirement>
+         <cac:SpecificTendererRequirement>
+            <cbc:TendererRequirementTypeCode listName="exclusion-ground">exg-sitn-insolvency</cbc:TendererRequirementTypeCode>
+            <cbc:Description languageID="DEU">Beschreibung und Nachweis über die
+Anlage 2F2 Eigenerklärungen zur Eignung; auf die §§ 123, 124 GWB wird verwiesen.</cbc:Description>
+         </cac:SpecificTendererRequirement>
+         <cac:SpecificTendererRequirement>
+            <cbc:TendererRequirementTypeCode listName="exclusion-ground">exg-mis-bre-lab-law</cbc:TendererRequirementTypeCode>
+            <cbc:Description languageID="DEU">Beschreibung und Nachweis über die
+Anlage 2F2 Eigenerklärungen zur Eignung; auf die §§ 123, 124 GWB wird verwiesen.</cbc:Description>
+         </cac:SpecificTendererRequirement>
+         <cac:SpecificTendererRequirement>
+            <cbc:TendererRequirementTypeCode listName="exclusion-ground">exg-sitn-liq-admin</cbc:TendererRequirementTypeCode>
+            <cbc:Description languageID="DEU">Beschreibung und Nachweis über die
+Anlage 2F2 Eigenerklärungen zur Eignung; auf die §§ 123, 124 GWB wird verwiesen.</cbc:Description>
+         </cac:SpecificTendererRequirement>
+         <cac:SpecificTendererRequirement>
+            <cbc:TendererRequirementTypeCode listName="exclusion-ground">exg-mis-misrepresent</cbc:TendererRequirementTypeCode>
+            <cbc:Description languageID="DEU">Beschreibung und Nachweis über die
+Anlage 2F2 Eigenerklärungen zur Eignung; auf die §§ 123, 124 GWB wird verwiesen.</cbc:Description>
+         </cac:SpecificTendererRequirement>
+         <cac:SpecificTendererRequirement>
+            <cbc:TendererRequirementTypeCode listName="exclusion-ground">exg-mis-partic-confl</cbc:TendererRequirementTypeCode>
+            <cbc:Description languageID="DEU">Beschreibung und Nachweis über die
+Anlage 2F2 Eigenerklärungen zur Eignung; auf die §§ 123, 124 GWB wird verwiesen.</cbc:Description>
+         </cac:SpecificTendererRequirement>
+         <cac:SpecificTendererRequirement>
+            <cbc:TendererRequirementTypeCode listName="exclusion-ground">exg-mis-prep-confl</cbc:TendererRequirementTypeCode>
+            <cbc:Description languageID="DEU">Beschreibung und Nachweis über die
+Anlage 2F2 Eigenerklärungen zur Eignung; auf die §§ 123, 124 GWB wird verwiesen.</cbc:Description>
+         </cac:SpecificTendererRequirement>
+         <cac:SpecificTendererRequirement>
+            <cbc:TendererRequirementTypeCode listName="exclusion-ground">exg-mis-misconduct</cbc:TendererRequirementTypeCode>
+            <cbc:Description languageID="DEU">Beschreibung und Nachweis über die
+Anlage 2F2 Eigenerklärungen zur Eignung; auf die §§ 123, 124 GWB wird verwiesen.</cbc:Description>
+         </cac:SpecificTendererRequirement>
+         <cac:SpecificTendererRequirement>
+            <cbc:TendererRequirementTypeCode listName="exclusion-ground">exg-mis-sanction</cbc:TendererRequirementTypeCode>
+            <cbc:Description languageID="DEU">Beschreibung und Nachweis über die
+Anlage 2F2 Eigenerklärungen zur Eignung; auf die §§ 123, 124 GWB wird verwiesen.</cbc:Description>
+         </cac:SpecificTendererRequirement>
+         <cac:SpecificTendererRequirement>
+            <cbc:TendererRequirementTypeCode listName="exclusion-ground">exg-mis-bre-soc-law</cbc:TendererRequirementTypeCode>
+            <cbc:Description languageID="DEU">Beschreibung und Nachweis über die
+Anlage 2F2 Eigenerklärungen zur Eignung; auf die §§ 123, 124 GWB wird verwiesen.</cbc:Description>
+         </cac:SpecificTendererRequirement>
+         <cac:SpecificTendererRequirement>
+            <cbc:TendererRequirementTypeCode listName="exclusion-ground">exg-pmt-bre-ssc</cbc:TendererRequirementTypeCode>
+            <cbc:Description languageID="DEU">Beschreibung und Nachweis über die
+Anlage 2F2 Eigenerklärungen zur Eignung; auf die §§ 123, 124 GWB wird verwiesen.</cbc:Description>
+         </cac:SpecificTendererRequirement>
+         <cac:SpecificTendererRequirement>
+            <cbc:TendererRequirementTypeCode listName="exclusion-ground">exg-sitn-as-susp</cbc:TendererRequirementTypeCode>
+            <cbc:Description languageID="DEU">Beschreibung und Nachweis über die
+Anlage 2F2 Eigenerklärungen zur Eignung; auf die §§ 123, 124 GWB wird verwiesen.</cbc:Description>
+         </cac:SpecificTendererRequirement>
+         <cac:SpecificTendererRequirement>
+            <cbc:TendererRequirementTypeCode listName="exclusion-ground">exg-pmt-bre-tax</cbc:TendererRequirementTypeCode>
+            <cbc:Description languageID="DEU">Beschreibung und Nachweis über die
+Anlage 2F2 Eigenerklärungen zur Eignung; auf die §§ 123, 124 GWB wird verwiesen.</cbc:Description>
+         </cac:SpecificTendererRequirement>
+         <cac:SpecificTendererRequirement>
+            <cbc:TendererRequirementTypeCode listName="exclusion-ground">exg-crim-terror</cbc:TendererRequirementTypeCode>
+            <cbc:Description languageID="DEU">Beschreibung und Nachweis über die
+Anlage 2F2 Eigenerklärungen zur Eignung; auf die §§ 123, 124 GWB wird verwiesen.</cbc:Description>
+         </cac:SpecificTendererRequirement>
+      </cac:TendererQualificationRequest>
+   </cac:TenderingTerms>
+   <cac:TenderingProcess>
+      <cbc:ProcedureCode listName="procurement-procedure-type">open</cbc:ProcedureCode>
+      <cac:ProcessJustification>
+         <cbc:ProcessReasonCode listName="accelerated-procedure">false</cbc:ProcessReasonCode>
+      </cac:ProcessJustification>
+   </cac:TenderingProcess>
+   <cac:ProcurementProject>
+      <cbc:ID>OTH 01/2026</cbc:ID>
+      <cbc:Name languageID="DEU">Modernisierung der Infrastruktur des Videostudios im Multimedialabor am Standort Amberg</cbc:Name>
+      <cbc:Description languageID="DEU">Ziel des Projekts ist die Erneuerung und Modernisierung der medientechnischen Ausstattung eines multifunktionalen Veranstaltungsraums in Form eines Studiolabors der Ostbayerischen Technischen Hochschule Amberg-Weiden.</cbc:Description>
+      <cbc:ProcurementTypeCode listName="contract-nature">supplies</cbc:ProcurementTypeCode>
+      <cbc:Note languageID="DEU">A) Die Vergabeunterlagen stehen ausschließlich auf der Vergabeplattform  zum Herunterladen zur Verfügung. Sofern während des Vergabeverfahrens Änderungen an den Vergabeunterlagen vorgenommen oder zusätzliche Informationen bereitgestellt werden, erfolgt dies ebenfalls ausschließlich auf elektronischem Weg über die Vergabeplattform. Die potentiellen Bieter werden hierüber nur gesondert informiert, wenn Sie sich auf der Vergabeplattform registrieren. Anderenfalls obliegt es den Bietern selbst, regelmäßig zu prüfen, ob auf der Vergabeplattform neue Informationen zum Verfahren bereitstehen.
+****
+B) Die Angebote sind in Textform ausschließlich über die Vergabeplattform  einzureichen. Auf postalischem Wege oder per E-Mail übermittelte Angebote sind nicht zugelassen.
+****
+C) Die Bieter haben eine Eigenerklärung darüber einzureichen, ob Ausschlussgründe nach § 123 Abs. 1 bis 4 GWB und § 124 Abs. 1 GWB, nach §§ 21 Abs. 1 und Abs. 3 i. V. m. § 23 Abs. 2 und Abs. 3 AEntG, nach §§ 19 Abs. 1 und Abs. 3 i. V. m. § 21 MiLoG und nach § 21 SchwarzArbG vorliegen (s. Formblatt 2.1 Eignung in den Vergabeunterlagen). Darüber hinaus haben die Bieter die Eigenerklärungen "Mustererklärung Mindestentgelt" und "Erklärung Extremismus" einzureichen.
+****
+D) Sofern sich Bietergemeinschaften beteiligen, ist mit dem Angebot eine von allen Mitgliedern der Bietergemeinschaft unterzeichnete Bietergemeinschaftserklärung vorzulegen, in der u. a. ein bevollmächtigter Vertreter benannt wird und die gesamtschuldnerische Haftung der Mitglieder im Auftragsfall erklärt wird. Das Formblatt Eignung und die weiteren Eigenerklärungen sind in diesem Fall von jedem Mitglied der Bietergemeinschaft vorzulegen. Die Eignung der Mitglieder einer ordnungsgemäß teilnehmenden Bietergemeinschaft (Referenzen, Umsatzzahlen etc.) wird kumulativ berücksichtigt.
+****
+E) Das Formblatt Eignung (Anlage 2) ist auch zu verwenden von Nachunternehmen, welche Teile des Auftrags erbringen sollen (Unteraufträge gemäß § 36 VgV), und Drittunternehmen, auf deren Eignung sich der Bieter/die Bietergemeinschaft beruft (Eignungsleihe gemäß § 47 VgV). Nachunternehmen müssen lediglich die Eigenerklärung zum Nichtvorliegen von Ausschlussgründen (Anlage 2.1.) abgeben. Drittunternehmen müssen ebenfalls die Eigenerklärung zum Nichtvorliegen von Ausschlussgründen abgeben. Darüber hinaus sind Angaben zu denjenigen Eignungskriterien zu machen, die der Bieter/die Bietergemeinschaft im Rahmen der Eignungsleihe in Anspruch nehmen will.
+****
+F) Fragen zu den Vergabeunterlagen (Bieterfragen) sind im Hinblick auf § 20 Abs. 3 Nr. 1 VgV spätestens bis zum 9. Kalendertag vor Ablauf der Angebotsfrist in Textform über den entsprechenden Projektraum des Vergabeportals zu stellen.</cbc:Note>
+      <cac:MainCommodityClassification>
+         <cbc:ItemClassificationCode listName="cpv">32000000</cbc:ItemClassificationCode>
+      </cac:MainCommodityClassification>
+      <cac:RealizedLocation>
+         <cac:Address>
+            <cbc:CityName>Amberg</cbc:CityName>
+            <cbc:PostalZone>92224</cbc:PostalZone>
+            <cbc:CountrySubentityCode listName="nuts">DE231</cbc:CountrySubentityCode>
+            <cac:Country>
+               <cbc:IdentificationCode listName="country">DEU</cbc:IdentificationCode>
+            </cac:Country>
+         </cac:Address>
+      </cac:RealizedLocation>
+   </cac:ProcurementProject>
+   <cac:ProcurementProjectLot>
+      <cbc:ID schemeName="Lot">LOT-0000</cbc:ID>
+      <cac:TenderingTerms>
+         <ext:UBLExtensions>
+            <ext:UBLExtension>
+               <ext:ExtensionContent>
+                  <efext:EformsExtension>
+                     <efac:SelectionCriteria>
+                        <cbc:TendererRequirementTypeCode listName="selection-criterion">slc-abil-mgmt-qual</cbc:TendererRequirementTypeCode>
+                        <cbc:Description languageID="DEU">A) Auf gesonderte Anforderung: Darstellung der gesellschaftsrechtlichen Strukturen des Bieters in Form einer Eigenerklärung.
+B) Auf gesonderte Anforderung: Eigenerklärung, dass keinerlei Eigentumsverflechtungen mit anderen Firmen, die als Hersteller, Provider oder Systemintegratoren von Produkten und Lösungen in Frage kommen, bestehen.
+C) Das angebotene Personal muss mindestens über das Niveau C1 in Deutsch des gemeinsamen europäischen Referenzrahmens für Sprachen verfügen.</cbc:Description>
+                     </efac:SelectionCriteria>
+                     <efac:SelectionCriteria>
+                        <cbc:TendererRequirementTypeCode listName="selection-criterion">slc-abil-ref-work</cbc:TendererRequirementTypeCode>
+                        <cbc:Description languageID="DEU">Erklärung zur beruflichen Leistungsfähigkeit (§ 122 Abs.2 Nr.3 GWB i.V.m. § 46 Abs. 3 Nr. 1, 1. Halbsatz VgV) durch Eigenerklärung des Bieters
+
+Mindestanforderung:
+
+Drei geeignete Referenzen über vergleichbare abgeschlossene Leistungen aus den letzten 3 Jahren. 
+
+Die Vergleichbarkeit ist gegeben, wenn je Referenz folgende Mindestanforderungen erfüllt sind:
+
+(1)Leistungsart: Planung, Lieferung, Installation und Inbetriebnahme von Broadcast- und Studio-Produktionstechnik oder vergleichbaren Systemen
+(2)Einsatzbereich: z. B. Rundfunkanstalten, Hochschulen oder vergleichbare anspruchsvolle Umgebungen
+(3)Technische Komplexität: u. a. Integration von Broadcast- oder Produktionssystemen mit dem AVoIP SMPTE 2110 Standard und Einsatz eines Orchestrator-Systems 
+(4)Rahmenbedingungen: Durchführung in Bestandsgebäuden und/oder unter laufendem Betrieb
+(5)Mindestvolumen: Jede Referenz muss ein Mindestauftragsvolumen von 1.000.000 € ohne USt. aufweisen.
+
+Für jede Referenz sind vollständig und prüffähig die folgenden Angaben zu machen:
+
+(1)Name und Art des Auftraggebers (idealerweise öffentlicher Auftraggeber)
+(2)Ansprechpartner des Auftraggebers inkl. Telefonnummer und/oder E-Mail-Adresse
+(3)Leistungszeitraum (Beginn und Fertigstellung)
+(4)Kurzbeschreibung des Projekts
+(5)Beschreibung der erbrachten Leistungen (inkl. verwendeter Hauptkomponenten / Technologien)
+(6)Projektumfang (z. B. Anzahl ausgestatteter Räume, Systemkomplexität)
+(7)Auftragswert in Euro ohne USt.
+
+Der Auftraggeber behält sich ausdrücklich vor, die angegebenen Referenzen zu verifizieren.</cbc:Description>
+                     </efac:SelectionCriteria>
+                     <efac:SelectionCriteria>
+                        <cbc:TendererRequirementTypeCode listName="selection-criterion">slc-abil-staff-yrly-no-mgmt</cbc:TendererRequirementTypeCode>
+                        <cbc:Description languageID="DEU">Nachweis zu den in den letzten 3 Jahren Beschäftigten und der Führungskräfte des Bieters / der Bietergemeinschaft gemäß § 46 Abs. 3 Nr. 8 VgV.
+
+Mindestanforderung:
+
+Der Bieter hat mindestens 3 (drei) Schlüsselpersonen zu benennen, die für die Durchführung des Auftrags vorgesehen sind. Folgende Rollen sind zwingend zu besetzen:
+
+(1) Projektleiter
+(2) Projektingenieur
+(3) 1 Projektmitarbeiter
+
+Der vorgesehene Projektleiter muss folgende Mindestanforderungen erfüllen:
+
+(1) Mindestens 5 Jahre Berufserfahrung als Projektleiter im Bereich Medien-, AV- oder Veranstaltungstechnik
+(2) Abgeschlossenes
+• MINT-Studium oder
+• anerkannte technische Berufsausbildung
+
+Nachweise sind in geeigneter Form beizufügen (z. B. Lebenslauf, Projekthistorie, Zeugnisse).</cbc:Description>
+                     </efac:SelectionCriteria>
+                     <efac:SelectionCriteria>
+                        <cbc:TendererRequirementTypeCode listName="selection-criterion">slc-abil-subc</cbc:TendererRequirementTypeCode>
+                        <cbc:Description languageID="DEU">A) Falls Leistungen nicht vom Auftragnehmer selbst, sondern von Dritten (sog. Nachunternehmer oder Subunternehmer) ausgeführt werden sollen: Erklärung zum Einsatz von Nachunternehmern nebst 
+Verpflichtungserklärung des Nachunternehmers.
+B) Beruft sich ein Bieter zum Nachweis seiner Eignung (wirtschaftliche und finanzielle sowie technische und berufliche Leistungsfähigkeit) auf die Kapazitäten anderer Unternehmen (sog. Eignungsleihe), so nachweisen, dass ihm die für den Auftrag erforderlichen Mittel tatsächlich zur Verfügung stehen (für die technische und berufliche 
+Leistungsfähigkeit muss der Eignungsleihende Nachunternehmer sein, nimmt der Bieter für die wirtschaftliche und finanzielle Leistungsfähigkeit die Kapazitäten anderer Unternehmen in Anspruch, müssen diese gemeinsam für die Auftragsausführung haften; die Haftungserklärung ist gleichzeitig mit der "Verpflichtungserklärung" abzugeben).</cbc:Description>
+                     </efac:SelectionCriteria>
+                     <efac:SelectionCriteria>
+                        <cbc:TendererRequirementTypeCode listName="selection-criterion">slc-stand-ins</cbc:TendererRequirementTypeCode>
+                        <cbc:Description languageID="DEU">Erklärung zur Berufs- oder Betriebshaft-pflichtversicherung (§ 122 Abs.2 Nr.2 GWB i.V.m. § 45 Abs.1 Nr.3 
+VgV). Mindestanforderung: Nachweis einer Firmenhaftpflichtversicherung mit folgenden Deckungssummen: 
+
+Personen- und Sachschäden: Mindestens 5.000.000,00 Euro pro Schadensfall, zweifach maximiert im Jahr
+
+Vermögensschäden: Mindestens 3.000.000,00 Euro pro Schadensfall, zweifach maximiert im Jahr
+
+Die Haftpflichtversicherung muss bei einem in der EU zugelassenen Haftpflichtversicherer abgeschlossen worden sein. Die Haftpflichtversicherung muss während der gesamten Vertragslaufzeit aufrechterhalten und nachgewiesen werden. Der Bieter hat zu gewährleisten, dass zur Deckung eines Schadens aus dem Vertrag Versicherungsschutz in Höhe der im Vertrag genannten Deckungssummen besteht.
+
+Nachweis der aufgeführten Versicherungen durch Eigenerklärung nach Anlage 2F2.4 oder Bescheinigung des Versicherungsgebers, dass eine entsprechende Versicherung im Auftragsfall abgeschlossen wird (jeweils Kopie ausreichend).</cbc:Description>
+                     </efac:SelectionCriteria>
+                     <efac:SelectionCriteria>
+                        <cbc:TendererRequirementTypeCode listName="selection-criterion">slc-stand-to-spec</cbc:TendererRequirementTypeCode>
+                        <cbc:Description languageID="DEU">Erklärung zum Umsatz bezogen auf die Leistungsart, die Gegenstand der Vergabe ist, für die letzten 3 
+abgeschlossenen Geschäftsjahre (§ 122 Abs.2 Nr.2 GWB i.V.m. § 45 Abs. 4 Nr. 4 VgV).
+Mindestanforderung: 
+
+Der Netto-Umsatz des Bieters muss in den letzten 3 abgeschlossenen Geschäftsjahren mit vergleichbaren Leistungen pro Jahr mindestens 2.500.000,00 Euro ohne USt. betragen haben.</cbc:Description>
+                     </efac:SelectionCriteria>
+                     <efac:SelectionCriteria>
+                        <cbc:TendererRequirementTypeCode listName="selection-criterion">slc-suit-reg-trade</cbc:TendererRequirementTypeCode>
+                        <cbc:Description languageID="DEU">Nachweis über die Eintragung in einem Berufs- oder Handelsregister (z.B. Handelsregisterauszug) (§ 122 Abs.2 Nr.1 GWB i.V.m. § 44 Abs.1 VgV) oder sonstige Bescheinigung oder Erklärung i.S. von Anhang VII Teil B und C der Richtlinie 2014/24/EU, wenn dies nach den Rechtsvorschriften des jeweiligen Niederlassungs- bzw. Herkunftsstaates Voraussetzung für die erlaubte Berufsausübung ist.</cbc:Description>
+                     </efac:SelectionCriteria>
+                     <efac:StrategicProcurement>
+                        <efbc:ApplicableLegalBasis listName="cvd-scope">false</efbc:ApplicableLegalBasis>
+                     </efac:StrategicProcurement>
+                     <efac:StrategicProcurement>
+                        <efbc:ApplicableLegalBasis listName="eed-scope">false</efbc:ApplicableLegalBasis>
+                     </efac:StrategicProcurement>
+                  </efext:EformsExtension>
+               </ext:ExtensionContent>
+            </ext:UBLExtension>
+         </ext:UBLExtensions>
+         <cbc:VariantConstraintCode listName="permission">not-allowed</cbc:VariantConstraintCode>
+         <cbc:FundingProgramCode listName="eu-funded">no-eu-funds</cbc:FundingProgramCode>
+         <cbc:RequiredCurriculaCode listName="requirement-stage">t-requ</cbc:RequiredCurriculaCode>
+         <cbc:RecurringProcurementIndicator>false</cbc:RecurringProcurementIndicator>
+         <cbc:MultipleTendersCode listName="permission">not-allowed</cbc:MultipleTendersCode>
+         <cac:CallForTendersDocumentReference>
+            <ext:UBLExtensions>
+               <ext:UBLExtension>
+                  <ext:ExtensionContent>
+                     <efext:EformsExtension>
+                        <efac:OfficialLanguages>
+                           <cac:Language>
+                              <cbc:ID>DEU</cbc:ID>
+                           </cac:Language>
+                        </efac:OfficialLanguages>
+                     </efext:EformsExtension>
+                  </ext:ExtensionContent>
+               </ext:UBLExtension>
+            </ext:UBLExtensions>
+            <cbc:ID>TenderDoc</cbc:ID>
+            <cbc:DocumentType>non-restricted-document</cbc:DocumentType>
+            <cac:Attachment>
+               <cac:ExternalReference>
+                  <cbc:URI>https://xvergabe.de/NetServer/TenderingProcedureDetails?function=_Details&amp;TenderOID=54321-Tender-19fd1650cde-42f96b14e14a9af2&amp;</cbc:URI>
+               </cac:ExternalReference>
+            </cac:Attachment>
+         </cac:CallForTendersDocumentReference>
+         <cac:TendererQualificationRequest>
+            <cac:SpecificTendererRequirement>
+               <cbc:TendererRequirementTypeCode listName="selection-criteria-source">epo-notice</cbc:TendererRequirementTypeCode>
+            </cac:SpecificTendererRequirement>
+         </cac:TendererQualificationRequest>
+         <cac:TendererQualificationRequest>
+            <cac:SpecificTendererRequirement>
+               <cbc:TendererRequirementTypeCode listName="missing-info-submission">late-all</cbc:TendererRequirementTypeCode>
+               <cbc:Description languageID="DEU">Die Einreichung zusätzlicher Nachweise und Erklärungen durch den Bieter ist zulässig. Hat der Auftraggeber nach Auswertung der eingereichten Erklärungen und Nachweise Zweifel an der Eignung eines Bieters, kann er den Bieter zur Erläuterung der von ihm eingereichten Unterlagen auffordern; im Übrigen behält sich der Auftraggeber die Nachforderung gemäß § 56 VgV vor.</cbc:Description>
+            </cac:SpecificTendererRequirement>
+         </cac:TendererQualificationRequest>
+         <cac:TendererQualificationRequest>
+            <cac:SpecificTendererRequirement>
+               <cbc:TendererRequirementTypeCode listName="reserved-procurement">none</cbc:TendererRequirementTypeCode>
+            </cac:SpecificTendererRequirement>
+         </cac:TendererQualificationRequest>
+         <cac:ContractExecutionRequirement>
+            <cbc:ExecutionRequirementCode listName="reserved-execution">no</cbc:ExecutionRequirementCode>
+         </cac:ContractExecutionRequirement>
+         <cac:ContractExecutionRequirement>
+            <cbc:ExecutionRequirementCode listName="conditions">performance</cbc:ExecutionRequirementCode>
+            <cbc:Description languageID="DEU">A) Belege des Nichtvorliegens von Ausschlussgründen
+11) Erklärung Nichtvorliegen von Ausschlussgründen (§ 123 GWB)
+12) Erklärung Nichtvorliegen von Ausschlussgründen (§ 124 GWB)
+13) Eigenerklärung Russlandsanktionen
+
+B) Sonstige Besondere Bedingungen nach § 128 GWB
+14) Erklärung zur Einhaltung des MiLoG
+15) Eigenerklärung zur Anerkennung der Antikorruptionserklärung
+16) Eigenerklärung Unternehmensdaten
+17) Erklärung Extremismus
+18) Nach § 6 Abs. 1 WRegG ist ein öffentlicher Auftraggeber vor der Erteilung eines Zuschlags in einem Verfahren über die Vergabe öffentlicher Aufträge mit einem geschätzten Auftragswert ab 30.000 Euro ohne Umsatzsteuer verpflichtet, das Wettbewerbsregister zu demjenigen Bieterunternehmen abzufragen, das den Auftrag erhalten soll.</cbc:Description>
+         </cac:ContractExecutionRequirement>
+         <cac:ContractExecutionRequirement>
+            <cbc:ExecutionRequirementCode listName="einvoicing">allowed</cbc:ExecutionRequirementCode>
+         </cac:ContractExecutionRequirement>
+         <cac:ContractExecutionRequirement>
+            <cbc:ExecutionRequirementCode listName="ecatalog-submission">not-allowed</cbc:ExecutionRequirementCode>
+         </cac:ContractExecutionRequirement>
+         <cac:AwardingTerms>
+            <cac:AwardingCriterion>
+               <cac:SubordinateAwardingCriterion>
+                  <ext:UBLExtensions>
+                     <ext:UBLExtension>
+                        <ext:ExtensionContent>
+                           <efext:EformsExtension>
+                              <efac:AwardCriterionParameter>
+                                 <efbc:ParameterCode listName="number-weight">per-exa</efbc:ParameterCode>
+                                 <efbc:ParameterNumeric>25.00</efbc:ParameterNumeric>
+                              </efac:AwardCriterionParameter>
+                           </efext:EformsExtension>
+                        </ext:ExtensionContent>
+                     </ext:UBLExtension>
+                  </ext:UBLExtensions>
+                  <cbc:AwardingCriterionTypeCode listName="award-criterion-type">quality</cbc:AwardingCriterionTypeCode>
+                  <cbc:Name languageID="DEU">Integrations- und Umsetzungskonzept inkl. Terminverlaufsplan</cbc:Name>
+                  <cbc:Description languageID="DEU">siehe Vergabeunterlagen</cbc:Description>
+               </cac:SubordinateAwardingCriterion>
+               <cac:SubordinateAwardingCriterion>
+                  <ext:UBLExtensions>
+                     <ext:UBLExtension>
+                        <ext:ExtensionContent>
+                           <efext:EformsExtension>
+                              <efac:AwardCriterionParameter>
+                                 <efbc:ParameterCode listName="number-weight">per-exa</efbc:ParameterCode>
+                                 <efbc:ParameterNumeric>25.00</efbc:ParameterNumeric>
+                              </efac:AwardCriterionParameter>
+                           </efext:EformsExtension>
+                        </ext:ExtensionContent>
+                     </ext:UBLExtension>
+                  </ext:UBLExtensions>
+                  <cbc:AwardingCriterionTypeCode listName="award-criterion-type">quality</cbc:AwardingCriterionTypeCode>
+                  <cbc:Name languageID="DEU">Organisation, Qualifikation und Erfahrung des für die Bearbeitung vorgesehenen Personals</cbc:Name>
+                  <cbc:Description languageID="DEU">siehe Vergabeunterlagen</cbc:Description>
+               </cac:SubordinateAwardingCriterion>
+               <cac:SubordinateAwardingCriterion>
+                  <ext:UBLExtensions>
+                     <ext:UBLExtension>
+                        <ext:ExtensionContent>
+                           <efext:EformsExtension>
+                              <efac:AwardCriterionParameter>
+                                 <efbc:ParameterCode listName="number-weight">per-exa</efbc:ParameterCode>
+                                 <efbc:ParameterNumeric>50.00</efbc:ParameterNumeric>
+                              </efac:AwardCriterionParameter>
+                           </efext:EformsExtension>
+                        </ext:ExtensionContent>
+                     </ext:UBLExtension>
+                  </ext:UBLExtensions>
+                  <cbc:AwardingCriterionTypeCode listName="award-criterion-type">price</cbc:AwardingCriterionTypeCode>
+                  <cbc:Name languageID="DEU">Preis</cbc:Name>
+                  <cbc:Description languageID="DEU">Preis</cbc:Description>
+               </cac:SubordinateAwardingCriterion>
+            </cac:AwardingCriterion>
+         </cac:AwardingTerms>
+         <cac:TenderRecipientParty>
+            <cbc:EndpointID>https://www.xvergabe.de</cbc:EndpointID>
+         </cac:TenderRecipientParty>
+         <cac:TenderValidityPeriod>
+            <cbc:DurationMeasure unitCode="MONTH">3</cbc:DurationMeasure>
+         </cac:TenderValidityPeriod>
+         <cac:AppealTerms>
+            <cac:PresentationPeriod>
+               <cbc:Description languageID="DEU">Innerhalb von 15 Kalendertagen nach Eingang der Mitteilung des Auftraggebers, einer Rüge nicht abhelfen zu wollen, kann ein Nachprüfverfahren bei der Vergabekammer beantragt werden (§ 160 Abs. 3 Nr. 4 GWB).</cbc:Description>
+            </cac:PresentationPeriod>
+            <cac:AppealReceiverParty>
+               <cac:PartyIdentification>
+                  <cbc:ID schemeName="organization">ORG-7004</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealReceiverParty>
+         </cac:AppealTerms>
+         <cac:Language>
+            <cbc:ID>DEU</cbc:ID>
+         </cac:Language>
+         <cac:PostAwardProcess>
+            <cbc:ElectronicOrderUsageIndicator>true</cbc:ElectronicOrderUsageIndicator>
+            <cbc:ElectronicPaymentUsageIndicator>true</cbc:ElectronicPaymentUsageIndicator>
+         </cac:PostAwardProcess>
+      </cac:TenderingTerms>
+      <cac:TenderingProcess>
+         <cbc:SubmissionMethodCode listName="esubmission">allowed</cbc:SubmissionMethodCode>
+         <cbc:GovernmentAgreementConstraintIndicator>true</cbc:GovernmentAgreementConstraintIndicator>
+         <cac:TenderSubmissionDeadlinePeriod>
+            <cbc:EndDate>2026-09-21+02:00</cbc:EndDate>
+            <cbc:EndTime>10:00:00+02:00</cbc:EndTime>
+         </cac:TenderSubmissionDeadlinePeriod>
+         <cac:AuctionTerms>
+            <cbc:AuctionConstraintIndicator>false</cbc:AuctionConstraintIndicator>
+         </cac:AuctionTerms>
+         <cac:ContractingSystem>
+            <cbc:ContractingSystemTypeCode listName="framework-agreement">none</cbc:ContractingSystemTypeCode>
+         </cac:ContractingSystem>
+         <cac:ContractingSystem>
+            <cbc:ContractingSystemTypeCode listName="dps-usage">none</cbc:ContractingSystemTypeCode>
+         </cac:ContractingSystem>
+      </cac:TenderingProcess>
+      <cac:ProcurementProject>
+         <cbc:ID>LOT-0000</cbc:ID>
+         <cbc:Name languageID="DEU">Modernisierung der Infrastruktur des Videostudios im Multimedialabor am Standort Amberg</cbc:Name>
+         <cbc:Description languageID="DEU">Die Ostbayerische Technische Hochschule Amberg-Weiden (OTH Amberg-Weiden) wurde im Jahr 1994 gegründet und zählt zu den jüngeren Technischen Hochschulen in Bayern. Derzeit sind an der Hochschule insgesamt 4.185 Studierende an den beiden Standorten Amberg und Weiden eingeschrieben (Stand: Sommersemester 2025). Die OTH Amberg-Weiden verfolgt ein übergreifendes Konzept der praxisorientierten Lehre und Forschung.
+
+Das hier ausgeschriebene Videostudio ist der Fakultät Elektrotechnik, Medien und Informatik (EMI) am Standort Amberg zugeordnet. Die Fakultät bietet eine breite Palette an Studiengängen, darunter die Bachelorstudiengänge Elektro- und Informationstechnik, Geoinformatik und Landmanagement, Ingenieurpädagogik, Künstliche Intelligenz, Industrie-4.0-Informatik sowie die Medienstudiengänge Medieninformatik und Medienproduktion und Medientechnik. Die Fakultät EMI betreut außerdem 159 Studierende in sechs Masterstudiengängen: Applied Research in Engineering Sciences, Educational Technology, Künstliche Intelligenz, Artificial Intelligence for Industrial Applications, IT und Automation sowie Medientechnik und Medienproduktion. Seit dem Wintersemester 2025/2026 gibt es zudem den Studiengang Digital Design (Bachelor of Arts).
+
+Ziel des Projekts ist die Erneuerung und Modernisierung der medientechnischen Ausstattung eines multifunktionalen Veranstaltungsraums in Form eines Studiolabors der Ostbayerischen Technischen Hochschule Amberg-Weiden. Das Vorhaben soll eine zeitgemäße, zuverlässige und flexible Nutzung für folgende Formate ermöglichen:
+
+•Produktion einer Magazinsendung für einen Regionalsender
+•Produktion von Livestreams z.B. von eigenen Sendungen im Rahmen der Hochschule
+•Hochwertige Streaming-Formate
+•Studio zum Erlernen der Berufsfelder von Medieningenieuren
+
+Die Einzelheiten sind den Anlagen 1.1 - 1.3 zu den Vergabeunterlagen zu entnehmen.</cbc:Description>
+         <cbc:ProcurementTypeCode listName="contract-nature">supplies</cbc:ProcurementTypeCode>
+         <cbc:Note languageID="DEU">Es ist an einer Ortsbesichtigung teilzunehmen. Die Ortsbesichtigung findet vom 17. bis 19.08.2026 statt. Interessierte Bieter haben sich bis spätestens 14.08.2026 12:00 Uhr unter multimedia@oth-aw.de unter Verwendung des Formulars "Teilnahme Ortsbesichtigung" (Anlage 5) zur Ortsbesichtigung anzumelden und am vereinbarten Termin teilzunehmen. Die Teilnahme wird durch die OTH Amberg-Weiden bestätigt.</cbc:Note>
+         <cbc:SMESuitableIndicator>false</cbc:SMESuitableIndicator>
+         <cac:ProcurementAdditionalType>
+            <cbc:ProcurementTypeCode listName="strategic-procurement">none</cbc:ProcurementTypeCode>
+         </cac:ProcurementAdditionalType>
+         <cac:MainCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">32000000</cbc:ItemClassificationCode>
+         </cac:MainCommodityClassification>
+         <cac:RealizedLocation>
+            <cac:Address>
+               <cbc:CityName>Amberg</cbc:CityName>
+               <cbc:PostalZone>92224</cbc:PostalZone>
+               <cbc:CountrySubentityCode listName="nuts">DE231</cbc:CountrySubentityCode>
+               <cac:Country>
+                  <cbc:IdentificationCode listName="country">DEU</cbc:IdentificationCode>
+               </cac:Country>
+            </cac:Address>
+         </cac:RealizedLocation>
+         <cac:PlannedPeriod>
+            <cbc:DescriptionCode listName="timeperiod">UNKNOWN</cbc:DescriptionCode>
+         </cac:PlannedPeriod>
+         <cac:ContractExtension>
+            <cbc:OptionsDescription languageID="DEU">Sind - sofern vorliegend - abschließend in den Vergabeunterlagen aufgeführt.</cbc:OptionsDescription>
+         </cac:ContractExtension>
+      </cac:ProcurementProject>
+   </cac:ProcurementProjectLot>
+</ContractNotice>

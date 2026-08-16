@@ -6,7 +6,11 @@
     "NEW_MATCH:545074-2026",
     "NEW_MATCH:547440-2026",
     "NEW_MATCH:548393-2026",
-    "NEW_MATCH:549482-2026"
+    "NEW_MATCH:549482-2026",
+    "NEW_MATCH:560875-2026",
+    "NEW_MATCH:560947-2026",
+    "NEW_MATCH:560971-2026",
+    "NEW_MATCH:561106-2026"
   ],
   "notices": {
     "537409-2026": {
@@ -27,7 +31,7 @@
       ],
       "first_seen": "2026-08-07",
       "gone": false,
-      "last_checked": "2026-08-15",
+      "last_checked": "2026-08-16",
       "notice_type": "cn-standard",
       "phrases": [
         "artificial intelligence"
@@ -88,7 +92,7 @@
       ],
       "first_seen": "2026-08-07",
       "gone": false,
-      "last_checked": "2026-08-15",
+      "last_checked": "2026-08-16",
       "notice_type": "can-standard",
       "phrases": [
         "artificial intelligence",
@@ -150,7 +154,7 @@
       ],
       "first_seen": "2026-08-07",
       "gone": false,
-      "last_checked": "2026-08-15",
+      "last_checked": "2026-08-16",
       "notice_type": "cn-standard",
       "phrases": [
         "artificial intelligence"
@@ -206,7 +210,7 @@
       ],
       "first_seen": "2026-08-07",
       "gone": false,
-      "last_checked": "2026-08-15",
+      "last_checked": "2026-08-16",
       "notice_type": "can-standard",
       "phrases": [
         "artificial intelligence"
@@ -270,7 +274,7 @@
       ],
       "first_seen": "2026-08-07",
       "gone": false,
-      "last_checked": "2026-08-15",
+      "last_checked": "2026-08-16",
       "notice_type": "cn-standard",
       "phrases": [
         "intelligence artificielle"
@@ -326,7 +330,7 @@
       ],
       "first_seen": "2026-08-07",
       "gone": false,
-      "last_checked": "2026-08-15",
+      "last_checked": "2026-08-16",
       "notice_type": "cn-standard",
       "phrases": [
         "Künstliche Intelligenz",
@@ -384,7 +388,7 @@
       ],
       "first_seen": "2026-08-07",
       "gone": false,
-      "last_checked": "2026-08-15",
+      "last_checked": "2026-08-16",
       "notice_type": "can-standard",
       "phrases": [
         "artificial intelligence"
@@ -431,6 +435,238 @@
         "TERRITORY MEDIA GmbH"
       ],
       "xml_url": "https://ted.europa.eu/en/notice/549482-2026/xml"
+    },
+    "560875-2026": {
+      "buyer_countries": [
+        "BEL"
+      ],
+      "buyer_names": [
+        "European Commission, DG CNECT - Communications Networks, Content and Technology"
+      ],
+      "cpv": [
+        "72000000"
+      ],
+      "first_seen": "2026-08-16",
+      "gone": false,
+      "last_checked": "2026-08-16",
+      "notice_type": "can-standard",
+      "phrases": [
+        "artificial intelligence"
+      ],
+      "publication_date": "2026-08-13",
+      "title": "Belgium – IT services: consulting, software development, Internet and support – Design, Development and Deployment of Public-Facing Multilingual Chatbots to Support the Implementation of the Digital Services Act (DSA) and the Artificial Intelligence Act (AI Act)",
+      "titles": [
+        "An Bheilg – IT services: consulting, software development, Internet and support – Design, Development and Deployment of Public-Facing Multilingual Chatbots to Support the Implementation of the Digital Services Act (DSA) and the Artificial Intelligence Act (AI Act)",
+        "Belgia – IT-teenused: nõuande-, tarkvaraarendus-, Interneti- ja tugiteenused – Design, Development and Deployment of Public-Facing Multilingual Chatbots to Support the Implementation of the Digital Services Act (DSA) and the Artificial Intelligence Act (AI Act)",
+        "Belgia – Servicii IT: consultanţă, dezvoltare de software, internet şi asistenţă – Design, Development and Deployment of Public-Facing Multilingual Chatbots to Support the Implementation of the Digital Services Act (DSA) and the Artificial Intelligence Act (AI Act)",
+        "Belgia – Tietotekniset palvelut: neuvonta, ohjelmistojen kehittäminen, Internet ja tuki – Design, Development and Deployment of Public-Facing Multilingual Chatbots to Support the Implementation of the Digital Services Act (DSA) and the Artificial Intelligence Act (AI Act)",
+        "Belgia – Usługi informatyczne: konsultacyjne, opracowywania oprogramowania, internetowe i wsparcia – Design, Development and Deployment of Public-Facing Multilingual Chatbots to Support the Implementation of the Digital Services Act (DSA) and the Artificial Intelligence Act (AI Act)",
+        "Belgicko – Služby informačných technológií: konzultácie, vývoj softvéru, internet a podpora – Design, Development and Deployment of Public-Facing Multilingual Chatbots to Support the Implementation of the Digital Services Act (DSA) and the Artificial Intelligence Act (AI Act)",
+        "Belgie – Informační technologie: poradenství, vývoj programového vybavení, internet a podpora – Design, Development and Deployment of Public-Facing Multilingual Chatbots to Support the Implementation of the Digital Services Act (DSA) and the Artificial Intelligence Act (AI Act)",
+        "Belgien – IT-Dienste: Beratung, Software-Entwicklung, Internet und Hilfestellung – Design, Development and Deployment of Public-Facing Multilingual Chatbots to Support the Implementation of the Digital Services Act (DSA) and the Artificial Intelligence Act (AI Act)",
+        "Belgien – IT-tjänster: konsultverksamhet, programvaruutveckling, Internet och stöd – Design, Development and Deployment of Public-Facing Multilingual Chatbots to Support the Implementation of the Digital Services Act (DSA) and the Artificial Intelligence Act (AI Act)",
+        "Belgien – It-tjenester: rådgivning, programmeludvikling, internet og support – Design, Development and Deployment of Public-Facing Multilingual Chatbots to Support the Implementation of the Digital Services Act (DSA) and the Artificial Intelligence Act (AI Act)",
+        "Belgija – IT paslaugos: konsultavimas, programinės įrangos kūrimas, internetas ir aptarnavimo paslaugos – Design, Development and Deployment of Public-Facing Multilingual Chatbots to Support the Implementation of the Digital Services Act (DSA) and the Artificial Intelligence Act (AI Act)",
+        "Belgija – Storitve informacijske tehnologije: svetovanje, razvoj programske opreme, internet in podpora – Design, Development and Deployment of Public-Facing Multilingual Chatbots to Support the Implementation of the Digital Services Act (DSA) and the Artificial Intelligence Act (AI Act)",
+        "Belgija – Usluge informacijske tehnologije: savjetovanje, razvoj programske podrške, internet i podrška – Design, Development and Deployment of Public-Facing Multilingual Chatbots to Support the Implementation of the Digital Services Act (DSA) and the Artificial Intelligence Act (AI Act)",
+        "Belgio – Servizi informatici: consulenza, sviluppo di software, Internet e supporto – Design, Development and Deployment of Public-Facing Multilingual Chatbots to Support the Implementation of the Digital Services Act (DSA) and the Artificial Intelligence Act (AI Act)",
+        "Belgique – Services de technologies de l'information, conseil, développement de logiciels, internet et appui – Design, Development and Deployment of Public-Facing Multilingual Chatbots to Support the Implementation of the Digital Services Act (DSA) and the Artificial Intelligence Act (AI Act)",
+        "Belgium – IT services: consulting, software development, Internet and support – Design, Development and Deployment of Public-Facing Multilingual Chatbots to Support the Implementation of the Digital Services Act (DSA) and the Artificial Intelligence Act (AI Act)",
+        "Belgium – IT-szolgáltatások: tanácsadás, szoftverfejlesztés, internet és támogatás – Design, Development and Deployment of Public-Facing Multilingual Chatbots to Support the Implementation of the Digital Services Act (DSA) and the Artificial Intelligence Act (AI Act)",
+        "België – IT-diensten: adviezen, softwareontwikkeling, internet en ondersteuning – Design, Development and Deployment of Public-Facing Multilingual Chatbots to Support the Implementation of the Digital Services Act (DSA) and the Artificial Intelligence Act (AI Act)",
+        "Beļģija – IT pakalpojumi konsultēšana, programmatūras izstrāde, internets un atbalsts – Design, Development and Deployment of Public-Facing Multilingual Chatbots to Support the Implementation of the Digital Services Act (DSA) and the Artificial Intelligence Act (AI Act)",
+        "Bélgica – Servicios TI: consultoría, desarrollo de software, Internet y apoyo – Design, Development and Deployment of Public-Facing Multilingual Chatbots to Support the Implementation of the Digital Services Act (DSA) and the Artificial Intelligence Act (AI Act)",
+        "Bélgica – Serviços de TI: consultoria, desenvolvimento de software, Internet e apoio – Design, Development and Deployment of Public-Facing Multilingual Chatbots to Support the Implementation of the Digital Services Act (DSA) and the Artificial Intelligence Act (AI Act)",
+        "Il-Belġju – Servizzi ta' IT: konsulenza, żvilupp ta' softwer, Internet u appoġġ – Design, Development and Deployment of Public-Facing Multilingual Chatbots to Support the Implementation of the Digital Services Act (DSA) and the Artificial Intelligence Act (AI Act)",
+        "Βέλγιο – Υπηρεσίες τεχνολογίας των πληροφοριών: παροχή συμβουλών, ανάπτυξη λογισμικού, Διαδίκτυο και υποστήριξη – Design, Development and Deployment of Public-Facing Multilingual Chatbots to Support the Implementation of the Digital Services Act (DSA) and the Artificial Intelligence Act (AI Act)",
+        "Бeлгия – ИТ услуги: консултации, разработване на софтуер, Интернет и поддръжка – Design, Development and Deployment of Public-Facing Multilingual Chatbots to Support the Implementation of the Digital Services Act (DSA) and the Artificial Intelligence Act (AI Act)"
+      ],
+      "vendor_keys": [
+        "deepset",
+        "ntt data belgique"
+      ],
+      "versions": [
+        {
+          "date": "2026-08-16",
+          "file": "snapshots/2026-08-16/notices/560875-2026.xml",
+          "sha256": "907b565f0a0077761d0a9ee021006eb5b955bd0f66237f5733098a6f39fbc97c"
+        }
+      ],
+      "winner_names": [
+        "NTT DATA BELGIQUE",
+        "deepset GmbH"
+      ],
+      "xml_url": "https://ted.europa.eu/en/notice/560875-2026/xml"
+    },
+    "560947-2026": {
+      "buyer_countries": [
+        "AUT"
+      ],
+      "buyer_names": [
+        "Magistrat der Stadt Wien - Magistratsabteilung 01"
+      ],
+      "cpv": [
+        "79100000"
+      ],
+      "first_seen": "2026-08-16",
+      "gone": false,
+      "last_checked": "2026-08-16",
+      "notice_type": "cn-social",
+      "phrases": [
+        "Künstliche Intelligenz"
+      ],
+      "publication_date": "2026-08-13",
+      "title": "Austria – Legal services – AUS25E015-Rechtsberatungs-Dienstleistungen – IT-Recht",
+      "titles": [
+        "An Ostair – Legal services – AUS25E015-Rechtsberatungs-Dienstleistungen – IT-Recht",
+        "Austria – Legal services – AUS25E015-Rechtsberatungs-Dienstleistungen – IT-Recht",
+        "Austria – Servicii juridice – AUS25E015-Rechtsberatungs-Dienstleistungen – IT-Recht",
+        "Austria – Servicios jurídicos – AUS25E015-Rechtsberatungs-Dienstleistungen – IT-Recht",
+        "Austria – Servizi giuridici – AUS25E015-Rechtsberatungs-Dienstleistungen – IT-Recht",
+        "Austria – Usługi prawnicze – AUS25E015-Rechtsberatungs-Dienstleistungen – IT-Recht",
+        "Austria – Õigusteenused – AUS25E015-Rechtsberatungs-Dienstleistungen – IT-Recht",
+        "Austrija – Juridiskie pakalpojumi – AUS25E015-Rechtsberatungs-Dienstleistungen – IT-Recht",
+        "Austrija – Pravne usluge – AUS25E015-Rechtsberatungs-Dienstleistungen – IT-Recht",
+        "Austrija – Teisinės paslaugos – AUS25E015-Rechtsberatungs-Dienstleistungen – IT-Recht",
+        "Ausztria – Jogi szolgáltatások – AUS25E015-Rechtsberatungs-Dienstleistungen – IT-Recht",
+        "Autriche – Services juridiques – AUS25E015-Rechtsberatungs-Dienstleistungen – IT-Recht",
+        "Avstrija – Pravne storitve – AUS25E015-Rechtsberatungs-Dienstleistungen – IT-Recht",
+        "Aвcтpия – Юридически услуги – AUS25E015-Rechtsberatungs-Dienstleistungen – IT-Recht",
+        "Itävalta – Oikeudelliset palvelut – AUS25E015-Rechtsberatungs-Dienstleistungen – IT-Recht",
+        "L-Awstrija – Servizzi legali – AUS25E015-Rechtsberatungs-Dienstleistungen – IT-Recht",
+        "Oostenrijk – Juridische dienstverlening – AUS25E015-Rechtsberatungs-Dienstleistungen – IT-Recht",
+        "Rakousko – Právní služby – AUS25E015-Rechtsberatungs-Dienstleistungen – IT-Recht",
+        "Rakúsko – Právne služby – AUS25E015-Rechtsberatungs-Dienstleistungen – IT-Recht",
+        "Áustria – Serviços jurídicos – AUS25E015-Rechtsberatungs-Dienstleistungen – IT-Recht",
+        "Österreich – Dienstleistungen im juristischen Bereich – AUS25E015-Rechtsberatungs-Dienstleistungen – IT-Recht",
+        "Österrike – Juridiska tjänster – AUS25E015-Rechtsberatungs-Dienstleistungen – IT-Recht",
+        "Østrig – Juridisk virksomhed – AUS25E015-Rechtsberatungs-Dienstleistungen – IT-Recht",
+        "Αυστρία – Νομικές υπηρεσίες – AUS25E015-Rechtsberatungs-Dienstleistungen – IT-Recht"
+      ],
+      "vendor_keys": [],
+      "versions": [
+        {
+          "date": "2026-08-16",
+          "file": "snapshots/2026-08-16/notices/560947-2026.xml",
+          "sha256": "35f7aafd72e0966ff8645be6169f4d0f0743860a55e3b9c26017cffc97027c59"
+        }
+      ],
+      "winner_names": [],
+      "xml_url": "https://ted.europa.eu/en/notice/560947-2026/xml"
+    },
+    "560971-2026": {
+      "buyer_countries": [
+        "FRA"
+      ],
+      "buyer_names": [
+        "SHEM ENGIE"
+      ],
+      "cpv": [
+        "72610000",
+        "72611000"
+      ],
+      "first_seen": "2026-08-16",
+      "gone": false,
+      "last_checked": "2026-08-16",
+      "notice_type": "cn-standard",
+      "phrases": [
+        "intelligence artificielle"
+      ],
+      "publication_date": "2026-08-13",
+      "title": "France – Technical computer support services – Procédure Formalisée",
+      "titles": [
+        "An Fhrainc – Technical computer support services – Procédure Formalisée",
+        "France – Services d'assistance technique informatique – Procédure Formalisée",
+        "France – Technical computer support services – Procédure Formalisée",
+        "Francia – Servicios de apoyo informático técnico – Procédure Formalisée",
+        "Francia – Servizi di assistenza tecnica informatica – Procédure Formalisée",
+        "Franciaország – Műszaki számítógép-támogatási szolgáltatások – Procédure Formalisée",
+        "Francie – Technická výpočetní podpora – Procédure Formalisée",
+        "Francija – Datoru tehniskā atbalsta pakalpojumi – Procédure Formalisée",
+        "Francija – Storitve tehnične računalniške podpore – Procédure Formalisée",
+        "Francja – Usługi w zakresie wsparcia technicznego – Procédure Formalisée",
+        "Francuska – Usluge tehničke računalne potpore – Procédure Formalisée",
+        "Francúzsko – Technické počítačové podporné služby – Procédure Formalisée",
+        "Frankreich – Technische Computerunterstützung – Procédure Formalisée",
+        "Frankrig – Teknisk support i forbindelse med datamater – Procédure Formalisée",
+        "Frankrijk – Technische computerondersteuningsdiensten – Procédure Formalisée",
+        "Frankrike – Tekniskt datastöd – Procédure Formalisée",
+        "Franza – Servizzi ta' appoġġ tekniku għall-kompjuter – Procédure Formalisée",
+        "França – Serviços de assistência técnica informática – Procédure Formalisée",
+        "Franţa – Servicii de asistenţă tehnică informatică – Procédure Formalisée",
+        "Prancūzija – Techninės kompiuterių palaikymo paslaugos – Procédure Formalisée",
+        "Prantsusmaa – Arvuti tehnilised tugiteenused – Procédure Formalisée",
+        "Ranska – Tietokoneisiin liittyvät tekniset tukipalvelut – Procédure Formalisée",
+        "Γαλλία – Υπηρεσίες τεχνικής υποστήριξης ηλεκτρονικών υπολογιστών – Procédure Formalisée",
+        "Фpaнция – Услуги по оказване на техническа помощ в областта на компютърните системи – Procédure Formalisée"
+      ],
+      "vendor_keys": [],
+      "versions": [
+        {
+          "date": "2026-08-16",
+          "file": "snapshots/2026-08-16/notices/560971-2026.xml",
+          "sha256": "71817bfc053831bea8324e6f0e4d2d1bd557fa2827e3dda57879fda4349af88f"
+        }
+      ],
+      "winner_names": [],
+      "xml_url": "https://ted.europa.eu/en/notice/560971-2026/xml"
+    },
+    "561106-2026": {
+      "buyer_countries": [
+        "DEU"
+      ],
+      "buyer_names": [
+        "Ostbayerische Technische Hochschule (OTH) Amberg-Weiden, Standort Amberg"
+      ],
+      "cpv": [
+        "32000000"
+      ],
+      "first_seen": "2026-08-16",
+      "gone": false,
+      "last_checked": "2026-08-16",
+      "notice_type": "cn-standard",
+      "phrases": [
+        "Künstliche Intelligenz",
+        "artificial intelligence"
+      ],
+      "publication_date": "2026-08-13",
+      "title": "Germany – Radio, television, communication, telecommunication and related equipment – Modernisierung der Infrastruktur des Videostudios im Multimedialabor am Standort Amberg",
+      "titles": [
+        "Alemanha – Equipamento de rádio, televisão, comunicação, telecomunicações e afins – Modernisierung der Infrastruktur des Videostudios im Multimedialabor am Standort Amberg",
+        "Alemania – Equipos de radio, televisión, comunicaciones y telecomunicaciones y equipos conexos – Modernisierung der Infrastruktur des Videostudios im Multimedialabor am Standort Amberg",
+        "Allemagne – Équipements et appareils de radio, de télévision, de communication, de télécommunication et équipements connexes – Modernisierung der Infrastruktur des Videostudios im Multimedialabor am Standort Amberg",
+        "An Ghearmáin – Radio, television, communication, telecommunication and related equipment – Modernisierung der Infrastruktur des Videostudios im Multimedialabor am Standort Amberg",
+        "Deutschland – Rundfunk- und Fernsehgeräte, Kommunikations- und Fernmeldeanlagen und Zubehör – Modernisierung der Infrastruktur des Videostudios im Multimedialabor am Standort Amberg",
+        "Duitsland – Radio-, televisie-, communicatie-, telecommunicatietoestellen en aanverwante apparatuur – Modernisierung der Infrastruktur des Videostudios im Multimedialabor am Standort Amberg",
+        "Germania – Attrezzature per radiodiffusione, televisione, comunicazione, telecomunicazione e affini – Modernisierung der Infrastruktur des Videostudios im Multimedialabor am Standort Amberg",
+        "Germania – Echipament de radio, televiziune, comunicaţii, telecomunicaţii şi articole conexe – Modernisierung der Infrastruktur des Videostudios im Multimedialabor am Standort Amberg",
+        "Germany – Radio, television, communication, telecommunication and related equipment – Modernisierung der Infrastruktur des Videostudios im Multimedialabor am Standort Amberg",
+        "Il-Ġermanja – Tagħmir tar-radju, tat-televiżjoni, tal-komunikazzjoni, tat-telekomunikazzjoni u tagħmir relatat – Modernisierung der Infrastruktur des Videostudios im Multimedialabor am Standort Amberg",
+        "Nemecko – Rozhlas, televízia, komunikácie, telekomunikácie a príbuzné zariadenia – Modernisierung der Infrastruktur des Videostudios im Multimedialabor am Standort Amberg",
+        "Nemčija – Radijski in televizijski aparati, komunikacijska, telekomunikacijska in z njimi povezana oprema – Modernisierung der Infrastruktur des Videostudios im Multimedialabor am Standort Amberg",
+        "Niemcy – Sprzęt radiowy, telewizyjny, komunikacyjny, telekomunikacyjny i podobny – Modernisierung der Infrastruktur des Videostudios im Multimedialabor am Standort Amberg",
+        "Njemačka – Radijska, televizijska, komunikacijska i srodna oprema – Modernisierung der Infrastruktur des Videostudios im Multimedialabor am Standort Amberg",
+        "Németország – Rádiós, televíziós, hírközlési, távközlési és kapcsolódó berendezések – Modernisierung der Infrastruktur des Videostudios im Multimedialabor am Standort Amberg",
+        "Německo – Rozhlas, televize, komunikace, telekomunikace a související zařízení – Modernisierung der Infrastruktur des Videostudios im Multimedialabor am Standort Amberg",
+        "Saksa – Radio-, televisio- ja viestintä- ja teleliikennelaitteet ja niihin liittyvät laitteet – Modernisierung der Infrastruktur des Videostudios im Multimedialabor am Standort Amberg",
+        "Saksamaa – Raadio-, televisiooni-, kommunikatsiooni-, teleside- ja sellega seotud seadmed – Modernisierung der Infrastruktur des Videostudios im Multimedialabor am Standort Amberg",
+        "Tyskland – Radio-, fjernsyns-, kommunikations- og telekommunikationsudstyr og beslægtet udstyr – Modernisierung der Infrastruktur des Videostudios im Multimedialabor am Standort Amberg",
+        "Tyskland – Radio-, televisions-, kommuniktions- och telekommunikationsutrustning samt tillhörande utrustning – Modernisierung der Infrastruktur des Videostudios im Multimedialabor am Standort Amberg",
+        "Vokietija – Radijo, televizijos, komunikacijų, telekomunikacijų ir susijusi įranga – Modernisierung der Infrastruktur des Videostudios im Multimedialabor am Standort Amberg",
+        "Vācija – Radio, televīzijas, komunikāciju, telekomunikāciju un saistītās iekārtas un aparāti – Modernisierung der Infrastruktur des Videostudios im Multimedialabor am Standort Amberg",
+        "Γερμανία – Εξοπλισμός ραδιοφωνίας, τηλεόρασης, επικοινωνιών, τηλεπικοινωνιών και συναφής εξοπλισμός – Modernisierung der Infrastruktur des Videostudios im Multimedialabor am Standort Amberg",
+        "Гepмaния – Радио-, телевизионно, съобщително, далекосъобщително и сродни видове оборудване – Modernisierung der Infrastruktur des Videostudios im Multimedialabor am Standort Amberg"
+      ],
+      "vendor_keys": [],
+      "versions": [
+        {
+          "date": "2026-08-16",
+          "file": "snapshots/2026-08-16/notices/561106-2026.xml",
+          "sha256": "ae8caba6cd5822260b2b0c9da9b850d799b892a60a97e0555621c0a43fad464e"
+        }
+      ],
+      "winner_names": [],
+      "xml_url": "https://ted.europa.eu/en/notice/561106-2026/xml"
     }
   }
 }

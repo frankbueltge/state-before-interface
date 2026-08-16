@@ -1,0 +1,125 @@
+{
+  "candidates": {
+    "declined": [
+      "c-20260816-01",
+      "c-20260816-02",
+      "c-20260816-03",
+      "c-20260816-04"
+    ],
+    "open": []
+  },
+  "date": "2026-08-16",
+  "envelope_version": 1,
+  "failures": [
+    {
+      "error": "HTTP 202",
+      "scope": "xml:561953-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "xml:564716-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "xml:565844-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "recheck:537409-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "recheck:538787-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "recheck:543753-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "recheck:545074-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "recheck:547440-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "recheck:548393-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "recheck:549482-2026"
+    }
+  ],
+  "http_429": 0,
+  "new_matches": [
+    "560875-2026",
+    "560947-2026",
+    "560971-2026",
+    "561106-2026",
+    "561953-2026",
+    "564716-2026",
+    "565844-2026"
+  ],
+  "phrases": [
+    {
+      "lang": "eng",
+      "phrase": "artificial intelligence",
+      "total": 4,
+      "truncated": false
+    },
+    {
+      "lang": "deu",
+      "phrase": "Künstliche Intelligenz",
+      "total": 3,
+      "truncated": false
+    },
+    {
+      "lang": "fra",
+      "phrase": "intelligence artificielle",
+      "total": 1,
+      "truncated": false
+    }
+  ],
+  "rechecked": 7,
+  "requests": 17,
+  "signals": [
+    {
+      "candidate": "c-20260816-01",
+      "detail": "notice 560875-2026 entered the envelope (phrases: artificial intelligence)",
+      "key": "NEW_MATCH:560875-2026",
+      "notices": [
+        "560875-2026"
+      ],
+      "type": "NEW_MATCH"
+    },
+    {
+      "candidate": "c-20260816-02",
+      "detail": "notice 560947-2026 entered the envelope (phrases: Künstliche Intelligenz)",
+      "key": "NEW_MATCH:560947-2026",
+      "notices": [
+        "560947-2026"
+      ],
+      "type": "NEW_MATCH"
+    },
+    {
+      "candidate": "c-20260816-03",
+      "detail": "notice 560971-2026 entered the envelope (phrases: intelligence artificielle)",
+      "key": "NEW_MATCH:560971-2026",
+      "notices": [
+        "560971-2026"
+      ],
+      "type": "NEW_MATCH"
+    },
+    {
+      "candidate": "c-20260816-04",
+      "detail": "notice 561106-2026 entered the envelope (phrases: Künstliche Intelligenz, artificial intelligence)",
+      "key": "NEW_MATCH:561106-2026",
+      "notices": [
+        "561106-2026"
+      ],
+      "type": "NEW_MATCH"
+    }
+  ]
+}

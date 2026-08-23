@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><PriorInformationNotice xmlns="urn:oasis:names:specification:ubl:schema:xsd:PriorInformationNotice-2" xmlns:cac="urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-2" xmlns:cbc="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-2" xmlns:efac="http://data.europa.eu/p27/eforms-ubl-extension-aggregate-components/1" xmlns:efbc="http://data.europa.eu/p27/eforms-ubl-extension-basic-components/1" xmlns:efext="http://data.europa.eu/p27/eforms-ubl-extensions/1" xmlns:ext="urn:oasis:names:specification:ubl:schema:xsd:CommonExtensionComponents-2">
+  <ext:UBLExtensions>
+    <ext:UBLExtension>
+      <ext:ExtensionContent>
+        <efext:EformsExtension>
+          <efbc:TransmissionDate>2026-08-18+00:00</efbc:TransmissionDate>
+          <efbc:TransmissionTime>13:36:55+00:00</efbc:TransmissionTime>
+          <efac:NoticeSubType>
+            <cbc:SubTypeCode listName="notice-subtype">4</cbc:SubTypeCode>
+          </efac:NoticeSubType>
+          <efac:Organizations>
+            <efac:Organization>
+              <efac:Company>
+                <cac:PartyIdentification>
+                  <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+                </cac:PartyIdentification>
+                
+                <cac:PartyName>
+                  <cbc:Name languageID="ENG">Miljødirektoratet</cbc:Name>
+                </cac:PartyName>
+                <cac:PostalAddress>
+                  <cbc:StreetName>Brattørkaia 15B</cbc:StreetName>
+                  <cbc:CityName>Trondheim</cbc:CityName>
+                  <cbc:PostalZone>7010</cbc:PostalZone>
+                  <cbc:CountrySubentityCode listName="nuts">NO060</cbc:CountrySubentityCode>
+                  <cac:Country>
+                    <cbc:IdentificationCode listName="country">NOR</cbc:IdentificationCode>
+                  </cac:Country>
+                </cac:PostalAddress>
+                <cac:PartyLegalEntity>
+                  <cbc:CompanyID schemeID="002">999601391</cbc:CompanyID>
+                </cac:PartyLegalEntity>
+                <cac:Contact>
+                  <cbc:Name>Torleiv Lohne</cbc:Name>
+                  <cbc:Telephone>+4791893799</cbc:Telephone>
+                  <cbc:ElectronicMail>Torleiv.Lohne@miljodir.no</cbc:ElectronicMail>
+                </cac:Contact>
+              </efac:Company>
+            </efac:Organization>
+            <efac:Organization>
+              <efac:Company>
+                <cac:PartyIdentification>
+                  <cbc:ID schemeName="organization">ORG-0002</cbc:ID>
+                </cac:PartyIdentification>
+                
+                <cac:PartyName>
+                  <cbc:Name languageID="ENG">Trøndelag tingrett</cbc:Name>
+                </cac:PartyName>
+                <cac:PostalAddress>
+                  <cbc:CityName>Trondheim</cbc:CityName>
+                  <cbc:PostalZone>7004</cbc:PostalZone>
+                  <cbc:CountrySubentityCode listName="nuts">NO060</cbc:CountrySubentityCode>
+                  <cac:Country>
+                    <cbc:IdentificationCode listName="country">NOR</cbc:IdentificationCode>
+                  </cac:Country>
+                </cac:PostalAddress>
+                <cac:PartyLegalEntity>
+                  <cbc:CompanyID schemeID="002">926 722 794</cbc:CompanyID>
+                </cac:PartyLegalEntity>
+              </efac:Company>
+            </efac:Organization>
+          </efac:Organizations>
+        <efac:Publication><efbc:NoticePublicationID schemeName="ojs-notice-id">00576395-2026</efbc:NoticePublicationID><efbc:GazetteID schemeName="ojs-id">160/2026</efbc:GazetteID><efbc:PublicationDate>2026-08-20+02:00</efbc:PublicationDate></efac:Publication></efext:EformsExtension>
+      </ext:ExtensionContent>
+    </ext:UBLExtension>
+  </ext:UBLExtensions>
+  <cbc:UBLVersionID>2.3</cbc:UBLVersionID>
+  <cbc:CustomizationID>eforms-sdk-1.13</cbc:CustomizationID>
+  <cbc:ID schemeName="notice-id">ca502ffd-b362-4d67-bb41-8540efaa453a</cbc:ID>
+  <cbc:IssueDate>2026-08-18+00:00</cbc:IssueDate>
+  <cbc:IssueTime>13:35:27+00:00</cbc:IssueTime>
+  <cbc:VersionID>01</cbc:VersionID>
+  <cbc:RequestedPublicationDate>2026-08-19Z</cbc:RequestedPublicationDate>
+  <cbc:PlannedDate>2026-09-01Z</cbc:PlannedDate>
+  <cbc:RegulatoryDomain>32014L0024</cbc:RegulatoryDomain>
+  <cbc:NoticeTypeCode listName="planning">pin-only</cbc:NoticeTypeCode>
+  <cbc:NoticeLanguageCode>ENG</cbc:NoticeLanguageCode>
+  
+  <cac:ContractingParty>
+    <cbc:BuyerProfileURI>https://eu.eu-supply.com/ctm/company/companyinformation/index/288761</cbc:BuyerProfileURI>
+    <cac:ContractingPartyType>
+      <cbc:PartyTypeCode listName="buyer-legal-type">cga</cbc:PartyTypeCode>
+    </cac:ContractingPartyType>
+    <cac:ContractingActivity>
+      <cbc:ActivityTypeCode listName="authority-activity">env-pro</cbc:ActivityTypeCode>
+    </cac:ContractingActivity>
+    <cac:Party>
+      <cac:PartyIdentification>
+        <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+      </cac:PartyIdentification>
+    </cac:Party>
+  </cac:ContractingParty>
+  <cac:ProcurementProject>
+    <cbc:ID>090d9d37-eb82-41f0-b45d-05631b1caa48</cbc:ID>
+    
+    <cbc:Name languageID="ENG">GIS framework agreement</cbc:Name>
+    
+    <cbc:Description languageID="ENG">The Norwegian Environment Agency will publish the procurement for a GIS framework agreement on 1 September 2026. The contract is for the establishment of a framework agreement for the purchase of consultancy services within geographical information systems (GIS). The framework agreement shall contribute to cover the Directorate's need for competence and capacity within GIS related disciplines in the period 2027 to 2030.
+
+The framework agreement includes, among other things, consultancy and assistance for:
+• GIS-analyses and remote measuring.
+• Machine learning, deep learning and artificial intelligence
+• Automation, ETL, scripting and data flow
+• Mapography and visualisation
+• Data modelling, metadata and standardisation.
+• GIS platforms, integrations and infrastructure
+• Project management for GIS related development and analysis projects.
+The procurement is divided into three sub-contracts:
+1. GIS and analysis specialist (obligatory delivery area).
+2. GIS platform specialist
+3. GIS project management
+
+Tenderers can submit tenders for one or more sub-contracts. 
+The estimated value of the framework agreement is approx. NOK 16 million excluding VAT for the entire contract period. The upper limit is NOK 20 million excluding VAT. 
+
+The contract will be signed for two years from 1 January 2027 to 31 December 2028, with an option for an extension for up to a further two years.</cbc:Description>
+    <cbc:ProcurementTypeCode listName="contract-nature">services</cbc:ProcurementTypeCode>
+    <cac:MainCommodityClassification>
+      <cbc:ItemClassificationCode listName="cpv">72300000</cbc:ItemClassificationCode>
+    </cac:MainCommodityClassification>
+    <cac:AdditionalCommodityClassification>
+      <cbc:ItemClassificationCode listName="cpv">35631200</cbc:ItemClassificationCode>
+    </cac:AdditionalCommodityClassification>
+    <cac:AdditionalCommodityClassification>
+      <cbc:ItemClassificationCode listName="cpv">71000000</cbc:ItemClassificationCode>
+    </cac:AdditionalCommodityClassification>
+    <cac:AdditionalCommodityClassification>
+      <cbc:ItemClassificationCode listName="cpv">72000000</cbc:ItemClassificationCode>
+    </cac:AdditionalCommodityClassification>
+    <cac:AdditionalCommodityClassification>
+      <cbc:ItemClassificationCode listName="cpv">90000000</cbc:ItemClassificationCode>
+    </cac:AdditionalCommodityClassification>
+    <cac:RealizedLocation>
+      <cac:Address>
+        <cbc:Region>anyw-cou</cbc:Region>
+        <cac:Country>
+          <cbc:IdentificationCode listName="country">NOR</cbc:IdentificationCode>
+        </cac:Country>
+      </cac:Address>
+    </cac:RealizedLocation>
+  </cac:ProcurementProject>
+  <cac:ProcurementProjectLot>
+    <cbc:ID schemeName="Part">PAR-0000</cbc:ID>
+    <cac:TenderingTerms>
+      <cac:AppealTerms>
+        <cac:AppealReceiverParty>
+          <cac:PartyIdentification>
+            <cbc:ID schemeName="organization">ORG-0002</cbc:ID>
+          </cac:PartyIdentification>
+        </cac:AppealReceiverParty>
+      </cac:AppealTerms>
+    </cac:TenderingTerms>
+    <cac:ProcurementProject>
+      <cbc:ID>fa389066-5d2e-4ae7-8b1b-ceebdb0b50a9</cbc:ID>
+      
+      <cbc:Name languageID="ENG">GIS framework agreement</cbc:Name>
+      
+      <cbc:Description languageID="ENG">The Norwegian Environment Agency will publish the procurement for a GIS framework agreement on 1 September 2026. The contract is for the establishment of a framework agreement for the purchase of consultancy services within geographical information systems (GIS). The framework agreement shall contribute to cover the Directorate's need for competence and capacity within GIS related disciplines in the period 2027 to 2030.
+
+The framework agreement includes, among other things, consultancy and assistance for:
+• GIS-analyses and remote measuring.
+• Machine learning, deep learning and artificial intelligence
+• Automation, ETL, scripting and data flow
+• Mapography and visualisation
+• Data modelling, metadata and standardisation.
+• GIS platforms, integrations and infrastructure
+• Project management for GIS related development and analysis projects.
+The procurement is divided into three sub-contracts:
+1. GIS and analysis specialist (obligatory delivery area).
+2. GIS platform specialist
+3. GIS project management
+
+Tenderers can submit tenders for one or more sub-contracts. 
+The estimated value of the framework agreement is approx. NOK 16 million excluding VAT for the entire contract period. The upper limit is NOK 20 million excluding VAT. 
+
+The contract will be signed for two years from 1 January 2027 to 31 December 2028, with an option for an extension for up to a further two years.</cbc:Description>
+      <cbc:ProcurementTypeCode listName="contract-nature">services</cbc:ProcurementTypeCode>
+      <cac:MainCommodityClassification>
+        <cbc:ItemClassificationCode listName="cpv">72300000</cbc:ItemClassificationCode>
+      </cac:MainCommodityClassification>
+      <cac:AdditionalCommodityClassification>
+        <cbc:ItemClassificationCode listName="cpv">35631200</cbc:ItemClassificationCode>
+      </cac:AdditionalCommodityClassification>
+      <cac:AdditionalCommodityClassification>
+        <cbc:ItemClassificationCode listName="cpv">71000000</cbc:ItemClassificationCode>
+      </cac:AdditionalCommodityClassification>
+      <cac:AdditionalCommodityClassification>
+        <cbc:ItemClassificationCode listName="cpv">72000000</cbc:ItemClassificationCode>
+      </cac:AdditionalCommodityClassification>
+      <cac:AdditionalCommodityClassification>
+        <cbc:ItemClassificationCode listName="cpv">90000000</cbc:ItemClassificationCode>
+      </cac:AdditionalCommodityClassification>
+      <cac:RealizedLocation>
+        <cac:Address>
+          <cbc:Region>anyw-cou</cbc:Region>
+          <cac:Country>
+            <cbc:IdentificationCode listName="country">NOR</cbc:IdentificationCode>
+          </cac:Country>
+        </cac:Address>
+      </cac:RealizedLocation>
+    </cac:ProcurementProject>
+  </cac:ProcurementProjectLot>
+</PriorInformationNotice>

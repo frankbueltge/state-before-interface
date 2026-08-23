@@ -1,0 +1,54 @@
+{
+  "created": "2026-08-23T05:47:18+00:00",
+  "criteria": {
+    "consequential_relation": {
+      "passed": false,
+      "reason": "no marker of a sensitive administrative domain (employment, welfare, policing, migration, health, education, justice, taxation)"
+    },
+    "digital_form_possible": {
+      "passed": true,
+      "reason": "form hypothesis: an annotated dossier along the structure of the notice"
+    },
+    "falsifiable_investigation": {
+      "passed": false,
+      "reason": "no machine-testable proposition can be formed yet"
+    },
+    "machine_readable_evidence": {
+      "passed": true,
+      "reason": "1 preserved eForms XML record(s) with SHA-256 on file"
+    },
+    "machine_scale_advantage": {
+      "passed": false,
+      "reason": "a single first-seen notice is equally visible to any human reader of the journal"
+    },
+    "observable_public_problem": {
+      "passed": true,
+      "reason": "identifiable public buyer(s): Conseil Départemental de Côte d'Or (21)"
+    }
+  },
+  "form_hypothesis": "an annotated dossier along the structure of the notice",
+  "id": "c-20260823-02",
+  "notices_context": [
+    {
+      "buyers": [
+        "Conseil Départemental de Côte d'Or (21)"
+      ],
+      "countries": [
+        "FRA"
+      ],
+      "publication_number": "578510-2026",
+      "title": "France – Video-surveillance system – Déploiement d’un système permanent de vidéodétection et de localisation par intelligence artificielle des feux de forêts et incendies"
+    }
+  ],
+  "proposition": null,
+  "signal": {
+    "date": "2026-08-23",
+    "detail": "notice 578510-2026 entered the envelope (phrases: intelligence artificielle)",
+    "key": "NEW_MATCH:578510-2026",
+    "notices": [
+      "578510-2026"
+    ],
+    "type": "NEW_MATCH"
+  },
+  "verdict": "DECLINED"
+}

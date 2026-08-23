@@ -1,0 +1,54 @@
+{
+  "created": "2026-08-23T05:47:18+00:00",
+  "criteria": {
+    "consequential_relation": {
+      "passed": false,
+      "reason": "no marker of a sensitive administrative domain (employment, welfare, policing, migration, health, education, justice, taxation)"
+    },
+    "digital_form_possible": {
+      "passed": true,
+      "reason": "form hypothesis: an annotated dossier along the structure of the notice"
+    },
+    "falsifiable_investigation": {
+      "passed": false,
+      "reason": "no machine-testable proposition can be formed yet"
+    },
+    "machine_readable_evidence": {
+      "passed": true,
+      "reason": "1 preserved eForms XML record(s) with SHA-256 on file"
+    },
+    "machine_scale_advantage": {
+      "passed": false,
+      "reason": "a single first-seen notice is equally visible to any human reader of the journal"
+    },
+    "observable_public_problem": {
+      "passed": true,
+      "reason": "identifiable public buyer(s): Miljødirektoratet"
+    }
+  },
+  "form_hypothesis": "an annotated dossier along the structure of the notice",
+  "id": "c-20260823-04",
+  "notices_context": [
+    {
+      "buyers": [
+        "Miljødirektoratet"
+      ],
+      "countries": [
+        "NOR"
+      ],
+      "publication_number": "580916-2026",
+      "title": "Norway – Data services – GIS framework agreement"
+    }
+  ],
+  "proposition": null,
+  "signal": {
+    "date": "2026-08-23",
+    "detail": "notice 580916-2026 entered the envelope (phrases: artificial intelligence)",
+    "key": "NEW_MATCH:580916-2026",
+    "notices": [
+      "580916-2026"
+    ],
+    "type": "NEW_MATCH"
+  },
+  "verdict": "DECLINED"
+}

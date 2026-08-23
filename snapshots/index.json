@@ -10,7 +10,11 @@
     "NEW_MATCH:560875-2026",
     "NEW_MATCH:560947-2026",
     "NEW_MATCH:560971-2026",
-    "NEW_MATCH:561106-2026"
+    "NEW_MATCH:561106-2026",
+    "NEW_MATCH:576395-2026",
+    "NEW_MATCH:578510-2026",
+    "NEW_MATCH:580664-2026",
+    "NEW_MATCH:580916-2026"
   ],
   "notices": {
     "537409-2026": {
@@ -448,7 +452,7 @@
       ],
       "first_seen": "2026-08-16",
       "gone": false,
-      "last_checked": "2026-08-22",
+      "last_checked": "2026-08-23",
       "notice_type": "can-standard",
       "phrases": [
         "artificial intelligence"
@@ -510,7 +514,7 @@
       ],
       "first_seen": "2026-08-16",
       "gone": false,
-      "last_checked": "2026-08-22",
+      "last_checked": "2026-08-23",
       "notice_type": "cn-social",
       "phrases": [
         "Künstliche Intelligenz"
@@ -567,7 +571,7 @@
       ],
       "first_seen": "2026-08-16",
       "gone": false,
-      "last_checked": "2026-08-22",
+      "last_checked": "2026-08-23",
       "notice_type": "cn-standard",
       "phrases": [
         "intelligence artificielle"
@@ -623,7 +627,7 @@
       ],
       "first_seen": "2026-08-16",
       "gone": false,
-      "last_checked": "2026-08-22",
+      "last_checked": "2026-08-23",
       "notice_type": "cn-standard",
       "phrases": [
         "Künstliche Intelligenz",
@@ -667,6 +671,243 @@
       ],
       "winner_names": [],
       "xml_url": "https://ted.europa.eu/en/notice/561106-2026/xml"
+    },
+    "576395-2026": {
+      "buyer_countries": [
+        "NOR"
+      ],
+      "buyer_names": [
+        "Miljødirektoratet"
+      ],
+      "cpv": [
+        "35631200",
+        "71000000",
+        "72000000",
+        "72300000",
+        "90000000"
+      ],
+      "first_seen": "2026-08-23",
+      "gone": false,
+      "last_checked": "2026-08-23",
+      "notice_type": "pin-only",
+      "phrases": [
+        "artificial intelligence"
+      ],
+      "publication_date": "2026-08-20",
+      "title": "Norway – Data services – GIS framework agreement",
+      "titles": [
+        "An Iorua – Data services – GIS framework agreement",
+        "In-Norveġja – Servizzi tad-data – GIS framework agreement",
+        "Noorwegen – Uitwerken van gegevens – GIS framework agreement",
+        "Norge – Datatjenester – GIS framework agreement",
+        "Norge – Datatjänster – GIS framework agreement",
+        "Norja – Datapalvelut – GIS framework agreement",
+        "Norra – Andmeteenused – GIS framework agreement",
+        "Norsko – Datové služby – GIS framework agreement",
+        "Noruega – Servicios relacionados con datos – GIS framework agreement",
+        "Noruega – Serviços relacionados com dados – GIS framework agreement",
+        "Norvegia – Servicii de înlocuire de date – GIS framework agreement",
+        "Norvegia – Servizi di elaborazione dati – GIS framework agreement",
+        "Norvegija – Duomenų paslaugos – GIS framework agreement",
+        "Norveška – Podatkovne storitve – GIS framework agreement",
+        "Norveška – Podatkovne usluge – GIS framework agreement",
+        "Norvège – Services de commutation de données – GIS framework agreement",
+        "Norvégia – Adatkezelési szolgáltatások – GIS framework agreement",
+        "Norvēģija – Datu pakalpojumi – GIS framework agreement",
+        "Norway – Data services – GIS framework agreement",
+        "Norwegen – Datendienste – GIS framework agreement",
+        "Norwegia – Usługi w zakresie danych – GIS framework agreement",
+        "Nórsko – Dátové služby – GIS framework agreement",
+        "Νορβηγία – Υπηρεσίες δεδομένων – GIS framework agreement",
+        "Норвегия – Услуги по предаване и обработка на данни – GIS framework agreement"
+      ],
+      "vendor_keys": [],
+      "versions": [
+        {
+          "date": "2026-08-23",
+          "file": "snapshots/2026-08-23/notices/576395-2026.xml",
+          "sha256": "ea5f96b2400fd2e97ef38c5501083e9b2bd29d5ca166e36eb3bbed30ab1309a9"
+        }
+      ],
+      "winner_names": [],
+      "xml_url": "https://ted.europa.eu/en/notice/576395-2026/xml"
+    },
+    "578510-2026": {
+      "buyer_countries": [
+        "FRA"
+      ],
+      "buyer_names": [
+        "Conseil Départemental de Côte d'Or (21)"
+      ],
+      "cpv": [
+        "32323500",
+        "35120000",
+        "35125300",
+        "48000000"
+      ],
+      "first_seen": "2026-08-23",
+      "gone": false,
+      "last_checked": "2026-08-23",
+      "notice_type": "cn-standard",
+      "phrases": [
+        "intelligence artificielle"
+      ],
+      "publication_date": "2026-08-21",
+      "title": "France – Video-surveillance system – Déploiement d’un système permanent de vidéodétection et de localisation par intelligence artificielle des feux de forêts et incendies",
+      "titles": [
+        "An Fhrainc – Video-surveillance system – Déploiement d’un système permanent de vidéodétection et de localisation par intelligence artificielle des feux de forêts et incendies",
+        "France – Système de surveillance vidéo – Déploiement d’un système permanent de vidéodétection et de localisation par intelligence artificielle des feux de forêts et incendies",
+        "France – Video-surveillance system – Déploiement d’un système permanent de vidéodétection et de localisation par intelligence artificielle des feux de forêts et incendies",
+        "Francia – Sistema de vigilancia por vídeo – Déploiement d’un système permanent de vidéodétection et de localisation par intelligence artificielle des feux de forêts et incendies",
+        "Francia – Sistema di videosorveglianza – Déploiement d’un système permanent de vidéodétection et de localisation par intelligence artificielle des feux de forêts et incendies",
+        "Franciaország – Videós felügyeleti rendszerek – Déploiement d’un système permanent de vidéodétection et de localisation par intelligence artificielle des feux de forêts et incendies",
+        "Francie – Kontrolní videosystémy – Déploiement d’un système permanent de vidéodétection et de localisation par intelligence artificielle des feux de forêts et incendies",
+        "Francija – Sistem za video nadzor – Déploiement d’un système permanent de vidéodétection et de localisation par intelligence artificielle des feux de forêts et incendies",
+        "Francija – Videonovērošanas sistēma – Déploiement d’un système permanent de vidéodétection et de localisation par intelligence artificielle des feux de forêts et incendies",
+        "Francja – Urządzenia do nadzoru wideo – Déploiement d’un système permanent de vidéodétection et de localisation par intelligence artificielle des feux de forêts et incendies",
+        "Francuska – Oprema za videonadzor – Déploiement d’un système permanent de vidéodétection et de localisation par intelligence artificielle des feux de forêts et incendies",
+        "Francúzsko – Dohľadový videosystém – Déploiement d’un système permanent de vidéodétection et de localisation par intelligence artificielle des feux de forêts et incendies",
+        "Frankreich – Video-Überwachungssystem – Déploiement d’un système permanent de vidéodétection et de localisation par intelligence artificielle des feux de forêts et incendies",
+        "Frankrig – Videoovervågningssystem – Déploiement d’un système permanent de vidéodétection et de localisation par intelligence artificielle des feux de forêts et incendies",
+        "Frankrijk – Videobewakingsuitrusting – Déploiement d’un système permanent de vidéodétection et de localisation par intelligence artificielle des feux de forêts et incendies",
+        "Frankrike – TV-övervakningssystem – Déploiement d’un système permanent de vidéodétection et de localisation par intelligence artificielle des feux de forêts et incendies",
+        "Franza – Sistema ta' sorveljanza bil-video – Déploiement d’un système permanent de vidéodétection et de localisation par intelligence artificielle des feux de forêts et incendies",
+        "França – Sistema de vigilância por vídeo – Déploiement d’un système permanent de vidéodétection et de localisation par intelligence artificielle des feux de forêts et incendies",
+        "Franţa – Sistem video de supraveghere – Déploiement d’un système permanent de vidéodétection et de localisation par intelligence artificielle des feux de forêts et incendies",
+        "Prancūzija – Stebėjimo videosistema – Déploiement d’un système permanent de vidéodétection et de localisation par intelligence artificielle des feux de forêts et incendies",
+        "Prantsusmaa – Videoseiresüsteemid – Déploiement d’un système permanent de vidéodétection et de localisation par intelligence artificielle des feux de forêts et incendies",
+        "Ranska – Videovalvontajärjestelmä – Déploiement d’un système permanent de vidéodétection et de localisation par intelligence artificielle des feux de forêts et incendies",
+        "Γαλλία – Σύστημα βιντεοπαρακολούθησης – Déploiement d’un système permanent de vidéodétection et de localisation par intelligence artificielle des feux de forêts et incendies",
+        "Фpaнция – Система за видеонаблюдение – Déploiement d’un système permanent de vidéodétection et de localisation par intelligence artificielle des feux de forêts et incendies"
+      ],
+      "vendor_keys": [],
+      "versions": [
+        {
+          "date": "2026-08-23",
+          "file": "snapshots/2026-08-23/notices/578510-2026.xml",
+          "sha256": "c65aeff9044cf5e3fe81e9764600bdb9f18a83c7812d6cfa31e370092e835045"
+        }
+      ],
+      "winner_names": [],
+      "xml_url": "https://ted.europa.eu/en/notice/578510-2026/xml"
+    },
+    "580664-2026": {
+      "buyer_countries": [
+        "FRA"
+      ],
+      "buyer_names": [
+        "CDC Informatique"
+      ],
+      "cpv": [
+        "72212900",
+        "79632000",
+        "80500000"
+      ],
+      "first_seen": "2026-08-23",
+      "gone": false,
+      "last_checked": "2026-08-23",
+      "notice_type": "cn-standard",
+      "phrases": [
+        "intelligence artificielle"
+      ],
+      "publication_date": "2026-08-21",
+      "title": "France – Training services – Réalisation de formations pour le personnel de ICDC et CDC",
+      "titles": [
+        "An Fhrainc – Training services – Réalisation de formations pour le personnel de ICDC et CDC",
+        "France – Services de formation – Réalisation de formations pour le personnel de ICDC et CDC",
+        "France – Training services – Réalisation de formations pour le personnel de ICDC et CDC",
+        "Francia – Servicios de formación – Réalisation de formations pour le personnel de ICDC et CDC",
+        "Francia – Servizi di formazione – Réalisation de formations pour le personnel de ICDC et CDC",
+        "Franciaország – Képzési szolgáltatások – Réalisation de formations pour le personnel de ICDC et CDC",
+        "Francie – Školení – Réalisation de formations pour le personnel de ICDC et CDC",
+        "Francija – Mācību pakalpojumi – Réalisation de formations pour le personnel de ICDC et CDC",
+        "Francija – Storitve usposabljanja – Réalisation de formations pour le personnel de ICDC et CDC",
+        "Francja – Usługi szkoleniowe – Réalisation de formations pour le personnel de ICDC et CDC",
+        "Francuska – Usluge izobrazbe – Réalisation de formations pour le personnel de ICDC et CDC",
+        "Francúzsko – Školiace (výcvikové) služby – Réalisation de formations pour le personnel de ICDC et CDC",
+        "Frankreich – Ausbildung – Réalisation de formations pour le personnel de ICDC et CDC",
+        "Frankrig – Uddannelsestilbud – Réalisation de formations pour le personnel de ICDC et CDC",
+        "Frankrijk – Opleidingsdiensten – Réalisation de formations pour le personnel de ICDC et CDC",
+        "Frankrike – Utbildningstjänster – Réalisation de formations pour le personnel de ICDC et CDC",
+        "Franza – Faċilitajjiet tat-taħriġ – Réalisation de formations pour le personnel de ICDC et CDC",
+        "França – Serviços de formação – Réalisation de formations pour le personnel de ICDC et CDC",
+        "Franţa – Servicii de formare – Réalisation de formations pour le personnel de ICDC et CDC",
+        "Prancūzija – Apmokymo paslaugos – Réalisation de formations pour le personnel de ICDC et CDC",
+        "Prantsusmaa – Koolitusteenused – Réalisation de formations pour le personnel de ICDC et CDC",
+        "Ranska – Ammattikoulutuspalvelut – Réalisation de formations pour le personnel de ICDC et CDC",
+        "Γαλλία – Υπηρεσίες κατάρτισης – Réalisation de formations pour le personnel de ICDC et CDC",
+        "Фpaнция – Услуги по обучение – Réalisation de formations pour le personnel de ICDC et CDC"
+      ],
+      "vendor_keys": [],
+      "versions": [
+        {
+          "date": "2026-08-23",
+          "file": "snapshots/2026-08-23/notices/580664-2026.xml",
+          "sha256": "50463b9ce047d85592ab53b8910ff89667e4a3ca6c29b03bc3de36fe99b7af85"
+        }
+      ],
+      "winner_names": [],
+      "xml_url": "https://ted.europa.eu/en/notice/580664-2026/xml"
+    },
+    "580916-2026": {
+      "buyer_countries": [
+        "NOR"
+      ],
+      "buyer_names": [
+        "Miljødirektoratet"
+      ],
+      "cpv": [
+        "35631200",
+        "71000000",
+        "72000000",
+        "72300000",
+        "90000000"
+      ],
+      "first_seen": "2026-08-23",
+      "gone": false,
+      "last_checked": "2026-08-23",
+      "notice_type": "pin-only",
+      "phrases": [
+        "artificial intelligence"
+      ],
+      "publication_date": "2026-08-21",
+      "title": "Norway – Data services – GIS framework agreement",
+      "titles": [
+        "An Iorua – Data services – GIS framework agreement",
+        "In-Norveġja – Servizzi tad-data – GIS framework agreement",
+        "Noorwegen – Uitwerken van gegevens – GIS framework agreement",
+        "Norge – Datatjenester – GIS framework agreement",
+        "Norge – Datatjänster – GIS framework agreement",
+        "Norja – Datapalvelut – GIS framework agreement",
+        "Norra – Andmeteenused – GIS framework agreement",
+        "Norsko – Datové služby – GIS framework agreement",
+        "Noruega – Servicios relacionados con datos – GIS framework agreement",
+        "Noruega – Serviços relacionados com dados – GIS framework agreement",
+        "Norvegia – Servicii de înlocuire de date – GIS framework agreement",
+        "Norvegia – Servizi di elaborazione dati – GIS framework agreement",
+        "Norvegija – Duomenų paslaugos – GIS framework agreement",
+        "Norveška – Podatkovne storitve – GIS framework agreement",
+        "Norveška – Podatkovne usluge – GIS framework agreement",
+        "Norvège – Services de commutation de données – GIS framework agreement",
+        "Norvégia – Adatkezelési szolgáltatások – GIS framework agreement",
+        "Norvēģija – Datu pakalpojumi – GIS framework agreement",
+        "Norway – Data services – GIS framework agreement",
+        "Norwegen – Datendienste – GIS framework agreement",
+        "Norwegia – Usługi w zakresie danych – GIS framework agreement",
+        "Nórsko – Dátové služby – GIS framework agreement",
+        "Νορβηγία – Υπηρεσίες δεδομένων – GIS framework agreement",
+        "Норвегия – Услуги по предаване и обработка на данни – GIS framework agreement"
+      ],
+      "vendor_keys": [],
+      "versions": [
+        {
+          "date": "2026-08-23",
+          "file": "snapshots/2026-08-23/notices/580916-2026.xml",
+          "sha256": "bfe90a4a1494339df3255ca5c5957dcfa323a9b17c81e9416baa1aaaa7309397"
+        }
+      ],
+      "winner_names": [],
+      "xml_url": "https://ted.europa.eu/en/notice/580916-2026/xml"
     }
   }
 }

@@ -1,0 +1,81 @@
+{
+  "candidates": {
+    "declined": [
+      "c-20260823-01",
+      "c-20260823-02",
+      "c-20260823-03",
+      "c-20260823-04"
+    ],
+    "open": []
+  },
+  "date": "2026-08-23",
+  "envelope_version": 1,
+  "failures": [],
+  "http_429": 0,
+  "new_matches": [
+    "576395-2026",
+    "578510-2026",
+    "580664-2026",
+    "580916-2026"
+  ],
+  "phrases": [
+    {
+      "lang": "eng",
+      "phrase": "artificial intelligence",
+      "total": 2,
+      "truncated": false
+    },
+    {
+      "lang": "deu",
+      "phrase": "Künstliche Intelligenz",
+      "total": 0,
+      "truncated": false
+    },
+    {
+      "lang": "fra",
+      "phrase": "intelligence artificielle",
+      "total": 2,
+      "truncated": false
+    }
+  ],
+  "rechecked": 4,
+  "requests": 11,
+  "signals": [
+    {
+      "candidate": "c-20260823-01",
+      "detail": "notice 576395-2026 entered the envelope (phrases: artificial intelligence)",
+      "key": "NEW_MATCH:576395-2026",
+      "notices": [
+        "576395-2026"
+      ],
+      "type": "NEW_MATCH"
+    },
+    {
+      "candidate": "c-20260823-02",
+      "detail": "notice 578510-2026 entered the envelope (phrases: intelligence artificielle)",
+      "key": "NEW_MATCH:578510-2026",
+      "notices": [
+        "578510-2026"
+      ],
+      "type": "NEW_MATCH"
+    },
+    {
+      "candidate": "c-20260823-03",
+      "detail": "notice 580664-2026 entered the envelope (phrases: intelligence artificielle)",
+      "key": "NEW_MATCH:580664-2026",
+      "notices": [
+        "580664-2026"
+      ],
+      "type": "NEW_MATCH"
+    },
+    {
+      "candidate": "c-20260823-04",
+      "detail": "notice 580916-2026 entered the envelope (phrases: artificial intelligence)",
+      "key": "NEW_MATCH:580916-2026",
+      "notices": [
+        "580916-2026"
+      ],
+      "type": "NEW_MATCH"
+    }
+  ]
+}

@@ -1,0 +1,1197 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><ContractNotice xmlns="urn:oasis:names:specification:ubl:schema:xsd:ContractNotice-2" xmlns:cac="urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-2" xmlns:cbc="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-2" xmlns:efac="http://data.europa.eu/p27/eforms-ubl-extension-aggregate-components/1" xmlns:efbc="http://data.europa.eu/p27/eforms-ubl-extension-basic-components/1" xmlns:efext="http://data.europa.eu/p27/eforms-ubl-extensions/1" xmlns:ext="urn:oasis:names:specification:ubl:schema:xsd:CommonExtensionComponents-2">
+   <ext:UBLExtensions>
+      <ext:UBLExtension>
+         <ext:ExtensionContent>
+            <efext:EformsExtension>
+               <efac:NoticeSubType>
+                  <cbc:SubTypeCode listName="notice-subtype">16</cbc:SubTypeCode>
+               </efac:NoticeSubType>
+               <efac:Organizations>
+                  <efac:Organization>
+                     <efac:Company>
+                        <cbc:WebsiteURI>www.certh.gr</cbc:WebsiteURI>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0004</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="ELL">Εθνικό Κέντρο Έρευνας και Τεχνολογικής Ανάπτυξης (Ε.Κ.Ε.Τ.Α.)</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:StreetName>6ο χλμ οδού Χαριλάου - Θέρμης</cbc:StreetName>
+                           <cbc:CityName>Θεσσαλονίκη</cbc:CityName>
+                           <cbc:PostalZone>57001</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">EL522</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">GRC</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>1036.E00346.0001</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:Name>Δρ. Στυλιανή Σκλαρή</cbc:Name>
+                           <cbc:Telephone>+30 2310498257</cbc:Telephone>
+                           <cbc:Telefax>+30 2310498180</cbc:Telefax>
+                           <cbc:ElectronicMail>procurement@certh.gr</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+                  <efac:Organization>
+                     <efac:Company>
+                        <cbc:WebsiteURI>www.aepp-procurement.gr</cbc:WebsiteURI>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0005</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="ELL">Ενιαία Αρχή Δημοσίων Συμβάσεων (Ε.Α.ΔΗ.ΣΥ.)</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:StreetName>Δώρου 7-9</cbc:StreetName>
+                           <cbc:CityName>Αθήνα</cbc:CityName>
+                           <cbc:PostalZone>10432</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">EL303</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">GRC</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>1000.E00961.0001</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:Telephone>+30 2132141227</cbc:Telephone>
+                           <cbc:Telefax>+30 2132141227</cbc:Telefax>
+                           <cbc:ElectronicMail>grafeioproedrou@aepp-procurement.gr</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+                  <efac:Organization>
+                     <efac:Company>
+                        <cbc:WebsiteURI>https://op.europa.eu</cbc:WebsiteURI>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0000</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="ELL">Publications Office of the European Union</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:CityName>Luxembourg</cbc:CityName>
+                           <cbc:PostalZone>2417</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">LU000</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">LUX</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>PUBL</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:Telephone>+352 29291</cbc:Telephone>
+                           <cbc:ElectronicMail>ted@publications.europa.eu</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+               </efac:Organizations>
+            <efac:Publication><efbc:NoticePublicationID schemeName="ojs-notice-id">00583466-2026</efbc:NoticePublicationID><efbc:GazetteID schemeName="ojs-id">162/2026</efbc:GazetteID><efbc:PublicationDate>2026-08-24+02:00</efbc:PublicationDate></efac:Publication></efext:EformsExtension>
+         </ext:ExtensionContent>
+      </ext:UBLExtension>
+   </ext:UBLExtensions>
+   <cbc:UBLVersionID>2.3</cbc:UBLVersionID>
+   <cbc:CustomizationID>eforms-sdk-1.14</cbc:CustomizationID>
+   <cbc:ID schemeName="notice-id">677421c6-6618-42f3-9163-4005e13a4d61</cbc:ID>
+   <cbc:ContractFolderID>e9ea3d1a-2872-4592-9f45-28300cd95091</cbc:ContractFolderID>
+   <cbc:IssueDate>2026-08-21Z</cbc:IssueDate>
+   <cbc:IssueTime>07:04:34Z</cbc:IssueTime>
+   <cbc:VersionID>01</cbc:VersionID>
+   <cbc:RegulatoryDomain>32014L0024</cbc:RegulatoryDomain>
+   <cbc:NoticeTypeCode listName="competition">cn-standard</cbc:NoticeTypeCode>
+   <cbc:NoticeLanguageCode listName="language">ELL</cbc:NoticeLanguageCode>
+   <cac:ContractingParty>
+      <cbc:BuyerProfileURI>http://www.certh.gr</cbc:BuyerProfileURI>
+      <cac:ContractingPartyType>
+         <cbc:PartyTypeCode listName="buyer-legal-type">body-pl-cga</cbc:PartyTypeCode>
+      </cac:ContractingPartyType>
+      <cac:ContractingActivity>
+         <cbc:ActivityTypeCode listName="authority-activity">education</cbc:ActivityTypeCode>
+      </cac:ContractingActivity>
+      <cac:Party>
+         <cac:PartyIdentification>
+            <cbc:ID schemeName="organization">ORG-0004</cbc:ID>
+         </cac:PartyIdentification>
+         <cac:ServiceProviderParty>
+            <cbc:ServiceTypeCode listName="organisation-role">ted-esen</cbc:ServiceTypeCode>
+            <cac:Party>
+               <cac:PartyIdentification>
+                  <cbc:ID schemeName="organization">ORG-0000</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:Party>
+         </cac:ServiceProviderParty>
+      </cac:Party>
+   </cac:ContractingParty>
+   <cac:TenderingTerms>
+      <cac:TendererQualificationRequest>
+         <cac:SpecificTendererRequirement>
+            <cbc:TendererRequirementTypeCode listName="exclusion-grounds-source">epo-notice</cbc:TendererRequirementTypeCode>
+         </cac:SpecificTendererRequirement>
+      </cac:TendererQualificationRequest>
+      <cac:TendererQualificationRequest>
+         <cac:SpecificTendererRequirement>
+            <cbc:TendererRequirementTypeCode listName="exclusion-ground">exg-crim-part</cbc:TendererRequirementTypeCode>
+            <cbc:Description languageID="ELL">όπως αυτή ορίζεται στο άρθρο 2 της απόφασης-πλαίσιο 2008/841/ΔΕΥ του Συμβουλίου της 24ης Οκτωβρίου 2008, για την καταπολέμηση του οργανωμένου εγκλήματος (ΕΕ L 300 της 11.11.2008 σ. 42), και τα εγκλήματα του άρθρου 187 του Ποινικού Κώδικα (εγκληματική οργάνωση).</cbc:Description>
+         </cac:SpecificTendererRequirement>
+      </cac:TendererQualificationRequest>
+      <cac:TendererQualificationRequest>
+         <cac:SpecificTendererRequirement>
+            <cbc:TendererRequirementTypeCode listName="exclusion-ground">exg-crim-fraud</cbc:TendererRequirementTypeCode>
+            <cbc:Description languageID="ELL">εις βάρος των οικονομικών συμφερόντων της Ένωσης, κατά την έννοια των άρθρων 3 και 4 της Οδηγίας (ΕΕ) 2017/1371 του Ευρωπαϊκού Κοινοβουλίου και του Συμβουλίου της 5ης Ιουλίου 2017 σχετικά με την καταπολέμηση, μέσω του ποινικού δικαίου, της απάτης εις βάρος των οικονομικών συμφερόντων της Ένωσης (L 198/28.07.2017) και τα εγκλήματα των άρθρων 159Α (δωροδοκία πολιτικών προσώπων), 216 (πλαστογραφία), 236 (δωροδοκία υπαλλήλου), 237 παρ. 2-4 (δωροδοκία δικαστικών λειτουργών), 242 (ψευδής βεβαίωση, νόθευση κ.λπ.), 374 (διακεκριμένη κλοπή), 375 (υπεξαίρεση), 386 (απάτη), 386Α (απάτη με υπολογιστή), 386Β (απάτη σχετική με τις επιχορηγήσεις), 390 (απιστία) του Ποινικού Κώδικα και των άρθρων 155 επ. του Εθνικού Τελωνειακού Κώδικα (ν. 2960/2001, Α’ 265), όταν αυτά στρέφονται κατά των οικονομικών συμφερόντων της Ευρωπαϊκής Ένωσης ή συνδέονται με την προσβολή αυτών των συμφερόντων, καθώς και τα εγκλήματα των άρθρων 23 (διασυνοριακή απάτη σχετικά με τον Φ.Π.Α.) και 24 (επικουρικές διατάξεις για την ποινική προστασία των οικονομικών συμφερόντων της Ευρωπαϊκής Ένωσης) του ν. 4689/2020 (Α’ 103).</cbc:Description>
+         </cac:SpecificTendererRequirement>
+      </cac:TendererQualificationRequest>
+      <cac:TendererQualificationRequest>
+         <cac:SpecificTendererRequirement>
+            <cbc:TendererRequirementTypeCode listName="exclusion-ground">exg-crim-terror</cbc:TendererRequirementTypeCode>
+            <cbc:Description languageID="ELL">όπως ορίζονται, αντιστοίχως στα άρθρα 3-4 και 5-12 της Οδηγίας (ΕΕ) 2017/541 του Ευρωπαϊκού Κοινοβουλίου και του Συμβουλίου της 15ης Μαρτίου 2017 για την καταπολέμηση της τρομοκρατίας και την αντικατάσταση της απόφασης -πλαισίου 2002/475/ΔΕΥ του Συμβουλίου και για την τροποποίηση της απόφασης 2005/671/ΔΕΥ του Συμβουλίου (EE L 88/31.03.2017) ή ηθική αυτουργία ή συνέργεια ή απόπειρα διάπραξης εγκλήματος, όπως ορίζονται στο άρθρο 14 αυτής, και τα εγκλήματα των άρθρων 187Α και 187Β του Ποινικού Κώδικα, καθώς και τα εγκλήματα των άρθρων 32-35 του ν. 4689/2020 (Α' 103).</cbc:Description>
+         </cac:SpecificTendererRequirement>
+      </cac:TendererQualificationRequest>
+      <cac:TendererQualificationRequest>
+         <cac:SpecificTendererRequirement>
+            <cbc:TendererRequirementTypeCode listName="exclusion-ground">exg-crim-laund</cbc:TendererRequirementTypeCode>
+            <cbc:Description languageID="ELL">όπως αυτές ορίζονται στο άρθρο 1 της Οδηγίας (ΕΕ) 2015/849 του Ευρωπαϊκού Κοινοβουλίου και του Συμβουλίου, της 20ης Μαΐου 2015, σχετικά με την πρόληψη της χρησιμοποίησης του χρηματοπιστωτικού συστήματος για τη νομιμοποίηση εσόδων από παράνομες δραστηριότητες ή για τη χρηματοδότηση της τρομοκρατίας, την τροποποίηση του κανονισμού (ΕΕ) αριθ. 648/2012 του Ευρωπαϊκού Κοινοβουλίου και του Συμβουλίου, και την κατάργηση της οδηγίας 2005/60/ΕΚ του Ευρωπαϊκού Κοινοβουλίου και του Συμβουλίου και της οδηγίας 2006/70/ΕΚ της Επιτροπής (EE L 141/05.06.2015) και τα εγκλήματα των άρθρων 2 και 39 του ν. 4557/2018 (Α ‘139).</cbc:Description>
+         </cac:SpecificTendererRequirement>
+      </cac:TendererQualificationRequest>
+      <cac:TendererQualificationRequest>
+         <cac:SpecificTendererRequirement>
+            <cbc:TendererRequirementTypeCode listName="exclusion-ground">exg-crim-traffick</cbc:TendererRequirementTypeCode>
+            <cbc:Description languageID="ELL">όπως ορίζονται στο άρθρο 2 της Οδηγίας 2011/36/ΕΕ του Ευρωπαϊκού Κοινοβουλίου και του Συμβουλίου της 5ης Απρίλιου 2011, για την πρόληψη και την καταπολέμηση της εμπορίας ανθρώπων και για την προστασία των θυμάτων της, καθώς και για την αντικατάσταση της απόφασης -πλαίσιο 2002/629/ΔΕΥ του Συμβουλίου (ΕΕ L 101 της 15.4.2011, σ. 1) και τα εγκλήματα του άρθρου 323Α του Ποινικού́ κώδικα (εμπορία ανθρώπων).</cbc:Description>
+         </cac:SpecificTendererRequirement>
+      </cac:TendererQualificationRequest>
+      <cac:TendererQualificationRequest>
+         <cac:SpecificTendererRequirement>
+            <cbc:TendererRequirementTypeCode listName="exclusion-ground">exg-pmt-bre-tax</cbc:TendererRequirementTypeCode>
+            <cbc:Description languageID="ELL">α) όταν ο οικονομικός φορέας έχει αθετήσει τις υποχρεώσεις του όσον αφορά στην καταβολή φόρων και αυτό έχει διαπιστωθεί από δικαστική ή διοικητική απόφαση με τελεσίδικη και δεσμευτική ισχύ, σύμφωνα με διατάξεις της χώρας όπου είναι εγκατεστημένος ή την εθνική νομοθεσία ή 
+β) όταν η αναθέτουσα αρχή μπορεί να αποδείξει με τα κατάλληλα μέσα ότι ο οικονομικός φορέας έχει αθετήσει τις υποχρεώσεις του όσον αφορά την καταβολή φόρων.</cbc:Description>
+         </cac:SpecificTendererRequirement>
+      </cac:TendererQualificationRequest>
+      <cac:TendererQualificationRequest>
+         <cac:SpecificTendererRequirement>
+            <cbc:TendererRequirementTypeCode listName="exclusion-ground">exg-pmt-bre-ssc</cbc:TendererRequirementTypeCode>
+            <cbc:Description languageID="ELL">α) όταν ο οικονομικός φορέας έχει αθετήσει τις υποχρεώσεις του όσον αφορά στην καταβολή εισφορών κοινωνικής ασφάλισης και αυτό έχει διαπιστωθεί από δικαστική ή διοικητική απόφαση με τελεσίδικη και δεσμευτική ισχύ, σύμφωνα με διατάξεις της χώρας όπου είναι εγκατεστημένος ή την εθνική νομοθεσία ή 
+β) όταν η αναθέτουσα αρχή μπορεί να αποδείξει με τα κατάλληλα μέσα ότι ο οικονομικός φορέας έχει αθετήσει τις υποχρεώσεις του όσον αφορά την καταβολή εισφορών κοινωνικής ασφάλισης.</cbc:Description>
+         </cac:SpecificTendererRequirement>
+      </cac:TendererQualificationRequest>
+      <cac:TendererQualificationRequest>
+         <cac:SpecificTendererRequirement>
+            <cbc:TendererRequirementTypeCode listName="exclusion-ground">exg-mis-bre-lab-law</cbc:TendererRequirementTypeCode>
+            <cbc:Description languageID="ELL">έχει αθετήσει τις υποχρεώσεις που προβλέπονται στην παρ. 2 του άρθρου 18 του ν. 4412/2016, περί αρχών που εφαρμόζονται στις διαδικασίες σύναψης δημοσίων συμβάσεων.</cbc:Description>
+         </cac:SpecificTendererRequirement>
+      </cac:TendererQualificationRequest>
+      <cac:TendererQualificationRequest>
+         <cac:SpecificTendererRequirement>
+            <cbc:TendererRequirementTypeCode listName="exclusion-ground">exg-mis-bre-soc-law</cbc:TendererRequirementTypeCode>
+            <cbc:Description languageID="ELL">έχει αθετήσει τις υποχρεώσεις που προβλέπονται στην παρ. 2 του άρθρου 18 του ν. 4412/2016, περί αρχών που εφαρμόζονται στις διαδικασίες σύναψης δημοσίων συμβάσεων.</cbc:Description>
+         </cac:SpecificTendererRequirement>
+      </cac:TendererQualificationRequest>
+      <cac:TendererQualificationRequest>
+         <cac:SpecificTendererRequirement>
+            <cbc:TendererRequirementTypeCode listName="exclusion-ground">exg-mis-bre-env-law</cbc:TendererRequirementTypeCode>
+            <cbc:Description languageID="ELL">έχει αθετήσει τις υποχρεώσεις που προβλέπονται στην παρ. 2 του άρθρου 18 του ν. 4412/2016, περί αρχών που εφαρμόζονται στις διαδικασίες σύναψης δημοσίων συμβάσεων.</cbc:Description>
+         </cac:SpecificTendererRequirement>
+      </cac:TendererQualificationRequest>
+      <cac:TendererQualificationRequest>
+         <cac:SpecificTendererRequirement>
+            <cbc:TendererRequirementTypeCode listName="exclusion-ground">exg-sitn-bankr</cbc:TendererRequirementTypeCode>
+            <cbc:Description languageID="ELL">η αναθέτουσα αρχή μπορεί να μην αποκλείει έναν οικονομικό φορέα ο οποίος βρίσκεται σε κατάσταση πτώχευσης, υπό την προϋπόθεση ότι αποδεικνύει ότι ο εν λόγω φορέας είναι σε θέση να εκτελέσει τη σύμβαση, λαμβάνοντας υπόψη τις ισχύουσες διατάξεις και τα μέτρα για τη συνέχιση της επιχειρηματικής του λειτουργίας.</cbc:Description>
+         </cac:SpecificTendererRequirement>
+      </cac:TendererQualificationRequest>
+      <cac:TendererQualificationRequest>
+         <cac:SpecificTendererRequirement>
+            <cbc:TendererRequirementTypeCode listName="exclusion-ground">exg-sitn-other</cbc:TendererRequirementTypeCode>
+            <cbc:Description languageID="ELL">η αναθέτουσα αρχή μπορεί να μην αποκλείει έναν οικονομικό φορέα ο οποίος έχει υπαχθεί σε διαδικασία εξυγίανσης ή ειδικής εκκαθάρισης ή τελεί υπό αναγκαστική διαχείριση από εκκαθαριστή ή από το δικαστήριο ή έχει υπαχθεί σε διαδικασία πτωχευτικού συμβιβασμού ή έχει αναστείλει τις επιχειρηματικές του δραστηριότητες ή εάν βρίσκεται σε οποιαδήποτε ανάλογη κατάσταση προκύπτουσα από παρόμοια διαδικασία, προβλεπόμενη σε εθνικές διατάξεις νόμου, υπό την προϋπόθεση ότι αποδεικνύει ότι ο εν λόγω φορέας είναι σε θέση να εκτελέσει τη σύμβαση, λαμβάνοντας υπόψη τις ισχύουσες διατάξεις και τα μέτρα για τη συνέχιση της επιχειρηματικής του λειτουργίας.</cbc:Description>
+         </cac:SpecificTendererRequirement>
+      </cac:TendererQualificationRequest>
+      <cac:TendererQualificationRequest>
+         <cac:SpecificTendererRequirement>
+            <cbc:TendererRequirementTypeCode listName="exclusion-ground">exg-mis-distortion</cbc:TendererRequirementTypeCode>
+            <cbc:Description languageID="ELL">εάν, με την επιφύλαξη της παρ. 3γ του άρθρου 44 του ν. 3959/2011 (Α’ 93), περί ποινικών κυρώσεων και άλλων διοικητικών συνεπειών, η αναθέτουσα αρχή διαθέτει επαρκώς εύλογες ενδείξεις που οδηγούν στο συμπέρασμα ότι ο οικονομικός φορέας συνήψε συμφωνίες με άλλους οικονομικούς φορείς με στόχο τη στρέβλωση του ανταγωνισμού.</cbc:Description>
+         </cac:SpecificTendererRequirement>
+      </cac:TendererQualificationRequest>
+      <cac:TendererQualificationRequest>
+         <cac:SpecificTendererRequirement>
+            <cbc:TendererRequirementTypeCode listName="exclusion-ground">exg-mis-partic-confl</cbc:TendererRequirementTypeCode>
+            <cbc:Description languageID="ELL">εάν μία κατάσταση σύγκρουσης συμφερόντων κατά την έννοια του άρθρου 24, περί σύγκρουσης συμφερόντων, δεν μπορεί να θεραπευθεί αποτελεσματικά με αλλά, λιγότερο παρεμβατικά, μέσα.</cbc:Description>
+         </cac:SpecificTendererRequirement>
+      </cac:TendererQualificationRequest>
+      <cac:TendererQualificationRequest>
+         <cac:SpecificTendererRequirement>
+            <cbc:TendererRequirementTypeCode listName="exclusion-ground">exg-mis-prep-confl</cbc:TendererRequirementTypeCode>
+            <cbc:Description languageID="ELL">εάν μία κατάσταση στρέβλωσης του ανταγωνισμού από την πρότερη συμμετοχή των οικονομικών φορέων κατά την προετοιμασία της διαδικασίας σύναψης σύμβασης, σύμφωνα με όσα ορίζονται στο άρθρο 48, περί προηγούμενης εμπλοκής υποψήφιων ή προσφερόντων, δεν μπορεί να θεραπευθεί με αλλά, λιγότερο παρεμβατικά, μέσα.</cbc:Description>
+         </cac:SpecificTendererRequirement>
+      </cac:TendererQualificationRequest>
+      <cac:TendererQualificationRequest>
+         <cac:SpecificTendererRequirement>
+            <cbc:TendererRequirementTypeCode listName="exclusion-ground">exg-mis-sanction</cbc:TendererRequirementTypeCode>
+            <cbc:Description languageID="ELL">εάν έχει επιδείξει σοβαρή ή επαναλαμβανόμενη πλημμέλεια κατά την εκτέλεση ουσιώδους απαίτησης στο πλαίσιο προηγούμενης δημόσιας σύμβασης, προηγούμενης σύμβασης με αναθέτοντα φορέα ή προηγούμενης σύμβασης παραχώρησης που είχε ως αποτέλεσμα την πρόωρη καταγγελία της προηγούμενης σύμβασης, αποζημιώσεις ή άλλες παρόμοιες κυρώσεις.</cbc:Description>
+         </cac:SpecificTendererRequirement>
+      </cac:TendererQualificationRequest>
+      <cac:TendererQualificationRequest>
+         <cac:SpecificTendererRequirement>
+            <cbc:TendererRequirementTypeCode listName="exclusion-ground">exg-mis-misrepresent</cbc:TendererRequirementTypeCode>
+            <cbc:Description languageID="ELL">εάν έχει κριθεί ένοχος εκ προθέσεως σοβαρών απατηλών δηλώσεων, κατά την παροχή των πληροφοριών που απαιτούνται για την εξακρίβωση της απουσίας των λόγων αποκλεισμού ή την πλήρωση των κριτήριων επιλογής, έχει αποκρύψει τις πληροφορίες αυτές ή δεν είναι σε θέση να προσκομίσει τα δικαιολογητικά που απαιτούνται κατ’ εφαρμογή της παραγράφου 2.2.9.2 της Διακήρυξης και εάν επιχειρεί να επηρεάσει με αθέμιτο τρόπο τη διαδικασία λήψης αποφάσεων της αναθέτουσας αρχής, να αποκτήσει εμπιστευτικές πληροφορίες που ενδέχεται να του αποφέρουν αθέμιτο πλεονέκτημα στη διαδικασία σύναψης σύμβασης ή να παράσχει με απατηλό τρόπο παραπλανητικές πληροφορίες που ενδέχεται να επηρεάσουν ουσιωδώς τις αποφάσεις που αφορούν στον αποκλεισμό, την επιλογή ή την ανάθεση.</cbc:Description>
+         </cac:SpecificTendererRequirement>
+      </cac:TendererQualificationRequest>
+      <cac:TendererQualificationRequest>
+         <cac:SpecificTendererRequirement>
+            <cbc:TendererRequirementTypeCode listName="exclusion-ground">exg-mis-misconduct</cbc:TendererRequirementTypeCode>
+            <cbc:Description languageID="ELL">εάν η αναθέτουσα αρχή μπορεί να αποδείξει, με κατάλληλα μέσα, ότι ο οικονομικός φορέας έχει διαπράξει σοβαρό επαγγελματικό παράπτωμα, το οποίο θέτει εν αμφιβόλω την ακεραιότητά του.</cbc:Description>
+         </cac:SpecificTendererRequirement>
+      </cac:TendererQualificationRequest>
+      <cac:LotDistribution>
+         <cbc:MaximumLotsAwardedNumeric>4</cbc:MaximumLotsAwardedNumeric>
+         <cbc:MaximumLotsSubmittedNumeric>4</cbc:MaximumLotsSubmittedNumeric>
+      </cac:LotDistribution>
+   </cac:TenderingTerms>
+   <cac:TenderingProcess>
+      <cbc:ProcedureCode listName="procurement-procedure-type">open</cbc:ProcedureCode>
+      <cac:ProcessJustification>
+         <cbc:ProcessReasonCode listName="accelerated-procedure">false</cbc:ProcessReasonCode>
+      </cac:ProcessJustification>
+   </cac:TenderingProcess>
+   <cac:ProcurementProject>
+      <cbc:ID schemeName="InternalID">722_2026</cbc:ID>
+      <cbc:Name languageID="ELL">Ανάπτυξη και αναβάθμιση υπολογιστικών υποδομών και υποδομών ανάλυσης δεδομένων</cbc:Name>
+      <cbc:Description languageID="ELL">Αντικείμενο της σύμβασης είναι η “Ανάπτυξη και αναβάθμιση υπολογιστικών υποδομών και υποδομών ανάλυσης δεδομένων” σύμφωνα με τους όρους και τις απαιτήσεις της παρούσας διακήρυξης όπως κατά περίπτωση ορίζεται ανά Τμήμα και ο Ανάδοχος οφείλει να υλοποιήσει την προμήθεια του κάθε Τμήματος και να παράσχει τις σχετικές υπηρεσίες όπως κατά περίπτωση απαιτείται ανά Τμήμα σύμφωνα με τα οριζόμενα στην παρ. 6.1.1 της Διακήρυξης και το Παράρτημα I αυτής.</cbc:Description>
+      <cbc:ProcurementTypeCode listName="contract-nature">supplies</cbc:ProcurementTypeCode>
+      <cbc:Note languageID="ELL">Ο οικονομικός φορέας αποκλείεται όταν το πρόσωπο εις βάρος του οποίου εκδόθηκε αμετάκλητη καταδικαστική απόφαση είναι μέλος του διοικητικού, διευθυντικού ή εποπτικού οργάνου του ή έχει εξουσία εκπροσώπησης, λήψης αποφάσεων ή ελέγχου σε αυτό. Η υποχρέωση του προηγούμενου εδαφίου αφορά: 
+α) στις περιπτώσεις εταιρειών περιορισμένης ευθύνης (Ε.Π.Ε.), ιδιωτικών κεφαλαιουχικών εταιρειών (Ι.Κ.Ε.) και προσωπικών εταιρειών (Ο.Ε. και Ε.Ε.), τους διαχειριστές,
+β) στις περιπτώσεις ανωνύμων εταιρειών (Α.Ε.), τον διευθύνοντα σύμβουλο, τα μέλη του Διοικητικού Συμβουλίου, καθώς και τα πρόσωπα στα οποία με απόφαση του Διοικητικού Συμβουλίου έχει ανατεθεί το σύνολο της διαχείρισης και εκπροσώπησης της εταιρείας,
+γ) στις περιπτώσεις των συνεταιρισμών, τα μέλη του Διοικητικού Συμβουλίου, και
+δ) στις υπόλοιπες περιπτώσεις νομικών προσώπων, τον κατά περίπτωση νόμιμο εκπρόσωπο.
+H αναθέτουσα αρχή με βάση τα αποτελέσματα του ελέγχου και της αξιολόγησης των προσφορών, απορρίπτει, σε κάθε περίπτωση, προσφορά: α) η οποία, με την επιφύλαξη του άρθρου 102 του ν. 4412/2016 περί συμπλήρωσης, αποκλίνει από απαράβατους όρους περί σύνταξης και υποβολής της προσφοράς, ή δεν υποβάλλεται εμπρόθεσμα με τον τρόπο και με το περιεχόμενο που ορίζεται στην παρούσα και συγκεκριμένα στις παραγράφους 2.4.1 (Γενικοί όροι υποβολής προσφορών), 2.4.2. (Χρόνος και τρόπος υποβολής προσφορών), 2.4.3. (Περιεχόμενο φακέλων δικαιολογητικών συμμετοχής, τεχνικής προσφοράς, ειδικά ως προς τους όρους, οι οποίοι ρητώς έχουν καθοριστεί, επί ποινή αποκλεισμού, στην παρούσα Διακήρυξη), 2.4.4. (Περιεχόμενο φακέλου οικονομικής προσφοράς, τρόπος σύνταξης και υποβολής οικονομικών προσφορών, ειδικά ως προς τους όρους, οι οποίοι ρητώς έχουν καθοριστεί, επί ποινή αποκλεισμού, στην παρούσα Διακήρυξη), 2.4.5. (Χρόνος ισχύος προσφορών), 3.1. (Αποσφράγιση και αξιολόγηση προσφορών), 3.2 (Πρόσκληση υποβολής δικαιολογητικών προσωρινού αναδόχου) της παρούσας,
+β) η οποία περιέχει ατελείς, ελλιπείς, ασαφείς ή λανθασμένες πληροφορίες ή τεκμηρίωση, συμπεριλαμβανομένων των πληροφοριών που περιέχονται στο ΕΕΕΣ, εφόσον αυτές δεν επιδέχονται συμπλήρωσης, διόρθωσης, αποσαφήνισης ή διευκρίνισης ή εφόσον επιδέχονται, δεν έχουν αποκατασταθεί από τον προσφέροντα, εντός της προκαθορισμένης προθεσμίας, σύμφωνα το άρθρο 102 του ν. 4412/2016 και την παρ. 3.1.2.1 της παρούσας διακήρυξης,
+γ) για την οποία ο προσφέρων δεν παράσχει τις απαιτούμενες εξηγήσεις, εντός της προκαθορισμένης προθεσμίας ή η εξήγηση δεν είναι αποδεκτή από την αναθέτουσα αρχή σύμφωνα με την παρ. 3.1.2.1 της παρούσας και τα άρθρα 102 και 103 του ν. 4412/2016,
+δ) η οποία είναι εναλλακτική προσφορά, 
+ε) η οποία υποβάλλεται από έναν προσφέροντα που έχει υποβάλλει δύο ή περισσότερες προσφορές. Ο περιορισμός αυτός ισχύει, υπό τους όρους της παραγράφου 2.2.3.3 περ. γ της παρούσας ( περ. γ΄ της παρ. 4 του άρθρου73 του ν. 4412/2016) και στην περίπτωση ενώσεων οικονομικών φορέων με κοινά μέλη, καθώς και στην περίπτωση οικονομικών φορέων που συμμετέχουν είτε αυτοτελώς είτε ως μέλη ενώσεων,
+στ) η οποία είναι υπό αίρεση,
+ζ) η οποία θέτει όρο αναπροσαρμογής, 
+η) για την οποία ο προσφέρων δεν παράσχει, εντός αποκλειστικής προθεσμίας είκοσι (20) ημερών από την κοινοποίηση σε αυτόν σχετικής πρόσκλησης της αναθέτουσας αρχής, εξηγήσεις αναφορικά με την τιμή ή το κόστος που προτείνει σε αυτήν, στην περίπτωση που η προσφορά του φαίνεται ασυνήθιστα χαμηλή σε σχέση με τα είδη, σύμφωνα με την παρ. 1 του άρθρου 88 του ν.4412/2016,
+θ) εφόσον διαπιστωθεί ότι είναι ασυνήθιστα χαμηλή διότι δε συμμορφώνεται με τις ισχύουσες  υποχρεώσεις της παρ. 2 του άρθρου 18 του ν.4412/2016,
+ι) η οποία παρουσιάζει αποκλίσεις ως προς τους όρους και τις τεχνικές προδιαγραφές της σύμβασης, σύμβασης που έχουν ρητώς καθοριστεί, επί ποινή αποκλεισμού, στην παρούσα Διακήρυξη,
+ια) η οποία παρουσιάζει ελλείψεις ως προς τα δικαιολογητικά που ζητούνται από τα έγγραφα της παρούσας διακήρυξης, εφόσον αυτές δεν θεραπευτούν από τον προσφέροντα με την υποβολή ή τη συμπλήρωσή τους, εντός της προκαθορισμένης προθεσμίας, σύμφωνα με τα άρθρα 102 και 103 του ν.4412/2016,
+ιβ) εάν από τα δικαιολογητικά του άρθρου 103 του ν. 4412/2016, που προσκομίζονται από τον προσωρινό ανάδοχο, δεν αποδεικνύεται η μη συνδρομή των λόγων αποκλεισμού της παραγράφου 2.2.3 της παρούσας ή η πλήρωση μιας ή περισσότερων από τις απαιτήσεις των κριτηρίων ποιοτικής επιλογής, σύμφωνα με τις παραγράφους 2.2.4. επ., περί κριτηρίων επιλογής,
+ιγ) εάν κατά τον έλεγχο των ως άνω δικαιολογητικών του άρθρου 103 του ν.4412/2016, διαπιστωθεί ότι τα στοιχεία που δηλώθηκαν, σύμφωνα με το άρθρο 79 του ν. 4412/2016, είναι εκ προθέσεως απατηλά, ή ότι έχουν υποβληθεί πλαστά αποδεικτικά στοιχεία.</cbc:Note>
+      <cac:RequestedTenderTotal>
+         <cbc:EstimatedOverallContractAmount currencyID="EUR">271975.8</cbc:EstimatedOverallContractAmount>
+      </cac:RequestedTenderTotal>
+      <cac:MainCommodityClassification>
+         <cbc:ItemClassificationCode listName="cpv">30233000</cbc:ItemClassificationCode>
+      </cac:MainCommodityClassification>
+      <cac:AdditionalCommodityClassification>
+         <cbc:ItemClassificationCode listName="cpv">30233140</cbc:ItemClassificationCode>
+      </cac:AdditionalCommodityClassification>
+      <cac:AdditionalCommodityClassification>
+         <cbc:ItemClassificationCode listName="cpv">32420000</cbc:ItemClassificationCode>
+      </cac:AdditionalCommodityClassification>
+      <cac:AdditionalCommodityClassification>
+         <cbc:ItemClassificationCode listName="cpv">48820000</cbc:ItemClassificationCode>
+      </cac:AdditionalCommodityClassification>
+      <cac:AdditionalCommodityClassification>
+         <cbc:ItemClassificationCode listName="cpv">48821000</cbc:ItemClassificationCode>
+      </cac:AdditionalCommodityClassification>
+      <cac:RealizedLocation>
+         <cac:Address>
+            <cbc:StreetName>6ο χλμ οδού Χαριλάου - Θέρμης</cbc:StreetName>
+            <cbc:CityName>Θέρμη, Θεσσαλονίκη</cbc:CityName>
+            <cbc:PostalZone>57001</cbc:PostalZone>
+            <cbc:CountrySubentityCode listName="nuts">EL522</cbc:CountrySubentityCode>
+            <cac:Country>
+               <cbc:IdentificationCode listName="country">GRC</cbc:IdentificationCode>
+            </cac:Country>
+         </cac:Address>
+      </cac:RealizedLocation>
+   </cac:ProcurementProject>
+   <cac:ProcurementProjectLot>
+      <cbc:ID schemeName="Lot">LOT-0002</cbc:ID>
+      <cac:TenderingTerms>
+         <ext:UBLExtensions>
+            <ext:UBLExtension>
+               <ext:ExtensionContent>
+                  <efext:EformsExtension>
+                     <efac:Funding>
+                        <cbc:FundingProgramCode listName="eu-programme">ERDF_2021</cbc:FundingProgramCode>
+                     </efac:Funding>
+                     <efac:SelectionCriteria>
+                        <cbc:TendererRequirementTypeCode listName="selection-criterion">slc-suit-reg-prof</cbc:TendererRequirementTypeCode>
+                        <cbc:Description languageID="ELL">Οι οικονομικοί φορείς που συμμετέχουν στη διαδικασία σύναψης της παρούσας σύμβασης απαιτείται να ασκούν εμπορική ή βιομηχανική ή βιοτεχνική δραστηριότητα συναφή με το αντικείμενο της προμήθειας του/των Τμήματος/Τμημάτων του παρόντος διαγωνισμού. 
+Οι οικονομικοί φορείς που είναι εγκατεστημένοι σε κράτος μέλος της Ευρωπαϊκής Ένωσης απαιτείται να είναι εγγεγραμμένοι σε ένα από τα επαγγελματικά ή εμπορικά μητρώα που τηρούνται στο κράτος εγκατάστασής τους ή να ικανοποιούν οποιαδήποτε άλλη απαίτηση ορίζεται στο Παράρτημα XI του Προσαρτήματος Α΄ του Ν. 4412/2016. 
+Στην περίπτωση οικονομικών φορέων εγκατεστημένων σε κράτος μέλος του Ευρωπαϊκού Οικονομικού Χώρου (Ε.Ο.Χ) ή σε τρίτες χώρες που έχουν προσχωρήσει στη ΣΔΣ, ή σε τρίτες χώρες που δεν εμπίπτουν στην προηγούμενη περίπτωση και έχουν συνάψει διμερείς ή πολυμερείς συμφωνίες με την Ένωση σε θέματα διαδικασιών ανάθεσης δημοσίων συμβάσεων, απαιτείται να είναι εγγεγραμμένοι σε αντίστοιχα επαγγελματικά ή εμπορικά μητρώα. 
+Οι εγκατεστημένοι στην Ελλάδα οικονομικοί φορείς απαιτείται να είναι εγγεγραμμένοι στο Βιοτεχνικό ή Εμπορικό ή Βιομηχανικό Επιμελητήριο ή στο Μητρώο Κατασκευαστών Αμυντικού Υλικού.
+Στην περίπτωση ένωσης οικονομικών φορέων η παραπάνω απαίτηση θα πρέπει να καλύπτεται από όλα τα μέλη της ένωσης.</cbc:Description>
+                     </efac:SelectionCriteria>
+                     <efac:SelectionCriteria>
+                        <cbc:TendererRequirementTypeCode listName="selection-criterion">slc-stand-to-avg</cbc:TendererRequirementTypeCode>
+                        <cbc:Description languageID="ELL">Όσον αφορά την οικονομική και χρηματοοικονομική επάρκεια για την παρούσα διαδικασία σύναψης σύμβασης, οι οικονομικοί φορείς απαιτείται να έχουν μέσο γενικό ετήσιο κύκλο εργασιών κατά τη διάρκεια της τελευταίας τριετίας ήτοι τα έτη 2023, 2024 και 2025 ίσο με το 100% του προϋπολογισμού (μη συμπεριλαμβανομένου ΦΠΑ) του παρόντος διαγωνισμού εφόσον υποβάλουν προσφορά για το σύνολο των Τμημάτων του παρόντος διαγωνισμού ή κατ’ ελάχιστο ίσο με το 100% του προϋπολογισμού (μη συμπεριλαμβανομένου ΦΠΑ) του/των Τμήματος/Τμημάτων για το οποίο υποβάλλουν προσφορά.</cbc:Description>
+                     </efac:SelectionCriteria>
+                     <efac:SelectionCriteria>
+                        <cbc:TendererRequirementTypeCode listName="selection-criterion">slc-abil-staff-tech-ctrl</cbc:TendererRequirementTypeCode>
+                        <cbc:Description languageID="ELL">Όσον αφορά στην τεχνική και επαγγελματική ικανότητα για την παρούσα διαδικασία σύναψης σύμβασης:
+α) οι οικονομικοί φορείς απαιτείται να έχουν εκτελέσει/υλοποιήσει κατά τη διάρκεια της τελευταίας τριετίας (ήτοι τα έτη 2023, 2024,2025 και μέχρι την καταληκτική ημερομηνία υποβολής προσφορών) τουλάχιστον δύο (2) συμβάσεις συναφούς φυσικού αντικειμένου (ήτοι με συναφή τεχνικά χαρακτηριστικά με τα ζητούμενα ανά Τμήμα για το αντικείμενο της προμήθειας) με το αντικείμενο της υπό σύναψη σύμβασης αναφορικά με το/τα αντίστοιχο/α Τμήμα/τα για το/τα οποίο/α υποβάλλεται προσφορά,
+β) οι οικονομικοί φορείς απαιτείται να διαθέτουν το τεχνικό προσωπικό ή τις τεχνικές υπηρεσίες ήτοι τουλάχιστον έναν (1) υπεύθυνο για τον έλεγχο της ποιότητας με καθήκοντα την τήρηση και την αξιολόγηση των συστημάτων διαχείρισης ποιότητας με στόχο την παρακολούθηση της ποιότητας των ειδών και τη βελτίωση των διαδικασιών για την άρτια εκτέλεση της υπό σύναψη σύμβασης ήτοι για την εγκατάσταση, θέση σε λειτουργία του εξοπλισμού, τεχνική υποστήριξη, εκπαίδευση του προσωπικού της Αναθέτουσας Αρχής που θα υποδειχθεί στον Ανάδοχο στη χρήση του/των Τμήματος/των Τμημάτων του παρόντος διαγωνισμού όπως κατά περίπτωση απαιτείται.
+Ειδικότερα και επιπρόσθετα απαιτείται να διαθέτουν τουλάχιστον ένα (1) άτομο που θα προβεί στην εκπαίδευση/επίδειξη λειτουργίας του προσωπικού της Αναθέτουσας Αρχής (ΕΚΕΤΑ/ΙNEB) σύμφωνα με τους όρους του Παραρτήματος I της διακήρυξης και το οποίο να είναι πιστοποιημένο από τον κατασκευαστικό οίκο του προσφερόμενου εξοπλισμού στην τεχνική/επιστημονική υποστήριξη αντίστοιχου εξοπλισμού ή/και στη διαμόρφωσή του. 
+Επισημαίνεται ότι τα φυσικά πρόσωπα που δηλώνονται από τον προσφέροντα δύνανται να απασχολούνται με εξαρτημένη σχέση εργασίας ή σύμβαση ανεξαρτήτων υπηρεσιών, η οποία είναι σε ισχύ, ήδη κατά τον χρόνο υποβολής της προσφοράς. Στην τελευταία αυτή περίπτωση θεωρούνται ίδιοι πόροι του οικονομικού φορέα και όχι τρίτοι δανείζοντες και δεν απαιτείται εκ μέρους τους η υποβολή ΕΕΕΣ και των σχετικών αποδεικτικών μέσων. 
+</cbc:Description>
+                     </efac:SelectionCriteria>
+                     <efac:SelectionCriteria>
+                        <cbc:TendererRequirementTypeCode listName="selection-criterion">slc-sche-qu-cert-indep</cbc:TendererRequirementTypeCode>
+                        <cbc:Description languageID="ELL">Οι οικονομικοί φορείς για την παρούσα διαδικασία σύναψης σύμβασης οφείλουν να συμμορφώνονται με το κάτωθι πρότυπο διασφάλισης ποιότητας :
+Ήτοι με το πρότυπο διασφάλισης ποιότητας ISO 9001:2015 ή ισοδύναμο με πεδίο εφαρμογής συναφές αντίστοιχα με το αντικείμενο του αντίστοιχου Τμήματος της παρούσας διακήρυξης για το οποίο υποβάλλεται προσφορά.
+Η αναθέτουσα αρχή αναγνωρίζει ισοδύναμα πιστοποιητικά που έχουν εκδοθεί από φορείς διαπιστευμένους από ισοδύναμους Οργανισμούς διαπίστευσης σύμφωνα με τον Κανονισμό 765/2008 λαμβάνοντας υπόψη και τα οριζόμενα στο νόμο 5218/2025 (ΦΕΚ Α/125/14.07.2025)  και πιο συγκεκριμένα στο άρθρο 13 και στο άρθρο 37 αυτού. </cbc:Description>
+                     </efac:SelectionCriteria>
+                  </efext:EformsExtension>
+               </ext:ExtensionContent>
+            </ext:UBLExtension>
+         </ext:UBLExtensions>
+         <cbc:VariantConstraintCode listName="permission">not-allowed</cbc:VariantConstraintCode>
+         <cbc:FundingProgramCode listName="eu-funded">eu-funds</cbc:FundingProgramCode>
+         <cbc:RecurringProcurementIndicator>false</cbc:RecurringProcurementIndicator>
+         <cbc:MultipleTendersCode listName="permission">not-allowed</cbc:MultipleTendersCode>
+         <cac:RequiredFinancialGuarantee>
+            <cbc:GuaranteeTypeCode listName="tender-guarantee-required">true</cbc:GuaranteeTypeCode>
+            <cbc:Description languageID="ELL">Η προσφορά θα συνοδεύεται υποχρεωτικά, από εγγυητική επιστολή συμμετοχής στο διαγωνισμό για ποσό που αντιστοιχεί σε ποσοστό 2% επί του συνολικού προϋπολογισμού του διαγωνισμού χωρίς Φ.Π.Α., εφόσον υποβάλλεται προσφορά για το σύνολο των Τμημάτων του παρόντος διαγωνισμού ή σε ποσοστό 2% επί της εκτιμωμένης αξίας της σύμβασης (χωρίς Φ.Π.Α.) κάθε Τμήματος για το οποίο υποβάλλεται προσφορά και θα ισχύει για τουλάχιστον τριάντα (30) ημέρες μετά τη λήξη του χρόνου ισχύος της προσφοράς, σύμφωνα με τη Διακήρυξη.</cbc:Description>
+         </cac:RequiredFinancialGuarantee>
+         <cac:CallForTendersDocumentReference>
+            <ext:UBLExtensions>
+               <ext:UBLExtension>
+                  <ext:ExtensionContent>
+                     <efext:EformsExtension>
+                        <efac:OfficialLanguages>
+                           <cac:Language>
+                              <cbc:ID>ELL</cbc:ID>
+                           </cac:Language>
+                        </efac:OfficialLanguages>
+                     </efext:EformsExtension>
+                  </ext:ExtensionContent>
+               </ext:UBLExtension>
+            </ext:UBLExtensions>
+            <cbc:ID>516046</cbc:ID>
+            <cbc:DocumentType>non-restricted-document</cbc:DocumentType>
+            <cac:Attachment>
+               <cac:ExternalReference>
+                  <cbc:URI>https://nepps-search.eprocurement.gov.gr/actSearch/faces/active_search_main.jspx</cbc:URI>
+               </cac:ExternalReference>
+            </cac:Attachment>
+         </cac:CallForTendersDocumentReference>
+         <cac:TendererQualificationRequest>
+            <cac:SpecificTendererRequirement>
+               <cbc:TendererRequirementTypeCode listName="selection-criteria-source">epo-notice</cbc:TendererRequirementTypeCode>
+            </cac:SpecificTendererRequirement>
+         </cac:TendererQualificationRequest>
+         <cac:TendererQualificationRequest>
+            <cbc:CompanyLegalFormCode listName="required">false</cbc:CompanyLegalFormCode>
+         </cac:TendererQualificationRequest>
+         <cac:TendererQualificationRequest>
+            <cac:SpecificTendererRequirement>
+               <cbc:TendererRequirementTypeCode listName="reserved-procurement">none</cbc:TendererRequirementTypeCode>
+            </cac:SpecificTendererRequirement>
+         </cac:TendererQualificationRequest>
+         <cac:ContractExecutionRequirement>
+            <cbc:ExecutionRequirementCode listName="reserved-execution">no</cbc:ExecutionRequirementCode>
+         </cac:ContractExecutionRequirement>
+         <cac:ContractExecutionRequirement>
+            <cbc:ExecutionRequirementCode listName="conditions">performance</cbc:ExecutionRequirementCode>
+            <cbc:Description languageID="ELL">Για την υπογραφή της σύμβασης απαιτείται εγγύηση καλής εκτέλεσης, ύψους 4% επί της εκτιμώμενης αξίας της σύμβασης, σύμφωνα με τους όρους της παρ. 4.1 της Διακήρυξης (Δ). Κατά την εκτέλεση της σύμβασης εφαρμόζονται οι διατάξεις του Ν4412/2016 όπως τροποποιήθηκε και ισχύει, οι όροι της Δ και συμπληρωματικά ο Αστικός Κώδικας. Κατά την εκτέλεση της σύμβασης ο ανάδοχος τηρεί τις υποχρεώσεις στους τομείς του περιβαλλοντικού, κοινωνικοασφαλιστικού και εργατικού δικαίου, που έχουν θεσπιστεί με το δίκαιο της Ένωσης, το εθνικό δίκαιο, συλλογικές συμβάσεις ή διεθνείς διατάξεις περιβαλλοντικού, κοινωνικοασφαλιστικού και εργατικού δικαίου, οι οποίες απαριθμούνται στο Παράρτημα Χ του Προσαρτήματος Α του Ν.4412/2016. Η σύμβαση μπορεί να τροποποιείται κατά τη διάρκειά της σύμφωνα με τους όρους και τις προϋποθέσεις του άρ.132 του Ν4412/2016, κατόπιν γνωμοδότησης της Επιτροπής παραλαβής. Η αναθέτουσα αρχή μπορεί, να καταγγείλει τη σύμβαση κατά τη διάρκεια εκτέλεσής της, σύμφωνα με την παρ. 4.6 της Δ.</cbc:Description>
+         </cac:ContractExecutionRequirement>
+         <cac:ContractExecutionRequirement>
+            <cbc:ExecutionRequirementCode listName="einvoicing">required</cbc:ExecutionRequirementCode>
+         </cac:ContractExecutionRequirement>
+         <cac:ContractExecutionRequirement>
+            <cbc:ExecutionRequirementCode listName="ecatalog-submission">not-allowed</cbc:ExecutionRequirementCode>
+         </cac:ContractExecutionRequirement>
+         <cac:ContractExecutionRequirement>
+            <cbc:ExecutionRequirementCode listName="esignature-submission">true</cbc:ExecutionRequirementCode>
+         </cac:ContractExecutionRequirement>
+         <cac:AwardingTerms>
+            <cac:AwardingCriterion>
+               <cac:SubordinateAwardingCriterion>
+                  <cbc:AwardingCriterionTypeCode listName="award-criterion-type">cost</cbc:AwardingCriterionTypeCode>
+                  <cbc:Description languageID="ELL">Η τιμή δεν είναι το μόνο κριτήριο ανάθεσης και όλα τα κριτήρια ορίζονται μόνο στα έγγραφα της σύμβασης.</cbc:Description>
+               </cac:SubordinateAwardingCriterion>
+            </cac:AwardingCriterion>
+         </cac:AwardingTerms>
+         <cac:AdditionalInformationParty>
+            <cac:PartyIdentification>
+               <cbc:ID>ORG-0004</cbc:ID>
+            </cac:PartyIdentification>
+         </cac:AdditionalInformationParty>
+         <cac:TenderRecipientParty>
+            <cbc:EndpointID>https://nepps.eprocurement.gov.gr/OA_HTML/AppsLocalLogin.jsp</cbc:EndpointID>
+            <cac:PartyIdentification>
+               <cbc:ID>ORG-0004</cbc:ID>
+            </cac:PartyIdentification>
+         </cac:TenderRecipientParty>
+         <cac:TenderEvaluationParty>
+            <cac:PartyIdentification>
+               <cbc:ID>ORG-0004</cbc:ID>
+            </cac:PartyIdentification>
+         </cac:TenderEvaluationParty>
+         <cac:TenderValidityPeriod>
+            <cbc:DurationMeasure unitCode="MONTH">8</cbc:DurationMeasure>
+         </cac:TenderValidityPeriod>
+         <cac:AppealTerms>
+            <cac:PresentationPeriod>
+               <cbc:Description languageID="ELL">Α. Κάθε ενδιαφερόμενος, ο οποίος έχει ή είχε συμφέρον να του ανατεθεί η συγκεκριμένη δημόσια σύμβαση και έχει υποστεί ή ενδέχεται να υποστεί ζημία από εκτελεστή πράξη ή παράλειψη της Αναθέτουσας Αρχής (ΑΑ) κατά παράβαση της ευρωπαϊκής ενωσιακής ή εσωτερικής νομοθεσίας στον τομέα των δημοσίων συμβάσεων, έχει δικαίωμα να προσφύγει στην ΕΑΔΗΣΥ σύμφωνα με τα ειδικότερα οριζόμενα στα άρθρα 345 επ. ν 4412/2016 και 1 επ. πδ 39/2017, στρεφόμενος με προδικαστική προσφυγή, κατά πράξης ή παράλειψης της ΑΑ, προσδιορίζοντας ειδικώς τις νομικές και πραγματικές αιτιάσεις που δικαιολογούν το αίτημά του. Η προθεσμία για την άσκηση της προδικαστικής προσφυγής είναι: (α) 10 ημέρες από την κοινοποίηση της προσβαλλόμενης πράξης στον ενδιαφερόμενο οικονομικό φορέα αν η πράξη κοινοποιήθηκε με ηλεκτρονικά μέσα ή τηλεομοιοτυπία ή (β) 15 ημέρες από την κοινοποίηση της προσβαλλόμενης πράξης σε αυτόν αν χρησιμοποιήθηκαν άλλα μέσα επικοινωνίας, άλλως (γ) 10 ημέρες από την πλήρη, πραγματική ή τεκμαιρόμενη, γνώση της πράξης που βλάπτει τα συμφέροντα του ενδιαφερόμενου οικονομικού φορέα. Η άσκηση προδικαστικής προσφυγής κατά διακήρυξης διαγωνισμού επιτρέπεται μέχρι και 15 ημέρες από τη δημοσίευσή της στο ΚΗΜΔΗΣ. Η ως άνω προθεσμία ισχύει και για κάθε τροποποίηση της διακήρυξης. Σε περίπτωση παράλειψης που αποδίδεται στην ΑΑ, η προθεσμία για την άσκηση της προδικαστικής προσφυγής είναι 15 ημέρες από την επομένη της συντέλεσης της προσβαλλόμενης παράλειψης. Οι προθεσμίες ως προς την υποβολή των προδικαστικών προσφυγών και των παρεμβάσεων αρχίζουν την επομένη της ημέρας της προαναφερθείσας κατά περίπτωση κοινοποίησης ή γνώσης και λήγουν όταν περάσει ολόκληρη η τελευταία ημέρα και ώρα 23:59:59 και, αν αυτή είναι εξαιρετέα ή Σάββατο, όταν περάσει ολόκληρη η επομένη εργάσιμη ημέρα και ώρα 23:59:59. Η προδικαστική προσφυγή συντάσσεται υποχρεωτικά με τη χρήση του τυποποιημένου εντύπου του Παραρτήματος Ι του πδ/τος 39/2017 και κατατίθεται ηλεκτρονικά μέσω της λειτουργικότητας «Επικοινωνία» στην ηλεκτρονική περιοχή του συγκεκριμένου διαγωνισμού, επιλέγοντας την ένδειξη «Προδικαστική Προσφυγή» σύμφωνα με το άρθρο 18 της ΚΥΑ Προμήθειες και Υπηρεσίες.
+Σε περίπτωση τεχνικής αδυναμίας λειτουργίας του ΕΣΗΔΗΣ, η οποία ανακοινώνεται και πιστοποιείται εκ των προτέρων, για τις δημόσιες συμβάσεις προμηθειών και υπηρεσιών από τη Διεύθυνση Διαχείρισης, Ανάπτυξης και Υποστήριξης του ΕΣΗΔΗΣ του Υπουργείου Ψηφιακής Διακυβέρνησης αναστέλλονται για το αντίστοιχο διάστημα οι σχετικές προθεσμίες. Σε περίπτωση αιφνίδιας τεχνικής αδυναμίας του ΕΣΗΔΗΣ, το προηγούμενο εδάφιο δεν εφαρμόζεται και η προσφυγή κατατίθεται στην ΕΑΔΗΣΥ με μήνυμα ηλεκτρονικού ταχυδρομείου, η δε τεχνική αδυναμία πιστοποιείται σύμφωνα με τη διαδικασία του τρίτου εδαφίου, εκ των υστέρων. Η έκταση της προσφυγής δεν υπερβαίνει το όριο των 25 σελίδων. Υπέρβαση του ορίου των σελίδων δικαιολογείται μόνο σε εξαιρετικές περιστάσεις, όπως ιδίως, αν με την προσφυγή αμφισβητείται η πλήρωση πλήθους τεχνικών προδιαγραφών. Το Κλιμάκιο εξέτασης της προσφυγής μπορεί να ζητήσει, με πράξη του Προέδρου του, τον περιορισμό της αδικαιολόγητης έκτασής της. Αν ο προσφεύγων δεν συμμορφωθεί με την πράξη του προηγούμενου εδαφίου, καταβάλλει παράβολο ίσο προς το διπλάσιο του παραβόλου που προβλέπεται για την άσκηση της προσφυγής.
+Για το παραδεκτό της άσκησης της προδικαστικής προσφυγής κατατίθεται παράβολο από τον προσφεύγοντα υπέρ του Ελληνικού Δημοσίου, σύμφωνα με όσα ορίζονται στο άρ 363 ν 4412/2016. Η επιστροφή του παραβόλου στον προσφεύγοντα γίνεται: α) σε περίπτωση ολικής ή μερικής αποδοχής της προσφυγής του, β) όταν η ΑΑ ανακαλεί την προσβαλλόμενη πράξη ή προβαίνει στην οφειλόμενη ενέργεια πριν από την έκδοση της απόφασης της ΕΑΔΗΣΥ επί της προσφυγής, γ) σε περίπτωση παραίτησης του προσφεύγοντα από την προσφυγή του έως και 10 ημέρες από την κατάθεση της προσφυγής.
+Η προθεσμία για την άσκηση της προδικαστικής προσφυγής και η άσκησή της κωλύουν τη σύναψη της σύμβασης επί ποινή ακυρότητας, η οποία διαπιστώνεται με απόφαση της ΕΑΔΗΣΥ μετά από άσκηση προδικαστικής προσφυγής, σύμφωνα με το άρ 368 του ν 4412/2016 και 20 πδ 39/2017. Όμως, μόνη η άσκηση της προδικαστικής προσφυγής δεν κωλύει την πρόοδο της διαγωνιστικής διαδικασίας, υπό την επιφύλαξη χορήγησης από το Κλιμάκιο προσωρινής προστασίας σύμφωνα με το άρ 366 παρ 1-2 ν 4412/2016 και 15 παρ 1-4 πδ 39/2017. 
+Η προηγούμενη παράγραφος δεν εφαρμόζεται στην περίπτωση που, κατά τη διαδικασία σύναψης της παρούσας σύμβασης, υποβληθεί μόνο 1 προσφορά.
+Η ΑΑ μέσω της λειτουργίας «Επικοινωνία» α) κοινοποιεί την προσφυγή το αργότερο έως την επομένη εργάσιμη ημέρα από την κατάθεσή της σε κάθε ενδιαφερόμενο τρίτο, β) διαβιβάζει στην ΕΑΔΗΣΥ, το αργότερο εντός 15 ημέρες από την ημέρα κατάθεσης, τον πλήρη φάκελο της υπόθεσης, τα αποδεικτικά κοινοποίησης στους ενδιαφερόμενους τρίτους αλλά και την Έκθεση Απόψεών της επί της προσφυγής, γ) Κοινοποιεί σε όλα τα μέρη την Έκθεση Απόψεων, τις Παρεμβάσεις και τα σχετικά έγγραφα που τυχόν τη συνοδεύουν, μέσω του ηλεκτρονικού τόπου του διαγωνισμού το αργότερο έως την επομένη εργάσιμη ημέρα από την κατάθεσή τους, δ) Συμπληρωματικά υπομνήματα κατατίθενται από οποιοδήποτε από τα μέρη μέσω του ΕΣΗΔΗΣ το αργότερο εντός 5 ημερών από την κοινοποίηση των απόψεων της ΑΑ. 
+Η άσκηση της προδικαστικής προσφυγής αποτελεί προϋπόθεση για την άσκηση των ένδικων βοηθημάτων της αίτησης αναστολής και της αίτησης ακύρωσης του άρθρου 372 ν. 4412/2016 κατά των εκτελεστών πράξεων ή παραλείψεων της ΑΑ.
+Β. Όποιος έχει έννομο συμφέρον μπορεί να ζητήσει, με το ίδιο δικόγραφο εφαρμοζόμενων αναλογικά των διατάξεων του πδ 18/1989, την αναστολή εκτέλεσης της απόφασης της ΕΑΔΗΣΥ και την ακύρωσή της ενώπιον του αρμοδίου Διοικητικού Εφετείου της έδρας της ΑΑ. Το αυτό ισχύει και σε περίπτωση σιωπηρής απόρριψης της προδικαστικής προσφυγής από την ΕΑΔΗΣΥ. Δικαίωμα άσκησης του ως άνω ένδικου βοηθήματος έχει και η ΑΑ, αν η ΕΑΔΗΣΥ κάνει δεκτή την προδικαστική προσφυγή, αλλά και αυτός του οποίου έχει γίνει εν μέρει δεκτή η προδικαστική προσφυγή.</cbc:Description>
+            </cac:PresentationPeriod>
+            <cac:AppealReceiverParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0005</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealReceiverParty>
+         </cac:AppealTerms>
+         <cac:Language>
+            <cbc:ID>ELL</cbc:ID>
+         </cac:Language>
+         <cac:PostAwardProcess>
+            <cbc:ElectronicOrderUsageIndicator>false</cbc:ElectronicOrderUsageIndicator>
+            <cbc:ElectronicPaymentUsageIndicator>true</cbc:ElectronicPaymentUsageIndicator>
+         </cac:PostAwardProcess>
+      </cac:TenderingTerms>
+      <cac:TenderingProcess>
+         <ext:UBLExtensions>
+            <ext:UBLExtension>
+               <ext:ExtensionContent>
+                  <efext:EformsExtension>
+                     <efbc:AccessToolName>Διαδικτυακή Πύλη Ηλεκτρονικών Δημοσίων Συμβάσεων (Ε.Σ.Η.ΔΗ.Σ.)</efbc:AccessToolName>
+                  </efext:EformsExtension>
+               </ext:ExtensionContent>
+            </ext:UBLExtension>
+         </ext:UBLExtensions>
+         <cbc:SubmissionMethodCode listName="esubmission">required</cbc:SubmissionMethodCode>
+         <cbc:GovernmentAgreementConstraintIndicator>true</cbc:GovernmentAgreementConstraintIndicator>
+         <cbc:AccessToolsURI>https://nepps.eprocurement.gov.gr/OA_HTML/AppsLocalLogin.jsp</cbc:AccessToolsURI>
+         <cac:TenderSubmissionDeadlinePeriod>
+            <cbc:EndDate>2026-09-29+03:00</cbc:EndDate>
+            <cbc:EndTime>13:00:00+03:00</cbc:EndTime>
+         </cac:TenderSubmissionDeadlinePeriod>
+         <cac:OpenTenderEvent>
+            <cbc:OccurrenceDate>2026-09-30+03:00</cbc:OccurrenceDate>
+            <cbc:OccurrenceTime>10:00:00+03:00</cbc:OccurrenceTime>
+            <cac:OccurenceLocation>
+               <cbc:Description languageID="ELL">Η αποσφράγιση των προσφορών θα γίνει ηλεκτρονικά, μέσω της ηλεκτρονικής πλατφόρμας Ε.Σ.Η.ΔΗ.Σ. (https://nepps.eprocurement.gov.gr/OA_HTML/AppsLocalLogin.jsp).</cbc:Description>
+            </cac:OccurenceLocation>
+         </cac:OpenTenderEvent>
+         <cac:AuctionTerms>
+            <cbc:AuctionConstraintIndicator>false</cbc:AuctionConstraintIndicator>
+         </cac:AuctionTerms>
+         <cac:ContractingSystem>
+            <cbc:ContractingSystemTypeCode listName="framework-agreement">none</cbc:ContractingSystemTypeCode>
+         </cac:ContractingSystem>
+         <cac:ContractingSystem>
+            <cbc:ContractingSystemTypeCode listName="dps-usage">none</cbc:ContractingSystemTypeCode>
+         </cac:ContractingSystem>
+      </cac:TenderingProcess>
+      <cac:ProcurementProject>
+         <cbc:ID schemeName="InternalID">722_2026_Τμήμα Α</cbc:ID>
+         <cbc:Name languageID="ELL">Servers για την ενίσχυση της υπολογιστικής υποδομής</cbc:Name>
+         <cbc:Description languageID="ELL">Servers για την ενίσχυση της υπολογιστικής υποδομής
+Ποσότητα: Έξι (6) τεμάχια
+CPV: 48821000-9
+Το Τμήμα Α αποτελείται από τρία είδη: (α) Servers για δημιουργία μοντέλων Artificial Intelligence (β) Servers για ανάλυση δεδομένων μεγάλης κλίμακας (Big Data) και (γ) Servers για λειτουργίες SMB, near-edge, remote office, File Server/NFS. Ο ανωτέρω εξοπλισμός θα πρέπει να πληρεί κατ’ ελάχιστο τις τεχνικές προδιαγραφές σύμφωνα με τα οριζόμενα στο Παράρτημα I της Διακήρυξης.</cbc:Description>
+         <cbc:ProcurementTypeCode listName="contract-nature">supplies</cbc:ProcurementTypeCode>
+         <cbc:SMESuitableIndicator>true</cbc:SMESuitableIndicator>
+         <cac:RequestedTenderTotal>
+            <cbc:EstimatedOverallContractAmount currencyID="EUR">183064.51</cbc:EstimatedOverallContractAmount>
+         </cac:RequestedTenderTotal>
+         <cac:MainCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">48821000</cbc:ItemClassificationCode>
+         </cac:MainCommodityClassification>
+         <cac:RealizedLocation>
+            <cac:Address>
+               <cbc:StreetName>6ο χλμ. οδού Χαριλάου – Θέρμης</cbc:StreetName>
+               <cbc:CityName>Θέρμη, Θεσσαλονίκη</cbc:CityName>
+               <cbc:PostalZone>57001</cbc:PostalZone>
+               <cbc:CountrySubentityCode listName="nuts">EL522</cbc:CountrySubentityCode>
+               <cac:Country>
+                  <cbc:IdentificationCode listName="country">GRC</cbc:IdentificationCode>
+               </cac:Country>
+            </cac:Address>
+         </cac:RealizedLocation>
+         <cac:PlannedPeriod>
+            <cbc:DurationMeasure unitCode="MONTH">6</cbc:DurationMeasure>
+         </cac:PlannedPeriod>
+         <cac:ContractExtension>
+            <cbc:OptionsDescription languageID="ELL">Η σύμβαση μπορεί να τροποποιείται κατά τη διάρκειά της, χωρίς να απαιτείται νέα διαδικασία σύναψης σύμβασης, μόνο σύμφωνα με τους όρους και τις προϋποθέσεις του άρθρου 132 του ν. 4412/2016 και κατόπιν γνωμοδότησης της Επιτροπής Παραλαβής.</cbc:OptionsDescription>
+         </cac:ContractExtension>
+      </cac:ProcurementProject>
+   </cac:ProcurementProjectLot>
+   <cac:ProcurementProjectLot>
+      <cbc:ID schemeName="Lot">LOT-0004</cbc:ID>
+      <cac:TenderingTerms>
+         <ext:UBLExtensions>
+            <ext:UBLExtension>
+               <ext:ExtensionContent>
+                  <efext:EformsExtension>
+                     <efac:Funding>
+                        <cbc:FundingProgramCode listName="eu-programme">ERDF_2021</cbc:FundingProgramCode>
+                     </efac:Funding>
+                     <efac:SelectionCriteria>
+                        <cbc:TendererRequirementTypeCode listName="selection-criterion">slc-suit-reg-prof</cbc:TendererRequirementTypeCode>
+                        <cbc:Description languageID="ELL">Οι οικονομικοί φορείς που συμμετέχουν στη διαδικασία σύναψης της παρούσας σύμβασης απαιτείται να ασκούν εμπορική ή βιομηχανική ή βιοτεχνική δραστηριότητα συναφή με το αντικείμενο της προμήθειας του/των Τμήματος/Τμημάτων του παρόντος διαγωνισμού. 
+Οι οικονομικοί φορείς που είναι εγκατεστημένοι σε κράτος μέλος της Ευρωπαϊκής Ένωσης απαιτείται να είναι εγγεγραμμένοι σε ένα από τα επαγγελματικά ή εμπορικά μητρώα που τηρούνται στο κράτος εγκατάστασής τους ή να ικανοποιούν οποιαδήποτε άλλη απαίτηση ορίζεται στο Παράρτημα XI του Προσαρτήματος Α΄ του Ν. 4412/2016. 
+Στην περίπτωση οικονομικών φορέων εγκατεστημένων σε κράτος μέλος του Ευρωπαϊκού Οικονομικού Χώρου (Ε.Ο.Χ) ή σε τρίτες χώρες που έχουν προσχωρήσει στη ΣΔΣ, ή σε τρίτες χώρες που δεν εμπίπτουν στην προηγούμενη περίπτωση και έχουν συνάψει διμερείς ή πολυμερείς συμφωνίες με την Ένωση σε θέματα διαδικασιών ανάθεσης δημοσίων συμβάσεων, απαιτείται να είναι εγγεγραμμένοι σε αντίστοιχα επαγγελματικά ή εμπορικά μητρώα. 
+Οι εγκατεστημένοι στην Ελλάδα οικονομικοί φορείς απαιτείται να είναι εγγεγραμμένοι στο Βιοτεχνικό ή Εμπορικό ή Βιομηχανικό Επιμελητήριο ή στο Μητρώο Κατασκευαστών Αμυντικού Υλικού.
+Στην περίπτωση ένωσης οικονομικών φορέων η παραπάνω απαίτηση θα πρέπει να καλύπτεται από όλα τα μέλη της ένωσης.</cbc:Description>
+                     </efac:SelectionCriteria>
+                     <efac:SelectionCriteria>
+                        <cbc:TendererRequirementTypeCode listName="selection-criterion">slc-stand-to-avg</cbc:TendererRequirementTypeCode>
+                        <cbc:Description languageID="ELL">Όσον αφορά την οικονομική και χρηματοοικονομική επάρκεια για την παρούσα διαδικασία σύναψης σύμβασης, οι οικονομικοί φορείς απαιτείται να έχουν μέσο γενικό ετήσιο κύκλο εργασιών κατά τη διάρκεια της τελευταίας τριετίας ήτοι τα έτη 2023, 2024 και 2025 ίσο με το 100% του προϋπολογισμού (μη συμπεριλαμβανομένου ΦΠΑ) του παρόντος διαγωνισμού εφόσον υποβάλουν προσφορά για το σύνολο των Τμημάτων του παρόντος διαγωνισμού ή κατ’ ελάχιστο ίσο με το 100% του προϋπολογισμού (μη συμπεριλαμβανομένου ΦΠΑ) του/των Τμήματος/Τμημάτων για το οποίο υποβάλλουν προσφορά.</cbc:Description>
+                     </efac:SelectionCriteria>
+                     <efac:SelectionCriteria>
+                        <cbc:TendererRequirementTypeCode listName="selection-criterion">slc-abil-staff-tech-work</cbc:TendererRequirementTypeCode>
+                        <cbc:Description languageID="ELL">Όσον αφορά στην τεχνική και επαγγελματική ικανότητα για την παρούσα διαδικασία σύναψης σύμβασης:
+α) οι οικονομικοί φορείς απαιτείται να έχουν εκτελέσει/υλοποιήσει κατά τη διάρκεια της τελευταίας τριετίας (ήτοι τα έτη 2023, 2024,2025 και μέχρι την καταληκτική ημερομηνία υποβολής προσφορών) τουλάχιστον δύο (2) συμβάσεις συναφούς φυσικού αντικειμένου (ήτοι με συναφή τεχνικά χαρακτηριστικά με τα ζητούμενα ανά Τμήμα για το αντικείμενο της προμήθειας) με το αντικείμενο της υπό σύναψη σύμβασης αναφορικά με το/τα αντίστοιχο/α Τμήμα/τα για το/τα οποίο/α υποβάλλεται προσφορά,
+β) οι οικονομικοί φορείς απαιτείται να διαθέτουν το τεχνικό προσωπικό ή τις τεχνικές υπηρεσίες ήτοι τουλάχιστον έναν (1) υπεύθυνο για τον έλεγχο της ποιότητας με καθήκοντα την τήρηση και την αξιολόγηση των συστημάτων διαχείρισης ποιότητας με στόχο την παρακολούθηση της ποιότητας των ειδών και τη βελτίωση των διαδικασιών για την άρτια εκτέλεση της υπό σύναψη σύμβασης ήτοι για την εγκατάσταση, θέση σε λειτουργία του εξοπλισμού, τεχνική υποστήριξη, εκπαίδευση του προσωπικού της Αναθέτουσας Αρχής που θα υποδειχθεί στον Ανάδοχο στη χρήση του/των Τμήματος/των Τμημάτων του παρόντος διαγωνισμού όπως κατά περίπτωση απαιτείται.
+Ειδικότερα και επιπρόσθετα απαιτείται να διαθέτουν τουλάχιστον ένα (1) άτομο που θα προβεί στην εκπαίδευση/επίδειξη λειτουργίας του προσωπικού της Αναθέτουσας Αρχής (ΕΚΕΤΑ/ΙNEB) σύμφωνα με τους όρους του Παραρτήματος I της διακήρυξης και το οποίο να είναι πιστοποιημένο από τον κατασκευαστικό οίκο του προσφερόμενου εξοπλισμού στην τεχνική/επιστημονική υποστήριξη αντίστοιχου εξοπλισμού ή/και στη διαμόρφωσή του. 
+Επισημαίνεται ότι τα φυσικά πρόσωπα που δηλώνονται από τον προσφέροντα δύνανται να απασχολούνται με εξαρτημένη σχέση εργασίας ή σύμβαση ανεξαρτήτων υπηρεσιών, η οποία είναι σε ισχύ, ήδη κατά τον χρόνο υποβολής της προσφοράς. Στην τελευταία αυτή περίπτωση θεωρούνται ίδιοι πόροι του οικονομικού φορέα και όχι τρίτοι δανείζοντες και δεν απαιτείται εκ μέρους τους η υποβολή ΕΕΕΣ και των σχετικών αποδεικτικών μέσων. 
+</cbc:Description>
+                     </efac:SelectionCriteria>
+                     <efac:SelectionCriteria>
+                        <cbc:TendererRequirementTypeCode listName="selection-criterion">slc-sche-qu-cert-indep</cbc:TendererRequirementTypeCode>
+                        <cbc:Description languageID="ELL">Οι οικονομικοί φορείς για την παρούσα διαδικασία σύναψης σύμβασης οφείλουν να συμμορφώνονται με το κάτωθι πρότυπο διασφάλισης ποιότητας :
+Ήτοι με το πρότυπο διασφάλισης ποιότητας ISO 9001:2015 ή ισοδύναμο με πεδίο εφαρμογής συναφές αντίστοιχα με το αντικείμενο του αντίστοιχου Τμήματος της παρούσας διακήρυξης για το οποίο υποβάλλεται προσφορά.
+Η αναθέτουσα αρχή αναγνωρίζει ισοδύναμα πιστοποιητικά που έχουν εκδοθεί από φορείς διαπιστευμένους από ισοδύναμους Οργανισμούς διαπίστευσης σύμφωνα με τον Κανονισμό 765/2008 λαμβάνοντας υπόψη και τα οριζόμενα στο νόμο 5218/2025 (ΦΕΚ Α/125/14.07.2025)  και πιο συγκεκριμένα στο άρθρο 13 και στο άρθρο 37 αυτού. </cbc:Description>
+                     </efac:SelectionCriteria>
+                  </efext:EformsExtension>
+               </ext:ExtensionContent>
+            </ext:UBLExtension>
+         </ext:UBLExtensions>
+         <cbc:VariantConstraintCode listName="permission">not-allowed</cbc:VariantConstraintCode>
+         <cbc:FundingProgramCode listName="eu-funded">eu-funds</cbc:FundingProgramCode>
+         <cbc:RecurringProcurementIndicator>false</cbc:RecurringProcurementIndicator>
+         <cbc:MultipleTendersCode listName="permission">not-allowed</cbc:MultipleTendersCode>
+         <cac:RequiredFinancialGuarantee>
+            <cbc:GuaranteeTypeCode listName="tender-guarantee-required">true</cbc:GuaranteeTypeCode>
+            <cbc:Description languageID="ELL">Η προσφορά θα συνοδεύεται υποχρεωτικά, από εγγυητική επιστολή συμμετοχής στο διαγωνισμό για ποσό που αντιστοιχεί σε ποσοστό 2% επί του συνολικού προϋπολογισμού του διαγωνισμού χωρίς Φ.Π.Α., εφόσον υποβάλλεται προσφορά για το σύνολο των Τμημάτων του παρόντος διαγωνισμού ή σε ποσοστό 2% επί της εκτιμωμένης αξίας της σύμβασης (χωρίς Φ.Π.Α.) κάθε Τμήματος για το οποίο υποβάλλεται προσφορά και θα ισχύει για τουλάχιστον τριάντα (30) ημέρες μετά τη λήξη του χρόνου ισχύος της προσφοράς, σύμφωνα με τη Διακήρυξη.</cbc:Description>
+         </cac:RequiredFinancialGuarantee>
+         <cac:CallForTendersDocumentReference>
+            <ext:UBLExtensions>
+               <ext:UBLExtension>
+                  <ext:ExtensionContent>
+                     <efext:EformsExtension>
+                        <efac:OfficialLanguages>
+                           <cac:Language>
+                              <cbc:ID>ELL</cbc:ID>
+                           </cac:Language>
+                        </efac:OfficialLanguages>
+                     </efext:EformsExtension>
+                  </ext:ExtensionContent>
+               </ext:UBLExtension>
+            </ext:UBLExtensions>
+            <cbc:ID>516047</cbc:ID>
+            <cbc:DocumentType>non-restricted-document</cbc:DocumentType>
+            <cac:Attachment>
+               <cac:ExternalReference>
+                  <cbc:URI>https://nepps-search.eprocurement.gov.gr/actSearch/faces/active_search_main.jspx</cbc:URI>
+               </cac:ExternalReference>
+            </cac:Attachment>
+         </cac:CallForTendersDocumentReference>
+         <cac:TendererQualificationRequest>
+            <cac:SpecificTendererRequirement>
+               <cbc:TendererRequirementTypeCode listName="selection-criteria-source">epo-notice</cbc:TendererRequirementTypeCode>
+            </cac:SpecificTendererRequirement>
+         </cac:TendererQualificationRequest>
+         <cac:TendererQualificationRequest>
+            <cbc:CompanyLegalFormCode listName="required">false</cbc:CompanyLegalFormCode>
+         </cac:TendererQualificationRequest>
+         <cac:TendererQualificationRequest>
+            <cac:SpecificTendererRequirement>
+               <cbc:TendererRequirementTypeCode listName="reserved-procurement">none</cbc:TendererRequirementTypeCode>
+            </cac:SpecificTendererRequirement>
+         </cac:TendererQualificationRequest>
+         <cac:ContractExecutionRequirement>
+            <cbc:ExecutionRequirementCode listName="reserved-execution">no</cbc:ExecutionRequirementCode>
+         </cac:ContractExecutionRequirement>
+         <cac:ContractExecutionRequirement>
+            <cbc:ExecutionRequirementCode listName="conditions">performance</cbc:ExecutionRequirementCode>
+            <cbc:Description languageID="ELL">Για την υπογραφή της σύμβασης απαιτείται εγγύηση καλής εκτέλεσης, ύψους 4% επί της εκτιμώμενης αξίας της σύμβασης, σύμφωνα με τους όρους της παρ. 4.1 της Διακήρυξης (Δ). Κατά την εκτέλεση της σύμβασης εφαρμόζονται οι διατάξεις του Ν4412/2016 όπως τροποποιήθηκε και ισχύει, οι όροι της Δ και συμπληρωματικά ο Αστικός Κώδικας. Κατά την εκτέλεση της σύμβασης ο ανάδοχος τηρεί τις υποχρεώσεις στους τομείς του περιβαλλοντικού, κοινωνικοασφαλιστικού και εργατικού δικαίου, που έχουν θεσπιστεί με το δίκαιο της Ένωσης, το εθνικό δίκαιο, συλλογικές συμβάσεις ή διεθνείς διατάξεις περιβαλλοντικού, κοινωνικοασφαλιστικού και εργατικού δικαίου, οι οποίες απαριθμούνται στο Παράρτημα Χ του Προσαρτήματος Α του Ν.4412/2016. Η σύμβαση μπορεί να τροποποιείται κατά τη διάρκειά της σύμφωνα με τους όρους και τις προϋποθέσεις του άρ.132 του Ν4412/2016, κατόπιν γνωμοδότησης της Επιτροπής παραλαβής. Η αναθέτουσα αρχή μπορεί, να καταγγείλει τη σύμβαση κατά τη διάρκεια εκτέλεσής της, σύμφωνα με την παρ. 4.6 της Δ.</cbc:Description>
+         </cac:ContractExecutionRequirement>
+         <cac:ContractExecutionRequirement>
+            <cbc:ExecutionRequirementCode listName="einvoicing">required</cbc:ExecutionRequirementCode>
+         </cac:ContractExecutionRequirement>
+         <cac:ContractExecutionRequirement>
+            <cbc:ExecutionRequirementCode listName="ecatalog-submission">not-allowed</cbc:ExecutionRequirementCode>
+         </cac:ContractExecutionRequirement>
+         <cac:ContractExecutionRequirement>
+            <cbc:ExecutionRequirementCode listName="esignature-submission">true</cbc:ExecutionRequirementCode>
+         </cac:ContractExecutionRequirement>
+         <cac:AwardingTerms>
+            <cac:AwardingCriterion>
+               <cac:SubordinateAwardingCriterion>
+                  <cbc:AwardingCriterionTypeCode listName="award-criterion-type">cost</cbc:AwardingCriterionTypeCode>
+                  <cbc:Description languageID="ELL">Η τιμή δεν είναι το μόνο κριτήριο ανάθεσης και όλα τα κριτήρια ορίζονται μόνο στα έγγραφα της σύμβασης.</cbc:Description>
+               </cac:SubordinateAwardingCriterion>
+            </cac:AwardingCriterion>
+         </cac:AwardingTerms>
+         <cac:AdditionalInformationParty>
+            <cac:PartyIdentification>
+               <cbc:ID>ORG-0004</cbc:ID>
+            </cac:PartyIdentification>
+         </cac:AdditionalInformationParty>
+         <cac:TenderRecipientParty>
+            <cbc:EndpointID>https://nepps.eprocurement.gov.gr/OA_HTML/AppsLocalLogin.jsp</cbc:EndpointID>
+            <cac:PartyIdentification>
+               <cbc:ID>ORG-0004</cbc:ID>
+            </cac:PartyIdentification>
+         </cac:TenderRecipientParty>
+         <cac:TenderEvaluationParty>
+            <cac:PartyIdentification>
+               <cbc:ID>ORG-0004</cbc:ID>
+            </cac:PartyIdentification>
+         </cac:TenderEvaluationParty>
+         <cac:TenderValidityPeriod>
+            <cbc:DurationMeasure unitCode="MONTH">8</cbc:DurationMeasure>
+         </cac:TenderValidityPeriod>
+         <cac:AppealTerms>
+            <cac:PresentationPeriod>
+               <cbc:Description languageID="ELL">Α. Κάθε ενδιαφερόμενος, ο οποίος έχει ή είχε συμφέρον να του ανατεθεί η συγκεκριμένη δημόσια σύμβαση και έχει υποστεί ή ενδέχεται να υποστεί ζημία από εκτελεστή πράξη ή παράλειψη της Αναθέτουσας Αρχής (ΑΑ) κατά παράβαση της ευρωπαϊκής ενωσιακής ή εσωτερικής νομοθεσίας στον τομέα των δημοσίων συμβάσεων, έχει δικαίωμα να προσφύγει στην ΕΑΔΗΣΥ σύμφωνα με τα ειδικότερα οριζόμενα στα άρθρα 345 επ. ν 4412/2016 και 1 επ. πδ 39/2017, στρεφόμενος με προδικαστική προσφυγή, κατά πράξης ή παράλειψης της ΑΑ, προσδιορίζοντας ειδικώς τις νομικές και πραγματικές αιτιάσεις που δικαιολογούν το αίτημά του. Η προθεσμία για την άσκηση της προδικαστικής προσφυγής είναι: (α) 10 ημέρες από την κοινοποίηση της προσβαλλόμενης πράξης στον ενδιαφερόμενο οικονομικό φορέα αν η πράξη κοινοποιήθηκε με ηλεκτρονικά μέσα ή τηλεομοιοτυπία ή (β) 15 ημέρες από την κοινοποίηση της προσβαλλόμενης πράξης σε αυτόν αν χρησιμοποιήθηκαν άλλα μέσα επικοινωνίας, άλλως (γ) 10 ημέρες από την πλήρη, πραγματική ή τεκμαιρόμενη, γνώση της πράξης που βλάπτει τα συμφέροντα του ενδιαφερόμενου οικονομικού φορέα. Η άσκηση προδικαστικής προσφυγής κατά διακήρυξης διαγωνισμού επιτρέπεται μέχρι και 15 ημέρες από τη δημοσίευσή της στο ΚΗΜΔΗΣ. Η ως άνω προθεσμία ισχύει και για κάθε τροποποίηση της διακήρυξης. Σε περίπτωση παράλειψης που αποδίδεται στην ΑΑ, η προθεσμία για την άσκηση της προδικαστικής προσφυγής είναι 15 ημέρες από την επομένη της συντέλεσης της προσβαλλόμενης παράλειψης. Οι προθεσμίες ως προς την υποβολή των προδικαστικών προσφυγών και των παρεμβάσεων αρχίζουν την επομένη της ημέρας της προαναφερθείσας κατά περίπτωση κοινοποίησης ή γνώσης και λήγουν όταν περάσει ολόκληρη η τελευταία ημέρα και ώρα 23:59:59 και, αν αυτή είναι εξαιρετέα ή Σάββατο, όταν περάσει ολόκληρη η επομένη εργάσιμη ημέρα και ώρα 23:59:59. Η προδικαστική προσφυγή συντάσσεται υποχρεωτικά με τη χρήση του τυποποιημένου εντύπου του Παραρτήματος Ι του πδ/τος 39/2017 και κατατίθεται ηλεκτρονικά μέσω της λειτουργικότητας «Επικοινωνία» στην ηλεκτρονική περιοχή του συγκεκριμένου διαγωνισμού, επιλέγοντας την ένδειξη «Προδικαστική Προσφυγή» σύμφωνα με το άρθρο 18 της ΚΥΑ Προμήθειες και Υπηρεσίες.
+Σε περίπτωση τεχνικής αδυναμίας λειτουργίας του ΕΣΗΔΗΣ, η οποία ανακοινώνεται και πιστοποιείται εκ των προτέρων, για τις δημόσιες συμβάσεις προμηθειών και υπηρεσιών από τη Διεύθυνση Διαχείρισης, Ανάπτυξης και Υποστήριξης του ΕΣΗΔΗΣ του Υπουργείου Ψηφιακής Διακυβέρνησης αναστέλλονται για το αντίστοιχο διάστημα οι σχετικές προθεσμίες. Σε περίπτωση αιφνίδιας τεχνικής αδυναμίας του ΕΣΗΔΗΣ, το προηγούμενο εδάφιο δεν εφαρμόζεται και η προσφυγή κατατίθεται στην ΕΑΔΗΣΥ με μήνυμα ηλεκτρονικού ταχυδρομείου, η δε τεχνική αδυναμία πιστοποιείται σύμφωνα με τη διαδικασία του τρίτου εδαφίου, εκ των υστέρων. Η έκταση της προσφυγής δεν υπερβαίνει το όριο των 25 σελίδων. Υπέρβαση του ορίου των σελίδων δικαιολογείται μόνο σε εξαιρετικές περιστάσεις, όπως ιδίως, αν με την προσφυγή αμφισβητείται η πλήρωση πλήθους τεχνικών προδιαγραφών. Το Κλιμάκιο εξέτασης της προσφυγής μπορεί να ζητήσει, με πράξη του Προέδρου του, τον περιορισμό της αδικαιολόγητης έκτασής της. Αν ο προσφεύγων δεν συμμορφωθεί με την πράξη του προηγούμενου εδαφίου, καταβάλλει παράβολο ίσο προς το διπλάσιο του παραβόλου που προβλέπεται για την άσκηση της προσφυγής.
+Για το παραδεκτό της άσκησης της προδικαστικής προσφυγής κατατίθεται παράβολο από τον προσφεύγοντα υπέρ του Ελληνικού Δημοσίου, σύμφωνα με όσα ορίζονται στο άρ 363 ν 4412/2016. Η επιστροφή του παραβόλου στον προσφεύγοντα γίνεται: α) σε περίπτωση ολικής ή μερικής αποδοχής της προσφυγής του, β) όταν η ΑΑ ανακαλεί την προσβαλλόμενη πράξη ή προβαίνει στην οφειλόμενη ενέργεια πριν από την έκδοση της απόφασης της ΕΑΔΗΣΥ επί της προσφυγής, γ) σε περίπτωση παραίτησης του προσφεύγοντα από την προσφυγή του έως και 10 ημέρες από την κατάθεση της προσφυγής.
+Η προθεσμία για την άσκηση της προδικαστικής προσφυγής και η άσκησή της κωλύουν τη σύναψη της σύμβασης επί ποινή ακυρότητας, η οποία διαπιστώνεται με απόφαση της ΕΑΔΗΣΥ μετά από άσκηση προδικαστικής προσφυγής, σύμφωνα με το άρ 368 του ν 4412/2016 και 20 πδ 39/2017. Όμως, μόνη η άσκηση της προδικαστικής προσφυγής δεν κωλύει την πρόοδο της διαγωνιστικής διαδικασίας, υπό την επιφύλαξη χορήγησης από το Κλιμάκιο προσωρινής προστασίας σύμφωνα με το άρ 366 παρ 1-2 ν 4412/2016 και 15 παρ 1-4 πδ 39/2017. 
+Η προηγούμενη παράγραφος δεν εφαρμόζεται στην περίπτωση που, κατά τη διαδικασία σύναψης της παρούσας σύμβασης, υποβληθεί μόνο 1 προσφορά.
+Η ΑΑ μέσω της λειτουργίας «Επικοινωνία» α) κοινοποιεί την προσφυγή το αργότερο έως την επομένη εργάσιμη ημέρα από την κατάθεσή της σε κάθε ενδιαφερόμενο τρίτο, β) διαβιβάζει στην ΕΑΔΗΣΥ, το αργότερο εντός 15 ημέρες από την ημέρα κατάθεσης, τον πλήρη φάκελο της υπόθεσης, τα αποδεικτικά κοινοποίησης στους ενδιαφερόμενους τρίτους αλλά και την Έκθεση Απόψεών της επί της προσφυγής, γ) Κοινοποιεί σε όλα τα μέρη την Έκθεση Απόψεων, τις Παρεμβάσεις και τα σχετικά έγγραφα που τυχόν τη συνοδεύουν, μέσω του ηλεκτρονικού τόπου του διαγωνισμού το αργότερο έως την επομένη εργάσιμη ημέρα από την κατάθεσή τους, δ) Συμπληρωματικά υπομνήματα κατατίθενται από οποιοδήποτε από τα μέρη μέσω του ΕΣΗΔΗΣ το αργότερο εντός 5 ημερών από την κοινοποίηση των απόψεων της ΑΑ. 
+Η άσκηση της προδικαστικής προσφυγής αποτελεί προϋπόθεση για την άσκηση των ένδικων βοηθημάτων της αίτησης αναστολής και της αίτησης ακύρωσης του άρθρου 372 ν. 4412/2016 κατά των εκτελεστών πράξεων ή παραλείψεων της ΑΑ.
+Β. Όποιος έχει έννομο συμφέρον μπορεί να ζητήσει, με το ίδιο δικόγραφο εφαρμοζόμενων αναλογικά των διατάξεων του πδ 18/1989, την αναστολή εκτέλεσης της απόφασης της ΕΑΔΗΣΥ και την ακύρωσή της ενώπιον του αρμοδίου Διοικητικού Εφετείου της έδρας της ΑΑ. Το αυτό ισχύει και σε περίπτωση σιωπηρής απόρριψης της προδικαστικής προσφυγής από την ΕΑΔΗΣΥ. Δικαίωμα άσκησης του ως άνω ένδικου βοηθήματος έχει και η ΑΑ, αν η ΕΑΔΗΣΥ κάνει δεκτή την προδικαστική προσφυγή, αλλά και αυτός του οποίου έχει γίνει εν μέρει δεκτή η προδικαστική προσφυγή.</cbc:Description>
+            </cac:PresentationPeriod>
+            <cac:AppealReceiverParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0005</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealReceiverParty>
+         </cac:AppealTerms>
+         <cac:Language>
+            <cbc:ID>ELL</cbc:ID>
+         </cac:Language>
+         <cac:PostAwardProcess>
+            <cbc:ElectronicOrderUsageIndicator>false</cbc:ElectronicOrderUsageIndicator>
+            <cbc:ElectronicPaymentUsageIndicator>true</cbc:ElectronicPaymentUsageIndicator>
+         </cac:PostAwardProcess>
+      </cac:TenderingTerms>
+      <cac:TenderingProcess>
+         <ext:UBLExtensions>
+            <ext:UBLExtension>
+               <ext:ExtensionContent>
+                  <efext:EformsExtension>
+                     <efbc:AccessToolName>Διαδικτυακή Πύλη Ηλεκτρονικών Δημοσίων Συμβάσεων (Ε.Σ.Η.ΔΗ.Σ.)</efbc:AccessToolName>
+                  </efext:EformsExtension>
+               </ext:ExtensionContent>
+            </ext:UBLExtension>
+         </ext:UBLExtensions>
+         <cbc:SubmissionMethodCode listName="esubmission">required</cbc:SubmissionMethodCode>
+         <cbc:GovernmentAgreementConstraintIndicator>true</cbc:GovernmentAgreementConstraintIndicator>
+         <cbc:AccessToolsURI>https://nepps.eprocurement.gov.gr/OA_HTML/AppsLocalLogin.jsp</cbc:AccessToolsURI>
+         <cac:TenderSubmissionDeadlinePeriod>
+            <cbc:EndDate>2026-09-29+03:00</cbc:EndDate>
+            <cbc:EndTime>13:00:00+03:00</cbc:EndTime>
+         </cac:TenderSubmissionDeadlinePeriod>
+         <cac:OpenTenderEvent>
+            <cbc:OccurrenceDate>2026-09-30+03:00</cbc:OccurrenceDate>
+            <cbc:OccurrenceTime>10:00:00+03:00</cbc:OccurrenceTime>
+            <cac:OccurenceLocation>
+               <cbc:Description languageID="ELL">Η αποσφράγιση των προσφορών θα γίνει ηλεκτρονικά, μέσω της ηλεκτρονικής πλατφόρμας Ε.Σ.Η.ΔΗ.Σ. (https://nepps.eprocurement.gov.gr/OA_HTML/AppsLocalLogin.jsp).</cbc:Description>
+            </cac:OccurenceLocation>
+         </cac:OpenTenderEvent>
+         <cac:AuctionTerms>
+            <cbc:AuctionConstraintIndicator>false</cbc:AuctionConstraintIndicator>
+         </cac:AuctionTerms>
+         <cac:ContractingSystem>
+            <cbc:ContractingSystemTypeCode listName="framework-agreement">none</cbc:ContractingSystemTypeCode>
+         </cac:ContractingSystem>
+         <cac:ContractingSystem>
+            <cbc:ContractingSystemTypeCode listName="dps-usage">none</cbc:ContractingSystemTypeCode>
+         </cac:ContractingSystem>
+      </cac:TenderingProcess>
+      <cac:ProcurementProject>
+         <cbc:ID schemeName="InternalID">722_2026_Τμήμα Β</cbc:ID>
+         <cbc:Name languageID="ELL">Σύστημα αποθήκευσης δεδομένων μεγάλου όγκου</cbc:Name>
+         <cbc:Description languageID="ELL">Σύστημα αποθήκευσης δεδομένων μεγάλου όγκου
+Ποσότητα: Δύο (2) τεμάχια
+CPV: 30233000-1, 30233140-4, 48820000-2
+Το Τμήμα Β αποτελείται από δύο είδη: (α) Storage Array controller για την αποθήκευση/διαμοιρασμό εντός δικτύου δεδομένων μεγάλης κλίμακας και (β) Storage Array expansion για την αποθήκευση/διαμοιρασμό εντός δικτύου δεδομένων μεγάλης κλίμακας. Ο ανωτέρω εξοπλισμός θα πρέπει να πληρεί κατ’ ελάχιστο τις τεχνικές προδιαγραφές σύμφωνα με τα οριζόμενα στο Παράρτημα I της Διακήρυξης.</cbc:Description>
+         <cbc:ProcurementTypeCode listName="contract-nature">supplies</cbc:ProcurementTypeCode>
+         <cbc:SMESuitableIndicator>true</cbc:SMESuitableIndicator>
+         <cac:RequestedTenderTotal>
+            <cbc:EstimatedOverallContractAmount currencyID="EUR">33870.96</cbc:EstimatedOverallContractAmount>
+         </cac:RequestedTenderTotal>
+         <cac:MainCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">30233000</cbc:ItemClassificationCode>
+         </cac:MainCommodityClassification>
+         <cac:AdditionalCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">30233140</cbc:ItemClassificationCode>
+         </cac:AdditionalCommodityClassification>
+         <cac:AdditionalCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">48820000</cbc:ItemClassificationCode>
+         </cac:AdditionalCommodityClassification>
+         <cac:RealizedLocation>
+            <cac:Address>
+               <cbc:StreetName>6ο χλμ. οδού Χαριλάου – Θέρμης</cbc:StreetName>
+               <cbc:CityName>Θέρμη, Θεσσαλονίκη</cbc:CityName>
+               <cbc:PostalZone>57001</cbc:PostalZone>
+               <cbc:CountrySubentityCode listName="nuts">EL522</cbc:CountrySubentityCode>
+               <cac:Country>
+                  <cbc:IdentificationCode listName="country">GRC</cbc:IdentificationCode>
+               </cac:Country>
+            </cac:Address>
+         </cac:RealizedLocation>
+         <cac:PlannedPeriod>
+            <cbc:DurationMeasure unitCode="MONTH">6</cbc:DurationMeasure>
+         </cac:PlannedPeriod>
+         <cac:ContractExtension>
+            <cbc:OptionsDescription languageID="ELL">Η σύμβαση μπορεί να τροποποιείται κατά τη διάρκειά της, χωρίς να απαιτείται νέα διαδικασία σύναψης σύμβασης, μόνο σύμφωνα με τους όρους και τις προϋποθέσεις του άρθρου 132 του ν. 4412/2016 και κατόπιν γνωμοδότησης της Επιτροπής Παραλαβής.</cbc:OptionsDescription>
+         </cac:ContractExtension>
+      </cac:ProcurementProject>
+   </cac:ProcurementProjectLot>
+   <cac:ProcurementProjectLot>
+      <cbc:ID schemeName="Lot">LOT-0005</cbc:ID>
+      <cac:TenderingTerms>
+         <ext:UBLExtensions>
+            <ext:UBLExtension>
+               <ext:ExtensionContent>
+                  <efext:EformsExtension>
+                     <efac:Funding>
+                        <cbc:FundingProgramCode listName="eu-programme">ERDF_2021</cbc:FundingProgramCode>
+                     </efac:Funding>
+                     <efac:SelectionCriteria>
+                        <cbc:TendererRequirementTypeCode listName="selection-criterion">slc-suit-reg-prof</cbc:TendererRequirementTypeCode>
+                        <cbc:Description languageID="ELL">Οι οικονομικοί φορείς που συμμετέχουν στη διαδικασία σύναψης της παρούσας σύμβασης απαιτείται να ασκούν εμπορική ή βιομηχανική ή βιοτεχνική δραστηριότητα συναφή με το αντικείμενο της προμήθειας του/των Τμήματος/Τμημάτων του παρόντος διαγωνισμού. 
+Οι οικονομικοί φορείς που είναι εγκατεστημένοι σε κράτος μέλος της Ευρωπαϊκής Ένωσης απαιτείται να είναι εγγεγραμμένοι σε ένα από τα επαγγελματικά ή εμπορικά μητρώα που τηρούνται στο κράτος εγκατάστασής τους ή να ικανοποιούν οποιαδήποτε άλλη απαίτηση ορίζεται στο Παράρτημα XI του Προσαρτήματος Α΄ του Ν. 4412/2016. 
+Στην περίπτωση οικονομικών φορέων εγκατεστημένων σε κράτος μέλος του Ευρωπαϊκού Οικονομικού Χώρου (Ε.Ο.Χ) ή σε τρίτες χώρες που έχουν προσχωρήσει στη ΣΔΣ, ή σε τρίτες χώρες που δεν εμπίπτουν στην προηγούμενη περίπτωση και έχουν συνάψει διμερείς ή πολυμερείς συμφωνίες με την Ένωση σε θέματα διαδικασιών ανάθεσης δημοσίων συμβάσεων, απαιτείται να είναι εγγεγραμμένοι σε αντίστοιχα επαγγελματικά ή εμπορικά μητρώα. 
+Οι εγκατεστημένοι στην Ελλάδα οικονομικοί φορείς απαιτείται να είναι εγγεγραμμένοι στο Βιοτεχνικό ή Εμπορικό ή Βιομηχανικό Επιμελητήριο ή στο Μητρώο Κατασκευαστών Αμυντικού Υλικού.
+Στην περίπτωση ένωσης οικονομικών φορέων η παραπάνω απαίτηση θα πρέπει να καλύπτεται από όλα τα μέλη της ένωσης.</cbc:Description>
+                     </efac:SelectionCriteria>
+                     <efac:SelectionCriteria>
+                        <cbc:TendererRequirementTypeCode listName="selection-criterion">slc-stand-to-avg</cbc:TendererRequirementTypeCode>
+                        <cbc:Description languageID="ELL">Όσον αφορά την οικονομική και χρηματοοικονομική επάρκεια για την παρούσα διαδικασία σύναψης σύμβασης, οι οικονομικοί φορείς απαιτείται να έχουν μέσο γενικό ετήσιο κύκλο εργασιών κατά τη διάρκεια της τελευταίας τριετίας ήτοι τα έτη 2023, 2024 και 2025 ίσο με το 100% του προϋπολογισμού (μη συμπεριλαμβανομένου ΦΠΑ) του παρόντος διαγωνισμού εφόσον υποβάλουν προσφορά για το σύνολο των Τμημάτων του παρόντος διαγωνισμού ή κατ’ ελάχιστο ίσο με το 100% του προϋπολογισμού (μη συμπεριλαμβανομένου ΦΠΑ) του/των Τμήματος/Τμημάτων για το οποίο υποβάλλουν προσφορά.</cbc:Description>
+                     </efac:SelectionCriteria>
+                     <efac:SelectionCriteria>
+                        <cbc:TendererRequirementTypeCode listName="selection-criterion">slc-abil-staff-tech-work</cbc:TendererRequirementTypeCode>
+                        <cbc:Description languageID="ELL">Όσον αφορά στην τεχνική και επαγγελματική ικανότητα για την παρούσα διαδικασία σύναψης σύμβασης:
+α) οι οικονομικοί φορείς απαιτείται να έχουν εκτελέσει/υλοποιήσει κατά τη διάρκεια της τελευταίας τριετίας (ήτοι τα έτη 2023, 2024,2025 και μέχρι την καταληκτική ημερομηνία υποβολής προσφορών) τουλάχιστον δύο (2) συμβάσεις συναφούς φυσικού αντικειμένου (ήτοι με συναφή τεχνικά χαρακτηριστικά με τα ζητούμενα ανά Τμήμα για το αντικείμενο της προμήθειας) με το αντικείμενο της υπό σύναψη σύμβασης αναφορικά με το/τα αντίστοιχο/α Τμήμα/τα για το/τα οποίο/α υποβάλλεται προσφορά,
+β) οι οικονομικοί φορείς απαιτείται να διαθέτουν το τεχνικό προσωπικό ή τις τεχνικές υπηρεσίες ήτοι τουλάχιστον έναν (1) υπεύθυνο για τον έλεγχο της ποιότητας με καθήκοντα την τήρηση και την αξιολόγηση των συστημάτων διαχείρισης ποιότητας με στόχο την παρακολούθηση της ποιότητας των ειδών και τη βελτίωση των διαδικασιών για την άρτια εκτέλεση της υπό σύναψη σύμβασης ήτοι για την εγκατάσταση, θέση σε λειτουργία του εξοπλισμού, τεχνική υποστήριξη, εκπαίδευση του προσωπικού της Αναθέτουσας Αρχής που θα υποδειχθεί στον Ανάδοχο στη χρήση του/των Τμήματος/των Τμημάτων του παρόντος διαγωνισμού όπως κατά περίπτωση απαιτείται.
+Επισημαίνεται ότι τα φυσικά πρόσωπα που δηλώνονται από τον προσφέροντα δύνανται να απασχολούνται με εξαρτημένη σχέση εργασίας ή σύμβαση ανεξαρτήτων υπηρεσιών, η οποία είναι σε ισχύ, ήδη κατά τον χρόνο υποβολής της προσφοράς. Στην τελευταία αυτή περίπτωση θεωρούνται ίδιοι πόροι του οικονομικού φορέα και όχι τρίτοι δανείζοντες και δεν απαιτείται εκ μέρους τους η υποβολή ΕΕΕΣ και των σχετικών αποδεικτικών μέσων. 
+</cbc:Description>
+                     </efac:SelectionCriteria>
+                     <efac:SelectionCriteria>
+                        <cbc:TendererRequirementTypeCode listName="selection-criterion">slc-sche-qu-cert-indep</cbc:TendererRequirementTypeCode>
+                        <cbc:Description languageID="ELL">Οι οικονομικοί φορείς για την παρούσα διαδικασία σύναψης σύμβασης οφείλουν να συμμορφώνονται με το κάτωθι πρότυπο διασφάλισης ποιότητας :
+Ήτοι με το πρότυπο διασφάλισης ποιότητας ISO 9001:2015 ή ισοδύναμο με πεδίο εφαρμογής συναφές αντίστοιχα με το αντικείμενο του αντίστοιχου Τμήματος της παρούσας διακήρυξης για το οποίο υποβάλλεται προσφορά.
+Η αναθέτουσα αρχή αναγνωρίζει ισοδύναμα πιστοποιητικά που έχουν εκδοθεί από φορείς διαπιστευμένους από ισοδύναμους Οργανισμούς διαπίστευσης σύμφωνα με τον Κανονισμό 765/2008 λαμβάνοντας υπόψη και τα οριζόμενα στο νόμο 5218/2025 (ΦΕΚ Α/125/14.07.2025)  και πιο συγκεκριμένα στο άρθρο 13 και στο άρθρο 37 αυτού. </cbc:Description>
+                     </efac:SelectionCriteria>
+                  </efext:EformsExtension>
+               </ext:ExtensionContent>
+            </ext:UBLExtension>
+         </ext:UBLExtensions>
+         <cbc:VariantConstraintCode listName="permission">not-allowed</cbc:VariantConstraintCode>
+         <cbc:FundingProgramCode listName="eu-funded">eu-funds</cbc:FundingProgramCode>
+         <cbc:RecurringProcurementIndicator>false</cbc:RecurringProcurementIndicator>
+         <cbc:MultipleTendersCode listName="permission">not-allowed</cbc:MultipleTendersCode>
+         <cac:RequiredFinancialGuarantee>
+            <cbc:GuaranteeTypeCode listName="tender-guarantee-required">true</cbc:GuaranteeTypeCode>
+            <cbc:Description languageID="ELL">Η προσφορά θα συνοδεύεται υποχρεωτικά, από εγγυητική επιστολή συμμετοχής στο διαγωνισμό για ποσό που αντιστοιχεί σε ποσοστό 2% επί του συνολικού προϋπολογισμού του διαγωνισμού χωρίς Φ.Π.Α., εφόσον υποβάλλεται προσφορά για το σύνολο των Τμημάτων του παρόντος διαγωνισμού ή σε ποσοστό 2% επί της εκτιμωμένης αξίας της σύμβασης (χωρίς Φ.Π.Α.) κάθε Τμήματος για το οποίο υποβάλλεται προσφορά και θα ισχύει για τουλάχιστον τριάντα (30) ημέρες μετά τη λήξη του χρόνου ισχύος της προσφοράς, σύμφωνα με τη Διακήρυξη.</cbc:Description>
+         </cac:RequiredFinancialGuarantee>
+         <cac:CallForTendersDocumentReference>
+            <ext:UBLExtensions>
+               <ext:UBLExtension>
+                  <ext:ExtensionContent>
+                     <efext:EformsExtension>
+                        <efac:OfficialLanguages>
+                           <cac:Language>
+                              <cbc:ID>ELL</cbc:ID>
+                           </cac:Language>
+                        </efac:OfficialLanguages>
+                     </efext:EformsExtension>
+                  </ext:ExtensionContent>
+               </ext:UBLExtension>
+            </ext:UBLExtensions>
+            <cbc:ID>516048</cbc:ID>
+            <cbc:DocumentType>non-restricted-document</cbc:DocumentType>
+            <cac:Attachment>
+               <cac:ExternalReference>
+                  <cbc:URI>https://nepps-search.eprocurement.gov.gr/actSearch/faces/active_search_main.jspx</cbc:URI>
+               </cac:ExternalReference>
+            </cac:Attachment>
+         </cac:CallForTendersDocumentReference>
+         <cac:TendererQualificationRequest>
+            <cac:SpecificTendererRequirement>
+               <cbc:TendererRequirementTypeCode listName="selection-criteria-source">epo-notice</cbc:TendererRequirementTypeCode>
+            </cac:SpecificTendererRequirement>
+         </cac:TendererQualificationRequest>
+         <cac:TendererQualificationRequest>
+            <cbc:CompanyLegalFormCode listName="required">false</cbc:CompanyLegalFormCode>
+         </cac:TendererQualificationRequest>
+         <cac:TendererQualificationRequest>
+            <cac:SpecificTendererRequirement>
+               <cbc:TendererRequirementTypeCode listName="reserved-procurement">none</cbc:TendererRequirementTypeCode>
+            </cac:SpecificTendererRequirement>
+         </cac:TendererQualificationRequest>
+         <cac:ContractExecutionRequirement>
+            <cbc:ExecutionRequirementCode listName="reserved-execution">no</cbc:ExecutionRequirementCode>
+         </cac:ContractExecutionRequirement>
+         <cac:ContractExecutionRequirement>
+            <cbc:ExecutionRequirementCode listName="conditions">performance</cbc:ExecutionRequirementCode>
+            <cbc:Description languageID="ELL">Για την υπογραφή της σύμβασης απαιτείται εγγύηση καλής εκτέλεσης, ύψους 4% επί της εκτιμώμενης αξίας της σύμβασης, σύμφωνα με τους όρους της παρ. 4.1 της Διακήρυξης (Δ). Κατά την εκτέλεση της σύμβασης εφαρμόζονται οι διατάξεις του Ν4412/2016 όπως τροποποιήθηκε και ισχύει, οι όροι της Δ και συμπληρωματικά ο Αστικός Κώδικας. Κατά την εκτέλεση της σύμβασης ο ανάδοχος τηρεί τις υποχρεώσεις στους τομείς του περιβαλλοντικού, κοινωνικοασφαλιστικού και εργατικού δικαίου, που έχουν θεσπιστεί με το δίκαιο της Ένωσης, το εθνικό δίκαιο, συλλογικές συμβάσεις ή διεθνείς διατάξεις περιβαλλοντικού, κοινωνικοασφαλιστικού και εργατικού δικαίου, οι οποίες απαριθμούνται στο Παράρτημα Χ του Προσαρτήματος Α του Ν.4412/2016. Η σύμβαση μπορεί να τροποποιείται κατά τη διάρκειά της σύμφωνα με τους όρους και τις προϋποθέσεις του άρ.132 του Ν4412/2016, κατόπιν γνωμοδότησης της Επιτροπής παραλαβής. Η αναθέτουσα αρχή μπορεί, να καταγγείλει τη σύμβαση κατά τη διάρκεια εκτέλεσής της, σύμφωνα με την παρ. 4.6 της Δ.</cbc:Description>
+         </cac:ContractExecutionRequirement>
+         <cac:ContractExecutionRequirement>
+            <cbc:ExecutionRequirementCode listName="einvoicing">required</cbc:ExecutionRequirementCode>
+         </cac:ContractExecutionRequirement>
+         <cac:ContractExecutionRequirement>
+            <cbc:ExecutionRequirementCode listName="ecatalog-submission">not-allowed</cbc:ExecutionRequirementCode>
+         </cac:ContractExecutionRequirement>
+         <cac:ContractExecutionRequirement>
+            <cbc:ExecutionRequirementCode listName="esignature-submission">true</cbc:ExecutionRequirementCode>
+         </cac:ContractExecutionRequirement>
+         <cac:AwardingTerms>
+            <cac:AwardingCriterion>
+               <cac:SubordinateAwardingCriterion>
+                  <cbc:AwardingCriterionTypeCode listName="award-criterion-type">cost</cbc:AwardingCriterionTypeCode>
+                  <cbc:Description languageID="ELL">Η τιμή δεν είναι το μόνο κριτήριο ανάθεσης και όλα τα κριτήρια ορίζονται μόνο στα έγγραφα της σύμβασης.</cbc:Description>
+               </cac:SubordinateAwardingCriterion>
+            </cac:AwardingCriterion>
+         </cac:AwardingTerms>
+         <cac:AdditionalInformationParty>
+            <cac:PartyIdentification>
+               <cbc:ID>ORG-0004</cbc:ID>
+            </cac:PartyIdentification>
+         </cac:AdditionalInformationParty>
+         <cac:TenderRecipientParty>
+            <cbc:EndpointID>https://nepps.eprocurement.gov.gr/OA_HTML/AppsLocalLogin.jsp</cbc:EndpointID>
+            <cac:PartyIdentification>
+               <cbc:ID>ORG-0004</cbc:ID>
+            </cac:PartyIdentification>
+         </cac:TenderRecipientParty>
+         <cac:TenderEvaluationParty>
+            <cac:PartyIdentification>
+               <cbc:ID>ORG-0004</cbc:ID>
+            </cac:PartyIdentification>
+         </cac:TenderEvaluationParty>
+         <cac:TenderValidityPeriod>
+            <cbc:DurationMeasure unitCode="MONTH">8</cbc:DurationMeasure>
+         </cac:TenderValidityPeriod>
+         <cac:AppealTerms>
+            <cac:PresentationPeriod>
+               <cbc:Description languageID="ELL">Α. Κάθε ενδιαφερόμενος, ο οποίος έχει ή είχε συμφέρον να του ανατεθεί η συγκεκριμένη δημόσια σύμβαση και έχει υποστεί ή ενδέχεται να υποστεί ζημία από εκτελεστή πράξη ή παράλειψη της Αναθέτουσας Αρχής (ΑΑ) κατά παράβαση της ευρωπαϊκής ενωσιακής ή εσωτερικής νομοθεσίας στον τομέα των δημοσίων συμβάσεων, έχει δικαίωμα να προσφύγει στην ΕΑΔΗΣΥ σύμφωνα με τα ειδικότερα οριζόμενα στα άρθρα 345 επ. ν 4412/2016 και 1 επ. πδ 39/2017, στρεφόμενος με προδικαστική προσφυγή, κατά πράξης ή παράλειψης της ΑΑ, προσδιορίζοντας ειδικώς τις νομικές και πραγματικές αιτιάσεις που δικαιολογούν το αίτημά του. Η προθεσμία για την άσκηση της προδικαστικής προσφυγής είναι: (α) 10 ημέρες από την κοινοποίηση της προσβαλλόμενης πράξης στον ενδιαφερόμενο οικονομικό φορέα αν η πράξη κοινοποιήθηκε με ηλεκτρονικά μέσα ή τηλεομοιοτυπία ή (β) 15 ημέρες από την κοινοποίηση της προσβαλλόμενης πράξης σε αυτόν αν χρησιμοποιήθηκαν άλλα μέσα επικοινωνίας, άλλως (γ) 10 ημέρες από την πλήρη, πραγματική ή τεκμαιρόμενη, γνώση της πράξης που βλάπτει τα συμφέροντα του ενδιαφερόμενου οικονομικού φορέα. Η άσκηση προδικαστικής προσφυγής κατά διακήρυξης διαγωνισμού επιτρέπεται μέχρι και 15 ημέρες από τη δημοσίευσή της στο ΚΗΜΔΗΣ. Η ως άνω προθεσμία ισχύει και για κάθε τροποποίηση της διακήρυξης. Σε περίπτωση παράλειψης που αποδίδεται στην ΑΑ, η προθεσμία για την άσκηση της προδικαστικής προσφυγής είναι 15 ημέρες από την επομένη της συντέλεσης της προσβαλλόμενης παράλειψης. Οι προθεσμίες ως προς την υποβολή των προδικαστικών προσφυγών και των παρεμβάσεων αρχίζουν την επομένη της ημέρας της προαναφερθείσας κατά περίπτωση κοινοποίησης ή γνώσης και λήγουν όταν περάσει ολόκληρη η τελευταία ημέρα και ώρα 23:59:59 και, αν αυτή είναι εξαιρετέα ή Σάββατο, όταν περάσει ολόκληρη η επομένη εργάσιμη ημέρα και ώρα 23:59:59. Η προδικαστική προσφυγή συντάσσεται υποχρεωτικά με τη χρήση του τυποποιημένου εντύπου του Παραρτήματος Ι του πδ/τος 39/2017 και κατατίθεται ηλεκτρονικά μέσω της λειτουργικότητας «Επικοινωνία» στην ηλεκτρονική περιοχή του συγκεκριμένου διαγωνισμού, επιλέγοντας την ένδειξη «Προδικαστική Προσφυγή» σύμφωνα με το άρθρο 18 της ΚΥΑ Προμήθειες και Υπηρεσίες.
+Σε περίπτωση τεχνικής αδυναμίας λειτουργίας του ΕΣΗΔΗΣ, η οποία ανακοινώνεται και πιστοποιείται εκ των προτέρων, για τις δημόσιες συμβάσεις προμηθειών και υπηρεσιών από τη Διεύθυνση Διαχείρισης, Ανάπτυξης και Υποστήριξης του ΕΣΗΔΗΣ του Υπουργείου Ψηφιακής Διακυβέρνησης αναστέλλονται για το αντίστοιχο διάστημα οι σχετικές προθεσμίες. Σε περίπτωση αιφνίδιας τεχνικής αδυναμίας του ΕΣΗΔΗΣ, το προηγούμενο εδάφιο δεν εφαρμόζεται και η προσφυγή κατατίθεται στην ΕΑΔΗΣΥ με μήνυμα ηλεκτρονικού ταχυδρομείου, η δε τεχνική αδυναμία πιστοποιείται σύμφωνα με τη διαδικασία του τρίτου εδαφίου, εκ των υστέρων. Η έκταση της προσφυγής δεν υπερβαίνει το όριο των 25 σελίδων. Υπέρβαση του ορίου των σελίδων δικαιολογείται μόνο σε εξαιρετικές περιστάσεις, όπως ιδίως, αν με την προσφυγή αμφισβητείται η πλήρωση πλήθους τεχνικών προδιαγραφών. Το Κλιμάκιο εξέτασης της προσφυγής μπορεί να ζητήσει, με πράξη του Προέδρου του, τον περιορισμό της αδικαιολόγητης έκτασής της. Αν ο προσφεύγων δεν συμμορφωθεί με την πράξη του προηγούμενου εδαφίου, καταβάλλει παράβολο ίσο προς το διπλάσιο του παραβόλου που προβλέπεται για την άσκηση της προσφυγής.
+Για το παραδεκτό της άσκησης της προδικαστικής προσφυγής κατατίθεται παράβολο από τον προσφεύγοντα υπέρ του Ελληνικού Δημοσίου, σύμφωνα με όσα ορίζονται στο άρ 363 ν 4412/2016. Η επιστροφή του παραβόλου στον προσφεύγοντα γίνεται: α) σε περίπτωση ολικής ή μερικής αποδοχής της προσφυγής του, β) όταν η ΑΑ ανακαλεί την προσβαλλόμενη πράξη ή προβαίνει στην οφειλόμενη ενέργεια πριν από την έκδοση της απόφασης της ΕΑΔΗΣΥ επί της προσφυγής, γ) σε περίπτωση παραίτησης του προσφεύγοντα από την προσφυγή του έως και 10 ημέρες από την κατάθεση της προσφυγής.
+Η προθεσμία για την άσκηση της προδικαστικής προσφυγής και η άσκησή της κωλύουν τη σύναψη της σύμβασης επί ποινή ακυρότητας, η οποία διαπιστώνεται με απόφαση της ΕΑΔΗΣΥ μετά από άσκηση προδικαστικής προσφυγής, σύμφωνα με το άρ 368 του ν 4412/2016 και 20 πδ 39/2017. Όμως, μόνη η άσκηση της προδικαστικής προσφυγής δεν κωλύει την πρόοδο της διαγωνιστικής διαδικασίας, υπό την επιφύλαξη χορήγησης από το Κλιμάκιο προσωρινής προστασίας σύμφωνα με το άρ 366 παρ 1-2 ν 4412/2016 και 15 παρ 1-4 πδ 39/2017. 
+Η προηγούμενη παράγραφος δεν εφαρμόζεται στην περίπτωση που, κατά τη διαδικασία σύναψης της παρούσας σύμβασης, υποβληθεί μόνο 1 προσφορά.
+Η ΑΑ μέσω της λειτουργίας «Επικοινωνία» α) κοινοποιεί την προσφυγή το αργότερο έως την επομένη εργάσιμη ημέρα από την κατάθεσή της σε κάθε ενδιαφερόμενο τρίτο, β) διαβιβάζει στην ΕΑΔΗΣΥ, το αργότερο εντός 15 ημέρες από την ημέρα κατάθεσης, τον πλήρη φάκελο της υπόθεσης, τα αποδεικτικά κοινοποίησης στους ενδιαφερόμενους τρίτους αλλά και την Έκθεση Απόψεών της επί της προσφυγής, γ) Κοινοποιεί σε όλα τα μέρη την Έκθεση Απόψεων, τις Παρεμβάσεις και τα σχετικά έγγραφα που τυχόν τη συνοδεύουν, μέσω του ηλεκτρονικού τόπου του διαγωνισμού το αργότερο έως την επομένη εργάσιμη ημέρα από την κατάθεσή τους, δ) Συμπληρωματικά υπομνήματα κατατίθενται από οποιοδήποτε από τα μέρη μέσω του ΕΣΗΔΗΣ το αργότερο εντός 5 ημερών από την κοινοποίηση των απόψεων της ΑΑ. 
+Η άσκηση της προδικαστικής προσφυγής αποτελεί προϋπόθεση για την άσκηση των ένδικων βοηθημάτων της αίτησης αναστολής και της αίτησης ακύρωσης του άρθρου 372 ν. 4412/2016 κατά των εκτελεστών πράξεων ή παραλείψεων της ΑΑ.
+Β. Όποιος έχει έννομο συμφέρον μπορεί να ζητήσει, με το ίδιο δικόγραφο εφαρμοζόμενων αναλογικά των διατάξεων του πδ 18/1989, την αναστολή εκτέλεσης της απόφασης της ΕΑΔΗΣΥ και την ακύρωσή της ενώπιον του αρμοδίου Διοικητικού Εφετείου της έδρας της ΑΑ. Το αυτό ισχύει και σε περίπτωση σιωπηρής απόρριψης της προδικαστικής προσφυγής από την ΕΑΔΗΣΥ. Δικαίωμα άσκησης του ως άνω ένδικου βοηθήματος έχει και η ΑΑ, αν η ΕΑΔΗΣΥ κάνει δεκτή την προδικαστική προσφυγή, αλλά και αυτός του οποίου έχει γίνει εν μέρει δεκτή η προδικαστική προσφυγή.</cbc:Description>
+            </cac:PresentationPeriod>
+            <cac:AppealReceiverParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0005</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealReceiverParty>
+         </cac:AppealTerms>
+         <cac:Language>
+            <cbc:ID>ELL</cbc:ID>
+         </cac:Language>
+         <cac:PostAwardProcess>
+            <cbc:ElectronicOrderUsageIndicator>false</cbc:ElectronicOrderUsageIndicator>
+            <cbc:ElectronicPaymentUsageIndicator>true</cbc:ElectronicPaymentUsageIndicator>
+         </cac:PostAwardProcess>
+      </cac:TenderingTerms>
+      <cac:TenderingProcess>
+         <ext:UBLExtensions>
+            <ext:UBLExtension>
+               <ext:ExtensionContent>
+                  <efext:EformsExtension>
+                     <efbc:AccessToolName>Διαδικτυακή Πύλη Ηλεκτρονικών Δημοσίων Συμβάσεων (Ε.Σ.Η.ΔΗ.Σ.)</efbc:AccessToolName>
+                  </efext:EformsExtension>
+               </ext:ExtensionContent>
+            </ext:UBLExtension>
+         </ext:UBLExtensions>
+         <cbc:SubmissionMethodCode listName="esubmission">required</cbc:SubmissionMethodCode>
+         <cbc:GovernmentAgreementConstraintIndicator>true</cbc:GovernmentAgreementConstraintIndicator>
+         <cbc:AccessToolsURI>https://nepps.eprocurement.gov.gr/OA_HTML/AppsLocalLogin.jsp</cbc:AccessToolsURI>
+         <cac:TenderSubmissionDeadlinePeriod>
+            <cbc:EndDate>2026-09-29+03:00</cbc:EndDate>
+            <cbc:EndTime>13:00:00+03:00</cbc:EndTime>
+         </cac:TenderSubmissionDeadlinePeriod>
+         <cac:OpenTenderEvent>
+            <cbc:OccurrenceDate>2026-09-30+03:00</cbc:OccurrenceDate>
+            <cbc:OccurrenceTime>10:00:00+03:00</cbc:OccurrenceTime>
+            <cac:OccurenceLocation>
+               <cbc:Description languageID="ELL">Η αποσφράγιση των προσφορών θα γίνει ηλεκτρονικά, μέσω της ηλεκτρονικής πλατφόρμας Ε.Σ.Η.ΔΗ.Σ. (https://nepps.eprocurement.gov.gr/OA_HTML/AppsLocalLogin.jsp).</cbc:Description>
+            </cac:OccurenceLocation>
+         </cac:OpenTenderEvent>
+         <cac:AuctionTerms>
+            <cbc:AuctionConstraintIndicator>false</cbc:AuctionConstraintIndicator>
+         </cac:AuctionTerms>
+         <cac:ContractingSystem>
+            <cbc:ContractingSystemTypeCode listName="framework-agreement">none</cbc:ContractingSystemTypeCode>
+         </cac:ContractingSystem>
+         <cac:ContractingSystem>
+            <cbc:ContractingSystemTypeCode listName="dps-usage">none</cbc:ContractingSystemTypeCode>
+         </cac:ContractingSystem>
+      </cac:TenderingProcess>
+      <cac:ProcurementProject>
+         <cbc:ID schemeName="InternalID">722_2026_Τμήμα Γ</cbc:ID>
+         <cbc:Name languageID="ELL">Σύστημα δημιουργίας Αντιγράφων Ασφαλείας</cbc:Name>
+         <cbc:Description languageID="ELL">Σύστημα δημιουργίας Αντιγράφων Ασφαλείας
+Ποσότητα: Ένα (1) τεμάχιο
+CPV: 30233000-1, 48821000-9
+Σύστημα Backup Server σχεδιασμένο για δημιουργία αντιγράφων ασφαλείας (backup) ως ολοκληρωμένη και αξιόπιστη λύση για τη διασφάλιση των δεδομένων, στo πλαίσιo της βέλτιστης πρακτικής αντιγράφων ασφαλείας «3-2-1», εξασφαλίζοντας ότι κρίσιμα δεδομένα αποθηκεύονται τακτικά χωρίς ανθρώπινη παρέμβαση. Θα πρέπει να έχει προηγμένα χαρακτηριστικά, όπως deduplication και compression, για μείωση των απαιτήσεων σε αποθηκευτικό χώρο, και υποστήριξη τεχνολογίας snapshot για γρήγορη αποκατάσταση δεδομένων σε περιπτώσεις διαγραφής ή καταστροφής. Να υποστηρίζει RAID διαμόρφωση, εξασφαλίζοντας ανθεκτικότητα και προστασία από αποτυχία δίσκων, δυνατότητα κρυπτογράφησης, replication σε απομακρυσμένες τοποθεσίες και υποστήριξη cloud integration για πρόσθετη ασφάλεια και προσβασιμότητα. Θα πρέπει να προσφέρει περιβάλλον διαχείρισης μέσω web interface, διευκολύνοντας τη ρύθμιση, παρακολούθηση και αποκατάσταση δεδομένων. Ο ανωτέρω εξοπλισμός θα πρέπει να πληρεί κατ’ ελάχιστο τις τεχνικές προδιαγραφές σύμφωνα με τα οριζόμενα στο Παράρτημα I της Διακήρυξης.</cbc:Description>
+         <cbc:ProcurementTypeCode listName="contract-nature">supplies</cbc:ProcurementTypeCode>
+         <cbc:SMESuitableIndicator>true</cbc:SMESuitableIndicator>
+         <cac:RequestedTenderTotal>
+            <cbc:EstimatedOverallContractAmount currencyID="EUR">53225.81</cbc:EstimatedOverallContractAmount>
+         </cac:RequestedTenderTotal>
+         <cac:MainCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">30233000</cbc:ItemClassificationCode>
+         </cac:MainCommodityClassification>
+         <cac:AdditionalCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">48821000</cbc:ItemClassificationCode>
+         </cac:AdditionalCommodityClassification>
+         <cac:RealizedLocation>
+            <cac:Address>
+               <cbc:StreetName>6ο χλμ. οδού Χαριλάου – Θέρμης</cbc:StreetName>
+               <cbc:CityName>Θέρμη, Θεσσαλονίκη</cbc:CityName>
+               <cbc:PostalZone>57001</cbc:PostalZone>
+               <cbc:CountrySubentityCode listName="nuts">EL522</cbc:CountrySubentityCode>
+               <cac:Country>
+                  <cbc:IdentificationCode listName="country">GRC</cbc:IdentificationCode>
+               </cac:Country>
+            </cac:Address>
+         </cac:RealizedLocation>
+         <cac:PlannedPeriod>
+            <cbc:DurationMeasure unitCode="MONTH">6</cbc:DurationMeasure>
+         </cac:PlannedPeriod>
+         <cac:ContractExtension>
+            <cbc:OptionsDescription languageID="ELL">Η σύμβαση μπορεί να τροποποιείται κατά τη διάρκειά της, χωρίς να απαιτείται νέα διαδικασία σύναψης σύμβασης, μόνο σύμφωνα με τους όρους και τις προϋποθέσεις του άρθρου 132 του ν. 4412/2016 και κατόπιν γνωμοδότησης της Επιτροπής Παραλαβής.</cbc:OptionsDescription>
+         </cac:ContractExtension>
+      </cac:ProcurementProject>
+   </cac:ProcurementProjectLot>
+   <cac:ProcurementProjectLot>
+      <cbc:ID schemeName="Lot">LOT-0006</cbc:ID>
+      <cac:TenderingTerms>
+         <ext:UBLExtensions>
+            <ext:UBLExtension>
+               <ext:ExtensionContent>
+                  <efext:EformsExtension>
+                     <efac:Funding>
+                        <cbc:FundingProgramCode listName="eu-programme">ERDF_2021</cbc:FundingProgramCode>
+                     </efac:Funding>
+                     <efac:SelectionCriteria>
+                        <cbc:TendererRequirementTypeCode listName="selection-criterion">slc-suit-reg-prof</cbc:TendererRequirementTypeCode>
+                        <cbc:Description languageID="ELL">Οι οικονομικοί φορείς που συμμετέχουν στη διαδικασία σύναψης της παρούσας σύμβασης απαιτείται να ασκούν εμπορική ή βιομηχανική ή βιοτεχνική δραστηριότητα συναφή με το αντικείμενο της προμήθειας του/των Τμήματος/Τμημάτων του παρόντος διαγωνισμού. 
+Οι οικονομικοί φορείς που είναι εγκατεστημένοι σε κράτος μέλος της Ευρωπαϊκής Ένωσης απαιτείται να είναι εγγεγραμμένοι σε ένα από τα επαγγελματικά ή εμπορικά μητρώα που τηρούνται στο κράτος εγκατάστασής τους ή να ικανοποιούν οποιαδήποτε άλλη απαίτηση ορίζεται στο Παράρτημα XI του Προσαρτήματος Α΄ του Ν. 4412/2016. 
+Στην περίπτωση οικονομικών φορέων εγκατεστημένων σε κράτος μέλος του Ευρωπαϊκού Οικονομικού Χώρου (Ε.Ο.Χ) ή σε τρίτες χώρες που έχουν προσχωρήσει στη ΣΔΣ, ή σε τρίτες χώρες που δεν εμπίπτουν στην προηγούμενη περίπτωση και έχουν συνάψει διμερείς ή πολυμερείς συμφωνίες με την Ένωση σε θέματα διαδικασιών ανάθεσης δημοσίων συμβάσεων, απαιτείται να είναι εγγεγραμμένοι σε αντίστοιχα επαγγελματικά ή εμπορικά μητρώα. 
+Οι εγκατεστημένοι στην Ελλάδα οικονομικοί φορείς απαιτείται να είναι εγγεγραμμένοι στο Βιοτεχνικό ή Εμπορικό ή Βιομηχανικό Επιμελητήριο ή στο Μητρώο Κατασκευαστών Αμυντικού Υλικού.
+Στην περίπτωση ένωσης οικονομικών φορέων η παραπάνω απαίτηση θα πρέπει να καλύπτεται από όλα τα μέλη της ένωσης.</cbc:Description>
+                     </efac:SelectionCriteria>
+                     <efac:SelectionCriteria>
+                        <cbc:TendererRequirementTypeCode listName="selection-criterion">slc-stand-to-avg</cbc:TendererRequirementTypeCode>
+                        <cbc:Description languageID="ELL">Όσον αφορά την οικονομική και χρηματοοικονομική επάρκεια για την παρούσα διαδικασία σύναψης σύμβασης, οι οικονομικοί φορείς απαιτείται να έχουν μέσο γενικό ετήσιο κύκλο εργασιών κατά τη διάρκεια της τελευταίας τριετίας ήτοι τα έτη 2023, 2024 και 2025 ίσο με το 100% του προϋπολογισμού (μη συμπεριλαμβανομένου ΦΠΑ) του παρόντος διαγωνισμού εφόσον υποβάλουν προσφορά για το σύνολο των Τμημάτων του παρόντος διαγωνισμού ή κατ’ ελάχιστο ίσο με το 100% του προϋπολογισμού (μη συμπεριλαμβανομένου ΦΠΑ) του/των Τμήματος/Τμημάτων για το οποίο υποβάλλουν προσφορά.</cbc:Description>
+                     </efac:SelectionCriteria>
+                     <efac:SelectionCriteria>
+                        <cbc:TendererRequirementTypeCode listName="selection-criterion">slc-abil-staff-tech-work</cbc:TendererRequirementTypeCode>
+                        <cbc:Description languageID="ELL">Όσον αφορά στην τεχνική και επαγγελματική ικανότητα για την παρούσα διαδικασία σύναψης σύμβασης:
+α) οι οικονομικοί φορείς απαιτείται να έχουν εκτελέσει/υλοποιήσει κατά τη διάρκεια της τελευταίας τριετίας (ήτοι τα έτη 2023, 2024,2025 και μέχρι την καταληκτική ημερομηνία υποβολής προσφορών) τουλάχιστον δύο (2) συμβάσεις συναφούς φυσικού αντικειμένου (ήτοι με συναφή τεχνικά χαρακτηριστικά με τα ζητούμενα ανά Τμήμα για το αντικείμενο της προμήθειας) με το αντικείμενο της υπό σύναψη σύμβασης αναφορικά με το/τα αντίστοιχο/α Τμήμα/τα για το/τα οποίο/α υποβάλλεται προσφορά,
+β) οι οικονομικοί φορείς απαιτείται να διαθέτουν το τεχνικό προσωπικό ή τις τεχνικές υπηρεσίες ήτοι τουλάχιστον έναν (1) υπεύθυνο για τον έλεγχο της ποιότητας με καθήκοντα την τήρηση και την αξιολόγηση των συστημάτων διαχείρισης ποιότητας με στόχο την παρακολούθηση της ποιότητας των ειδών και τη βελτίωση των διαδικασιών για την άρτια εκτέλεση της υπό σύναψη σύμβασης ήτοι για την εγκατάσταση, θέση σε λειτουργία του εξοπλισμού, τεχνική υποστήριξη, εκπαίδευση του προσωπικού της Αναθέτουσας Αρχής που θα υποδειχθεί στον Ανάδοχο στη χρήση του/των Τμήματος/των Τμημάτων του παρόντος διαγωνισμού όπως κατά περίπτωση απαιτείται.
+Επισημαίνεται ότι τα φυσικά πρόσωπα που δηλώνονται από τον προσφέροντα δύνανται να απασχολούνται με εξαρτημένη σχέση εργασίας ή σύμβαση ανεξαρτήτων υπηρεσιών, η οποία είναι σε ισχύ, ήδη κατά τον χρόνο υποβολής της προσφοράς. Στην τελευταία αυτή περίπτωση θεωρούνται ίδιοι πόροι του οικονομικού φορέα και όχι τρίτοι δανείζοντες και δεν απαιτείται εκ μέρους τους η υποβολή ΕΕΕΣ και των σχετικών αποδεικτικών μέσων. 
+</cbc:Description>
+                     </efac:SelectionCriteria>
+                     <efac:SelectionCriteria>
+                        <cbc:TendererRequirementTypeCode listName="selection-criterion">slc-sche-qu-cert-indep</cbc:TendererRequirementTypeCode>
+                        <cbc:Description languageID="ELL">Οι οικονομικοί φορείς για την παρούσα διαδικασία σύναψης σύμβασης οφείλουν να συμμορφώνονται με το κάτωθι πρότυπο διασφάλισης ποιότητας :
+Ήτοι με το πρότυπο διασφάλισης ποιότητας ISO 9001:2015 ή ισοδύναμο με πεδίο εφαρμογής συναφές αντίστοιχα με το αντικείμενο του αντίστοιχου Τμήματος της παρούσας διακήρυξης για το οποίο υποβάλλεται προσφορά.
+Η αναθέτουσα αρχή αναγνωρίζει ισοδύναμα πιστοποιητικά που έχουν εκδοθεί από φορείς διαπιστευμένους από ισοδύναμους Οργανισμούς διαπίστευσης σύμφωνα με τον Κανονισμό 765/2008 λαμβάνοντας υπόψη και τα οριζόμενα στο νόμο 5218/2025 (ΦΕΚ Α/125/14.07.2025)  και πιο συγκεκριμένα στο άρθρο 13 και στο άρθρο 37 αυτού. </cbc:Description>
+                     </efac:SelectionCriteria>
+                  </efext:EformsExtension>
+               </ext:ExtensionContent>
+            </ext:UBLExtension>
+         </ext:UBLExtensions>
+         <cbc:VariantConstraintCode listName="permission">not-allowed</cbc:VariantConstraintCode>
+         <cbc:FundingProgramCode listName="eu-funded">eu-funds</cbc:FundingProgramCode>
+         <cbc:RecurringProcurementIndicator>false</cbc:RecurringProcurementIndicator>
+         <cbc:MultipleTendersCode listName="permission">not-allowed</cbc:MultipleTendersCode>
+         <cac:RequiredFinancialGuarantee>
+            <cbc:GuaranteeTypeCode listName="tender-guarantee-required">true</cbc:GuaranteeTypeCode>
+            <cbc:Description languageID="ELL">Η προσφορά θα συνοδεύεται υποχρεωτικά, από εγγυητική επιστολή συμμετοχής στο διαγωνισμό για ποσό που αντιστοιχεί σε ποσοστό 2% επί του συνολικού προϋπολογισμού του διαγωνισμού χωρίς Φ.Π.Α., εφόσον υποβάλλεται προσφορά για το σύνολο των Τμημάτων του παρόντος διαγωνισμού ή σε ποσοστό 2% επί της εκτιμωμένης αξίας της σύμβασης (χωρίς Φ.Π.Α.) κάθε Τμήματος για το οποίο υποβάλλεται προσφορά και θα ισχύει για τουλάχιστον τριάντα (30) ημέρες μετά τη λήξη του χρόνου ισχύος της προσφοράς, σύμφωνα με τη Διακήρυξη.</cbc:Description>
+         </cac:RequiredFinancialGuarantee>
+         <cac:CallForTendersDocumentReference>
+            <ext:UBLExtensions>
+               <ext:UBLExtension>
+                  <ext:ExtensionContent>
+                     <efext:EformsExtension>
+                        <efac:OfficialLanguages>
+                           <cac:Language>
+                              <cbc:ID>ELL</cbc:ID>
+                           </cac:Language>
+                        </efac:OfficialLanguages>
+                     </efext:EformsExtension>
+                  </ext:ExtensionContent>
+               </ext:UBLExtension>
+            </ext:UBLExtensions>
+            <cbc:ID>516049</cbc:ID>
+            <cbc:DocumentType>non-restricted-document</cbc:DocumentType>
+            <cac:Attachment>
+               <cac:ExternalReference>
+                  <cbc:URI>https://nepps-search.eprocurement.gov.gr/actSearch/faces/active_search_main.jspx</cbc:URI>
+               </cac:ExternalReference>
+            </cac:Attachment>
+         </cac:CallForTendersDocumentReference>
+         <cac:TendererQualificationRequest>
+            <cac:SpecificTendererRequirement>
+               <cbc:TendererRequirementTypeCode listName="selection-criteria-source">epo-notice</cbc:TendererRequirementTypeCode>
+            </cac:SpecificTendererRequirement>
+         </cac:TendererQualificationRequest>
+         <cac:TendererQualificationRequest>
+            <cbc:CompanyLegalFormCode listName="required">false</cbc:CompanyLegalFormCode>
+         </cac:TendererQualificationRequest>
+         <cac:TendererQualificationRequest>
+            <cac:SpecificTendererRequirement>
+               <cbc:TendererRequirementTypeCode listName="reserved-procurement">none</cbc:TendererRequirementTypeCode>
+            </cac:SpecificTendererRequirement>
+         </cac:TendererQualificationRequest>
+         <cac:ContractExecutionRequirement>
+            <cbc:ExecutionRequirementCode listName="reserved-execution">no</cbc:ExecutionRequirementCode>
+         </cac:ContractExecutionRequirement>
+         <cac:ContractExecutionRequirement>
+            <cbc:ExecutionRequirementCode listName="conditions">performance</cbc:ExecutionRequirementCode>
+            <cbc:Description languageID="ELL">Για την υπογραφή της σύμβασης απαιτείται εγγύηση καλής εκτέλεσης, ύψους 4% επί της εκτιμώμενης αξίας της σύμβασης, σύμφωνα με τους όρους της παρ. 4.1 της Διακήρυξης (Δ). Κατά την εκτέλεση της σύμβασης εφαρμόζονται οι διατάξεις του Ν4412/2016 όπως τροποποιήθηκε και ισχύει, οι όροι της Δ και συμπληρωματικά ο Αστικός Κώδικας. Κατά την εκτέλεση της σύμβασης ο ανάδοχος τηρεί τις υποχρεώσεις στους τομείς του περιβαλλοντικού, κοινωνικοασφαλιστικού και εργατικού δικαίου, που έχουν θεσπιστεί με το δίκαιο της Ένωσης, το εθνικό δίκαιο, συλλογικές συμβάσεις ή διεθνείς διατάξεις περιβαλλοντικού, κοινωνικοασφαλιστικού και εργατικού δικαίου, οι οποίες απαριθμούνται στο Παράρτημα Χ του Προσαρτήματος Α του Ν.4412/2016. Η σύμβαση μπορεί να τροποποιείται κατά τη διάρκειά της σύμφωνα με τους όρους και τις προϋποθέσεις του άρ.132 του Ν4412/2016, κατόπιν γνωμοδότησης της Επιτροπής παραλαβής. Η αναθέτουσα αρχή μπορεί, να καταγγείλει τη σύμβαση κατά τη διάρκεια εκτέλεσής της, σύμφωνα με την παρ. 4.6 της Δ.</cbc:Description>
+         </cac:ContractExecutionRequirement>
+         <cac:ContractExecutionRequirement>
+            <cbc:ExecutionRequirementCode listName="einvoicing">required</cbc:ExecutionRequirementCode>
+         </cac:ContractExecutionRequirement>
+         <cac:ContractExecutionRequirement>
+            <cbc:ExecutionRequirementCode listName="ecatalog-submission">not-allowed</cbc:ExecutionRequirementCode>
+         </cac:ContractExecutionRequirement>
+         <cac:ContractExecutionRequirement>
+            <cbc:ExecutionRequirementCode listName="esignature-submission">true</cbc:ExecutionRequirementCode>
+         </cac:ContractExecutionRequirement>
+         <cac:AwardingTerms>
+            <cac:AwardingCriterion>
+               <cac:SubordinateAwardingCriterion>
+                  <cbc:AwardingCriterionTypeCode listName="award-criterion-type">cost</cbc:AwardingCriterionTypeCode>
+                  <cbc:Description languageID="ELL">Η τιμή δεν είναι το μόνο κριτήριο ανάθεσης και όλα τα κριτήρια ορίζονται μόνο στα έγγραφα της σύμβασης.</cbc:Description>
+               </cac:SubordinateAwardingCriterion>
+            </cac:AwardingCriterion>
+         </cac:AwardingTerms>
+         <cac:AdditionalInformationParty>
+            <cac:PartyIdentification>
+               <cbc:ID>ORG-0004</cbc:ID>
+            </cac:PartyIdentification>
+         </cac:AdditionalInformationParty>
+         <cac:TenderRecipientParty>
+            <cbc:EndpointID>https://nepps.eprocurement.gov.gr/OA_HTML/AppsLocalLogin.jsp</cbc:EndpointID>
+            <cac:PartyIdentification>
+               <cbc:ID>ORG-0004</cbc:ID>
+            </cac:PartyIdentification>
+         </cac:TenderRecipientParty>
+         <cac:TenderEvaluationParty>
+            <cac:PartyIdentification>
+               <cbc:ID>ORG-0004</cbc:ID>
+            </cac:PartyIdentification>
+         </cac:TenderEvaluationParty>
+         <cac:TenderValidityPeriod>
+            <cbc:DurationMeasure unitCode="MONTH">8</cbc:DurationMeasure>
+         </cac:TenderValidityPeriod>
+         <cac:AppealTerms>
+            <cac:PresentationPeriod>
+               <cbc:Description languageID="ELL">Α. Κάθε ενδιαφερόμενος, ο οποίος έχει ή είχε συμφέρον να του ανατεθεί η συγκεκριμένη δημόσια σύμβαση και έχει υποστεί ή ενδέχεται να υποστεί ζημία από εκτελεστή πράξη ή παράλειψη της Αναθέτουσας Αρχής (ΑΑ) κατά παράβαση της ευρωπαϊκής ενωσιακής ή εσωτερικής νομοθεσίας στον τομέα των δημοσίων συμβάσεων, έχει δικαίωμα να προσφύγει στην ΕΑΔΗΣΥ σύμφωνα με τα ειδικότερα οριζόμενα στα άρθρα 345 επ. ν 4412/2016 και 1 επ. πδ 39/2017, στρεφόμενος με προδικαστική προσφυγή, κατά πράξης ή παράλειψης της ΑΑ, προσδιορίζοντας ειδικώς τις νομικές και πραγματικές αιτιάσεις που δικαιολογούν το αίτημά του. Η προθεσμία για την άσκηση της προδικαστικής προσφυγής είναι: (α) 10 ημέρες από την κοινοποίηση της προσβαλλόμενης πράξης στον ενδιαφερόμενο οικονομικό φορέα αν η πράξη κοινοποιήθηκε με ηλεκτρονικά μέσα ή τηλεομοιοτυπία ή (β) 15 ημέρες από την κοινοποίηση της προσβαλλόμενης πράξης σε αυτόν αν χρησιμοποιήθηκαν άλλα μέσα επικοινωνίας, άλλως (γ) 10 ημέρες από την πλήρη, πραγματική ή τεκμαιρόμενη, γνώση της πράξης που βλάπτει τα συμφέροντα του ενδιαφερόμενου οικονομικού φορέα. Η άσκηση προδικαστικής προσφυγής κατά διακήρυξης διαγωνισμού επιτρέπεται μέχρι και 15 ημέρες από τη δημοσίευσή της στο ΚΗΜΔΗΣ. Η ως άνω προθεσμία ισχύει και για κάθε τροποποίηση της διακήρυξης. Σε περίπτωση παράλειψης που αποδίδεται στην ΑΑ, η προθεσμία για την άσκηση της προδικαστικής προσφυγής είναι 15 ημέρες από την επομένη της συντέλεσης της προσβαλλόμενης παράλειψης. Οι προθεσμίες ως προς την υποβολή των προδικαστικών προσφυγών και των παρεμβάσεων αρχίζουν την επομένη της ημέρας της προαναφερθείσας κατά περίπτωση κοινοποίησης ή γνώσης και λήγουν όταν περάσει ολόκληρη η τελευταία ημέρα και ώρα 23:59:59 και, αν αυτή είναι εξαιρετέα ή Σάββατο, όταν περάσει ολόκληρη η επομένη εργάσιμη ημέρα και ώρα 23:59:59. Η προδικαστική προσφυγή συντάσσεται υποχρεωτικά με τη χρήση του τυποποιημένου εντύπου του Παραρτήματος Ι του πδ/τος 39/2017 και κατατίθεται ηλεκτρονικά μέσω της λειτουργικότητας «Επικοινωνία» στην ηλεκτρονική περιοχή του συγκεκριμένου διαγωνισμού, επιλέγοντας την ένδειξη «Προδικαστική Προσφυγή» σύμφωνα με το άρθρο 18 της ΚΥΑ Προμήθειες και Υπηρεσίες.
+Σε περίπτωση τεχνικής αδυναμίας λειτουργίας του ΕΣΗΔΗΣ, η οποία ανακοινώνεται και πιστοποιείται εκ των προτέρων, για τις δημόσιες συμβάσεις προμηθειών και υπηρεσιών από τη Διεύθυνση Διαχείρισης, Ανάπτυξης και Υποστήριξης του ΕΣΗΔΗΣ του Υπουργείου Ψηφιακής Διακυβέρνησης αναστέλλονται για το αντίστοιχο διάστημα οι σχετικές προθεσμίες. Σε περίπτωση αιφνίδιας τεχνικής αδυναμίας του ΕΣΗΔΗΣ, το προηγούμενο εδάφιο δεν εφαρμόζεται και η προσφυγή κατατίθεται στην ΕΑΔΗΣΥ με μήνυμα ηλεκτρονικού ταχυδρομείου, η δε τεχνική αδυναμία πιστοποιείται σύμφωνα με τη διαδικασία του τρίτου εδαφίου, εκ των υστέρων. Η έκταση της προσφυγής δεν υπερβαίνει το όριο των 25 σελίδων. Υπέρβαση του ορίου των σελίδων δικαιολογείται μόνο σε εξαιρετικές περιστάσεις, όπως ιδίως, αν με την προσφυγή αμφισβητείται η πλήρωση πλήθους τεχνικών προδιαγραφών. Το Κλιμάκιο εξέτασης της προσφυγής μπορεί να ζητήσει, με πράξη του Προέδρου του, τον περιορισμό της αδικαιολόγητης έκτασής της. Αν ο προσφεύγων δεν συμμορφωθεί με την πράξη του προηγούμενου εδαφίου, καταβάλλει παράβολο ίσο προς το διπλάσιο του παραβόλου που προβλέπεται για την άσκηση της προσφυγής.
+Για το παραδεκτό της άσκησης της προδικαστικής προσφυγής κατατίθεται παράβολο από τον προσφεύγοντα υπέρ του Ελληνικού Δημοσίου, σύμφωνα με όσα ορίζονται στο άρ 363 ν 4412/2016. Η επιστροφή του παραβόλου στον προσφεύγοντα γίνεται: α) σε περίπτωση ολικής ή μερικής αποδοχής της προσφυγής του, β) όταν η ΑΑ ανακαλεί την προσβαλλόμενη πράξη ή προβαίνει στην οφειλόμενη ενέργεια πριν από την έκδοση της απόφασης της ΕΑΔΗΣΥ επί της προσφυγής, γ) σε περίπτωση παραίτησης του προσφεύγοντα από την προσφυγή του έως και 10 ημέρες από την κατάθεση της προσφυγής.
+Η προθεσμία για την άσκηση της προδικαστικής προσφυγής και η άσκησή της κωλύουν τη σύναψη της σύμβασης επί ποινή ακυρότητας, η οποία διαπιστώνεται με απόφαση της ΕΑΔΗΣΥ μετά από άσκηση προδικαστικής προσφυγής, σύμφωνα με το άρ 368 του ν 4412/2016 και 20 πδ 39/2017. Όμως, μόνη η άσκηση της προδικαστικής προσφυγής δεν κωλύει την πρόοδο της διαγωνιστικής διαδικασίας, υπό την επιφύλαξη χορήγησης από το Κλιμάκιο προσωρινής προστασίας σύμφωνα με το άρ 366 παρ 1-2 ν 4412/2016 και 15 παρ 1-4 πδ 39/2017. 
+Η προηγούμενη παράγραφος δεν εφαρμόζεται στην περίπτωση που, κατά τη διαδικασία σύναψης της παρούσας σύμβασης, υποβληθεί μόνο 1 προσφορά.
+Η ΑΑ μέσω της λειτουργίας «Επικοινωνία» α) κοινοποιεί την προσφυγή το αργότερο έως την επομένη εργάσιμη ημέρα από την κατάθεσή της σε κάθε ενδιαφερόμενο τρίτο, β) διαβιβάζει στην ΕΑΔΗΣΥ, το αργότερο εντός 15 ημέρες από την ημέρα κατάθεσης, τον πλήρη φάκελο της υπόθεσης, τα αποδεικτικά κοινοποίησης στους ενδιαφερόμενους τρίτους αλλά και την Έκθεση Απόψεών της επί της προσφυγής, γ) Κοινοποιεί σε όλα τα μέρη την Έκθεση Απόψεων, τις Παρεμβάσεις και τα σχετικά έγγραφα που τυχόν τη συνοδεύουν, μέσω του ηλεκτρονικού τόπου του διαγωνισμού το αργότερο έως την επομένη εργάσιμη ημέρα από την κατάθεσή τους, δ) Συμπληρωματικά υπομνήματα κατατίθενται από οποιοδήποτε από τα μέρη μέσω του ΕΣΗΔΗΣ το αργότερο εντός 5 ημερών από την κοινοποίηση των απόψεων της ΑΑ. 
+Η άσκηση της προδικαστικής προσφυγής αποτελεί προϋπόθεση για την άσκηση των ένδικων βοηθημάτων της αίτησης αναστολής και της αίτησης ακύρωσης του άρθρου 372 ν. 4412/2016 κατά των εκτελεστών πράξεων ή παραλείψεων της ΑΑ.
+Β. Όποιος έχει έννομο συμφέρον μπορεί να ζητήσει, με το ίδιο δικόγραφο εφαρμοζόμενων αναλογικά των διατάξεων του πδ 18/1989, την αναστολή εκτέλεσης της απόφασης της ΕΑΔΗΣΥ και την ακύρωσή της ενώπιον του αρμοδίου Διοικητικού Εφετείου της έδρας της ΑΑ. Το αυτό ισχύει και σε περίπτωση σιωπηρής απόρριψης της προδικαστικής προσφυγής από την ΕΑΔΗΣΥ. Δικαίωμα άσκησης του ως άνω ένδικου βοηθήματος έχει και η ΑΑ, αν η ΕΑΔΗΣΥ κάνει δεκτή την προδικαστική προσφυγή, αλλά και αυτός του οποίου έχει γίνει εν μέρει δεκτή η προδικαστική προσφυγή.</cbc:Description>
+            </cac:PresentationPeriod>
+            <cac:AppealReceiverParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0005</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealReceiverParty>
+         </cac:AppealTerms>
+         <cac:Language>
+            <cbc:ID>ELL</cbc:ID>
+         </cac:Language>
+         <cac:PostAwardProcess>
+            <cbc:ElectronicOrderUsageIndicator>false</cbc:ElectronicOrderUsageIndicator>
+            <cbc:ElectronicPaymentUsageIndicator>true</cbc:ElectronicPaymentUsageIndicator>
+         </cac:PostAwardProcess>
+      </cac:TenderingTerms>
+      <cac:TenderingProcess>
+         <ext:UBLExtensions>
+            <ext:UBLExtension>
+               <ext:ExtensionContent>
+                  <efext:EformsExtension>
+                     <efbc:AccessToolName>Διαδικτυακή Πύλη Ηλεκτρονικών Δημοσίων Συμβάσεων (Ε.Σ.Η.ΔΗ.Σ.)</efbc:AccessToolName>
+                  </efext:EformsExtension>
+               </ext:ExtensionContent>
+            </ext:UBLExtension>
+         </ext:UBLExtensions>
+         <cbc:SubmissionMethodCode listName="esubmission">required</cbc:SubmissionMethodCode>
+         <cbc:GovernmentAgreementConstraintIndicator>true</cbc:GovernmentAgreementConstraintIndicator>
+         <cbc:AccessToolsURI>https://nepps.eprocurement.gov.gr/OA_HTML/AppsLocalLogin.jsp</cbc:AccessToolsURI>
+         <cac:TenderSubmissionDeadlinePeriod>
+            <cbc:EndDate>2026-09-29+03:00</cbc:EndDate>
+            <cbc:EndTime>13:00:00+03:00</cbc:EndTime>
+         </cac:TenderSubmissionDeadlinePeriod>
+         <cac:OpenTenderEvent>
+            <cbc:OccurrenceDate>2026-09-30+03:00</cbc:OccurrenceDate>
+            <cbc:OccurrenceTime>10:00:00+03:00</cbc:OccurrenceTime>
+            <cac:OccurenceLocation>
+               <cbc:Description languageID="ELL">Η αποσφράγιση των προσφορών θα γίνει ηλεκτρονικά, μέσω της ηλεκτρονικής πλατφόρμας Ε.Σ.Η.ΔΗ.Σ. (https://nepps.eprocurement.gov.gr/OA_HTML/AppsLocalLogin.jsp).</cbc:Description>
+            </cac:OccurenceLocation>
+         </cac:OpenTenderEvent>
+         <cac:AuctionTerms>
+            <cbc:AuctionConstraintIndicator>false</cbc:AuctionConstraintIndicator>
+         </cac:AuctionTerms>
+         <cac:ContractingSystem>
+            <cbc:ContractingSystemTypeCode listName="framework-agreement">none</cbc:ContractingSystemTypeCode>
+         </cac:ContractingSystem>
+         <cac:ContractingSystem>
+            <cbc:ContractingSystemTypeCode listName="dps-usage">none</cbc:ContractingSystemTypeCode>
+         </cac:ContractingSystem>
+      </cac:TenderingProcess>
+      <cac:ProcurementProject>
+         <cbc:ID schemeName="InternalID">722_2026_Τμήμα Δ</cbc:ID>
+         <cbc:Name languageID="ELL">Switch δικτύου για την παρακολούθηση και διαχείριση της υπολογιστικής υποδομής</cbc:Name>
+         <cbc:Description languageID="ELL">Switch δικτύου για την παρακολούθηση και διαχείριση της υπολογιστικής υποδομής
+Ποσότητα: Ένα (1) τεμάχιο
+CPV: 32420000-3
+Switch δικτύου για την επέκταση και διαχείριση του υφιστάμενου δικτύου παρακολούθησης και διαχείρισης της υπολογιστικής υποδομής και ενίσχυση της ασφάλειας του δικτύου μέσω μηχανισμών πρόσβασης και πολιτικών και δυνατότητα ανάπτυξης του δικτύου λόγω των συνεχόμενων, αυξανόμενων αναγκών. Ο ανωτέρω εξοπλισμός θα πρέπει να πληρεί κατ’ ελάχιστο τις τεχνικές προδιαγραφές σύμφωνα με τα οριζόμενα στο Παράρτημα I της Διακήρυξης.</cbc:Description>
+         <cbc:ProcurementTypeCode listName="contract-nature">supplies</cbc:ProcurementTypeCode>
+         <cbc:SMESuitableIndicator>true</cbc:SMESuitableIndicator>
+         <cac:RequestedTenderTotal>
+            <cbc:EstimatedOverallContractAmount currencyID="EUR">1814.52</cbc:EstimatedOverallContractAmount>
+         </cac:RequestedTenderTotal>
+         <cac:MainCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">32420000</cbc:ItemClassificationCode>
+         </cac:MainCommodityClassification>
+         <cac:RealizedLocation>
+            <cac:Address>
+               <cbc:StreetName>6ο χλμ. οδού Χαριλάου – Θέρμης</cbc:StreetName>
+               <cbc:CityName>Θέρμη, Θεσσαλονίκη</cbc:CityName>
+               <cbc:PostalZone>57001</cbc:PostalZone>
+               <cbc:CountrySubentityCode listName="nuts">EL522</cbc:CountrySubentityCode>
+               <cac:Country>
+                  <cbc:IdentificationCode listName="country">GRC</cbc:IdentificationCode>
+               </cac:Country>
+            </cac:Address>
+         </cac:RealizedLocation>
+         <cac:PlannedPeriod>
+            <cbc:DurationMeasure unitCode="MONTH">6</cbc:DurationMeasure>
+         </cac:PlannedPeriod>
+         <cac:ContractExtension>
+            <cbc:OptionsDescription languageID="ELL">Η σύμβαση μπορεί να τροποποιείται κατά τη διάρκειά της, χωρίς να απαιτείται νέα διαδικασία σύναψης σύμβασης, μόνο σύμφωνα με τους όρους και τις προϋποθέσεις του άρθρου 132 του ν. 4412/2016 και κατόπιν γνωμοδότησης της Επιτροπής Παραλαβής.</cbc:OptionsDescription>
+         </cac:ContractExtension>
+      </cac:ProcurementProject>
+   </cac:ProcurementProjectLot>
+</ContractNotice>

@@ -14,7 +14,10 @@
     "NEW_MATCH:576395-2026",
     "NEW_MATCH:578510-2026",
     "NEW_MATCH:580664-2026",
-    "NEW_MATCH:580916-2026"
+    "NEW_MATCH:580916-2026",
+    "NEW_MATCH:581337-2026",
+    "NEW_MATCH:583418-2026",
+    "NEW_MATCH:583466-2026"
   ],
   "notices": {
     "537409-2026": {
@@ -452,7 +455,7 @@
       ],
       "first_seen": "2026-08-16",
       "gone": false,
-      "last_checked": "2026-08-23",
+      "last_checked": "2026-08-24",
       "notice_type": "can-standard",
       "phrases": [
         "artificial intelligence"
@@ -514,7 +517,7 @@
       ],
       "first_seen": "2026-08-16",
       "gone": false,
-      "last_checked": "2026-08-23",
+      "last_checked": "2026-08-24",
       "notice_type": "cn-social",
       "phrases": [
         "Künstliche Intelligenz"
@@ -571,7 +574,7 @@
       ],
       "first_seen": "2026-08-16",
       "gone": false,
-      "last_checked": "2026-08-23",
+      "last_checked": "2026-08-24",
       "notice_type": "cn-standard",
       "phrases": [
         "intelligence artificielle"
@@ -627,7 +630,7 @@
       ],
       "first_seen": "2026-08-16",
       "gone": false,
-      "last_checked": "2026-08-23",
+      "last_checked": "2026-08-24",
       "notice_type": "cn-standard",
       "phrases": [
         "Künstliche Intelligenz",
@@ -688,7 +691,7 @@
       ],
       "first_seen": "2026-08-23",
       "gone": false,
-      "last_checked": "2026-08-23",
+      "last_checked": "2026-08-24",
       "notice_type": "pin-only",
       "phrases": [
         "artificial intelligence"
@@ -747,7 +750,7 @@
       ],
       "first_seen": "2026-08-23",
       "gone": false,
-      "last_checked": "2026-08-23",
+      "last_checked": "2026-08-24",
       "notice_type": "cn-standard",
       "phrases": [
         "intelligence artificielle"
@@ -805,7 +808,7 @@
       ],
       "first_seen": "2026-08-23",
       "gone": false,
-      "last_checked": "2026-08-23",
+      "last_checked": "2026-08-24",
       "notice_type": "cn-standard",
       "phrases": [
         "intelligence artificielle"
@@ -865,7 +868,7 @@
       ],
       "first_seen": "2026-08-23",
       "gone": false,
-      "last_checked": "2026-08-23",
+      "last_checked": "2026-08-24",
       "notice_type": "pin-only",
       "phrases": [
         "artificial intelligence"
@@ -908,6 +911,182 @@
       ],
       "winner_names": [],
       "xml_url": "https://ted.europa.eu/en/notice/580916-2026/xml"
+    },
+    "581337-2026": {
+      "buyer_countries": [
+        "DEU"
+      ],
+      "buyer_names": [
+        "BEW Berliner Energie und Wärme GmbH"
+      ],
+      "cpv": [
+        "72222200",
+        "72222300",
+        "72224100",
+        "72246000"
+      ],
+      "first_seen": "2026-08-24",
+      "gone": false,
+      "last_checked": "2026-08-24",
+      "notice_type": "cn-standard",
+      "phrases": [
+        "Künstliche Intelligenz"
+      ],
+      "publication_date": "2026-08-24",
+      "title": "Germany – Systems consultancy services – Application Management",
+      "titles": [
+        "Alemanha – Serviços de consultoria em matéria de sistemas – Application Management",
+        "Alemania – Servicios de consultoría en sistemas – Application Management",
+        "Allemagne – Services de conseil en systèmes informatiques – Application Management",
+        "An Ghearmáin – Systems consultancy services – Application Management",
+        "Deutschland – Systemberatung – Application Management",
+        "Duitsland – Systeemadviesdiensten – Application Management",
+        "Germania – Servicii de consultanţă privind sistemele – Application Management",
+        "Germania – Servizi di consulenza di sistemi – Application Management",
+        "Germany – Systems consultancy services – Application Management",
+        "Il-Ġermanja – Servizzi ta' sistema ta' konsulenza – Application Management",
+        "Nemecko – Systémové poradenstvo – Application Management",
+        "Nemčija – Storitve svetovanja o sistemih – Application Management",
+        "Niemcy – Usługi doradcze w zakresie systemów – Application Management",
+        "Njemačka – Usluge savjetovanja o sistemima – Application Management",
+        "Németország – Rendszer-tanácsadói szolgáltatások – Application Management",
+        "Německo – Systémové poradenství – Application Management",
+        "Saksa – Järjestelmiä koskevat konsulttipalvelut – Application Management",
+        "Saksamaa – Süsteemi nõustamisteenused – Application Management",
+        "Tyskland – Konsulttjänster för system – Application Management",
+        "Tyskland – Systemrådgivning – Application Management",
+        "Vokietija – Sistemų konsultacinės paslaugos – Application Management",
+        "Vācija – Sistēmu konsultāciju pakalpojumi – Application Management",
+        "Γερμανία – Υπηρεσίες παροχής συμβουλών σε θέματα συστημάτων πληροφορικής – Application Management",
+        "Гepмaния – Консултантски услуги по компютърни системи – Application Management"
+      ],
+      "vendor_keys": [],
+      "versions": [
+        {
+          "date": "2026-08-24",
+          "file": "snapshots/2026-08-24/notices/581337-2026.xml",
+          "sha256": "8a6e926d256c1437173b5e7082031703ac5c02bb6b8c82f380ed18349d44fc17"
+        }
+      ],
+      "winner_names": [],
+      "xml_url": "https://ted.europa.eu/en/notice/581337-2026/xml"
+    },
+    "583418-2026": {
+      "buyer_countries": [
+        "IRL"
+      ],
+      "buyer_names": [
+        "Enterprise Ireland"
+      ],
+      "cpv": [
+        "73000000",
+        "79300000"
+      ],
+      "first_seen": "2026-08-24",
+      "gone": false,
+      "last_checked": "2026-08-24",
+      "notice_type": "cn-standard",
+      "phrases": [
+        "artificial intelligence"
+      ],
+      "publication_date": "2026-08-24",
+      "title": "Ireland – Market and economic research; polling and statistics – 2026/023 The supply of commercially published Business Information/Market Research Databases available electronically in Twelve (12) Lots",
+      "titles": [
+        "Airija – Rinkos ir ekonominiai tyrimai; apklausos ir statistika – 2026/023 The supply of commercially published Business Information/Market Research Databases available electronically in Twelve (12) Lots",
+        "Ierland – Markt- en economieonderzoek; enquêtes en statistieken – 2026/023 The supply of commercially published Business Information/Market Research Databases available electronically in Twelve (12) Lots",
+        "Iirimaa – Turu- ja majandusuuringud, avaliku arvamuse uuringud ja statistika – 2026/023 The supply of commercially published Business Information/Market Research Databases available electronically in Twelve (12) Lots",
+        "Ireland – Market and economic research; polling and statistics – 2026/023 The supply of commercially published Business Information/Market Research Databases available electronically in Twelve (12) Lots",
+        "Irland – Markedsundersøgelser og økonomiske konsekvensanalyser, rundspørger og statistikker – 2026/023 The supply of commercially published Business Information/Market Research Databases available electronically in Twelve (12) Lots",
+        "Irland – Marknadsundersökningar och ekonomiska undersökningar; opinionsundersökningar och statistik – 2026/023 The supply of commercially published Business Information/Market Research Databases available electronically in Twelve (12) Lots",
+        "Irland – Markt- und Wirtschaftsforschung; Umfragen und Statistiken – 2026/023 The supply of commercially published Business Information/Market Research Databases available electronically in Twelve (12) Lots",
+        "Irlanda – Investigación mercadotécnica y económica; sondeos y estadísticas – 2026/023 The supply of commercially published Business Information/Market Research Databases available electronically in Twelve (12) Lots",
+        "Irlanda – Pesquisa de mercado e económica; sondagem e estatísticas – 2026/023 The supply of commercially published Business Information/Market Research Databases available electronically in Twelve (12) Lots",
+        "Irlanda – Ricerca di mercato ed economica, indagini e statistiche – 2026/023 The supply of commercially published Business Information/Market Research Databases available electronically in Twelve (12) Lots",
+        "Irlanda – Studii de piaţă şi cercetare economică; sondaje şi statistici – 2026/023 The supply of commercially published Business Information/Market Research Databases available electronically in Twelve (12) Lots",
+        "Irlande – Études de marché et recherche économique; sondages et statistiques – 2026/023 The supply of commercially published Business Information/Market Research Databases available electronically in Twelve (12) Lots",
+        "Irlandia – Badania rynkowe i ekonomiczne; ankietowanie i statystyka – 2026/023 The supply of commercially published Business Information/Market Research Databases available electronically in Twelve (12) Lots",
+        "Irlanti – Markkina- ja taloustutkimuspalvelut; mielipidetutkimukset ja tilastot – 2026/023 The supply of commercially published Business Information/Market Research Databases available electronically in Twelve (12) Lots",
+        "Irska – Tržišno i ekonomsko istraživanje: anketiranje i statistika – 2026/023 The supply of commercially published Business Information/Market Research Databases available electronically in Twelve (12) Lots",
+        "Irska – Tržne in ekonomske raziskave; javnomnenjske raziskave in statistični podatki – 2026/023 The supply of commercially published Business Information/Market Research Databases available electronically in Twelve (12) Lots",
+        "Irsko – Průzkum trhu a ekonomický průzkum; průzkum veřejného mínění a statistiky – 2026/023 The supply of commercially published Business Information/Market Research Databases available electronically in Twelve (12) Lots",
+        "L-Irlanda – Riċerka tas-suq u ekonomika; stħarriġ ta' l-opinjoni pubblika u statistika – 2026/023 The supply of commercially published Business Information/Market Research Databases available electronically in Twelve (12) Lots",
+        "Éire – Market and economic research; polling and statistics – 2026/023 The supply of commercially published Business Information/Market Research Databases available electronically in Twelve (12) Lots",
+        "Írország – Gazdasági és piackutatás; közvéleménykutatás és statisztika – 2026/023 The supply of commercially published Business Information/Market Research Databases available electronically in Twelve (12) Lots",
+        "Írsko – Prieskum trhu a ekonomický prieskum; prieskum verejnej mienky a štatistika – 2026/023 The supply of commercially published Business Information/Market Research Databases available electronically in Twelve (12) Lots",
+        "Īrija – Tirgus un ekonomikas pētniecība; sabiedriskās domas izpēte un statistika – 2026/023 The supply of commercially published Business Information/Market Research Databases available electronically in Twelve (12) Lots",
+        "Ιρλανδία – Έρευνα αγοράς και οικονομική έρευνα δημοσκοπήσεις και στατιστικές – 2026/023 The supply of commercially published Business Information/Market Research Databases available electronically in Twelve (12) Lots",
+        "Иpлaндия – Пазарни и стопански проучвания; проучвания на общественото мнение и статистика – 2026/023 The supply of commercially published Business Information/Market Research Databases available electronically in Twelve (12) Lots"
+      ],
+      "vendor_keys": [],
+      "versions": [
+        {
+          "date": "2026-08-24",
+          "file": "snapshots/2026-08-24/notices/583418-2026.xml",
+          "sha256": "7a6374bb5d8f3cd52fefd9c4fc0c82b2f0a7d97a115572bb0bf1d31c1c1ca38c"
+        }
+      ],
+      "winner_names": [],
+      "xml_url": "https://ted.europa.eu/en/notice/583418-2026/xml"
+    },
+    "583466-2026": {
+      "buyer_countries": [
+        "GRC"
+      ],
+      "buyer_names": [
+        "Εθνικό Κέντρο Έρευνας και Τεχνολογικής Ανάπτυξης (Ε.Κ.Ε.Τ.Α.)"
+      ],
+      "cpv": [
+        "30233000",
+        "30233140",
+        "32420000",
+        "48820000",
+        "48821000"
+      ],
+      "first_seen": "2026-08-24",
+      "gone": false,
+      "last_checked": "2026-08-24",
+      "notice_type": "cn-standard",
+      "phrases": [
+        "artificial intelligence"
+      ],
+      "publication_date": "2026-08-24",
+      "title": "Greece – Media storage and reader devices – Ανάπτυξη και αναβάθμιση υπολογιστικών υποδομών και υποδομών ανάλυσης δεδομένων",
+      "titles": [
+        "An Ghréig – Media storage and reader devices – Ανάπτυξη και αναβάθμιση υπολογιστικών υποδομών και υποδομών ανάλυσης δεδομένων",
+        "Graikija – Informacijos laikmenų saugojimo ir skaitymo įtaisai – Ανάπτυξη και αναβάθμιση υπολογιστικών υποδομών και υποδομών ανάλυσης δεδομένων",
+        "Grecia – Dispositivi di stoccaggio e lettura di dati – Ανάπτυξη και αναβάθμιση υπολογιστικών υποδομών και υποδομών ανάλυσης δεδομένων",
+        "Grecia – Dispositivos multimedia de almacenamiento y lectura – Ανάπτυξη και αναβάθμιση υπολογιστικών υποδομών και υποδομών ανάλυσης δεδομένων",
+        "Grecia – Dispozitive de stocare şi citire – Ανάπτυξη και αναβάθμιση υπολογιστικών υποδομών και υποδομών ανάλυσης δεδομένων",
+        "Grecja – Urządzenia do przechowywania i odczytu danych – Ανάπτυξη και αναβάθμιση υπολογιστικών υποδομών και υποδομών ανάλυσης δεδομένων",
+        "Greece – Media storage and reader devices – Ανάπτυξη και αναβάθμιση υπολογιστικών υποδομών και υποδομών ανάλυσης δεδομένων",
+        "Grekland – Lagringsmedier och läsenheter – Ανάπτυξη και αναβάθμιση υπολογιστικών υποδομών και υποδομών ανάλυσης δεδομένων",
+        "Griechenland – Medienspeicher- und -lesegeräte – Ανάπτυξη και αναβάθμιση υπολογιστικών υποδομών και υποδομών ανάλυσης δεδομένων",
+        "Griekenland – Geheugendragers en lezerapparaten – Ανάπτυξη και αναβάθμιση υπολογιστικών υποδομών και υποδομών ανάλυσης δεδομένων",
+        "Grieķija – Atmiņas ierīces un lasītāji – Ανάπτυξη και αναβάθμιση υπολογιστικών υποδομών και υποδομών ανάλυσης δεδομένων",
+        "Grækenland – Datalagrings- og -udlæsningsenheder – Ανάπτυξη και αναβάθμιση υπολογιστικών υποδομών και υποδομών ανάλυσης δεδομένων",
+        "Grèce – Unités de mémoire et de lecture – Ανάπτυξη και αναβάθμιση υπολογιστικών υποδομών και υποδομών ανάλυσης δεδομένων",
+        "Grécia – Dispositivos de armazenagem e leitura de conteúdos digitais – Ανάπτυξη και αναβάθμιση υπολογιστικών υποδομών και υποδομών ανάλυσης δεδομένων",
+        "Grécko – Archivačné a čítacie zariadenia – Ανάπτυξη και αναβάθμιση υπολογιστικών υποδομών και υποδομών ανάλυσης δεδομένων",
+        "Grčija – Pomnilni mediji in čitalniki – Ανάπτυξη και αναβάθμιση υπολογιστικών υποδομών και υποδομών ανάλυσης δεδομένων",
+        "Grčka – Uređaji za pohranjivanje i čitanje medija – Ανάπτυξη και αναβάθμιση υπολογιστικών υποδομών και υποδομών ανάλυσης δεδομένων",
+        "Görögország – Médiatároló és -olvasó eszközök – Ανάπτυξη και αναβάθμιση υπολογιστικών υποδομών και υποδομών ανάλυσης δεδομένων",
+        "Il-Greċja – Mezzi ta' ħżin u qari ta' midja – Ανάπτυξη και αναβάθμιση υπολογιστικών υποδομών και υποδομών ανάλυσης δεδομένων",
+        "Kreeka – Salvestuskandjad ja lugemisseadmed – Ανάπτυξη και αναβάθμιση υπολογιστικών υποδομών και υποδομών ανάλυσης δεδομένων",
+        "Kreikka – Muistivälineet ja lukulaitteet – Ανάπτυξη και αναβάθμιση υπολογιστικών υποδομών και υποδομών ανάλυσης δεδομένων",
+        "Řecko – Archivovací a čtecí zařízení – Ανάπτυξη και αναβάθμιση υπολογιστικών υποδομών και υποδομών ανάλυσης δεδομένων",
+        "Ελλάδα – Μονάδες αποθήκευσης και ανάγνωσης – Ανάπτυξη και αναβάθμιση υπολογιστικών υποδομών και υποδομών ανάλυσης δεδομένων",
+        "Гъpция – Записващи и четящи устройства – Ανάπτυξη και αναβάθμιση υπολογιστικών υποδομών και υποδομών ανάλυσης δεδομένων"
+      ],
+      "vendor_keys": [],
+      "versions": [
+        {
+          "date": "2026-08-24",
+          "file": "snapshots/2026-08-24/notices/583466-2026.xml",
+          "sha256": "5f3ed6cf6a5035977971c3904369a4497218fdc84914509dc503a05246788e58"
+        }
+      ],
+      "winner_names": [],
+      "xml_url": "https://ted.europa.eu/en/notice/583466-2026/xml"
     }
   }
 }

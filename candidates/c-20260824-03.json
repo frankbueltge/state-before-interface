@@ -1,0 +1,54 @@
+{
+  "created": "2026-08-24T05:55:52+00:00",
+  "criteria": {
+    "consequential_relation": {
+      "passed": false,
+      "reason": "no marker of a sensitive administrative domain (employment, welfare, policing, migration, health, education, justice, taxation)"
+    },
+    "digital_form_possible": {
+      "passed": true,
+      "reason": "form hypothesis: an annotated dossier along the structure of the notice"
+    },
+    "falsifiable_investigation": {
+      "passed": false,
+      "reason": "no machine-testable proposition can be formed yet"
+    },
+    "machine_readable_evidence": {
+      "passed": true,
+      "reason": "1 preserved eForms XML record(s) with SHA-256 on file"
+    },
+    "machine_scale_advantage": {
+      "passed": false,
+      "reason": "a single first-seen notice is equally visible to any human reader of the journal"
+    },
+    "observable_public_problem": {
+      "passed": true,
+      "reason": "identifiable public buyer(s): Εθνικό Κέντρο Έρευνας και Τεχνολογικής Ανάπτυξης (Ε.Κ.Ε.Τ.Α.)"
+    }
+  },
+  "form_hypothesis": "an annotated dossier along the structure of the notice",
+  "id": "c-20260824-03",
+  "notices_context": [
+    {
+      "buyers": [
+        "Εθνικό Κέντρο Έρευνας και Τεχνολογικής Ανάπτυξης (Ε.Κ.Ε.Τ.Α.)"
+      ],
+      "countries": [
+        "GRC"
+      ],
+      "publication_number": "583466-2026",
+      "title": "Greece – Media storage and reader devices – Ανάπτυξη και αναβάθμιση υπολογιστικών υποδομών και υποδομών ανάλυσης δεδομένων"
+    }
+  ],
+  "proposition": null,
+  "signal": {
+    "date": "2026-08-24",
+    "detail": "notice 583466-2026 entered the envelope (phrases: artificial intelligence)",
+    "key": "NEW_MATCH:583466-2026",
+    "notices": [
+      "583466-2026"
+    ],
+    "type": "NEW_MATCH"
+  },
+  "verdict": "DECLINED"
+}

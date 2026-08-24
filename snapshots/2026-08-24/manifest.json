@@ -1,0 +1,53 @@
+{
+  "entries": [
+    {
+      "bytes": 27033,
+      "file": "snapshots/2026-08-24/search/artificial-intelligence-p1.json",
+      "http_status": 200,
+      "retrieved_at": "2026-08-24T05:55:37+00:00",
+      "sha256": "4a530a226f8731177f692f1f5af151ac341a33f3c0215003ef39e09ec6b4fe54",
+      "url": "https://api.ted.europa.eu/v3/notices/search"
+    },
+    {
+      "bytes": 6911,
+      "file": "snapshots/2026-08-24/search/kunstliche-intelligenz-p1.json",
+      "http_status": 200,
+      "retrieved_at": "2026-08-24T05:55:38+00:00",
+      "sha256": "eb1b45ee7c64a5822a38ce42ec66ab2b6adbdad5530ea4b1297e0e7fb2f565c5",
+      "url": "https://api.ted.europa.eu/v3/notices/search"
+    },
+    {
+      "bytes": 16773,
+      "file": "snapshots/2026-08-24/search/intelligence-artificielle-p1.json",
+      "http_status": 200,
+      "retrieved_at": "2026-08-24T05:55:39+00:00",
+      "sha256": "646afb525a280f443071cef2487e97566a73d582ecbf136fabdd5ceab69054a3",
+      "url": "https://api.ted.europa.eu/v3/notices/search"
+    },
+    {
+      "bytes": 92654,
+      "file": "snapshots/2026-08-24/notices/581337-2026.xml",
+      "http_status": 200,
+      "retrieved_at": "2026-08-24T05:55:40+00:00",
+      "sha256": "8a6e926d256c1437173b5e7082031703ac5c02bb6b8c82f380ed18349d44fc17",
+      "url": "https://ted.europa.eu/en/notice/581337-2026/xml"
+    },
+    {
+      "bytes": 122635,
+      "file": "snapshots/2026-08-24/notices/583418-2026.xml",
+      "http_status": 200,
+      "retrieved_at": "2026-08-24T05:55:42+00:00",
+      "sha256": "7a6374bb5d8f3cd52fefd9c4fc0c82b2f0a7d97a115572bb0bf1d31c1c1ca38c",
+      "url": "https://ted.europa.eu/en/notice/583418-2026/xml"
+    },
+    {
+      "bytes": 177454,
+      "file": "snapshots/2026-08-24/notices/583466-2026.xml",
+      "http_status": 200,
+      "retrieved_at": "2026-08-24T05:55:43+00:00",
+      "sha256": "5f3ed6cf6a5035977971c3904369a4497218fdc84914509dc503a05246788e58",
+      "url": "https://ted.europa.eu/en/notice/583466-2026/xml"
+    }
+  ],
+  "run_date": "2026-08-24"
+}

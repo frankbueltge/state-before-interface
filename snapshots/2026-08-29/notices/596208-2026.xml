@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><PriorInformationNotice xmlns="urn:oasis:names:specification:ubl:schema:xsd:PriorInformationNotice-2" xmlns:cac="urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-2" xmlns:cbc="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-2" xmlns:efac="http://data.europa.eu/p27/eforms-ubl-extension-aggregate-components/1" xmlns:efbc="http://data.europa.eu/p27/eforms-ubl-extension-basic-components/1" xmlns:efext="http://data.europa.eu/p27/eforms-ubl-extensions/1" xmlns:ext="urn:oasis:names:specification:ubl:schema:xsd:CommonExtensionComponents-2" xmlns:hilma="urn:hanselHilma:NationalNoticeExtension">
+  <ext:UBLExtensions>
+    <ext:UBLExtension>
+      <ext:ExtensionContent>
+        <efext:EformsExtension>
+          <efbc:TransmissionDate>2026-08-27+00:00</efbc:TransmissionDate>
+          <efbc:TransmissionTime>05:07:34+00:00</efbc:TransmissionTime>
+          <efac:NoticeSubType>
+            <cbc:SubTypeCode listName="notice-subtype">5</cbc:SubTypeCode>
+          </efac:NoticeSubType>
+          <efac:Organizations>
+            <efac:Organization>
+              <efbc:AcquiringCPBIndicator>false</efbc:AcquiringCPBIndicator>
+              <efbc:AwardingCPBIndicator>false</efbc:AwardingCPBIndicator>
+              <efac:Company>
+                <cbc:WebsiteURI>http://www.vrgroup.fi</cbc:WebsiteURI>
+                <cac:PartyIdentification>
+                  <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+                </cac:PartyIdentification>
+                <cac:PartyName>
+                  <cbc:Name languageID="ENG">VR-Group Plc</cbc:Name>
+                </cac:PartyName>
+                <cac:PostalAddress>
+                  <cbc:StreetName>PL 488 (Radiokatu 3)</cbc:StreetName>
+                  <cbc:CityName>VR</cbc:CityName>
+                  <cbc:PostalZone>00096</cbc:PostalZone>
+                  <cbc:CountrySubentityCode listName="nuts">FI1B1</cbc:CountrySubentityCode>
+                  <cac:Country>
+                    <cbc:IdentificationCode listName="country">FIN</cbc:IdentificationCode>
+                  </cac:Country>
+                </cac:PostalAddress>
+                <cac:PartyLegalEntity>
+                  <cbc:CompanyID schemeID="002">1003521-5</cbc:CompanyID>
+                </cac:PartyLegalEntity>
+                <cac:Contact>
+                  <cbc:Name>Procurement Unit</cbc:Name>
+                  <cbc:Telephone>+358 294343</cbc:Telephone>
+                  <cbc:ElectronicMail>info.procurement@vr.fi</cbc:ElectronicMail>
+                </cac:Contact>
+              </efac:Company>
+            </efac:Organization>
+            <efac:Organization>
+              <efac:Company>
+                <cbc:WebsiteURI>https://www.markkinaoikeus.fi</cbc:WebsiteURI>
+                <cac:PartyIdentification>
+                  <cbc:ID schemeName="organization">ORG-0002</cbc:ID>
+                </cac:PartyIdentification>
+                <cac:PartyName>
+                  <cbc:Name languageID="ENG">Markkinaoikeus</cbc:Name>
+                </cac:PartyName>
+                <cac:PostalAddress>
+                  <cbc:StreetName>Radanrakentajantie 5</cbc:StreetName>
+                  <cbc:CityName>Helsinki</cbc:CityName>
+                  <cbc:PostalZone>00520</cbc:PostalZone>
+                  <cbc:CountrySubentityCode listName="nuts">FI1B1</cbc:CountrySubentityCode>
+                  <cac:Country>
+                    <cbc:IdentificationCode listName="country">FIN</cbc:IdentificationCode>
+                  </cac:Country>
+                </cac:PostalAddress>
+                <cac:PartyLegalEntity>
+                  <cbc:CompanyID schemeID="002">3006157-6</cbc:CompanyID>
+                </cac:PartyLegalEntity>
+                <cac:Contact>
+                  <cbc:Telephone>+358 295643300</cbc:Telephone>
+                  <cbc:ElectronicMail>markkinaoikeus@oikeus.fi</cbc:ElectronicMail>
+                </cac:Contact>
+              </efac:Company>
+            </efac:Organization>
+            <efac:Organization>
+              <efac:Company>
+                <cbc:WebsiteURI>http://hankintailmoitukset.fi</cbc:WebsiteURI>
+                <cac:PartyIdentification>
+                  <cbc:ID schemeName="organization">ORG-0003</cbc:ID>
+                </cac:PartyIdentification>
+                <cac:PartyName>
+                  <cbc:Name languageID="ENG">Hansel Oy (Hilma)</cbc:Name>
+                </cac:PartyName>
+                <cac:PostalAddress>
+                  <cbc:StreetName>Mannerheiminaukio 1a</cbc:StreetName>
+                  <cbc:CityName>Helsinki</cbc:CityName>
+                  <cbc:PostalZone>00100</cbc:PostalZone>
+                  <cbc:CountrySubentityCode listName="nuts">FI1B1</cbc:CountrySubentityCode>
+                  <cac:Country>
+                    <cbc:IdentificationCode listName="country">FIN</cbc:IdentificationCode>
+                  </cac:Country>
+                </cac:PostalAddress>
+                <cac:PartyLegalEntity>
+                  <cbc:CompanyID schemeID="002">FI09880841</cbc:CompanyID>
+                </cac:PartyLegalEntity>
+                <cac:Contact>
+                  <cbc:Name>eSender</cbc:Name>
+                  <cbc:Telephone>029 55 636 30</cbc:Telephone>
+                  <cbc:ElectronicMail>tekninen@hankintailmoitukset.fi</cbc:ElectronicMail>
+                </cac:Contact>
+              </efac:Company>
+            </efac:Organization>
+          </efac:Organizations>
+        <efac:Publication><efbc:NoticePublicationID schemeName="ojs-notice-id">00596208-2026</efbc:NoticePublicationID><efbc:GazetteID schemeName="ojs-id">166/2026</efbc:GazetteID><efbc:PublicationDate>2026-08-28+02:00</efbc:PublicationDate></efac:Publication></efext:EformsExtension>
+      </ext:ExtensionContent>
+    </ext:UBLExtension>
+  </ext:UBLExtensions>
+  <cbc:UBLVersionID>2.3</cbc:UBLVersionID>
+  <cbc:CustomizationID>eforms-sdk-1.13</cbc:CustomizationID>
+  <cbc:ID schemeName="notice-id">6455f85a-d617-41e6-89fa-0b2ff1192ab1</cbc:ID>
+  <cbc:IssueDate>2026-08-27+00:00</cbc:IssueDate>
+  <cbc:IssueTime>05:07:33+00:00</cbc:IssueTime>
+  <cbc:VersionID>01</cbc:VersionID>
+  <cbc:RegulatoryDomain>32014L0025</cbc:RegulatoryDomain>
+  <cbc:NoticeTypeCode listName="planning">pin-only</cbc:NoticeTypeCode>
+  <cbc:NoticeLanguageCode>ENG</cbc:NoticeLanguageCode>
+  <cac:ContractingParty>
+    <cac:ContractingPartyType>
+      <cbc:PartyTypeCode listName="buyer-legal-type">pub-undert</cbc:PartyTypeCode>
+    </cac:ContractingPartyType>
+    <cac:ContractingActivity>
+      <cbc:ActivityTypeCode listName="entity-activity">rail</cbc:ActivityTypeCode>
+    </cac:ContractingActivity>
+    <cac:Party>
+      <cac:PartyIdentification>
+        <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+      </cac:PartyIdentification>
+      <cac:ServiceProviderParty>
+        <cbc:ServiceTypeCode listName="organisation-role">ted-esen</cbc:ServiceTypeCode>
+        <cac:Party>
+          <cac:PartyIdentification>
+            <cbc:ID schemeName="organization">ORG-0003</cbc:ID>
+          </cac:PartyIdentification>
+        </cac:Party>
+      </cac:ServiceProviderParty>
+    </cac:Party>
+  </cac:ContractingParty>
+  <cac:ProcurementProject>
+    <cbc:ID>VR - IT - 2026</cbc:ID>
+    <cbc:Name languageID="ENG">REQUEST FOR INFORMATION: AI &amp; Data Factory - Expert Services for AI and Data Development, Governance and Continuous Operations</cbc:Name>
+    <cbc:Description languageID="ENG">DESCRIPTION OF THE PROCUREMENT AND MARKET DIALOGUE
+
+The subject of the planned procurement is the acquisition of expert services for the establishment, development and operation of a centralized AI and Data Factory service (hereinafter the “AI &amp; Data Factory”). The AI and Data Factory will support the Contracting Entity in developing, deploying, maintaining and continuously improving data, artificial intelligence, machine learning and analytics solutions and capabilities throughout their lifecycle.
+
+The AI and Data Factory service may include, but is not limited to, the following services:
+
+Decision Intelligence and Data Platform services
+
+Design, development, testing, deployment and continuous lifecycle management of Decision Intelligence solutions, including business intelligence, data science, machine learning, deep learning, generative AI and agentic AI, as well as related data platform capabilities.
+
+The services may include, for example:
+
+- design and implementation of data, business intelligence, advanced analytics, machine-learning and AI solutions;
+- continuous development, maintenance, monitoring and lifecycle management of Decision Intelligence solutions;
+- continuous validation and quality assurance, including model behaviour, outputs, end-result quality, data quality and data usage;
+- development, deployment and operation of AI and AI agent governance practices;
+- development, operation and continuous improvement of data platforms; and
+- other AI-, data-, analytics- and technology-related expert and consulting services supporting the objectives of the procurement.
+
+Data Governance and Management services
+
+Data governance and data management services may be provided as part of projects, continuous development activities and ongoing data management operations.
+
+The services may include, for example:
+
+- external data sourcing, data content development, data validation and data migration;
+- continuous data quality monitoring and improvement; and
+- development, implementation and follow-up of master data management processes for agreed data domains.
+
+The services are expected to be delivered in close collaboration with the Contracting Entity’s internal experts and other suppliers. The preliminary allocation of responsibilities between the Contracting Entity and the Supplier or Suppliers will be further specified based on the procurement preparation and market dialogue.
+
+The Contracting Entity intends to select 3 - 5 or more Suppliers. The final procurement and service delivery model, including the number of Suppliers and the allocation of responsibilities, will be determined during the preparation of the procurement.
+
+OBJECTIVES OF THE MARKET DIALOGUE
+
+The Contracting Authority seeks market input on the planned scope of the procurement, service model, preliminary service descriptions, procurement structure, competence requirements, commercial models and other elements relevant to the successful establishment and operation of the AI Factory.
+
+Suppliers are encouraged not only to comment on the Contracting Authority's preliminary proposals, but also to challenge the proposed approaches and suggest alternative, innovative or more effective solutions and operating models based on their experience, market practices and emerging AI capabilities. The Contracting Authority particularly welcomes ideas that may improve the scope, structure, flexibility, scalability, commercial model or long-term effectiveness of the procurement.
+
+The purpose of the market dialogue is to utilize market expertise in developing the procurement and to ensure that the final approach is feasible, proportionate, future-proof and aligned with market capabilities, while enabling innovation and the effective adoption of evolving AI technologies, services and operating models.
+
+PRELIMINARY TIMETABLE
+
+- Market dialogue: H2/2026
+- Publication of the Invitation to Tender: Q1/2026
+- Evaluation of tenders: H1/2027
+- Procurement decision: H1/2027
+- Contract commencement: H1/2027
+
+ADDITIONAL INFORMATION
+
+This notice is a Prior Information Notice. It is not a contract notice or a call for tenders.
+
+The Prior Information Notice includes an invitation to participate in a market dialogue. All interested suppliers are invited to participate in technical discussions with the Contracting Entity concerning the planned procurement. The purpose of the dialogue is to discuss the procurement at a general level and to obtain market feedback on the proposed scope and definition of the procurement.
+
+Suppliers interested in participating in the market dialogue are requested to submit their expression of interest by email to tommi.aarnio@vr.fi no later than 28 September 2026 at 12:00 noon (Finnish time).
+
+Participation in the market dialogue does not oblige the Contracting Entity to proceed with the procurement, nor does it oblige suppliers to participate in any subsequent tendering procedure.
+
+Interested suppliers will be provided with preliminary procurement materials and/or questions for review and comments. The Contracting Entity may organize written consultation rounds, joint market dialogue sessions and, where considered appropriate, bilateral meetings with selected suppliers.
+
+The Contracting Entity reserves the right to amend the scope, content, procurement model, timetable and market dialogue process during the preparation of the procurement. No compensation will be paid to suppliers for participating in the market dialogue or for providing comments.</cbc:Description>
+    <cbc:ProcurementTypeCode listName="contract-nature">services</cbc:ProcurementTypeCode>
+    <cac:MainCommodityClassification>
+      <cbc:ItemClassificationCode listName="cpv">72000000</cbc:ItemClassificationCode>
+    </cac:MainCommodityClassification>
+    <cac:RealizedLocation>
+      <cac:Address>
+        <cbc:Region>anyw-cou</cbc:Region>
+        <cac:Country>
+          <cbc:IdentificationCode listName="country">FIN</cbc:IdentificationCode>
+        </cac:Country>
+      </cac:Address>
+    </cac:RealizedLocation>
+  </cac:ProcurementProject>
+  <cac:ProcurementProjectLot>
+    <cbc:ID schemeName="Part">PAR-0000</cbc:ID>
+    <cac:TenderingTerms>
+      <cac:CallForTendersDocumentReference>
+        <cbc:ID>Link to procurement documents</cbc:ID>
+        <cbc:DocumentType>non-restricted-document</cbc:DocumentType>
+        <cac:Attachment>
+          <cac:ExternalReference>
+            <cbc:URI>https://tarjouspalvelu.fi/vryhtymaoy?id=619814&amp;tpk=a9c351c4-bc6c-40e6-bf5c-cbe6f50dd3c2</cbc:URI>
+          </cac:ExternalReference>
+        </cac:Attachment>
+      </cac:CallForTendersDocumentReference>
+      <cac:AppealTerms>
+        <cac:AppealReceiverParty>
+          <cac:PartyIdentification>
+            <cbc:ID schemeName="organization">ORG-0002</cbc:ID>
+          </cac:PartyIdentification>
+        </cac:AppealReceiverParty>
+      </cac:AppealTerms>
+    </cac:TenderingTerms>
+    <cac:ProcurementProject>
+      <cbc:ID>VR - IT - 2026</cbc:ID>
+      <cbc:Name languageID="ENG">REQUEST FOR INFORMATION: AI &amp; Data Factory - Expert Services for AI and Data Development, Governance and Continuous Operations</cbc:Name>
+      <cbc:Description languageID="ENG">DESCRIPTION OF THE PROCUREMENT AND MARKET DIALOGUE
+
+The subject of the planned procurement is the acquisition of expert services for the establishment, development and operation of a centralized AI and Data Factory service (hereinafter the “AI &amp; Data Factory”). The AI and Data Factory will support the Contracting Entity in developing, deploying, maintaining and continuously improving data, artificial intelligence, machine learning and analytics solutions and capabilities throughout their lifecycle.
+
+The AI and Data Factory service may include, but is not limited to, the following services:
+
+Decision Intelligence and Data Platform services
+
+Design, development, testing, deployment and continuous lifecycle management of Decision Intelligence solutions, including business intelligence, data science, machine learning, deep learning, generative AI and agentic AI, as well as related data platform capabilities.
+
+The services may include, for example:
+
+- design and implementation of data, business intelligence, advanced analytics, machine-learning and AI solutions;
+- continuous development, maintenance, monitoring and lifecycle management of Decision Intelligence solutions;
+- continuous validation and quality assurance, including model behaviour, outputs, end-result quality, data quality and data usage;
+- development, deployment and operation of AI and AI agent governance practices;
+- development, operation and continuous improvement of data platforms; and
+- other AI-, data-, analytics- and technology-related expert and consulting services supporting the objectives of the procurement.
+
+Data Governance and Management services
+
+Data governance and data management services may be provided as part of projects, continuous development activities and ongoing data management operations.
+
+The services may include, for example:
+
+- external data sourcing, data content development, data validation and data migration;
+- continuous data quality monitoring and improvement; and
+- development, implementation and follow-up of master data management processes for agreed data domains.
+
+The services are expected to be delivered in close collaboration with the Contracting Entity’s internal experts and other suppliers. The preliminary allocation of responsibilities between the Contracting Entity and the Supplier or Suppliers will be further specified based on the procurement preparation and market dialogue.
+
+The Contracting Entity intends to select 3 - 5 or more Suppliers. The final procurement and service delivery model, including the number of Suppliers and the allocation of responsibilities, will be determined during the preparation of the procurement.
+
+OBJECTIVES OF THE MARKET DIALOGUE
+
+The Contracting Authority seeks market input on the planned scope of the procurement, service model, preliminary service descriptions, procurement structure, competence requirements, commercial models and other elements relevant to the successful establishment and operation of the AI Factory.
+
+Suppliers are encouraged not only to comment on the Contracting Authority's preliminary proposals, but also to challenge the proposed approaches and suggest alternative, innovative or more effective solutions and operating models based on their experience, market practices and emerging AI capabilities. The Contracting Authority particularly welcomes ideas that may improve the scope, structure, flexibility, scalability, commercial model or long-term effectiveness of the procurement.
+
+The purpose of the market dialogue is to utilize market expertise in developing the procurement and to ensure that the final approach is feasible, proportionate, future-proof and aligned with market capabilities, while enabling innovation and the effective adoption of evolving AI technologies, services and operating models.
+
+PRELIMINARY TIMETABLE
+
+- Market dialogue: H2/2026
+- Publication of the Invitation to Tender: Q1/2026
+- Evaluation of tenders: H1/2027
+- Procurement decision: H1/2027
+- Contract commencement: H1/2027
+
+ADDITIONAL INFORMATION
+
+This notice is a Prior Information Notice. It is not a contract notice or a call for tenders.
+
+The Prior Information Notice includes an invitation to participate in a market dialogue. All interested suppliers are invited to participate in technical discussions with the Contracting Entity concerning the planned procurement. The purpose of the dialogue is to discuss the procurement at a general level and to obtain market feedback on the proposed scope and definition of the procurement.
+
+Suppliers interested in participating in the market dialogue are requested to submit their expression of interest by email to tommi.aarnio@vr.fi no later than 28 September 2026 at 12:00 noon (Finnish time).
+
+Participation in the market dialogue does not oblige the Contracting Entity to proceed with the procurement, nor does it oblige suppliers to participate in any subsequent tendering procedure.
+
+Interested suppliers will be provided with preliminary procurement materials and/or questions for review and comments. The Contracting Entity may organize written consultation rounds, joint market dialogue sessions and, where considered appropriate, bilateral meetings with selected suppliers.
+
+The Contracting Entity reserves the right to amend the scope, content, procurement model, timetable and market dialogue process during the preparation of the procurement. No compensation will be paid to suppliers for participating in the market dialogue or for providing comments.</cbc:Description>
+      <cbc:ProcurementTypeCode listName="contract-nature">services</cbc:ProcurementTypeCode>
+      <cac:MainCommodityClassification>
+        <cbc:ItemClassificationCode listName="cpv">72000000</cbc:ItemClassificationCode>
+      </cac:MainCommodityClassification>
+      <cac:RealizedLocation>
+        <cac:Address>
+          <cbc:Region>anyw-cou</cbc:Region>
+          <cac:Country>
+            <cbc:IdentificationCode listName="country">FIN</cbc:IdentificationCode>
+          </cac:Country>
+        </cac:Address>
+      </cac:RealizedLocation>
+    </cac:ProcurementProject>
+  </cac:ProcurementProjectLot>
+</PriorInformationNotice>

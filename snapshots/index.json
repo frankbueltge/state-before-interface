@@ -17,7 +17,13 @@
     "NEW_MATCH:580916-2026",
     "NEW_MATCH:581337-2026",
     "NEW_MATCH:583418-2026",
-    "NEW_MATCH:583466-2026"
+    "NEW_MATCH:583466-2026",
+    "NEW_MATCH:588427-2026",
+    "NEW_MATCH:590745-2026",
+    "NEW_MATCH:592241-2026",
+    "NEW_MATCH:593981-2026",
+    "NEW_MATCH:596026-2026",
+    "NEW_MATCH:596208-2026"
   ],
   "notices": {
     "537409-2026": {
@@ -455,7 +461,7 @@
       ],
       "first_seen": "2026-08-16",
       "gone": false,
-      "last_checked": "2026-08-28",
+      "last_checked": "2026-08-29",
       "notice_type": "can-standard",
       "phrases": [
         "artificial intelligence"
@@ -517,7 +523,7 @@
       ],
       "first_seen": "2026-08-16",
       "gone": false,
-      "last_checked": "2026-08-28",
+      "last_checked": "2026-08-29",
       "notice_type": "cn-social",
       "phrases": [
         "Künstliche Intelligenz"
@@ -574,7 +580,7 @@
       ],
       "first_seen": "2026-08-16",
       "gone": false,
-      "last_checked": "2026-08-28",
+      "last_checked": "2026-08-29",
       "notice_type": "cn-standard",
       "phrases": [
         "intelligence artificielle"
@@ -630,7 +636,7 @@
       ],
       "first_seen": "2026-08-16",
       "gone": false,
-      "last_checked": "2026-08-28",
+      "last_checked": "2026-08-29",
       "notice_type": "cn-standard",
       "phrases": [
         "Künstliche Intelligenz",
@@ -691,7 +697,7 @@
       ],
       "first_seen": "2026-08-23",
       "gone": false,
-      "last_checked": "2026-08-28",
+      "last_checked": "2026-08-29",
       "notice_type": "pin-only",
       "phrases": [
         "artificial intelligence"
@@ -750,7 +756,7 @@
       ],
       "first_seen": "2026-08-23",
       "gone": false,
-      "last_checked": "2026-08-28",
+      "last_checked": "2026-08-29",
       "notice_type": "cn-standard",
       "phrases": [
         "intelligence artificielle"
@@ -808,7 +814,7 @@
       ],
       "first_seen": "2026-08-23",
       "gone": false,
-      "last_checked": "2026-08-28",
+      "last_checked": "2026-08-29",
       "notice_type": "cn-standard",
       "phrases": [
         "intelligence artificielle"
@@ -868,7 +874,7 @@
       ],
       "first_seen": "2026-08-23",
       "gone": false,
-      "last_checked": "2026-08-28",
+      "last_checked": "2026-08-29",
       "notice_type": "pin-only",
       "phrases": [
         "artificial intelligence"
@@ -927,7 +933,7 @@
       ],
       "first_seen": "2026-08-24",
       "gone": false,
-      "last_checked": "2026-08-28",
+      "last_checked": "2026-08-29",
       "notice_type": "cn-standard",
       "phrases": [
         "Künstliche Intelligenz"
@@ -984,7 +990,7 @@
       ],
       "first_seen": "2026-08-24",
       "gone": false,
-      "last_checked": "2026-08-28",
+      "last_checked": "2026-08-29",
       "notice_type": "cn-standard",
       "phrases": [
         "artificial intelligence"
@@ -1044,7 +1050,7 @@
       ],
       "first_seen": "2026-08-24",
       "gone": false,
-      "last_checked": "2026-08-28",
+      "last_checked": "2026-08-29",
       "notice_type": "cn-standard",
       "phrases": [
         "artificial intelligence"
@@ -1087,6 +1093,360 @@
       ],
       "winner_names": [],
       "xml_url": "https://ted.europa.eu/en/notice/583466-2026/xml"
+    },
+    "588427-2026": {
+      "buyer_countries": [
+        "DEU"
+      ],
+      "buyer_names": [
+        "Handwerkskammer der Pfalz"
+      ],
+      "cpv": [
+        "45332000",
+        "45332400"
+      ],
+      "first_seen": "2026-08-29",
+      "gone": false,
+      "last_checked": "2026-08-29",
+      "notice_type": "can-standard",
+      "phrases": [
+        "Künstliche Intelligenz"
+      ],
+      "publication_date": "2026-08-26",
+      "title": "Germany – Sanitary fixture installation work – Beschaffung einer \"didaktischen Schulungswand\" - Anschlussarbeiten: Sanitärarbeiten(Los 3)",
+      "titles": [
+        "Alemanha – Instalação de artigos sanitários – Beschaffung einer \"didaktischen Schulungswand\" - Anschlussarbeiten: Sanitärarbeiten(Los 3)",
+        "Alemania – Trabajos de instalación de artículos sanitarios – Beschaffung einer \"didaktischen Schulungswand\" - Anschlussarbeiten: Sanitärarbeiten(Los 3)",
+        "Allemagne – Travaux d'installation d'appareils sanitaires – Beschaffung einer \"didaktischen Schulungswand\" - Anschlussarbeiten: Sanitärarbeiten(Los 3)",
+        "An Ghearmáin – Sanitary fixture installation work – Beschaffung einer \"didaktischen Schulungswand\" - Anschlussarbeiten: Sanitärarbeiten(Los 3)",
+        "Deutschland – Installation von Sanitäreinrichtungen – Beschaffung einer \"didaktischen Schulungswand\" - Anschlussarbeiten: Sanitärarbeiten(Los 3)",
+        "Duitsland – Installeren van sanitair – Beschaffung einer \"didaktischen Schulungswand\" - Anschlussarbeiten: Sanitärarbeiten(Los 3)",
+        "Germania – Lavori di installazione di apparecchiature idrosanitarie – Beschaffung einer \"didaktischen Schulungswand\" - Anschlussarbeiten: Sanitärarbeiten(Los 3)",
+        "Germania – Lucrări de instalare de echipamente sanitare – Beschaffung einer \"didaktischen Schulungswand\" - Anschlussarbeiten: Sanitärarbeiten(Los 3)",
+        "Germany – Sanitary fixture installation work – Beschaffung einer \"didaktischen Schulungswand\" - Anschlussarbeiten: Sanitärarbeiten(Los 3)",
+        "Il-Ġermanja – Xogħol ta’ stallazzjoni ta’ tagħmir sanitarju – Beschaffung einer \"didaktischen Schulungswand\" - Anschlussarbeiten: Sanitärarbeiten(Los 3)",
+        "Nemecko – Inštalovanie pevného sanitárneho príslušenstva – Beschaffung einer \"didaktischen Schulungswand\" - Anschlussarbeiten: Sanitärarbeiten(Los 3)",
+        "Nemčija – Inštalacija sanitarne opreme – Beschaffung einer \"didaktischen Schulungswand\" - Anschlussarbeiten: Sanitärarbeiten(Los 3)",
+        "Niemcy – Roboty instalacyjne w zakresie urządzeń sanitarnych – Beschaffung einer \"didaktischen Schulungswand\" - Anschlussarbeiten: Sanitärarbeiten(Los 3)",
+        "Njemačka – Radovi instaliranja sanitarne opreme – Beschaffung einer \"didaktischen Schulungswand\" - Anschlussarbeiten: Sanitärarbeiten(Los 3)",
+        "Németország – Szaniterszerelvény szerelése – Beschaffung einer \"didaktischen Schulungswand\" - Anschlussarbeiten: Sanitärarbeiten(Los 3)",
+        "Německo – Instalace a montáž sanitárního zařízení – Beschaffung einer \"didaktischen Schulungswand\" - Anschlussarbeiten: Sanitärarbeiten(Los 3)",
+        "Saksa – Saniteettikalusteiden asennustyöt – Beschaffung einer \"didaktischen Schulungswand\" - Anschlussarbeiten: Sanitärarbeiten(Los 3)",
+        "Saksamaa – Sanitaarseadmete paigaldustööd – Beschaffung einer \"didaktischen Schulungswand\" - Anschlussarbeiten: Sanitärarbeiten(Los 3)",
+        "Tyskland – Arbejde i forbindelse med installation af sanitetsudstyr – Beschaffung einer \"didaktischen Schulungswand\" - Anschlussarbeiten: Sanitärarbeiten(Los 3)",
+        "Tyskland – Montering av sanitetsgods och rör – Beschaffung einer \"didaktischen Schulungswand\" - Anschlussarbeiten: Sanitärarbeiten(Los 3)",
+        "Vokietija – Sanitarinės įrangos montavimo darbai – Beschaffung einer \"didaktischen Schulungswand\" - Anschlussarbeiten: Sanitärarbeiten(Los 3)",
+        "Vācija – Sanitārtehnisko ierīču uzstādīšanas darbi – Beschaffung einer \"didaktischen Schulungswand\" - Anschlussarbeiten: Sanitärarbeiten(Los 3)",
+        "Γερμανία – Εργασίες εγκατάστασης εξαρτημάτων υγιεινής – Beschaffung einer \"didaktischen Schulungswand\" - Anschlussarbeiten: Sanitärarbeiten(Los 3)",
+        "Гepмaния – Работи по инсталиране на санитарна керамика – Beschaffung einer \"didaktischen Schulungswand\" - Anschlussarbeiten: Sanitärarbeiten(Los 3)"
+      ],
+      "vendor_keys": [],
+      "versions": [
+        {
+          "date": "2026-08-29",
+          "file": "snapshots/2026-08-29/notices/588427-2026.xml",
+          "sha256": "bba990f5df2debefab67dd29e13cc88a4c3073262ee1404f1bd9711a8655127a"
+        }
+      ],
+      "winner_names": [],
+      "xml_url": "https://ted.europa.eu/en/notice/588427-2026/xml"
+    },
+    "590745-2026": {
+      "buyer_countries": [
+        "GRC"
+      ],
+      "buyer_names": [
+        "ΔΗΜΟΣ ΟΙΧΑΛΙΑΣ"
+      ],
+      "cpv": [
+        "30200000",
+        "32420000",
+        "48000000",
+        "72260000"
+      ],
+      "first_seen": "2026-08-29",
+      "gone": false,
+      "last_checked": "2026-08-29",
+      "notice_type": "can-standard",
+      "phrases": [
+        "artificial intelligence"
+      ],
+      "publication_date": "2026-08-27",
+      "title": "Greece – Software package and information systems – Έξυπνος Οδηγός Πόλης / Δήμου με καταγραφή τοπικών επιχειρήσεων του Δήμου Οιχαλίας",
+      "titles": [
+        "An Ghréig – Software package and information systems – Έξυπνος Οδηγός Πόλης / Δήμου με καταγραφή τοπικών επιχειρήσεων του Δήμου Οιχαλίας",
+        "Graikija – Programinės įrangos paketai ir informacinės sistemos – Έξυπνος Οδηγός Πόλης / Δήμου με καταγραφή τοπικών επιχειρήσεων του Δήμου Οιχαλίας",
+        "Grecia – Pacchetti software e sistemi di informazione – Έξυπνος Οδηγός Πόλης / Δήμου με καταγραφή τοπικών επιχειρήσεων του Δήμου Οιχαλίας",
+        "Grecia – Pachete software şi sisteme informatice – Έξυπνος Οδηγός Πόλης / Δήμου με καταγραφή τοπικών επιχειρήσεων του Δήμου Οιχαλίας",
+        "Grecia – Paquetes de software y sistemas de información – Έξυπνος Οδηγός Πόλης / Δήμου με καταγραφή τοπικών επιχειρήσεων του Δήμου Οιχαλίας",
+        "Grecja – Pakiety oprogramowania i systemy informatyczne – Έξυπνος Οδηγός Πόλης / Δήμου με καταγραφή τοπικών επιχειρήσεων του Δήμου Οιχαλίας",
+        "Greece – Software package and information systems – Έξυπνος Οδηγός Πόλης / Δήμου με καταγραφή τοπικών επιχειρήσεων του Δήμου Οιχαλίας",
+        "Grekland – Programvara och informationssystem – Έξυπνος Οδηγός Πόλης / Δήμου με καταγραφή τοπικών επιχειρήσεων του Δήμου Οιχαλίας",
+        "Griechenland – Softwarepaket und Informationssysteme – Έξυπνος Οδηγός Πόλης / Δήμου με καταγραφή τοπικών επιχειρήσεων του Δήμου Οιχαλίας",
+        "Griekenland – Software en informatiesystemen – Έξυπνος Οδηγός Πόλης / Δήμου με καταγραφή τοπικών επιχειρήσεων του Δήμου Οιχαλίας",
+        "Grieķija – Programmatūras pakotne un informācijas sistēmas – Έξυπνος Οδηγός Πόλης / Δήμου με καταγραφή τοπικών επιχειρήσεων του Δήμου Οιχαλίας",
+        "Grækenland – Programpakker og informationssystemer – Έξυπνος Οδηγός Πόλης / Δήμου με καταγραφή τοπικών επιχειρήσεων του Δήμου Οιχαλίας",
+        "Grèce – Logiciels et systèmes d'information – Έξυπνος Οδηγός Πόλης / Δήμου με καταγραφή τοπικών επιχειρήσεων του Δήμου Οιχαλίας",
+        "Grécia – Pacotes de software e sistemas de informação – Έξυπνος Οδηγός Πόλης / Δήμου με καταγραφή τοπικών επιχειρήσεων του Δήμου Οιχαλίας",
+        "Grécko – Softvérové balíky a informačné systémy – Έξυπνος Οδηγός Πόλης / Δήμου με καταγραφή τοπικών επιχειρήσεων του Δήμου Οιχαλίας",
+        "Grčija – Programski paketi in informacijski sistemi – Έξυπνος Οδηγός Πόλης / Δήμου με καταγραφή τοπικών επιχειρήσεων του Δήμου Οιχαλίας",
+        "Grčka – Programski paketi i informacijski sustavi – Έξυπνος Οδηγός Πόλης / Δήμου με καταγραφή τοπικών επιχειρήσεων του Δήμου Οιχαλίας",
+        "Görögország – Szoftvercsomag és információs rendszerek – Έξυπνος Οδηγός Πόλης / Δήμου με καταγραφή τοπικών επιχειρήσεων του Δήμου Οιχαλίας",
+        "Il-Greċja – Pakketti tas-softwer u sistemi ta' informazzjoni – Έξυπνος Οδηγός Πόλης / Δήμου με καταγραφή τοπικών επιχειρήσεων του Δήμου Οιχαλίας",
+        "Kreeka – Tarkvarapaketid ja infosüsteemid – Έξυπνος Οδηγός Πόλης / Δήμου με καταγραφή τοπικών επιχειρήσεων του Δήμου Οιχαλίας",
+        "Kreikka – Ohjelmatuotteet ja tietojärjestelmät – Έξυπνος Οδηγός Πόλης / Δήμου με καταγραφή τοπικών επιχειρήσεων του Δήμου Οιχαλίας",
+        "Řecko – Balíky programů a informační systémy – Έξυπνος Οδηγός Πόλης / Δήμου με καταγραφή τοπικών επιχειρήσεων του Δήμου Οιχαλίας",
+        "Ελλάδα – Πακέτα λογισμικού και συστήματα πληροφορικής – Έξυπνος Οδηγός Πόλης / Δήμου με καταγραφή τοπικών επιχειρήσεων του Δήμου Οιχαλίας",
+        "Гъpция – Софтуерни пакети и информационни системи – Έξυπνος Οδηγός Πόλης / Δήμου με καταγραφή τοπικών επιχειρήσεων του Δήμου Οιχαλίας"
+      ],
+      "vendor_keys": [
+        "dotsoft ολοκληρωμενεσ λυσεισ τεχνολογιασ πληροφορικησ ανωνυμη εταιρια"
+      ],
+      "versions": [
+        {
+          "date": "2026-08-29",
+          "file": "snapshots/2026-08-29/notices/590745-2026.xml",
+          "sha256": "f24e67c8ec1dba4e447714b64fe8b8f8d8afdd10c0fe201e35735bad86dc7558"
+        }
+      ],
+      "winner_names": [
+        "DOTSOFT ΟΛΟΚΛΗΡΩΜΕΝΕΣ ΛΥΣΕΙΣ ΤΕΧΝΟΛΟΓΙΑΣ ΠΛΗΡΟΦΟΡΙΚΗΣ ΑΝΩΝΥΜΗ ΕΤΑΙΡΙΑ"
+      ],
+      "xml_url": "https://ted.europa.eu/en/notice/590745-2026/xml"
+    },
+    "592241-2026": {
+      "buyer_countries": [
+        "IRL"
+      ],
+      "buyer_names": [
+        "Technology Ireland ICT Skillnet"
+      ],
+      "cpv": [
+        "80000000",
+        "80300000",
+        "80340000",
+        "80400000",
+        "80500000"
+      ],
+      "first_seen": "2026-08-29",
+      "gone": false,
+      "last_checked": "2026-08-29",
+      "notice_type": "cn-social",
+      "phrases": [
+        "artificial intelligence"
+      ],
+      "publication_date": "2026-08-27",
+      "title": "Ireland – Education and training services – CFT to establish a single suppler Framework Agreement For the Provision of a Masters in Software Design with Artificial Intelligence",
+      "titles": [
+        "Airija – Švietimo ir mokymo paslaugos – CFT to establish a single suppler Framework Agreement For the Provision of a Masters in Software Design with Artificial Intelligence",
+        "Ierland – Diensten voor onderwijs en opleiding – CFT to establish a single suppler Framework Agreement For the Provision of a Masters in Software Design with Artificial Intelligence",
+        "Iirimaa – Haridus- ja koolitusteenused – CFT to establish a single suppler Framework Agreement For the Provision of a Masters in Software Design with Artificial Intelligence",
+        "Ireland – Education and training services – CFT to establish a single suppler Framework Agreement For the Provision of a Masters in Software Design with Artificial Intelligence",
+        "Irland – Allgemeine und berufliche Bildung – CFT to establish a single suppler Framework Agreement For the Provision of a Masters in Software Design with Artificial Intelligence",
+        "Irland – Uddannelse og undervisning – CFT to establish a single suppler Framework Agreement For the Provision of a Masters in Software Design with Artificial Intelligence",
+        "Irland – Undervisning och utbildning – CFT to establish a single suppler Framework Agreement For the Provision of a Masters in Software Design with Artificial Intelligence",
+        "Irlanda – Servicii de învăţământ şi formare profesională – CFT to establish a single suppler Framework Agreement For the Provision of a Masters in Software Design with Artificial Intelligence",
+        "Irlanda – Servicios de enseñanza y formación – CFT to establish a single suppler Framework Agreement For the Provision of a Masters in Software Design with Artificial Intelligence",
+        "Irlanda – Servizi di istruzione e formazione – CFT to establish a single suppler Framework Agreement For the Provision of a Masters in Software Design with Artificial Intelligence",
+        "Irlanda – Serviços de ensino e formação – CFT to establish a single suppler Framework Agreement For the Provision of a Masters in Software Design with Artificial Intelligence",
+        "Irlande – Services d'enseignement et de formation – CFT to establish a single suppler Framework Agreement For the Provision of a Masters in Software Design with Artificial Intelligence",
+        "Irlandia – Usługi edukacyjne i szkoleniowe – CFT to establish a single suppler Framework Agreement For the Provision of a Masters in Software Design with Artificial Intelligence",
+        "Irlanti – Yleissivistävän ja ammatillisen koulutuksen palvelut – CFT to establish a single suppler Framework Agreement For the Provision of a Masters in Software Design with Artificial Intelligence",
+        "Irska – Storitve izobraževanja in usposabljanja – CFT to establish a single suppler Framework Agreement For the Provision of a Masters in Software Design with Artificial Intelligence",
+        "Irska – Usluge obrazovanja i osposobljavanja – CFT to establish a single suppler Framework Agreement For the Provision of a Masters in Software Design with Artificial Intelligence",
+        "Irsko – Vzdělávání a školení – CFT to establish a single suppler Framework Agreement For the Provision of a Masters in Software Design with Artificial Intelligence",
+        "L-Irlanda – Servizzi ta' edukazzjoni u taħriġ – CFT to establish a single suppler Framework Agreement For the Provision of a Masters in Software Design with Artificial Intelligence",
+        "Éire – Education and training services – CFT to establish a single suppler Framework Agreement For the Provision of a Masters in Software Design with Artificial Intelligence",
+        "Írország – Oktatási és képzési szolgáltatások – CFT to establish a single suppler Framework Agreement For the Provision of a Masters in Software Design with Artificial Intelligence",
+        "Írsko – Vzdelávacie a školiace (výcvikové) služby – CFT to establish a single suppler Framework Agreement For the Provision of a Masters in Software Design with Artificial Intelligence",
+        "Īrija – Izglītības un mācību pakalpojumi – CFT to establish a single suppler Framework Agreement For the Provision of a Masters in Software Design with Artificial Intelligence",
+        "Ιρλανδία – Υπηρεσίες εκπαίδευσης και επιμόρφωσης – CFT to establish a single suppler Framework Agreement For the Provision of a Masters in Software Design with Artificial Intelligence",
+        "Иpлaндия – Образователни и учебно-тренировъчни услуги – CFT to establish a single suppler Framework Agreement For the Provision of a Masters in Software Design with Artificial Intelligence"
+      ],
+      "vendor_keys": [],
+      "versions": [
+        {
+          "date": "2026-08-29",
+          "file": "snapshots/2026-08-29/notices/592241-2026.xml",
+          "sha256": "ec461fd38b62769abb3e1bd50510b0ec24f51dbf2e9543b920ab16bffb9ea626"
+        }
+      ],
+      "winner_names": [],
+      "xml_url": "https://ted.europa.eu/en/notice/592241-2026/xml"
+    },
+    "593981-2026": {
+      "buyer_countries": [
+        "FIN"
+      ],
+      "buyer_names": [
+        "Finnish Heritage Agency / Museovirasto"
+      ],
+      "cpv": [
+        "72000000",
+        "72200000",
+        "72212100",
+        "72222200",
+        "72224100",
+        "73300000",
+        "92521100"
+      ],
+      "first_seen": "2026-08-29",
+      "gone": false,
+      "last_checked": "2026-08-29",
+      "notice_type": "cn-standard",
+      "phrases": [
+        "artificial intelligence"
+      ],
+      "publication_date": "2026-08-28",
+      "title": "Finland – IT services: consulting, software development, Internet and support – Digital exhibition design, software development and production for the reopening exhibition for the National Museum of Finland.",
+      "titles": [
+        "An Fhionlainn – IT services: consulting, software development, Internet and support – Digital exhibition design, software development and production for the reopening exhibition for the National Museum of Finland.",
+        "Finland – IT services: consulting, software development, Internet and support – Digital exhibition design, software development and production for the reopening exhibition for the National Museum of Finland.",
+        "Finland – IT-diensten: adviezen, softwareontwikkeling, internet en ondersteuning – Digital exhibition design, software development and production for the reopening exhibition for the National Museum of Finland.",
+        "Finland – IT-tjänster: konsultverksamhet, programvaruutveckling, Internet och stöd – Digital exhibition design, software development and production for the reopening exhibition for the National Museum of Finland.",
+        "Finland – It-tjenester: rådgivning, programmeludvikling, internet og support – Digital exhibition design, software development and production for the reopening exhibition for the National Museum of Finland.",
+        "Finlanda – Servicii IT: consultanţă, dezvoltare de software, internet şi asistenţă – Digital exhibition design, software development and production for the reopening exhibition for the National Museum of Finland.",
+        "Finlande – Services de technologies de l'information, conseil, développement de logiciels, internet et appui – Digital exhibition design, software development and production for the reopening exhibition for the National Museum of Finland.",
+        "Finlandia – Servicios TI: consultoría, desarrollo de software, Internet y apoyo – Digital exhibition design, software development and production for the reopening exhibition for the National Museum of Finland.",
+        "Finlandia – Servizi informatici: consulenza, sviluppo di software, Internet e supporto – Digital exhibition design, software development and production for the reopening exhibition for the National Museum of Finland.",
+        "Finlandia – Usługi informatyczne: konsultacyjne, opracowywania oprogramowania, internetowe i wsparcia – Digital exhibition design, software development and production for the reopening exhibition for the National Museum of Finland.",
+        "Finlândia – Serviços de TI: consultoria, desenvolvimento de software, Internet e apoio – Digital exhibition design, software development and production for the reopening exhibition for the National Museum of Finland.",
+        "Finnland – IT-Dienste: Beratung, Software-Entwicklung, Internet und Hilfestellung – Digital exhibition design, software development and production for the reopening exhibition for the National Museum of Finland.",
+        "Finnország – IT-szolgáltatások: tanácsadás, szoftverfejlesztés, internet és támogatás – Digital exhibition design, software development and production for the reopening exhibition for the National Museum of Finland.",
+        "Finska – Storitve informacijske tehnologije: svetovanje, razvoj programske opreme, internet in podpora – Digital exhibition design, software development and production for the reopening exhibition for the National Museum of Finland.",
+        "Finska – Usluge informacijske tehnologije: savjetovanje, razvoj programske podrške, internet i podrška – Digital exhibition design, software development and production for the reopening exhibition for the National Museum of Finland.",
+        "Finsko – Informační technologie: poradenství, vývoj programového vybavení, internet a podpora – Digital exhibition design, software development and production for the reopening exhibition for the National Museum of Finland.",
+        "Fínsko – Služby informačných technológií: konzultácie, vývoj softvéru, internet a podpora – Digital exhibition design, software development and production for the reopening exhibition for the National Museum of Finland.",
+        "Il-Finlandja – Servizzi ta' IT: konsulenza, żvilupp ta' softwer, Internet u appoġġ – Digital exhibition design, software development and production for the reopening exhibition for the National Museum of Finland.",
+        "Somija – IT pakalpojumi konsultēšana, programmatūras izstrāde, internets un atbalsts – Digital exhibition design, software development and production for the reopening exhibition for the National Museum of Finland.",
+        "Soome – IT-teenused: nõuande-, tarkvaraarendus-, Interneti- ja tugiteenused – Digital exhibition design, software development and production for the reopening exhibition for the National Museum of Finland.",
+        "Suomi – Tietotekniset palvelut: neuvonta, ohjelmistojen kehittäminen, Internet ja tuki – Digital exhibition design, software development and production for the reopening exhibition for the National Museum of Finland.",
+        "Suomija – IT paslaugos: konsultavimas, programinės įrangos kūrimas, internetas ir aptarnavimo paslaugos – Digital exhibition design, software development and production for the reopening exhibition for the National Museum of Finland.",
+        "Φινλανδία – Υπηρεσίες τεχνολογίας των πληροφοριών: παροχή συμβουλών, ανάπτυξη λογισμικού, Διαδίκτυο και υποστήριξη – Digital exhibition design, software development and production for the reopening exhibition for the National Museum of Finland.",
+        "Финлaндия – ИТ услуги: консултации, разработване на софтуер, Интернет и поддръжка – Digital exhibition design, software development and production for the reopening exhibition for the National Museum of Finland."
+      ],
+      "vendor_keys": [],
+      "versions": [
+        {
+          "date": "2026-08-29",
+          "file": "snapshots/2026-08-29/notices/593981-2026.xml",
+          "sha256": "522cc6f7614999d070cef80f92352b5e3e10611d306c03bc82d782ca2cb00d08"
+        }
+      ],
+      "winner_names": [],
+      "xml_url": "https://ted.europa.eu/en/notice/593981-2026/xml"
+    },
+    "596026-2026": {
+      "buyer_countries": [
+        "DEU"
+      ],
+      "buyer_names": [
+        "Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH"
+      ],
+      "cpv": [
+        "79951000"
+      ],
+      "first_seen": "2026-08-29",
+      "gone": false,
+      "last_checked": "2026-08-29",
+      "notice_type": "cn-standard",
+      "phrases": [
+        "artificial intelligence"
+      ],
+      "publication_date": "2026-08-28",
+      "title": "Germany – Seminar organisation services – 10017643-Personal Data Protection Centre-Support Plan",
+      "titles": [
+        "Alemanha – Serviços de organização de seminários – 10017643-Personal Data Protection Centre-Support Plan",
+        "Alemania – Servicio de organización de seminarios – 10017643-Personal Data Protection Centre-Support Plan",
+        "Allemagne – Services d'organisation de séminaires – 10017643-Personal Data Protection Centre-Support Plan",
+        "An Ghearmáin – Seminar organisation services – 10017643-Personal Data Protection Centre-Support Plan",
+        "Deutschland – Veranstaltung von Seminaren – 10017643-Personal Data Protection Centre-Support Plan",
+        "Duitsland – Organiseren van seminars – 10017643-Personal Data Protection Centre-Support Plan",
+        "Germania – Servicii de organizare de seminarii – 10017643-Personal Data Protection Centre-Support Plan",
+        "Germania – Servizi di organizzazione di seminari – 10017643-Personal Data Protection Centre-Support Plan",
+        "Germany – Seminar organisation services – 10017643-Personal Data Protection Centre-Support Plan",
+        "Il-Ġermanja – Servizzi ta' l-organizzazzjoni ta' seminars – 10017643-Personal Data Protection Centre-Support Plan",
+        "Nemecko – Organizovanie seminárov – 10017643-Personal Data Protection Centre-Support Plan",
+        "Nemčija – Storitve organiziranja seminarjev – 10017643-Personal Data Protection Centre-Support Plan",
+        "Niemcy – Usługi w zakresie organizowania seminariów – 10017643-Personal Data Protection Centre-Support Plan",
+        "Njemačka – Usluge organizacije seminara – 10017643-Personal Data Protection Centre-Support Plan",
+        "Németország – Szemináriumszervezési szolgáltatások – 10017643-Personal Data Protection Centre-Support Plan",
+        "Německo – Organizace seminářů – 10017643-Personal Data Protection Centre-Support Plan",
+        "Saksa – Seminaarien järjestäminen – 10017643-Personal Data Protection Centre-Support Plan",
+        "Saksamaa – Seminaride organiseerimisteenused – 10017643-Personal Data Protection Centre-Support Plan",
+        "Tyskland – Organisering af seminarer – 10017643-Personal Data Protection Centre-Support Plan",
+        "Tyskland – Organisering av seminarier – 10017643-Personal Data Protection Centre-Support Plan",
+        "Vokietija – Seminarų organizavimo paslaugos – 10017643-Personal Data Protection Centre-Support Plan",
+        "Vācija – Semināru organizēšanas pakalpojumi – 10017643-Personal Data Protection Centre-Support Plan",
+        "Γερμανία – Υπηρεσίες οργάνωσης σεμιναρίων – 10017643-Personal Data Protection Centre-Support Plan",
+        "Гepмaния – Услуги по организиране на семинари – 10017643-Personal Data Protection Centre-Support Plan"
+      ],
+      "vendor_keys": [],
+      "versions": [
+        {
+          "date": "2026-08-29",
+          "file": "snapshots/2026-08-29/notices/596026-2026.xml",
+          "sha256": "0f0bfa5ff5e69e6bf82d61e4ea38f111f6c6692221a4bbc1c5cf14dca4399570"
+        }
+      ],
+      "winner_names": [],
+      "xml_url": "https://ted.europa.eu/en/notice/596026-2026/xml"
+    },
+    "596208-2026": {
+      "buyer_countries": [
+        "FIN"
+      ],
+      "buyer_names": [
+        "VR-Group Plc"
+      ],
+      "cpv": [
+        "72000000"
+      ],
+      "first_seen": "2026-08-29",
+      "gone": false,
+      "last_checked": "2026-08-29",
+      "notice_type": "pin-only",
+      "phrases": [
+        "artificial intelligence"
+      ],
+      "publication_date": "2026-08-28",
+      "title": "Finland – IT services: consulting, software development, Internet and support – REQUEST FOR INFORMATION: AI & Data Factory - Expert Services for AI and Data Development, Governance and Continuous Operations",
+      "titles": [
+        "An Fhionlainn – IT services: consulting, software development, Internet and support – REQUEST FOR INFORMATION: AI & Data Factory - Expert Services for AI and Data Development, Governance and Continuous Operations",
+        "Finland – IT services: consulting, software development, Internet and support – REQUEST FOR INFORMATION: AI & Data Factory - Expert Services for AI and Data Development, Governance and Continuous Operations",
+        "Finland – IT-diensten: adviezen, softwareontwikkeling, internet en ondersteuning – REQUEST FOR INFORMATION: AI & Data Factory - Expert Services for AI and Data Development, Governance and Continuous Operations",
+        "Finland – IT-tjänster: konsultverksamhet, programvaruutveckling, Internet och stöd – REQUEST FOR INFORMATION: AI & Data Factory - Expert Services for AI and Data Development, Governance and Continuous Operations",
+        "Finland – It-tjenester: rådgivning, programmeludvikling, internet og support – REQUEST FOR INFORMATION: AI & Data Factory - Expert Services for AI and Data Development, Governance and Continuous Operations",
+        "Finlanda – Servicii IT: consultanţă, dezvoltare de software, internet şi asistenţă – REQUEST FOR INFORMATION: AI & Data Factory - Expert Services for AI and Data Development, Governance and Continuous Operations",
+        "Finlande – Services de technologies de l'information, conseil, développement de logiciels, internet et appui – REQUEST FOR INFORMATION: AI & Data Factory - Expert Services for AI and Data Development, Governance and Continuous Operations",
+        "Finlandia – Servicios TI: consultoría, desarrollo de software, Internet y apoyo – REQUEST FOR INFORMATION: AI & Data Factory - Expert Services for AI and Data Development, Governance and Continuous Operations",
+        "Finlandia – Servizi informatici: consulenza, sviluppo di software, Internet e supporto – REQUEST FOR INFORMATION: AI & Data Factory - Expert Services for AI and Data Development, Governance and Continuous Operations",
+        "Finlandia – Usługi informatyczne: konsultacyjne, opracowywania oprogramowania, internetowe i wsparcia – REQUEST FOR INFORMATION: AI & Data Factory - Expert Services for AI and Data Development, Governance and Continuous Operations",
+        "Finlândia – Serviços de TI: consultoria, desenvolvimento de software, Internet e apoio – REQUEST FOR INFORMATION: AI & Data Factory - Expert Services for AI and Data Development, Governance and Continuous Operations",
+        "Finnland – IT-Dienste: Beratung, Software-Entwicklung, Internet und Hilfestellung – REQUEST FOR INFORMATION: AI & Data Factory - Expert Services for AI and Data Development, Governance and Continuous Operations",
+        "Finnország – IT-szolgáltatások: tanácsadás, szoftverfejlesztés, internet és támogatás – REQUEST FOR INFORMATION: AI & Data Factory - Expert Services for AI and Data Development, Governance and Continuous Operations",
+        "Finska – Storitve informacijske tehnologije: svetovanje, razvoj programske opreme, internet in podpora – REQUEST FOR INFORMATION: AI & Data Factory - Expert Services for AI and Data Development, Governance and Continuous Operations",
+        "Finska – Usluge informacijske tehnologije: savjetovanje, razvoj programske podrške, internet i podrška – REQUEST FOR INFORMATION: AI & Data Factory - Expert Services for AI and Data Development, Governance and Continuous Operations",
+        "Finsko – Informační technologie: poradenství, vývoj programového vybavení, internet a podpora – REQUEST FOR INFORMATION: AI & Data Factory - Expert Services for AI and Data Development, Governance and Continuous Operations",
+        "Fínsko – Služby informačných technológií: konzultácie, vývoj softvéru, internet a podpora – REQUEST FOR INFORMATION: AI & Data Factory - Expert Services for AI and Data Development, Governance and Continuous Operations",
+        "Il-Finlandja – Servizzi ta' IT: konsulenza, żvilupp ta' softwer, Internet u appoġġ – REQUEST FOR INFORMATION: AI & Data Factory - Expert Services for AI and Data Development, Governance and Continuous Operations",
+        "Somija – IT pakalpojumi konsultēšana, programmatūras izstrāde, internets un atbalsts – REQUEST FOR INFORMATION: AI & Data Factory - Expert Services for AI and Data Development, Governance and Continuous Operations",
+        "Soome – IT-teenused: nõuande-, tarkvaraarendus-, Interneti- ja tugiteenused – REQUEST FOR INFORMATION: AI & Data Factory - Expert Services for AI and Data Development, Governance and Continuous Operations",
+        "Suomi – Tietotekniset palvelut: neuvonta, ohjelmistojen kehittäminen, Internet ja tuki – REQUEST FOR INFORMATION: AI & Data Factory - Expert Services for AI and Data Development, Governance and Continuous Operations",
+        "Suomija – IT paslaugos: konsultavimas, programinės įrangos kūrimas, internetas ir aptarnavimo paslaugos – REQUEST FOR INFORMATION: AI & Data Factory - Expert Services for AI and Data Development, Governance and Continuous Operations",
+        "Φινλανδία – Υπηρεσίες τεχνολογίας των πληροφοριών: παροχή συμβουλών, ανάπτυξη λογισμικού, Διαδίκτυο και υποστήριξη – REQUEST FOR INFORMATION: AI & Data Factory - Expert Services for AI and Data Development, Governance and Continuous Operations",
+        "Финлaндия – ИТ услуги: консултации, разработване на софтуер, Интернет и поддръжка – REQUEST FOR INFORMATION: AI & Data Factory - Expert Services for AI and Data Development, Governance and Continuous Operations"
+      ],
+      "vendor_keys": [],
+      "versions": [
+        {
+          "date": "2026-08-29",
+          "file": "snapshots/2026-08-29/notices/596208-2026.xml",
+          "sha256": "31f927c1f0a11abdc0cd75d7a207dac1f628468f039dd4d05e5d48762c03aac9"
+        }
+      ],
+      "winner_names": [],
+      "xml_url": "https://ted.europa.eu/en/notice/596208-2026/xml"
     }
   }
 }

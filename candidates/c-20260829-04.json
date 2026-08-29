@@ -1,0 +1,54 @@
+{
+  "created": "2026-08-29T11:40:56+00:00",
+  "criteria": {
+    "consequential_relation": {
+      "passed": false,
+      "reason": "no marker of a sensitive administrative domain (employment, welfare, policing, migration, health, education, justice, taxation)"
+    },
+    "digital_form_possible": {
+      "passed": true,
+      "reason": "form hypothesis: an annotated dossier along the structure of the notice"
+    },
+    "falsifiable_investigation": {
+      "passed": true,
+      "reason": "testable proposition: buyer 'Finnish Heritage Agency / Museovirasto' already on record (537409-2026) — this is a sustained procurement programme, not a one-off purchase"
+    },
+    "machine_readable_evidence": {
+      "passed": true,
+      "reason": "1 preserved eForms XML record(s) with SHA-256 on file"
+    },
+    "machine_scale_advantage": {
+      "passed": true,
+      "reason": "machine memory relates this record to prior records: buyer 'Finnish Heritage Agency / Museovirasto' already on record (537409-2026)"
+    },
+    "observable_public_problem": {
+      "passed": true,
+      "reason": "identifiable public buyer(s): Finnish Heritage Agency / Museovirasto"
+    }
+  },
+  "form_hypothesis": "an annotated dossier along the structure of the notice",
+  "id": "c-20260829-04",
+  "notices_context": [
+    {
+      "buyers": [
+        "Finnish Heritage Agency / Museovirasto"
+      ],
+      "countries": [
+        "FIN"
+      ],
+      "publication_number": "593981-2026",
+      "title": "Finland – IT services: consulting, software development, Internet and support – Digital exhibition design, software development and production for the reopening exhibition for the National Museum of Finland."
+    }
+  ],
+  "proposition": "buyer 'Finnish Heritage Agency / Museovirasto' already on record (537409-2026) — this is a sustained procurement programme, not a one-off purchase",
+  "signal": {
+    "date": "2026-08-29",
+    "detail": "notice 593981-2026 entered the envelope (phrases: artificial intelligence)",
+    "key": "NEW_MATCH:593981-2026",
+    "notices": [
+      "593981-2026"
+    ],
+    "type": "NEW_MATCH"
+  },
+  "verdict": "DECLINED"
+}

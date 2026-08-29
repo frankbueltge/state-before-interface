@@ -1,0 +1,54 @@
+{
+  "created": "2026-08-29T11:40:56+00:00",
+  "criteria": {
+    "consequential_relation": {
+      "passed": false,
+      "reason": "no marker of a sensitive administrative domain (employment, welfare, policing, migration, health, education, justice, taxation)"
+    },
+    "digital_form_possible": {
+      "passed": true,
+      "reason": "form hypothesis: an annotated dossier along the structure of the notice"
+    },
+    "falsifiable_investigation": {
+      "passed": false,
+      "reason": "no machine-testable proposition can be formed yet"
+    },
+    "machine_readable_evidence": {
+      "passed": true,
+      "reason": "1 preserved eForms XML record(s) with SHA-256 on file"
+    },
+    "machine_scale_advantage": {
+      "passed": false,
+      "reason": "a single first-seen notice is equally visible to any human reader of the journal"
+    },
+    "observable_public_problem": {
+      "passed": true,
+      "reason": "identifiable public buyer(s): VR-Group Plc"
+    }
+  },
+  "form_hypothesis": "an annotated dossier along the structure of the notice",
+  "id": "c-20260829-06",
+  "notices_context": [
+    {
+      "buyers": [
+        "VR-Group Plc"
+      ],
+      "countries": [
+        "FIN"
+      ],
+      "publication_number": "596208-2026",
+      "title": "Finland – IT services: consulting, software development, Internet and support – REQUEST FOR INFORMATION: AI & Data Factory - Expert Services for AI and Data Development, Governance and Continuous Operations"
+    }
+  ],
+  "proposition": null,
+  "signal": {
+    "date": "2026-08-29",
+    "detail": "notice 596208-2026 entered the envelope (phrases: artificial intelligence)",
+    "key": "NEW_MATCH:596208-2026",
+    "notices": [
+      "596208-2026"
+    ],
+    "type": "NEW_MATCH"
+  },
+  "verdict": "DECLINED"
+}

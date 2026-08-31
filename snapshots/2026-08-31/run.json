@@ -1,0 +1,98 @@
+{
+  "candidates": {
+    "declined": [],
+    "open": []
+  },
+  "date": "2026-08-31",
+  "envelope_version": 1,
+  "failures": [
+    {
+      "error": "HTTP 202",
+      "scope": "xml:597131-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "xml:599056-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "recheck:576395-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "recheck:578510-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "recheck:580664-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "recheck:580916-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "recheck:581337-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "recheck:583418-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "recheck:583466-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "recheck:588427-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "recheck:590745-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "recheck:592241-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "recheck:593981-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "recheck:596026-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "recheck:596208-2026"
+    }
+  ],
+  "http_429": 0,
+  "new_matches": [
+    "597131-2026",
+    "599056-2026"
+  ],
+  "phrases": [
+    {
+      "lang": "eng",
+      "phrase": "artificial intelligence",
+      "total": 3,
+      "truncated": false
+    },
+    {
+      "lang": "deu",
+      "phrase": "Künstliche Intelligenz",
+      "total": 1,
+      "truncated": false
+    },
+    {
+      "lang": "fra",
+      "phrase": "intelligence artificielle",
+      "total": 1,
+      "truncated": false
+    }
+  ],
+  "rechecked": 13,
+  "requests": 18,
+  "signals": []
+}

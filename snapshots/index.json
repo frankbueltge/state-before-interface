@@ -23,7 +23,11 @@
     "NEW_MATCH:592241-2026",
     "NEW_MATCH:593981-2026",
     "NEW_MATCH:596026-2026",
-    "NEW_MATCH:596208-2026"
+    "NEW_MATCH:596208-2026",
+    "NEW_MATCH:597131-2026",
+    "NEW_MATCH:599056-2026",
+    "NEW_MATCH:600277-2026",
+    "NEW_MATCH:602661-2026"
   ],
   "notices": {
     "537409-2026": {
@@ -697,7 +701,7 @@
       ],
       "first_seen": "2026-08-23",
       "gone": false,
-      "last_checked": "2026-08-31",
+      "last_checked": "2026-09-01",
       "notice_type": "pin-only",
       "phrases": [
         "artificial intelligence"
@@ -756,7 +760,7 @@
       ],
       "first_seen": "2026-08-23",
       "gone": false,
-      "last_checked": "2026-08-31",
+      "last_checked": "2026-09-01",
       "notice_type": "cn-standard",
       "phrases": [
         "intelligence artificielle"
@@ -814,7 +818,7 @@
       ],
       "first_seen": "2026-08-23",
       "gone": false,
-      "last_checked": "2026-08-31",
+      "last_checked": "2026-09-01",
       "notice_type": "cn-standard",
       "phrases": [
         "intelligence artificielle"
@@ -874,7 +878,7 @@
       ],
       "first_seen": "2026-08-23",
       "gone": false,
-      "last_checked": "2026-08-31",
+      "last_checked": "2026-09-01",
       "notice_type": "pin-only",
       "phrases": [
         "artificial intelligence"
@@ -933,7 +937,7 @@
       ],
       "first_seen": "2026-08-24",
       "gone": false,
-      "last_checked": "2026-08-31",
+      "last_checked": "2026-09-01",
       "notice_type": "cn-standard",
       "phrases": [
         "Künstliche Intelligenz"
@@ -990,7 +994,7 @@
       ],
       "first_seen": "2026-08-24",
       "gone": false,
-      "last_checked": "2026-08-31",
+      "last_checked": "2026-09-01",
       "notice_type": "cn-standard",
       "phrases": [
         "artificial intelligence"
@@ -1050,7 +1054,7 @@
       ],
       "first_seen": "2026-08-24",
       "gone": false,
-      "last_checked": "2026-08-31",
+      "last_checked": "2026-09-01",
       "notice_type": "cn-standard",
       "phrases": [
         "artificial intelligence"
@@ -1107,7 +1111,7 @@
       ],
       "first_seen": "2026-08-29",
       "gone": false,
-      "last_checked": "2026-08-31",
+      "last_checked": "2026-09-01",
       "notice_type": "can-standard",
       "phrases": [
         "Künstliche Intelligenz"
@@ -1166,7 +1170,7 @@
       ],
       "first_seen": "2026-08-29",
       "gone": false,
-      "last_checked": "2026-08-31",
+      "last_checked": "2026-09-01",
       "notice_type": "can-standard",
       "phrases": [
         "artificial intelligence"
@@ -1230,7 +1234,7 @@
       ],
       "first_seen": "2026-08-29",
       "gone": false,
-      "last_checked": "2026-08-31",
+      "last_checked": "2026-09-01",
       "notice_type": "cn-social",
       "phrases": [
         "artificial intelligence"
@@ -1292,7 +1296,7 @@
       ],
       "first_seen": "2026-08-29",
       "gone": false,
-      "last_checked": "2026-08-31",
+      "last_checked": "2026-09-01",
       "notice_type": "cn-standard",
       "phrases": [
         "artificial intelligence"
@@ -1348,7 +1352,7 @@
       ],
       "first_seen": "2026-08-29",
       "gone": false,
-      "last_checked": "2026-08-31",
+      "last_checked": "2026-09-01",
       "notice_type": "cn-standard",
       "phrases": [
         "artificial intelligence"
@@ -1404,7 +1408,7 @@
       ],
       "first_seen": "2026-08-29",
       "gone": false,
-      "last_checked": "2026-08-31",
+      "last_checked": "2026-09-01",
       "notice_type": "pin-only",
       "phrases": [
         "artificial intelligence"
@@ -1447,6 +1451,231 @@
       ],
       "winner_names": [],
       "xml_url": "https://ted.europa.eu/en/notice/596208-2026/xml"
+    },
+    "597131-2026": {
+      "buyer_countries": [
+        "DEU"
+      ],
+      "buyer_names": [
+        "Dataport AöR"
+      ],
+      "cpv": [
+        "72000000"
+      ],
+      "first_seen": "2026-09-01",
+      "gone": false,
+      "last_checked": "2026-09-01",
+      "notice_type": "cn-standard",
+      "phrases": [
+        "Künstliche Intelligenz"
+      ],
+      "publication_date": "2026-08-31",
+      "title": "Germany – IT services: consulting, software development, Internet and support – Rahmenvertrag Software, AI & Digital Services (SAID)",
+      "titles": [
+        "Alemanha – Serviços de TI: consultoria, desenvolvimento de software, Internet e apoio – Rahmenvertrag Software, AI & Digital Services (SAID)",
+        "Alemania – Servicios TI: consultoría, desarrollo de software, Internet y apoyo – Rahmenvertrag Software, AI & Digital Services (SAID)",
+        "Allemagne – Services de technologies de l'information, conseil, développement de logiciels, internet et appui – Rahmenvertrag Software, AI & Digital Services (SAID)",
+        "An Ghearmáin – IT services: consulting, software development, Internet and support – Rahmenvertrag Software, AI & Digital Services (SAID)",
+        "Deutschland – IT-Dienste: Beratung, Software-Entwicklung, Internet und Hilfestellung – Rahmenvertrag Software, AI & Digital Services (SAID)",
+        "Duitsland – IT-diensten: adviezen, softwareontwikkeling, internet en ondersteuning – Rahmenvertrag Software, AI & Digital Services (SAID)",
+        "Germania – Servicii IT: consultanţă, dezvoltare de software, internet şi asistenţă – Rahmenvertrag Software, AI & Digital Services (SAID)",
+        "Germania – Servizi informatici: consulenza, sviluppo di software, Internet e supporto – Rahmenvertrag Software, AI & Digital Services (SAID)",
+        "Germany – IT services: consulting, software development, Internet and support – Rahmenvertrag Software, AI & Digital Services (SAID)",
+        "Il-Ġermanja – Servizzi ta' IT: konsulenza, żvilupp ta' softwer, Internet u appoġġ – Rahmenvertrag Software, AI & Digital Services (SAID)",
+        "Nemecko – Služby informačných technológií: konzultácie, vývoj softvéru, internet a podpora – Rahmenvertrag Software, AI & Digital Services (SAID)",
+        "Nemčija – Storitve informacijske tehnologije: svetovanje, razvoj programske opreme, internet in podpora – Rahmenvertrag Software, AI & Digital Services (SAID)",
+        "Niemcy – Usługi informatyczne: konsultacyjne, opracowywania oprogramowania, internetowe i wsparcia – Rahmenvertrag Software, AI & Digital Services (SAID)",
+        "Njemačka – Usluge informacijske tehnologije: savjetovanje, razvoj programske podrške, internet i podrška – Rahmenvertrag Software, AI & Digital Services (SAID)",
+        "Németország – IT-szolgáltatások: tanácsadás, szoftverfejlesztés, internet és támogatás – Rahmenvertrag Software, AI & Digital Services (SAID)",
+        "Německo – Informační technologie: poradenství, vývoj programového vybavení, internet a podpora – Rahmenvertrag Software, AI & Digital Services (SAID)",
+        "Saksa – Tietotekniset palvelut: neuvonta, ohjelmistojen kehittäminen, Internet ja tuki – Rahmenvertrag Software, AI & Digital Services (SAID)",
+        "Saksamaa – IT-teenused: nõuande-, tarkvaraarendus-, Interneti- ja tugiteenused – Rahmenvertrag Software, AI & Digital Services (SAID)",
+        "Tyskland – IT-tjänster: konsultverksamhet, programvaruutveckling, Internet och stöd – Rahmenvertrag Software, AI & Digital Services (SAID)",
+        "Tyskland – It-tjenester: rådgivning, programmeludvikling, internet og support – Rahmenvertrag Software, AI & Digital Services (SAID)",
+        "Vokietija – IT paslaugos: konsultavimas, programinės įrangos kūrimas, internetas ir aptarnavimo paslaugos – Rahmenvertrag Software, AI & Digital Services (SAID)",
+        "Vācija – IT pakalpojumi konsultēšana, programmatūras izstrāde, internets un atbalsts – Rahmenvertrag Software, AI & Digital Services (SAID)",
+        "Γερμανία – Υπηρεσίες τεχνολογίας των πληροφοριών: παροχή συμβουλών, ανάπτυξη λογισμικού, Διαδίκτυο και υποστήριξη – Rahmenvertrag Software, AI & Digital Services (SAID)",
+        "Гepмaния – ИТ услуги: консултации, разработване на софтуер, Интернет и поддръжка – Rahmenvertrag Software, AI & Digital Services (SAID)"
+      ],
+      "vendor_keys": [],
+      "versions": [
+        {
+          "date": "2026-09-01",
+          "file": "snapshots/2026-09-01/notices/597131-2026.xml",
+          "sha256": "391e523f872bf6df62ae4ec2d2a3346ae685c5b684321f50869db5250b10dd13"
+        }
+      ],
+      "winner_names": [],
+      "xml_url": "https://ted.europa.eu/en/notice/597131-2026/xml"
+    },
+    "599056-2026": {
+      "buyer_countries": [
+        "FRA"
+      ],
+      "buyer_names": [
+        "Constructys Siège"
+      ],
+      "cpv": [
+        "80530000"
+      ],
+      "first_seen": "2026-09-01",
+      "gone": false,
+      "last_checked": "2026-09-01",
+      "notice_type": "cn-standard",
+      "phrases": [
+        "intelligence artificielle"
+      ],
+      "publication_date": "2026-08-31",
+      "title": "France – Vocational training services – Actions collectives sous forme d' &amp;quot;ateliers innovants&amp;quot; à destination des TPE du bâtiment dans les domaines suivants : Intelligence Artificielle et Responsabilité Sociétale des Entreprises",
+      "titles": [
+        "An Fhrainc – Vocational training services – Actions collectives sous forme d' &amp;quot;ateliers innovants&amp;quot; à destination des TPE du bâtiment dans les domaines suivants : Intelligence Artificielle et Responsabilité Sociétale des Entreprises",
+        "France – Services de formation professionnelle – Actions collectives sous forme d' &amp;quot;ateliers innovants&amp;quot; à destination des TPE du bâtiment dans les domaines suivants : Intelligence Artificielle et Responsabilité Sociétale des Entreprises",
+        "France – Vocational training services – Actions collectives sous forme d' &amp;quot;ateliers innovants&amp;quot; à destination des TPE du bâtiment dans les domaines suivants : Intelligence Artificielle et Responsabilité Sociétale des Entreprises",
+        "Francia – Servicios de formación profesional – Actions collectives sous forme d' &amp;quot;ateliers innovants&amp;quot; à destination des TPE du bâtiment dans les domaines suivants : Intelligence Artificielle et Responsabilité Sociétale des Entreprises",
+        "Francia – Servizi di formazione professionale – Actions collectives sous forme d' &amp;quot;ateliers innovants&amp;quot; à destination des TPE du bâtiment dans les domaines suivants : Intelligence Artificielle et Responsabilité Sociétale des Entreprises",
+        "Franciaország – Szakmai továbbképzési szolgáltatások – Actions collectives sous forme d' &amp;quot;ateliers innovants&amp;quot; à destination des TPE du bâtiment dans les domaines suivants : Intelligence Artificielle et Responsabilité Sociétale des Entreprises",
+        "Francie – Praktické vzdělávání – Actions collectives sous forme d' &amp;quot;ateliers innovants&amp;quot; à destination des TPE du bâtiment dans les domaines suivants : Intelligence Artificielle et Responsabilité Sociétale des Entreprises",
+        "Francija – Profesionālo mācību pakalpojumi – Actions collectives sous forme d' &amp;quot;ateliers innovants&amp;quot; à destination des TPE du bâtiment dans les domaines suivants : Intelligence Artificielle et Responsabilité Sociétale des Entreprises",
+        "Francija – Storitve poklicnega usposabljanja – Actions collectives sous forme d' &amp;quot;ateliers innovants&amp;quot; à destination des TPE du bâtiment dans les domaines suivants : Intelligence Artificielle et Responsabilité Sociétale des Entreprises",
+        "Francja – Usługi szkolenia zawodowego – Actions collectives sous forme d' &amp;quot;ateliers innovants&amp;quot; à destination des TPE du bâtiment dans les domaines suivants : Intelligence Artificielle et Responsabilité Sociétale des Entreprises",
+        "Francuska – Usluge stručnog osposobljavanja – Actions collectives sous forme d' &amp;quot;ateliers innovants&amp;quot; à destination des TPE du bâtiment dans les domaines suivants : Intelligence Artificielle et Responsabilité Sociétale des Entreprises",
+        "Francúzsko – Služby týkajúce sa praktického vzdelávania – Actions collectives sous forme d' &amp;quot;ateliers innovants&amp;quot; à destination des TPE du bâtiment dans les domaines suivants : Intelligence Artificielle et Responsabilité Sociétale des Entreprises",
+        "Frankreich – Berufsausbildung – Actions collectives sous forme d' &amp;quot;ateliers innovants&amp;quot; à destination des TPE du bâtiment dans les domaines suivants : Intelligence Artificielle et Responsabilité Sociétale des Entreprises",
+        "Frankrig – Faglig uddannelse – Actions collectives sous forme d' &amp;quot;ateliers innovants&amp;quot; à destination des TPE du bâtiment dans les domaines suivants : Intelligence Artificielle et Responsabilité Sociétale des Entreprises",
+        "Frankrijk – Beroepsopleidingsdiensten – Actions collectives sous forme d' &amp;quot;ateliers innovants&amp;quot; à destination des TPE du bâtiment dans les domaines suivants : Intelligence Artificielle et Responsabilité Sociétale des Entreprises",
+        "Frankrike – Yrkesutbildning – Actions collectives sous forme d' &amp;quot;ateliers innovants&amp;quot; à destination des TPE du bâtiment dans les domaines suivants : Intelligence Artificielle et Responsabilité Sociétale des Entreprises",
+        "Franza – Servizzi tat-taħriġ professjonali – Actions collectives sous forme d' &amp;quot;ateliers innovants&amp;quot; à destination des TPE du bâtiment dans les domaines suivants : Intelligence Artificielle et Responsabilité Sociétale des Entreprises",
+        "França – Serviços de formação profissional – Actions collectives sous forme d' &amp;quot;ateliers innovants&amp;quot; à destination des TPE du bâtiment dans les domaines suivants : Intelligence Artificielle et Responsabilité Sociétale des Entreprises",
+        "Franţa – Servicii de formare profesională – Actions collectives sous forme d' &amp;quot;ateliers innovants&amp;quot; à destination des TPE du bâtiment dans les domaines suivants : Intelligence Artificielle et Responsabilité Sociétale des Entreprises",
+        "Prancūzija – Profesinio mokymo paslaugos – Actions collectives sous forme d' &amp;quot;ateliers innovants&amp;quot; à destination des TPE du bâtiment dans les domaines suivants : Intelligence Artificielle et Responsabilité Sociétale des Entreprises",
+        "Prantsusmaa – Kutsekoolituse teenused – Actions collectives sous forme d' &amp;quot;ateliers innovants&amp;quot; à destination des TPE du bâtiment dans les domaines suivants : Intelligence Artificielle et Responsabilité Sociétale des Entreprises",
+        "Ranska – Ammattikoulutuspalvelut – Actions collectives sous forme d' &amp;quot;ateliers innovants&amp;quot; à destination des TPE du bâtiment dans les domaines suivants : Intelligence Artificielle et Responsabilité Sociétale des Entreprises",
+        "Γαλλία – Υπηρεσίες επαγγελματικής κατάρτισης – Actions collectives sous forme d' &amp;quot;ateliers innovants&amp;quot; à destination des TPE du bâtiment dans les domaines suivants : Intelligence Artificielle et Responsabilité Sociétale des Entreprises",
+        "Фpaнция – Услуги по професионално обучение – Actions collectives sous forme d' &amp;quot;ateliers innovants&amp;quot; à destination des TPE du bâtiment dans les domaines suivants : Intelligence Artificielle et Responsabilité Sociétale des Entreprises"
+      ],
+      "vendor_keys": [],
+      "versions": [
+        {
+          "date": "2026-09-01",
+          "file": "snapshots/2026-09-01/notices/599056-2026.xml",
+          "sha256": "2ea16a35862fea5da4872c12613b5e0df5ec8b1981a044d0a46657a73745390a"
+        }
+      ],
+      "winner_names": [],
+      "xml_url": "https://ted.europa.eu/en/notice/599056-2026/xml"
+    },
+    "600277-2026": {
+      "buyer_countries": [
+        "FRA"
+      ],
+      "buyer_names": [
+        "UNIVERSITE DE GUYANE"
+      ],
+      "cpv": [
+        "48800000"
+      ],
+      "first_seen": "2026-09-01",
+      "gone": false,
+      "last_checked": "2026-09-01",
+      "notice_type": "cn-standard",
+      "phrases": [
+        "intelligence artificielle"
+      ],
+      "publication_date": "2026-09-01",
+      "title": "France – Information systems and servers – Fourniture et mise en service de matériels informatiques pour le projet ACAI",
+      "titles": [
+        "An Fhrainc – Information systems and servers – Fourniture et mise en service de matériels informatiques pour le projet ACAI",
+        "France – Information systems and servers – Fourniture et mise en service de matériels informatiques pour le projet ACAI",
+        "France – Systèmes d'information et serveurs – Fourniture et mise en service de matériels informatiques pour le projet ACAI",
+        "Francia – Sistemas y servidores de información – Fourniture et mise en service de matériels informatiques pour le projet ACAI",
+        "Francia – Sistemi e server di informazione – Fourniture et mise en service de matériels informatiques pour le projet ACAI",
+        "Franciaország – Információs rendszerek és szerverek – Fourniture et mise en service de matériels informatiques pour le projet ACAI",
+        "Francie – Informační systémy a servery – Fourniture et mise en service de matériels informatiques pour le projet ACAI",
+        "Francija – Informacijski sistemi in strežniki – Fourniture et mise en service de matériels informatiques pour le projet ACAI",
+        "Francija – Informācijas sistēmas un serveri – Fourniture et mise en service de matériels informatiques pour le projet ACAI",
+        "Francja – Systemy i serwery informacyjne – Fourniture et mise en service de matériels informatiques pour le projet ACAI",
+        "Francuska – Informacijski sustavi i poslužitelji – Fourniture et mise en service de matériels informatiques pour le projet ACAI",
+        "Francúzsko – Informačné systémy a servery – Fourniture et mise en service de matériels informatiques pour le projet ACAI",
+        "Frankreich – Informationssysteme und Server – Fourniture et mise en service de matériels informatiques pour le projet ACAI",
+        "Frankrig – Informationssystemer og servere – Fourniture et mise en service de matériels informatiques pour le projet ACAI",
+        "Frankrijk – Informatiesystemen en servers – Fourniture et mise en service de matériels informatiques pour le projet ACAI",
+        "Frankrike – Informationssystem och servrar – Fourniture et mise en service de matériels informatiques pour le projet ACAI",
+        "Franza – Servers u sistemi ta' informazzjoni – Fourniture et mise en service de matériels informatiques pour le projet ACAI",
+        "França – Sistemas de informação e servidores – Fourniture et mise en service de matériels informatiques pour le projet ACAI",
+        "Franţa – Sisteme de informare şi servere – Fourniture et mise en service de matériels informatiques pour le projet ACAI",
+        "Prancūzija – Informacinės sistemos ir serveriai – Fourniture et mise en service de matériels informatiques pour le projet ACAI",
+        "Prantsusmaa – Infosüsteemid ja serverid – Fourniture et mise en service de matériels informatiques pour le projet ACAI",
+        "Ranska – Tietojärjestelmät ja palvelimet – Fourniture et mise en service de matériels informatiques pour le projet ACAI",
+        "Γαλλία – Συστήματα πληροφόρησης και εξυπηρετητές – Fourniture et mise en service de matériels informatiques pour le projet ACAI",
+        "Фpaнция – Информационни системи и сървъри – Fourniture et mise en service de matériels informatiques pour le projet ACAI"
+      ],
+      "vendor_keys": [],
+      "versions": [
+        {
+          "date": "2026-09-01",
+          "file": "snapshots/2026-09-01/notices/600277-2026.xml",
+          "sha256": "a4f90e86ce0dbdb5be5593977553ffb5f64fdaec9e95f60a1a2ef473a2a9a509"
+        }
+      ],
+      "winner_names": [],
+      "xml_url": "https://ted.europa.eu/en/notice/600277-2026/xml"
+    },
+    "602661-2026": {
+      "buyer_countries": [
+        "ISL"
+      ],
+      "buyer_names": [
+        "Fjársýsla ríkisins",
+        "Menningar-, nýsköpunar- og háskólaráðuneytið"
+      ],
+      "cpv": [
+        "72212980"
+      ],
+      "first_seen": "2026-09-01",
+      "gone": false,
+      "last_checked": "2026-09-01",
+      "notice_type": "veat",
+      "phrases": [
+        "artificial intelligence"
+      ],
+      "publication_date": "2026-09-01",
+      "title": "Iceland – Programming languages and tools development services – VEAT - Centre for Artificial Intelligence and Language Technology / Miðstöð gervigreindar og máltækni",
+      "titles": [
+        "An Íoslainn – Programming languages and tools development services – VEAT - Centre for Artificial Intelligence and Language Technology / Miðstöð gervigreindar og máltækni",
+        "Iceland – Programming languages and tools development services – VEAT - Centre for Artificial Intelligence and Language Technology / Miðstöð gervigreindar og máltækni",
+        "Island – Entwicklung von Programmiersprachen und -werkzeugen – VEAT - Centre for Artificial Intelligence and Language Technology / Miðstöð gervigreindar og máltækni",
+        "Island – Programmikeelte ja tööriistade arendusteenused – VEAT - Centre for Artificial Intelligence and Language Technology / Miðstöð gervigreindar og máltækni",
+        "Island – Programvaruutvecklingstjänster för programmeringsspråk och programmeringsverktyg – VEAT - Centre for Artificial Intelligence and Language Technology / Miðstöð gervigreindar og máltækni",
+        "Island – Služby na vývoj softvéru pre programovacie jazyky a nástroje – VEAT - Centre for Artificial Intelligence and Language Technology / Miðstöð gervigreindar og máltækni",
+        "Island – Udvikling af programmeringssprog og -værktøjer – VEAT - Centre for Artificial Intelligence and Language Technology / Miðstöð gervigreindar og máltækni",
+        "Island – Usluge razvoja programskih jezika i alata – VEAT - Centre for Artificial Intelligence and Language Technology / Miðstöð gervigreindar og máltækni",
+        "Island – Vývoj programovacích jazyků a nástrojů – VEAT - Centre for Artificial Intelligence and Language Technology / Miðstöð gervigreindar og máltækni",
+        "Islanda – Servicii de dezvoltare de limbaje şi instrumente de programare – VEAT - Centre for Artificial Intelligence and Language Technology / Miðstöð gervigreindar og máltækni",
+        "Islanda – Servizi di programmazione di software per linguaggi di programmazione – VEAT - Centre for Artificial Intelligence and Language Technology / Miðstöð gervigreindar og máltækni",
+        "Islande – Programmēšanas valodu un rīku izstrādes pakalpojumi – VEAT - Centre for Artificial Intelligence and Language Technology / Miðstöð gervigreindar og máltækni",
+        "Islande – Services de développement de langages de programmation et d'outils – VEAT - Centre for Artificial Intelligence and Language Technology / Miðstöð gervigreindar og máltækni",
+        "Islandia – Servicios de lenguajes de programación y de desarrollo de herramientas – VEAT - Centre for Artificial Intelligence and Language Technology / Miðstöð gervigreindar og máltækni",
+        "Islandia – Usługi opracowywania języków programowania i narzędzi – VEAT - Centre for Artificial Intelligence and Language Technology / Miðstöð gervigreindar og máltækni",
+        "Islandija – Programavimo kalbų ir priemonių kūrimo paslaugos – VEAT - Centre for Artificial Intelligence and Language Technology / Miðstöð gervigreindar og máltækni",
+        "Islandija – Storitve razvoja programskih jezikov in orodij – VEAT - Centre for Artificial Intelligence and Language Technology / Miðstöð gervigreindar og máltækni",
+        "Islanti – Ohjelmointikielten ja -välineiden kehittämispalvelut – VEAT - Centre for Artificial Intelligence and Language Technology / Miðstöð gervigreindar og máltækni",
+        "Islândia – Serviços de desenvolvimento de linguagens e ferramentas de programação – VEAT - Centre for Artificial Intelligence and Language Technology / Miðstöð gervigreindar og máltækni",
+        "Izland – Programnyelvek és eszközök fejlesztésével kapcsolatos szolgáltatások – VEAT - Centre for Artificial Intelligence and Language Technology / Miðstöð gervigreindar og máltækni",
+        "L-Iżlanda – Servizzi ta' żvilupp ta' lingwi u għodod għall-ipprogrammar – VEAT - Centre for Artificial Intelligence and Language Technology / Miðstöð gervigreindar og máltækni",
+        "Ĳsland – Diensten voor het ontwikkelen van programmeertalen en tools – VEAT - Centre for Artificial Intelligence and Language Technology / Miðstöð gervigreindar og máltækni",
+        "Ισλανδία – Υπηρεσίες ανάπτυξης γλωσσών και εργαλείων προγραμματισμού – VEAT - Centre for Artificial Intelligence and Language Technology / Miðstöð gervigreindar og máltækni",
+        "Исландия – Услуги по разработване на софтуер за езици и средства за програмиране – VEAT - Centre for Artificial Intelligence and Language Technology / Miðstöð gervigreindar og máltækni"
+      ],
+      "vendor_keys": [],
+      "versions": [
+        {
+          "date": "2026-09-01",
+          "file": "snapshots/2026-09-01/notices/602661-2026.xml",
+          "sha256": "09d9d478ee42a1de7ac2ca67f43abb0cd727d49bedead5a2293bb6cce4079b9a"
+        }
+      ],
+      "winner_names": [],
+      "xml_url": "https://ted.europa.eu/en/notice/602661-2026/xml"
     }
   }
 }

@@ -1,0 +1,144 @@
+{
+  "candidates": {
+    "declined": [],
+    "open": []
+  },
+  "date": "2026-09-02",
+  "envelope_version": 1,
+  "failures": [
+    {
+      "error": "HTTP 202",
+      "scope": "xml:603352-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "xml:603694-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "xml:604590-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "xml:604647-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "xml:604662-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "xml:604840-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "xml:605512-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "xml:606030-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "recheck:576395-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "recheck:578510-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "recheck:580664-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "recheck:580916-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "recheck:581337-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "recheck:583418-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "recheck:583466-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "recheck:588427-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "recheck:590745-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "recheck:592241-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "recheck:593981-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "recheck:596026-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "recheck:596208-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "recheck:597131-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "recheck:599056-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "recheck:600277-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "recheck:602661-2026"
+    }
+  ],
+  "http_429": 0,
+  "new_matches": [
+    "603352-2026",
+    "603694-2026",
+    "604590-2026",
+    "604647-2026",
+    "604662-2026",
+    "604840-2026",
+    "605512-2026",
+    "606030-2026"
+  ],
+  "phrases": [
+    {
+      "lang": "eng",
+      "phrase": "artificial intelligence",
+      "total": 6,
+      "truncated": false
+    },
+    {
+      "lang": "deu",
+      "phrase": "Künstliche Intelligenz",
+      "total": 4,
+      "truncated": false
+    },
+    {
+      "lang": "fra",
+      "phrase": "intelligence artificielle",
+      "total": 2,
+      "truncated": false
+    }
+  ],
+  "rechecked": 17,
+  "requests": 28,
+  "signals": []
+}

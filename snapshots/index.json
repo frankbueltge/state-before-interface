@@ -27,7 +27,18 @@
     "NEW_MATCH:597131-2026",
     "NEW_MATCH:599056-2026",
     "NEW_MATCH:600277-2026",
-    "NEW_MATCH:602661-2026"
+    "NEW_MATCH:602661-2026",
+    "NEW_MATCH:603352-2026",
+    "NEW_MATCH:603694-2026",
+    "NEW_MATCH:604590-2026",
+    "NEW_MATCH:604647-2026",
+    "NEW_MATCH:604662-2026",
+    "NEW_MATCH:604840-2026",
+    "NEW_MATCH:605512-2026",
+    "NEW_MATCH:606030-2026",
+    "NEW_MATCH:608000-2026",
+    "NEW_MATCH:608731-2026",
+    "NEW_MATCH:611345-2026"
   ],
   "notices": {
     "537409-2026": {
@@ -701,7 +712,7 @@
       ],
       "first_seen": "2026-08-23",
       "gone": false,
-      "last_checked": "2026-09-04",
+      "last_checked": "2026-09-05",
       "notice_type": "pin-only",
       "phrases": [
         "artificial intelligence"
@@ -760,7 +771,7 @@
       ],
       "first_seen": "2026-08-23",
       "gone": false,
-      "last_checked": "2026-09-04",
+      "last_checked": "2026-09-05",
       "notice_type": "cn-standard",
       "phrases": [
         "intelligence artificielle"
@@ -818,7 +829,7 @@
       ],
       "first_seen": "2026-08-23",
       "gone": false,
-      "last_checked": "2026-09-04",
+      "last_checked": "2026-09-05",
       "notice_type": "cn-standard",
       "phrases": [
         "intelligence artificielle"
@@ -878,7 +889,7 @@
       ],
       "first_seen": "2026-08-23",
       "gone": false,
-      "last_checked": "2026-09-04",
+      "last_checked": "2026-09-05",
       "notice_type": "pin-only",
       "phrases": [
         "artificial intelligence"
@@ -937,7 +948,7 @@
       ],
       "first_seen": "2026-08-24",
       "gone": false,
-      "last_checked": "2026-09-04",
+      "last_checked": "2026-09-05",
       "notice_type": "cn-standard",
       "phrases": [
         "Künstliche Intelligenz"
@@ -994,7 +1005,7 @@
       ],
       "first_seen": "2026-08-24",
       "gone": false,
-      "last_checked": "2026-09-04",
+      "last_checked": "2026-09-05",
       "notice_type": "cn-standard",
       "phrases": [
         "artificial intelligence"
@@ -1054,7 +1065,7 @@
       ],
       "first_seen": "2026-08-24",
       "gone": false,
-      "last_checked": "2026-09-04",
+      "last_checked": "2026-09-05",
       "notice_type": "cn-standard",
       "phrases": [
         "artificial intelligence"
@@ -1111,7 +1122,7 @@
       ],
       "first_seen": "2026-08-29",
       "gone": false,
-      "last_checked": "2026-09-04",
+      "last_checked": "2026-09-05",
       "notice_type": "can-standard",
       "phrases": [
         "Künstliche Intelligenz"
@@ -1170,7 +1181,7 @@
       ],
       "first_seen": "2026-08-29",
       "gone": false,
-      "last_checked": "2026-09-04",
+      "last_checked": "2026-09-05",
       "notice_type": "can-standard",
       "phrases": [
         "artificial intelligence"
@@ -1234,7 +1245,7 @@
       ],
       "first_seen": "2026-08-29",
       "gone": false,
-      "last_checked": "2026-09-04",
+      "last_checked": "2026-09-05",
       "notice_type": "cn-social",
       "phrases": [
         "artificial intelligence"
@@ -1296,7 +1307,7 @@
       ],
       "first_seen": "2026-08-29",
       "gone": false,
-      "last_checked": "2026-09-04",
+      "last_checked": "2026-09-05",
       "notice_type": "cn-standard",
       "phrases": [
         "artificial intelligence"
@@ -1352,7 +1363,7 @@
       ],
       "first_seen": "2026-08-29",
       "gone": false,
-      "last_checked": "2026-09-04",
+      "last_checked": "2026-09-05",
       "notice_type": "cn-standard",
       "phrases": [
         "artificial intelligence"
@@ -1408,7 +1419,7 @@
       ],
       "first_seen": "2026-08-29",
       "gone": false,
-      "last_checked": "2026-09-04",
+      "last_checked": "2026-09-05",
       "notice_type": "pin-only",
       "phrases": [
         "artificial intelligence"
@@ -1464,7 +1475,7 @@
       ],
       "first_seen": "2026-09-01",
       "gone": false,
-      "last_checked": "2026-09-04",
+      "last_checked": "2026-09-05",
       "notice_type": "cn-standard",
       "phrases": [
         "Künstliche Intelligenz"
@@ -1520,7 +1531,7 @@
       ],
       "first_seen": "2026-09-01",
       "gone": false,
-      "last_checked": "2026-09-04",
+      "last_checked": "2026-09-05",
       "notice_type": "cn-standard",
       "phrases": [
         "intelligence artificielle"
@@ -1576,7 +1587,7 @@
       ],
       "first_seen": "2026-09-01",
       "gone": false,
-      "last_checked": "2026-09-04",
+      "last_checked": "2026-09-05",
       "notice_type": "cn-standard",
       "phrases": [
         "intelligence artificielle"
@@ -1633,7 +1644,7 @@
       ],
       "first_seen": "2026-09-01",
       "gone": false,
-      "last_checked": "2026-09-04",
+      "last_checked": "2026-09-05",
       "notice_type": "veat",
       "phrases": [
         "artificial intelligence"
@@ -1676,6 +1687,708 @@
       ],
       "winner_names": [],
       "xml_url": "https://ted.europa.eu/en/notice/602661-2026/xml"
+    },
+    "603352-2026": {
+      "buyer_countries": [
+        "DEU"
+      ],
+      "buyer_names": [
+        "Bundesministerium für Arbeit und Soziales"
+      ],
+      "cpv": [
+        "73000000",
+        "73110000",
+        "73200000",
+        "73210000",
+        "73300000",
+        "79310000",
+        "79315000",
+        "79416000",
+        "79419000"
+      ],
+      "first_seen": "2026-09-05",
+      "gone": false,
+      "last_checked": "2026-09-05",
+      "notice_type": "cn-standard",
+      "phrases": [
+        "Künstliche Intelligenz"
+      ],
+      "publication_date": "2026-09-02",
+      "title": "Germany – Research and development services and related consultancy services – Arbeitskräftepotenziale durch Digitalisierung und KI inklusiv nutzen",
+      "titles": [
+        "Alemanha – Serviços de investigação e desenvolvimento e serviços de consultoria conexos – Arbeitskräftepotenziale durch Digitalisierung und KI inklusiv nutzen",
+        "Alemania – Servicios de investigación y desarrollo y servicios de consultoría conexos – Arbeitskräftepotenziale durch Digitalisierung und KI inklusiv nutzen",
+        "Allemagne – Services de recherche et développement et services de conseil connexes – Arbeitskräftepotenziale durch Digitalisierung und KI inklusiv nutzen",
+        "An Ghearmáin – Research and development services and related consultancy services – Arbeitskräftepotenziale durch Digitalisierung und KI inklusiv nutzen",
+        "Deutschland – Forschungs- und Entwicklungsdienste und zugehörige Beratung – Arbeitskräftepotenziale durch Digitalisierung und KI inklusiv nutzen",
+        "Duitsland – Onderzoek en ontwikkeling, en aanverwante adviezen – Arbeitskräftepotenziale durch Digitalisierung und KI inklusiv nutzen",
+        "Germania – Servicii de cercetare şi de dezvoltare şi servicii conexe de consultanţă – Arbeitskräftepotenziale durch Digitalisierung und KI inklusiv nutzen",
+        "Germania – Servizi di ricerca e sviluppo nonché servizi di consulenza affini – Arbeitskräftepotenziale durch Digitalisierung und KI inklusiv nutzen",
+        "Germany – Research and development services and related consultancy services – Arbeitskräftepotenziale durch Digitalisierung und KI inklusiv nutzen",
+        "Il-Ġermanja – Servizzi ta' riċerka u żvilupp u servizzi relatati mal-konsulenza – Arbeitskräftepotenziale durch Digitalisierung und KI inklusiv nutzen",
+        "Nemecko – Výskum a vývoj a súvisiace poradenské služby – Arbeitskräftepotenziale durch Digitalisierung und KI inklusiv nutzen",
+        "Nemčija – Storitve na področju raziskav in razvoja ter s tem povezane svetovalne storitve – Arbeitskräftepotenziale durch Digitalisierung und KI inklusiv nutzen",
+        "Niemcy – Usługi badawcze i eksperymentalno-rozwojowe oraz pokrewne usługi doradcze – Arbeitskräftepotenziale durch Digitalisierung und KI inklusiv nutzen",
+        "Njemačka – Usluge na području istraživanja i razvoja i s tim povezane usluge savjetovanja – Arbeitskräftepotenziale durch Digitalisierung und KI inklusiv nutzen",
+        "Németország – Kutatási és fejlesztési szolgáltatások és kapcsolódó tanácsadói szolgáltatások – Arbeitskräftepotenziale durch Digitalisierung und KI inklusiv nutzen",
+        "Německo – Výzkum a vývoj a související služby – Arbeitskräftepotenziale durch Digitalisierung und KI inklusiv nutzen",
+        "Saksa – Tutkimus- ja kehityspalvelut ja niihin liittyvät konsulttipalvelut – Arbeitskräftepotenziale durch Digitalisierung und KI inklusiv nutzen",
+        "Saksamaa – Uurimis- ja arendusteenused ja seonduvad nõustamisteenused – Arbeitskräftepotenziale durch Digitalisierung und KI inklusiv nutzen",
+        "Tyskland – FoU-tjänster samt tillhörande konsulttjänster – Arbeitskräftepotenziale durch Digitalisierung und KI inklusiv nutzen",
+        "Tyskland – Forsknings- og udviklingsvirksomhed og hermed beslægtet konsulentvirksomhed – Arbeitskräftepotenziale durch Digitalisierung und KI inklusiv nutzen",
+        "Vokietija – Mokslinių tyrimų ir taikomosios veiklos paslaugos bei su jomis susijusios konsultacinės paslaugos – Arbeitskräftepotenziale durch Digitalisierung und KI inklusiv nutzen",
+        "Vācija – Pētniecības un izstrādes pakalpojumi un saistītie konsultāciju pakalpojumi – Arbeitskräftepotenziale durch Digitalisierung und KI inklusiv nutzen",
+        "Γερμανία – Υπηρεσίες έρευνας και ανάπτυξης, καθώς και συναφείς υπηρεσίες παροχής συμβουλών – Arbeitskräftepotenziale durch Digitalisierung und KI inklusiv nutzen",
+        "Гepмaния – Научни изследвания и експериментални разработки и свързаните с тях консултантски услуги – Arbeitskräftepotenziale durch Digitalisierung und KI inklusiv nutzen"
+      ],
+      "vendor_keys": [],
+      "versions": [
+        {
+          "date": "2026-09-05",
+          "file": "snapshots/2026-09-05/notices/603352-2026.xml",
+          "sha256": "10aee9e2840b69ea3d4ccd7ebe7665537d4086651572ee34fe4df43e5add78d3"
+        }
+      ],
+      "winner_names": [],
+      "xml_url": "https://ted.europa.eu/en/notice/603352-2026/xml"
+    },
+    "603694-2026": {
+      "buyer_countries": [
+        "CHE"
+      ],
+      "buyer_names": [
+        "Universität Zürich Assetmanagement"
+      ],
+      "cpv": [
+        "72000000"
+      ],
+      "first_seen": "2026-09-05",
+      "gone": false,
+      "last_checked": "2026-09-05",
+      "notice_type": "can-standard",
+      "phrases": [
+        "artificial intelligence"
+      ],
+      "publication_date": "2026-09-02",
+      "title": "Switzerland – IT services: consulting, software development, Internet and support – Rahmenverträge für IT-Dienstleistungen an der UZH",
+      "titles": [
+        "An Eilvéis – IT services: consulting, software development, Internet and support – Rahmenverträge für IT-Dienstleistungen an der UZH",
+        "Elveţia – Servicii IT: consultanţă, dezvoltare de software, internet şi asistenţă – Rahmenverträge für IT-Dienstleistungen an der UZH",
+        "L-Iżvizzera – Servizzi ta' IT: konsulenza, żvilupp ta' softwer, Internet u appoġġ – Rahmenverträge für IT-Dienstleistungen an der UZH",
+        "Schweiz – IT-Dienste: Beratung, Software-Entwicklung, Internet und Hilfestellung – Rahmenverträge für IT-Dienstleistungen an der UZH",
+        "Schweiz – IT-tjänster: konsultverksamhet, programvaruutveckling, Internet och stöd – Rahmenverträge für IT-Dienstleistungen an der UZH",
+        "Schweiz – It-tjenester: rådgivning, programmeludvikling, internet og support – Rahmenverträge für IT-Dienstleistungen an der UZH",
+        "Suisse – Services de technologies de l'information, conseil, développement de logiciels, internet et appui – Rahmenverträge für IT-Dienstleistungen an der UZH",
+        "Suiza – Servicios TI: consultoría, desarrollo de software, Internet y apoyo – Rahmenverträge für IT-Dienstleistungen an der UZH",
+        "Suíça – Serviços de TI: consultoria, desenvolvimento de software, Internet e apoio – Rahmenverträge für IT-Dienstleistungen an der UZH",
+        "Sveitsi – Tietotekniset palvelut: neuvonta, ohjelmistojen kehittäminen, Internet ja tuki – Rahmenverträge für IT-Dienstleistungen an der UZH",
+        "Svizzera – Servizi informatici: consulenza, sviluppo di software, Internet e supporto – Rahmenverträge für IT-Dienstleistungen an der UZH",
+        "Svájc – IT-szolgáltatások: tanácsadás, szoftverfejlesztés, internet és támogatás – Rahmenverträge für IT-Dienstleistungen an der UZH",
+        "Switzerland – IT services: consulting, software development, Internet and support – Rahmenverträge für IT-Dienstleistungen an der UZH",
+        "Szwajcaria – Usługi informatyczne: konsultacyjne, opracowywania oprogramowania, internetowe i wsparcia – Rahmenverträge für IT-Dienstleistungen an der UZH",
+        "Zwitserland – IT-diensten: adviezen, softwareontwikkeling, internet en ondersteuning – Rahmenverträge für IT-Dienstleistungen an der UZH",
+        "Švajčiarsko – Služby informačných technológií: konzultácie, vývoj softvéru, internet a podpora – Rahmenverträge für IT-Dienstleistungen an der UZH",
+        "Šveicarija – IT paslaugos: konsultavimas, programinės įrangos kūrimas, internetas ir aptarnavimo paslaugos – Rahmenverträge für IT-Dienstleistungen an der UZH",
+        "Šveice – IT pakalpojumi konsultēšana, programmatūras izstrāde, internets un atbalsts – Rahmenverträge für IT-Dienstleistungen an der UZH",
+        "Šveits – IT-teenused: nõuande-, tarkvaraarendus-, Interneti- ja tugiteenused – Rahmenverträge für IT-Dienstleistungen an der UZH",
+        "Švica – Storitve informacijske tehnologije: svetovanje, razvoj programske opreme, internet in podpora – Rahmenverträge für IT-Dienstleistungen an der UZH",
+        "Švicarska – Usluge informacijske tehnologije: savjetovanje, razvoj programske podrške, internet i podrška – Rahmenverträge für IT-Dienstleistungen an der UZH",
+        "Švýcarsko – Informační technologie: poradenství, vývoj programového vybavení, internet a podpora – Rahmenverträge für IT-Dienstleistungen an der UZH",
+        "Ελβετία – Υπηρεσίες τεχνολογίας των πληροφοριών: παροχή συμβουλών, ανάπτυξη λογισμικού, Διαδίκτυο και υποστήριξη – Rahmenverträge für IT-Dienstleistungen an der UZH",
+        "Швейцария – ИТ услуги: консултации, разработване на софтуер, Интернет и поддръжка – Rahmenverträge für IT-Dienstleistungen an der UZH"
+      ],
+      "vendor_keys": [
+        "de_callista ace",
+        "de_devoteam",
+        "de_securix"
+      ],
+      "versions": [
+        {
+          "date": "2026-09-05",
+          "file": "snapshots/2026-09-05/notices/603694-2026.xml",
+          "sha256": "fa9b5c0d27b637725434a7512fc009ca253a6dd0ff764a71b31284697578a46b"
+        }
+      ],
+      "winner_names": [
+        "DE_Callista ACE AG",
+        "DE_Devoteam GmbH",
+        "DE_SECURIX AG"
+      ],
+      "xml_url": "https://ted.europa.eu/en/notice/603694-2026/xml"
+    },
+    "604590-2026": {
+      "buyer_countries": [
+        "DEU"
+      ],
+      "buyer_names": [
+        "Esche Schümann Commichau für das Deutsche Forschungszentrum für Künstliche Intelligenz (DFKI)"
+      ],
+      "cpv": [
+        "09300000"
+      ],
+      "first_seen": "2026-09-05",
+      "gone": false,
+      "last_checked": "2026-09-05",
+      "notice_type": "cn-standard",
+      "phrases": [
+        "Künstliche Intelligenz"
+      ],
+      "publication_date": "2026-09-02",
+      "title": "Germany – Electricity, heating, solar and nuclear energy – Lieferung von Ökostrom inkl. Durchführung der Netznutzung als Portfolio-Modell (2027-2029)",
+      "titles": [
+        "Alemanha – Electricidade, aquecimento, energia solar e nuclear – Lieferung von Ökostrom inkl. Durchführung der Netznutzung als Portfolio-Modell (2027-2029)",
+        "Alemania – Electricidad, calefacción, energías solar y nuclear – Lieferung von Ökostrom inkl. Durchführung der Netznutzung als Portfolio-Modell (2027-2029)",
+        "Allemagne – Électricité, chauffage, énergie solaire et nucléaire – Lieferung von Ökostrom inkl. Durchführung der Netznutzung als Portfolio-Modell (2027-2029)",
+        "An Ghearmáin – Electricity, heating, solar and nuclear energy – Lieferung von Ökostrom inkl. Durchführung der Netznutzung als Portfolio-Modell (2027-2029)",
+        "Deutschland – Elektrizität, Heizung, Sonnen- und Kernenergie – Lieferung von Ökostrom inkl. Durchführung der Netznutzung als Portfolio-Modell (2027-2029)",
+        "Duitsland – Elektriciteit, verwarming, zonne- en kernenergie – Lieferung von Ökostrom inkl. Durchführung der Netznutzung als Portfolio-Modell (2027-2029)",
+        "Germania – Electricitate, încălzire, energie solară şi nucleară – Lieferung von Ökostrom inkl. Durchführung der Netznutzung als Portfolio-Modell (2027-2029)",
+        "Germania – Elettricità, riscaldamento, energia solare e nucleare – Lieferung von Ökostrom inkl. Durchführung der Netznutzung als Portfolio-Modell (2027-2029)",
+        "Germany – Electricity, heating, solar and nuclear energy – Lieferung von Ökostrom inkl. Durchführung der Netznutzung als Portfolio-Modell (2027-2029)",
+        "Il-Ġermanja – Elettriku, tisħin, enerġija tax-xemx u nukleari – Lieferung von Ökostrom inkl. Durchführung der Netznutzung als Portfolio-Modell (2027-2029)",
+        "Nemecko – Elektrina, vykurovanie, slnečná a jadrová energia – Lieferung von Ökostrom inkl. Durchführung der Netznutzung als Portfolio-Modell (2027-2029)",
+        "Nemčija – Elektrika, ogrevanje, sončna in jedrska energija – Lieferung von Ökostrom inkl. Durchführung der Netznutzung als Portfolio-Modell (2027-2029)",
+        "Niemcy – Energia elektryczna, cieplna, słoneczna i jądrowa – Lieferung von Ökostrom inkl. Durchführung der Netznutzung als Portfolio-Modell (2027-2029)",
+        "Njemačka – Električna energija, grijanje, sunčeva i nuklearna energija – Lieferung von Ökostrom inkl. Durchführung der Netznutzung als Portfolio-Modell (2027-2029)",
+        "Németország – Villamos energia, fűtés, nap- és nukleáris energia – Lieferung von Ökostrom inkl. Durchführung der Netznutzung als Portfolio-Modell (2027-2029)",
+        "Německo – Elektrická energie, vytápění, solární a jaderná energie – Lieferung von Ökostrom inkl. Durchführung der Netznutzung als Portfolio-Modell (2027-2029)",
+        "Saksa – Sähkö-, lämpö-, aurinko- ja ydinenergia – Lieferung von Ökostrom inkl. Durchführung der Netznutzung als Portfolio-Modell (2027-2029)",
+        "Saksamaa – Elekter, küte, päikese- ja tuumaenergia – Lieferung von Ökostrom inkl. Durchführung der Netznutzung als Portfolio-Modell (2027-2029)",
+        "Tyskland – Elektricitet, opvarmning, solenergi, nuklear energi – Lieferung von Ökostrom inkl. Durchführung der Netznutzung als Portfolio-Modell (2027-2029)",
+        "Tyskland – Elektricitet, värme, sol- och kärnenergi – Lieferung von Ökostrom inkl. Durchführung der Netznutzung als Portfolio-Modell (2027-2029)",
+        "Vokietija – Elektra, šildymas, saulės ir branduolinė energija – Lieferung von Ökostrom inkl. Durchführung der Netznutzung als Portfolio-Modell (2027-2029)",
+        "Vācija – Elektrība, siltumapgāde, saules enerģija un kodolenerģija – Lieferung von Ökostrom inkl. Durchführung der Netznutzung als Portfolio-Modell (2027-2029)",
+        "Γερμανία – Ηλεκτρική, θερμαντική, ηλιακή και πυρηνική ενέργεια – Lieferung von Ökostrom inkl. Durchführung der Netznutzung als Portfolio-Modell (2027-2029)",
+        "Гepмaния – Електрическа, топлинна, слънчева и ядрена енергия – Lieferung von Ökostrom inkl. Durchführung der Netznutzung als Portfolio-Modell (2027-2029)"
+      ],
+      "vendor_keys": [],
+      "versions": [
+        {
+          "date": "2026-09-05",
+          "file": "snapshots/2026-09-05/notices/604590-2026.xml",
+          "sha256": "ff5310a11b23865a9aa5231e54ca33b34e432af81784e0db79860bc5789f3762"
+        }
+      ],
+      "winner_names": [],
+      "xml_url": "https://ted.europa.eu/en/notice/604590-2026/xml"
+    },
+    "604647-2026": {
+      "buyer_countries": [
+        "CHE"
+      ],
+      "buyer_names": [
+        "Universität Zürich Assetmanagement"
+      ],
+      "cpv": [
+        "72000000"
+      ],
+      "first_seen": "2026-09-05",
+      "gone": false,
+      "last_checked": "2026-09-05",
+      "notice_type": "can-standard",
+      "phrases": [
+        "artificial intelligence"
+      ],
+      "publication_date": "2026-09-02",
+      "title": "Switzerland – IT services: consulting, software development, Internet and support – Rahmenverträge für IT-Dienstleistungen an der UZH",
+      "titles": [
+        "An Eilvéis – IT services: consulting, software development, Internet and support – Rahmenverträge für IT-Dienstleistungen an der UZH",
+        "Elveţia – Servicii IT: consultanţă, dezvoltare de software, internet şi asistenţă – Rahmenverträge für IT-Dienstleistungen an der UZH",
+        "L-Iżvizzera – Servizzi ta' IT: konsulenza, żvilupp ta' softwer, Internet u appoġġ – Rahmenverträge für IT-Dienstleistungen an der UZH",
+        "Schweiz – IT-Dienste: Beratung, Software-Entwicklung, Internet und Hilfestellung – Rahmenverträge für IT-Dienstleistungen an der UZH",
+        "Schweiz – IT-tjänster: konsultverksamhet, programvaruutveckling, Internet och stöd – Rahmenverträge für IT-Dienstleistungen an der UZH",
+        "Schweiz – It-tjenester: rådgivning, programmeludvikling, internet og support – Rahmenverträge für IT-Dienstleistungen an der UZH",
+        "Suisse – Services de technologies de l'information, conseil, développement de logiciels, internet et appui – Rahmenverträge für IT-Dienstleistungen an der UZH",
+        "Suiza – Servicios TI: consultoría, desarrollo de software, Internet y apoyo – Rahmenverträge für IT-Dienstleistungen an der UZH",
+        "Suíça – Serviços de TI: consultoria, desenvolvimento de software, Internet e apoio – Rahmenverträge für IT-Dienstleistungen an der UZH",
+        "Sveitsi – Tietotekniset palvelut: neuvonta, ohjelmistojen kehittäminen, Internet ja tuki – Rahmenverträge für IT-Dienstleistungen an der UZH",
+        "Svizzera – Servizi informatici: consulenza, sviluppo di software, Internet e supporto – Rahmenverträge für IT-Dienstleistungen an der UZH",
+        "Svájc – IT-szolgáltatások: tanácsadás, szoftverfejlesztés, internet és támogatás – Rahmenverträge für IT-Dienstleistungen an der UZH",
+        "Switzerland – IT services: consulting, software development, Internet and support – Rahmenverträge für IT-Dienstleistungen an der UZH",
+        "Szwajcaria – Usługi informatyczne: konsultacyjne, opracowywania oprogramowania, internetowe i wsparcia – Rahmenverträge für IT-Dienstleistungen an der UZH",
+        "Zwitserland – IT-diensten: adviezen, softwareontwikkeling, internet en ondersteuning – Rahmenverträge für IT-Dienstleistungen an der UZH",
+        "Švajčiarsko – Služby informačných technológií: konzultácie, vývoj softvéru, internet a podpora – Rahmenverträge für IT-Dienstleistungen an der UZH",
+        "Šveicarija – IT paslaugos: konsultavimas, programinės įrangos kūrimas, internetas ir aptarnavimo paslaugos – Rahmenverträge für IT-Dienstleistungen an der UZH",
+        "Šveice – IT pakalpojumi konsultēšana, programmatūras izstrāde, internets un atbalsts – Rahmenverträge für IT-Dienstleistungen an der UZH",
+        "Šveits – IT-teenused: nõuande-, tarkvaraarendus-, Interneti- ja tugiteenused – Rahmenverträge für IT-Dienstleistungen an der UZH",
+        "Švica – Storitve informacijske tehnologije: svetovanje, razvoj programske opreme, internet in podpora – Rahmenverträge für IT-Dienstleistungen an der UZH",
+        "Švicarska – Usluge informacijske tehnologije: savjetovanje, razvoj programske podrške, internet i podrška – Rahmenverträge für IT-Dienstleistungen an der UZH",
+        "Švýcarsko – Informační technologie: poradenství, vývoj programového vybavení, internet a podpora – Rahmenverträge für IT-Dienstleistungen an der UZH",
+        "Ελβετία – Υπηρεσίες τεχνολογίας των πληροφοριών: παροχή συμβουλών, ανάπτυξη λογισμικού, Διαδίκτυο και υποστήριξη – Rahmenverträge für IT-Dienstleistungen an der UZH",
+        "Швейцария – ИТ услуги: консултации, разработване на софтуер, Интернет и поддръжка – Rahmenverträge für IT-Dienstleistungen an der UZH"
+      ],
+      "vendor_keys": [
+        "de_bespinian",
+        "de_bitforge",
+        "de_codify"
+      ],
+      "versions": [
+        {
+          "date": "2026-09-05",
+          "file": "snapshots/2026-09-05/notices/604647-2026.xml",
+          "sha256": "3d7a43968d2c9e91afebf502b32b0185e64f0daf6c0ff802087b1b48f40701b2"
+        }
+      ],
+      "winner_names": [
+        "DE_Codify AG",
+        "DE_bespinian GmbH",
+        "DE_bitforge AG"
+      ],
+      "xml_url": "https://ted.europa.eu/en/notice/604647-2026/xml"
+    },
+    "604662-2026": {
+      "buyer_countries": [
+        "CHE"
+      ],
+      "buyer_names": [
+        "Universität Zürich Assetmanagement"
+      ],
+      "cpv": [
+        "72000000"
+      ],
+      "first_seen": "2026-09-05",
+      "gone": false,
+      "last_checked": "2026-09-05",
+      "notice_type": "can-standard",
+      "phrases": [
+        "artificial intelligence"
+      ],
+      "publication_date": "2026-09-02",
+      "title": "Switzerland – IT services: consulting, software development, Internet and support – Rahmenverträge für IT-Dienstleistungen an der UZH",
+      "titles": [
+        "An Eilvéis – IT services: consulting, software development, Internet and support – Rahmenverträge für IT-Dienstleistungen an der UZH",
+        "Elveţia – Servicii IT: consultanţă, dezvoltare de software, internet şi asistenţă – Rahmenverträge für IT-Dienstleistungen an der UZH",
+        "L-Iżvizzera – Servizzi ta' IT: konsulenza, żvilupp ta' softwer, Internet u appoġġ – Rahmenverträge für IT-Dienstleistungen an der UZH",
+        "Schweiz – IT-Dienste: Beratung, Software-Entwicklung, Internet und Hilfestellung – Rahmenverträge für IT-Dienstleistungen an der UZH",
+        "Schweiz – IT-tjänster: konsultverksamhet, programvaruutveckling, Internet och stöd – Rahmenverträge für IT-Dienstleistungen an der UZH",
+        "Schweiz – It-tjenester: rådgivning, programmeludvikling, internet og support – Rahmenverträge für IT-Dienstleistungen an der UZH",
+        "Suisse – Services de technologies de l'information, conseil, développement de logiciels, internet et appui – Rahmenverträge für IT-Dienstleistungen an der UZH",
+        "Suiza – Servicios TI: consultoría, desarrollo de software, Internet y apoyo – Rahmenverträge für IT-Dienstleistungen an der UZH",
+        "Suíça – Serviços de TI: consultoria, desenvolvimento de software, Internet e apoio – Rahmenverträge für IT-Dienstleistungen an der UZH",
+        "Sveitsi – Tietotekniset palvelut: neuvonta, ohjelmistojen kehittäminen, Internet ja tuki – Rahmenverträge für IT-Dienstleistungen an der UZH",
+        "Svizzera – Servizi informatici: consulenza, sviluppo di software, Internet e supporto – Rahmenverträge für IT-Dienstleistungen an der UZH",
+        "Svájc – IT-szolgáltatások: tanácsadás, szoftverfejlesztés, internet és támogatás – Rahmenverträge für IT-Dienstleistungen an der UZH",
+        "Switzerland – IT services: consulting, software development, Internet and support – Rahmenverträge für IT-Dienstleistungen an der UZH",
+        "Szwajcaria – Usługi informatyczne: konsultacyjne, opracowywania oprogramowania, internetowe i wsparcia – Rahmenverträge für IT-Dienstleistungen an der UZH",
+        "Zwitserland – IT-diensten: adviezen, softwareontwikkeling, internet en ondersteuning – Rahmenverträge für IT-Dienstleistungen an der UZH",
+        "Švajčiarsko – Služby informačných technológií: konzultácie, vývoj softvéru, internet a podpora – Rahmenverträge für IT-Dienstleistungen an der UZH",
+        "Šveicarija – IT paslaugos: konsultavimas, programinės įrangos kūrimas, internetas ir aptarnavimo paslaugos – Rahmenverträge für IT-Dienstleistungen an der UZH",
+        "Šveice – IT pakalpojumi konsultēšana, programmatūras izstrāde, internets un atbalsts – Rahmenverträge für IT-Dienstleistungen an der UZH",
+        "Šveits – IT-teenused: nõuande-, tarkvaraarendus-, Interneti- ja tugiteenused – Rahmenverträge für IT-Dienstleistungen an der UZH",
+        "Švica – Storitve informacijske tehnologije: svetovanje, razvoj programske opreme, internet in podpora – Rahmenverträge für IT-Dienstleistungen an der UZH",
+        "Švicarska – Usluge informacijske tehnologije: savjetovanje, razvoj programske podrške, internet i podrška – Rahmenverträge für IT-Dienstleistungen an der UZH",
+        "Švýcarsko – Informační technologie: poradenství, vývoj programového vybavení, internet a podpora – Rahmenverträge für IT-Dienstleistungen an der UZH",
+        "Ελβετία – Υπηρεσίες τεχνολογίας των πληροφοριών: παροχή συμβουλών, ανάπτυξη λογισμικού, Διαδίκτυο και υποστήριξη – Rahmenverträge für IT-Dienstleistungen an der UZH",
+        "Швейцария – ИТ услуги: консултации, разработване на софтуер, Интернет и поддръжка – Rahmenverträge für IT-Dienstleistungen an der UZH"
+      ],
+      "vendor_keys": [
+        "de_eraneos switzerland",
+        "de_isolutions",
+        "de_swisscom schweiz"
+      ],
+      "versions": [
+        {
+          "date": "2026-09-05",
+          "file": "snapshots/2026-09-05/notices/604662-2026.xml",
+          "sha256": "42074ea4ebc18e0639d5713dca43dc1c5b79649f492853853bf144f8dd79272a"
+        }
+      ],
+      "winner_names": [
+        "DE_Eraneos Switzerland AG",
+        "DE_ISOLUTIONS AG",
+        "DE_Swisscom (Schweiz) AG"
+      ],
+      "xml_url": "https://ted.europa.eu/en/notice/604662-2026/xml"
+    },
+    "604840-2026": {
+      "buyer_countries": [
+        "CHE"
+      ],
+      "buyer_names": [
+        "Universität Zürich Assetmanagement"
+      ],
+      "cpv": [
+        "72000000"
+      ],
+      "first_seen": "2026-09-05",
+      "gone": false,
+      "last_checked": "2026-09-05",
+      "notice_type": "can-standard",
+      "phrases": [
+        "artificial intelligence"
+      ],
+      "publication_date": "2026-09-02",
+      "title": "Switzerland – IT services: consulting, software development, Internet and support – Rahmenverträge für IT-Dienstleistungen an der UZH",
+      "titles": [
+        "An Eilvéis – IT services: consulting, software development, Internet and support – Rahmenverträge für IT-Dienstleistungen an der UZH",
+        "Elveţia – Servicii IT: consultanţă, dezvoltare de software, internet şi asistenţă – Rahmenverträge für IT-Dienstleistungen an der UZH",
+        "L-Iżvizzera – Servizzi ta' IT: konsulenza, żvilupp ta' softwer, Internet u appoġġ – Rahmenverträge für IT-Dienstleistungen an der UZH",
+        "Schweiz – IT-Dienste: Beratung, Software-Entwicklung, Internet und Hilfestellung – Rahmenverträge für IT-Dienstleistungen an der UZH",
+        "Schweiz – IT-tjänster: konsultverksamhet, programvaruutveckling, Internet och stöd – Rahmenverträge für IT-Dienstleistungen an der UZH",
+        "Schweiz – It-tjenester: rådgivning, programmeludvikling, internet og support – Rahmenverträge für IT-Dienstleistungen an der UZH",
+        "Suisse – Services de technologies de l'information, conseil, développement de logiciels, internet et appui – Rahmenverträge für IT-Dienstleistungen an der UZH",
+        "Suiza – Servicios TI: consultoría, desarrollo de software, Internet y apoyo – Rahmenverträge für IT-Dienstleistungen an der UZH",
+        "Suíça – Serviços de TI: consultoria, desenvolvimento de software, Internet e apoio – Rahmenverträge für IT-Dienstleistungen an der UZH",
+        "Sveitsi – Tietotekniset palvelut: neuvonta, ohjelmistojen kehittäminen, Internet ja tuki – Rahmenverträge für IT-Dienstleistungen an der UZH",
+        "Svizzera – Servizi informatici: consulenza, sviluppo di software, Internet e supporto – Rahmenverträge für IT-Dienstleistungen an der UZH",
+        "Svájc – IT-szolgáltatások: tanácsadás, szoftverfejlesztés, internet és támogatás – Rahmenverträge für IT-Dienstleistungen an der UZH",
+        "Switzerland – IT services: consulting, software development, Internet and support – Rahmenverträge für IT-Dienstleistungen an der UZH",
+        "Szwajcaria – Usługi informatyczne: konsultacyjne, opracowywania oprogramowania, internetowe i wsparcia – Rahmenverträge für IT-Dienstleistungen an der UZH",
+        "Zwitserland – IT-diensten: adviezen, softwareontwikkeling, internet en ondersteuning – Rahmenverträge für IT-Dienstleistungen an der UZH",
+        "Švajčiarsko – Služby informačných technológií: konzultácie, vývoj softvéru, internet a podpora – Rahmenverträge für IT-Dienstleistungen an der UZH",
+        "Šveicarija – IT paslaugos: konsultavimas, programinės įrangos kūrimas, internetas ir aptarnavimo paslaugos – Rahmenverträge für IT-Dienstleistungen an der UZH",
+        "Šveice – IT pakalpojumi konsultēšana, programmatūras izstrāde, internets un atbalsts – Rahmenverträge für IT-Dienstleistungen an der UZH",
+        "Šveits – IT-teenused: nõuande-, tarkvaraarendus-, Interneti- ja tugiteenused – Rahmenverträge für IT-Dienstleistungen an der UZH",
+        "Švica – Storitve informacijske tehnologije: svetovanje, razvoj programske opreme, internet in podpora – Rahmenverträge für IT-Dienstleistungen an der UZH",
+        "Švicarska – Usluge informacijske tehnologije: savjetovanje, razvoj programske podrške, internet i podrška – Rahmenverträge für IT-Dienstleistungen an der UZH",
+        "Švýcarsko – Informační technologie: poradenství, vývoj programového vybavení, internet a podpora – Rahmenverträge für IT-Dienstleistungen an der UZH",
+        "Ελβετία – Υπηρεσίες τεχνολογίας των πληροφοριών: παροχή συμβουλών, ανάπτυξη λογισμικού, Διαδίκτυο και υποστήριξη – Rahmenverträge für IT-Dienstleistungen an der UZH",
+        "Швейцария – ИТ услуги: консултации, разработване на софтуер, Интернет и поддръжка – Rahmenverträge für IT-Dienstleistungen an der UZH"
+      ],
+      "vendor_keys": [
+        "de_cnlab security",
+        "de_eraneos switzerland",
+        "de_redguard"
+      ],
+      "versions": [
+        {
+          "date": "2026-09-05",
+          "file": "snapshots/2026-09-05/notices/604840-2026.xml",
+          "sha256": "a3ce55c8772034f14198c7cd542fface2a342f2d7d00b6bc7d148f33df7a1e5b"
+        }
+      ],
+      "winner_names": [
+        "DE_Eraneos Switzerland AG",
+        "DE_Redguard AG",
+        "DE_cnlab security AG"
+      ],
+      "xml_url": "https://ted.europa.eu/en/notice/604840-2026/xml"
+    },
+    "605512-2026": {
+      "buyer_countries": [
+        "DEU"
+      ],
+      "buyer_names": [
+        "DFS Deutsche Flugsicherung GmbH"
+      ],
+      "cpv": [
+        "79632000",
+        "80522000"
+      ],
+      "first_seen": "2026-09-05",
+      "gone": false,
+      "last_checked": "2026-09-05",
+      "notice_type": "cn-standard",
+      "phrases": [
+        "Künstliche Intelligenz"
+      ],
+      "publication_date": "2026-09-02",
+      "title": "Germany – Personnel-training services – Rahmenvereinbarung zur Durchführung von Mitarbeitertrainings und -seminaren",
+      "titles": [
+        "Alemanha – Serviços de formação de pessoal – Rahmenvereinbarung zur Durchführung von Mitarbeitertrainings und -seminaren",
+        "Alemania – Servicios de formación de personal – Rahmenvereinbarung zur Durchführung von Mitarbeitertrainings und -seminaren",
+        "Allemagne – Services de formation de personnel – Rahmenvereinbarung zur Durchführung von Mitarbeitertrainings und -seminaren",
+        "An Ghearmáin – Personnel-training services – Rahmenvereinbarung zur Durchführung von Mitarbeitertrainings und -seminaren",
+        "Deutschland – Personalschulung – Rahmenvereinbarung zur Durchführung von Mitarbeitertrainings und -seminaren",
+        "Duitsland – Personeelsopleidingsdiensten – Rahmenvereinbarung zur Durchführung von Mitarbeitertrainings und -seminaren",
+        "Germania – Servicii de formare a personalului – Rahmenvereinbarung zur Durchführung von Mitarbeitertrainings und -seminaren",
+        "Germania – Servizi di formazione del personale – Rahmenvereinbarung zur Durchführung von Mitarbeitertrainings und -seminaren",
+        "Germany – Personnel-training services – Rahmenvereinbarung zur Durchführung von Mitarbeitertrainings und -seminaren",
+        "Il-Ġermanja – Servizzi tat-taħriġ tal-personal – Rahmenvereinbarung zur Durchführung von Mitarbeitertrainings und -seminaren",
+        "Nemecko – Školenia a výcvik personálu – Rahmenvereinbarung zur Durchführung von Mitarbeitertrainings und -seminaren",
+        "Nemčija – Storitve usposabljanja kadrov – Rahmenvereinbarung zur Durchführung von Mitarbeitertrainings und -seminaren",
+        "Niemcy – Szkolenie pracowników – Rahmenvereinbarung zur Durchführung von Mitarbeitertrainings und -seminaren",
+        "Njemačka – Usluge osposobljavanja radne snage – Rahmenvereinbarung zur Durchführung von Mitarbeitertrainings und -seminaren",
+        "Németország – Személyzeti képzési szolgáltatások – Rahmenvereinbarung zur Durchführung von Mitarbeitertrainings und -seminaren",
+        "Německo – Vzdělávání zaměstnanců – Rahmenvereinbarung zur Durchführung von Mitarbeitertrainings und -seminaren",
+        "Saksa – Henkilöstökoulutus – Rahmenvereinbarung zur Durchführung von Mitarbeitertrainings und -seminaren",
+        "Saksamaa – Personalikoolitusteenused – Rahmenvereinbarung zur Durchführung von Mitarbeitertrainings und -seminaren",
+        "Tyskland – Uddannelse af personale – Rahmenvereinbarung zur Durchführung von Mitarbeitertrainings und -seminaren",
+        "Tyskland – Utbildning av personal – Rahmenvereinbarung zur Durchführung von Mitarbeitertrainings und -seminaren",
+        "Vokietija – Personalo mokymo paslaugos – Rahmenvereinbarung zur Durchführung von Mitarbeitertrainings und -seminaren",
+        "Vācija – Personāla mācību pakalpojumi – Rahmenvereinbarung zur Durchführung von Mitarbeitertrainings und -seminaren",
+        "Γερμανία – Υπηρεσίες κατάρτισης προσωπικού – Rahmenvereinbarung zur Durchführung von Mitarbeitertrainings und -seminaren",
+        "Гepмaния – Услуги, свързани с обучение на персонала – Rahmenvereinbarung zur Durchführung von Mitarbeitertrainings und -seminaren"
+      ],
+      "vendor_keys": [],
+      "versions": [
+        {
+          "date": "2026-09-05",
+          "file": "snapshots/2026-09-05/notices/605512-2026.xml",
+          "sha256": "b3a04242a2d6b5f969a7cc49f60acf343a9220c772bc469f99f7506362cd0349"
+        }
+      ],
+      "winner_names": [],
+      "xml_url": "https://ted.europa.eu/en/notice/605512-2026/xml"
+    },
+    "606030-2026": {
+      "buyer_countries": [
+        "CHE"
+      ],
+      "buyer_names": [
+        "Universität Zürich Assetmanagement"
+      ],
+      "cpv": [
+        "72000000"
+      ],
+      "first_seen": "2026-09-05",
+      "gone": false,
+      "last_checked": "2026-09-05",
+      "notice_type": "can-standard",
+      "phrases": [
+        "artificial intelligence"
+      ],
+      "publication_date": "2026-09-02",
+      "title": "Switzerland – IT services: consulting, software development, Internet and support – Rahmenverträge für IT-Dienstleistungen an der UZH",
+      "titles": [
+        "An Eilvéis – IT services: consulting, software development, Internet and support – Rahmenverträge für IT-Dienstleistungen an der UZH",
+        "Elveţia – Servicii IT: consultanţă, dezvoltare de software, internet şi asistenţă – Rahmenverträge für IT-Dienstleistungen an der UZH",
+        "L-Iżvizzera – Servizzi ta' IT: konsulenza, żvilupp ta' softwer, Internet u appoġġ – Rahmenverträge für IT-Dienstleistungen an der UZH",
+        "Schweiz – IT-Dienste: Beratung, Software-Entwicklung, Internet und Hilfestellung – Rahmenverträge für IT-Dienstleistungen an der UZH",
+        "Schweiz – IT-tjänster: konsultverksamhet, programvaruutveckling, Internet och stöd – Rahmenverträge für IT-Dienstleistungen an der UZH",
+        "Schweiz – It-tjenester: rådgivning, programmeludvikling, internet og support – Rahmenverträge für IT-Dienstleistungen an der UZH",
+        "Suisse – Services de technologies de l'information, conseil, développement de logiciels, internet et appui – Rahmenverträge für IT-Dienstleistungen an der UZH",
+        "Suiza – Servicios TI: consultoría, desarrollo de software, Internet y apoyo – Rahmenverträge für IT-Dienstleistungen an der UZH",
+        "Suíça – Serviços de TI: consultoria, desenvolvimento de software, Internet e apoio – Rahmenverträge für IT-Dienstleistungen an der UZH",
+        "Sveitsi – Tietotekniset palvelut: neuvonta, ohjelmistojen kehittäminen, Internet ja tuki – Rahmenverträge für IT-Dienstleistungen an der UZH",
+        "Svizzera – Servizi informatici: consulenza, sviluppo di software, Internet e supporto – Rahmenverträge für IT-Dienstleistungen an der UZH",
+        "Svájc – IT-szolgáltatások: tanácsadás, szoftverfejlesztés, internet és támogatás – Rahmenverträge für IT-Dienstleistungen an der UZH",
+        "Switzerland – IT services: consulting, software development, Internet and support – Rahmenverträge für IT-Dienstleistungen an der UZH",
+        "Szwajcaria – Usługi informatyczne: konsultacyjne, opracowywania oprogramowania, internetowe i wsparcia – Rahmenverträge für IT-Dienstleistungen an der UZH",
+        "Zwitserland – IT-diensten: adviezen, softwareontwikkeling, internet en ondersteuning – Rahmenverträge für IT-Dienstleistungen an der UZH",
+        "Švajčiarsko – Služby informačných technológií: konzultácie, vývoj softvéru, internet a podpora – Rahmenverträge für IT-Dienstleistungen an der UZH",
+        "Šveicarija – IT paslaugos: konsultavimas, programinės įrangos kūrimas, internetas ir aptarnavimo paslaugos – Rahmenverträge für IT-Dienstleistungen an der UZH",
+        "Šveice – IT pakalpojumi konsultēšana, programmatūras izstrāde, internets un atbalsts – Rahmenverträge für IT-Dienstleistungen an der UZH",
+        "Šveits – IT-teenused: nõuande-, tarkvaraarendus-, Interneti- ja tugiteenused – Rahmenverträge für IT-Dienstleistungen an der UZH",
+        "Švica – Storitve informacijske tehnologije: svetovanje, razvoj programske opreme, internet in podpora – Rahmenverträge für IT-Dienstleistungen an der UZH",
+        "Švicarska – Usluge informacijske tehnologije: savjetovanje, razvoj programske podrške, internet i podrška – Rahmenverträge für IT-Dienstleistungen an der UZH",
+        "Švýcarsko – Informační technologie: poradenství, vývoj programového vybavení, internet a podpora – Rahmenverträge für IT-Dienstleistungen an der UZH",
+        "Ελβετία – Υπηρεσίες τεχνολογίας των πληροφοριών: παροχή συμβουλών, ανάπτυξη λογισμικού, Διαδίκτυο και υποστήριξη – Rahmenverträge für IT-Dienstleistungen an der UZH",
+        "Швейцария – ИТ услуги: консултации, разработване на софтуер, Интернет и поддръжка – Rahmenverträge für IT-Dienstleistungen an der UZH"
+      ],
+      "vendor_keys": [
+        "de_codify",
+        "de_swisscom schweiz",
+        "de_ti m"
+      ],
+      "versions": [
+        {
+          "date": "2026-09-05",
+          "file": "snapshots/2026-09-05/notices/606030-2026.xml",
+          "sha256": "a31845cba93023262d1de1d01840dbcd9407aced4602449213129d14043e014a"
+        }
+      ],
+      "winner_names": [
+        "DE_Codify AG",
+        "DE_Swisscom (Schweiz) AG",
+        "DE_ti&m AG"
+      ],
+      "xml_url": "https://ted.europa.eu/en/notice/606030-2026/xml"
+    },
+    "608000-2026": {
+      "buyer_countries": [
+        "FRA"
+      ],
+      "buyer_names": [
+        "CDC Informatique"
+      ],
+      "cpv": [
+        "72500000"
+      ],
+      "first_seen": "2026-09-05",
+      "gone": false,
+      "last_checked": "2026-09-05",
+      "notice_type": "can-standard",
+      "phrases": [
+        "intelligence artificielle"
+      ],
+      "publication_date": "2026-09-03",
+      "title": "France – Computer-related services – PRESTATIONS INTELLECTUELLES D'ASSISTANCE A MAITRISE D'UVRE D'INGENIERIE LOGICIELLE",
+      "titles": [
+        "An Fhrainc – Computer-related services – PRESTATIONS INTELLECTUELLES D'ASSISTANCE A MAITRISE D'UVRE D'INGENIERIE LOGICIELLE",
+        "France – Computer-related services – PRESTATIONS INTELLECTUELLES D'ASSISTANCE A MAITRISE D'UVRE D'INGENIERIE LOGICIELLE",
+        "France – Services informatiques – PRESTATIONS INTELLECTUELLES D'ASSISTANCE A MAITRISE D'UVRE D'INGENIERIE LOGICIELLE",
+        "Francia – Servicios informáticos – PRESTATIONS INTELLECTUELLES D'ASSISTANCE A MAITRISE D'UVRE D'INGENIERIE LOGICIELLE",
+        "Francia – Servizi informatici – PRESTATIONS INTELLECTUELLES D'ASSISTANCE A MAITRISE D'UVRE D'INGENIERIE LOGICIELLE",
+        "Franciaország – Számítógépekkel kapcsolatos szolgáltatások – PRESTATIONS INTELLECTUELLES D'ASSISTANCE A MAITRISE D'UVRE D'INGENIERIE LOGICIELLE",
+        "Francie – Výpočetní služby – PRESTATIONS INTELLECTUELLES D'ASSISTANCE A MAITRISE D'UVRE D'INGENIERIE LOGICIELLE",
+        "Francija – Datorsaistītie pakalpojumi – PRESTATIONS INTELLECTUELLES D'ASSISTANCE A MAITRISE D'UVRE D'INGENIERIE LOGICIELLE",
+        "Francija – Z računalniki povezane storitve – PRESTATIONS INTELLECTUELLES D'ASSISTANCE A MAITRISE D'UVRE D'INGENIERIE LOGICIELLE",
+        "Francja – Komputerowe usługi pokrewne – PRESTATIONS INTELLECTUELLES D'ASSISTANCE A MAITRISE D'UVRE D'INGENIERIE LOGICIELLE",
+        "Francuska – Usluge povezane s računalom – PRESTATIONS INTELLECTUELLES D'ASSISTANCE A MAITRISE D'UVRE D'INGENIERIE LOGICIELLE",
+        "Francúzsko – Služby súvisiace s počítačmi – PRESTATIONS INTELLECTUELLES D'ASSISTANCE A MAITRISE D'UVRE D'INGENIERIE LOGICIELLE",
+        "Frankreich – Datenverarbeitungsdienste – PRESTATIONS INTELLECTUELLES D'ASSISTANCE A MAITRISE D'UVRE D'INGENIERIE LOGICIELLE",
+        "Frankrig – Servicevirksomhed i forbindelse med datamater – PRESTATIONS INTELLECTUELLES D'ASSISTANCE A MAITRISE D'UVRE D'INGENIERIE LOGICIELLE",
+        "Frankrijk – Informaticadiensten – PRESTATIONS INTELLECTUELLES D'ASSISTANCE A MAITRISE D'UVRE D'INGENIERIE LOGICIELLE",
+        "Frankrike – Datortjänster – PRESTATIONS INTELLECTUELLES D'ASSISTANCE A MAITRISE D'UVRE D'INGENIERIE LOGICIELLE",
+        "Franza – Servizzi relatati mal-kompjuter – PRESTATIONS INTELLECTUELLES D'ASSISTANCE A MAITRISE D'UVRE D'INGENIERIE LOGICIELLE",
+        "França – Serviços relacionados com a informática – PRESTATIONS INTELLECTUELLES D'ASSISTANCE A MAITRISE D'UVRE D'INGENIERIE LOGICIELLE",
+        "Franţa – Servicii informatice – PRESTATIONS INTELLECTUELLES D'ASSISTANCE A MAITRISE D'UVRE D'INGENIERIE LOGICIELLE",
+        "Prancūzija – Su kompiuteriais susijusios paslaugos – PRESTATIONS INTELLECTUELLES D'ASSISTANCE A MAITRISE D'UVRE D'INGENIERIE LOGICIELLE",
+        "Prantsusmaa – Arvutiga seotud teenused – PRESTATIONS INTELLECTUELLES D'ASSISTANCE A MAITRISE D'UVRE D'INGENIERIE LOGICIELLE",
+        "Ranska – Tietokonepalvelut – PRESTATIONS INTELLECTUELLES D'ASSISTANCE A MAITRISE D'UVRE D'INGENIERIE LOGICIELLE",
+        "Γαλλία – Υπηρεσίες πληροφορικής – PRESTATIONS INTELLECTUELLES D'ASSISTANCE A MAITRISE D'UVRE D'INGENIERIE LOGICIELLE",
+        "Фpaнция – Услуги, свързани с използване на компютри – PRESTATIONS INTELLECTUELLES D'ASSISTANCE A MAITRISE D'UVRE D'INGENIERIE LOGICIELLE"
+      ],
+      "vendor_keys": [
+        "acensi",
+        "atos france",
+        "capgemini technology services",
+        "cgi",
+        "econocom apps",
+        "niji",
+        "onepoint",
+        "orange business services",
+        "smile",
+        "softeam",
+        "solutec",
+        "soprasteria"
+      ],
+      "versions": [
+        {
+          "date": "2026-09-05",
+          "file": "snapshots/2026-09-05/notices/608000-2026.xml",
+          "sha256": "29f7937faa0f8276362ee507c8cee7ff85fa5bcd7dac0d4eb755d0ca42e813ce"
+        }
+      ],
+      "winner_names": [
+        "ACENSI SAS",
+        "Atos France",
+        "CAPGEMINI TECHNOLOGY SERVICES",
+        "CGI",
+        "ECONOCOM APPS",
+        "NIJI",
+        "ONEPOINT",
+        "Orange Business Services",
+        "SMILE SAS",
+        "SOFTEAM SAS",
+        "SOLUTEC",
+        "SOPRASTERIA"
+      ],
+      "xml_url": "https://ted.europa.eu/en/notice/608000-2026/xml"
+    },
+    "608731-2026": {
+      "buyer_countries": [
+        "DEU"
+      ],
+      "buyer_names": [
+        "Rechenzentrum der Finanzverwaltung des Landes NRW"
+      ],
+      "cpv": [
+        "72000000",
+        "75110000"
+      ],
+      "first_seen": "2026-09-05",
+      "gone": false,
+      "last_checked": "2026-09-05",
+      "notice_type": "can-standard",
+      "phrases": [
+        "Künstliche Intelligenz"
+      ],
+      "publication_date": "2026-09-03",
+      "title": "Germany – IT services: consulting, software development, Internet and support – RV zur Erbringung von KI- Forschungs- und Beratungsleistungen im Bereich der Einsatzevaluation für alle Behörden im gesamten Ressort des Finanzministeriums des Landes NRW",
+      "titles": [
+        "Alemanha – Serviços de TI: consultoria, desenvolvimento de software, Internet e apoio – RV zur Erbringung von KI- Forschungs- und Beratungsleistungen im Bereich der Einsatzevaluation für alle Behörden im gesamten Ressort des Finanzministeriums des Landes NRW",
+        "Alemania – Servicios TI: consultoría, desarrollo de software, Internet y apoyo – RV zur Erbringung von KI- Forschungs- und Beratungsleistungen im Bereich der Einsatzevaluation für alle Behörden im gesamten Ressort des Finanzministeriums des Landes NRW",
+        "Allemagne – Services de technologies de l'information, conseil, développement de logiciels, internet et appui – RV zur Erbringung von KI- Forschungs- und Beratungsleistungen im Bereich der Einsatzevaluation für alle Behörden im gesamten Ressort des Finanzministeriums des Landes NRW",
+        "An Ghearmáin – IT services: consulting, software development, Internet and support – RV zur Erbringung von KI- Forschungs- und Beratungsleistungen im Bereich der Einsatzevaluation für alle Behörden im gesamten Ressort des Finanzministeriums des Landes NRW",
+        "Deutschland – IT-Dienste: Beratung, Software-Entwicklung, Internet und Hilfestellung – RV zur Erbringung von KI- Forschungs- und Beratungsleistungen im Bereich der Einsatzevaluation für alle Behörden im gesamten Ressort des Finanzministeriums des Landes NRW",
+        "Duitsland – IT-diensten: adviezen, softwareontwikkeling, internet en ondersteuning – RV zur Erbringung von KI- Forschungs- und Beratungsleistungen im Bereich der Einsatzevaluation für alle Behörden im gesamten Ressort des Finanzministeriums des Landes NRW",
+        "Germania – Servicii IT: consultanţă, dezvoltare de software, internet şi asistenţă – RV zur Erbringung von KI- Forschungs- und Beratungsleistungen im Bereich der Einsatzevaluation für alle Behörden im gesamten Ressort des Finanzministeriums des Landes NRW",
+        "Germania – Servizi informatici: consulenza, sviluppo di software, Internet e supporto – RV zur Erbringung von KI- Forschungs- und Beratungsleistungen im Bereich der Einsatzevaluation für alle Behörden im gesamten Ressort des Finanzministeriums des Landes NRW",
+        "Germany – IT services: consulting, software development, Internet and support – RV zur Erbringung von KI- Forschungs- und Beratungsleistungen im Bereich der Einsatzevaluation für alle Behörden im gesamten Ressort des Finanzministeriums des Landes NRW",
+        "Il-Ġermanja – Servizzi ta' IT: konsulenza, żvilupp ta' softwer, Internet u appoġġ – RV zur Erbringung von KI- Forschungs- und Beratungsleistungen im Bereich der Einsatzevaluation für alle Behörden im gesamten Ressort des Finanzministeriums des Landes NRW",
+        "Nemecko – Služby informačných technológií: konzultácie, vývoj softvéru, internet a podpora – RV zur Erbringung von KI- Forschungs- und Beratungsleistungen im Bereich der Einsatzevaluation für alle Behörden im gesamten Ressort des Finanzministeriums des Landes NRW",
+        "Nemčija – Storitve informacijske tehnologije: svetovanje, razvoj programske opreme, internet in podpora – RV zur Erbringung von KI- Forschungs- und Beratungsleistungen im Bereich der Einsatzevaluation für alle Behörden im gesamten Ressort des Finanzministeriums des Landes NRW",
+        "Niemcy – Usługi informatyczne: konsultacyjne, opracowywania oprogramowania, internetowe i wsparcia – RV zur Erbringung von KI- Forschungs- und Beratungsleistungen im Bereich der Einsatzevaluation für alle Behörden im gesamten Ressort des Finanzministeriums des Landes NRW",
+        "Njemačka – Usluge informacijske tehnologije: savjetovanje, razvoj programske podrške, internet i podrška – RV zur Erbringung von KI- Forschungs- und Beratungsleistungen im Bereich der Einsatzevaluation für alle Behörden im gesamten Ressort des Finanzministeriums des Landes NRW",
+        "Németország – IT-szolgáltatások: tanácsadás, szoftverfejlesztés, internet és támogatás – RV zur Erbringung von KI- Forschungs- und Beratungsleistungen im Bereich der Einsatzevaluation für alle Behörden im gesamten Ressort des Finanzministeriums des Landes NRW",
+        "Německo – Informační technologie: poradenství, vývoj programového vybavení, internet a podpora – RV zur Erbringung von KI- Forschungs- und Beratungsleistungen im Bereich der Einsatzevaluation für alle Behörden im gesamten Ressort des Finanzministeriums des Landes NRW",
+        "Saksa – Tietotekniset palvelut: neuvonta, ohjelmistojen kehittäminen, Internet ja tuki – RV zur Erbringung von KI- Forschungs- und Beratungsleistungen im Bereich der Einsatzevaluation für alle Behörden im gesamten Ressort des Finanzministeriums des Landes NRW",
+        "Saksamaa – IT-teenused: nõuande-, tarkvaraarendus-, Interneti- ja tugiteenused – RV zur Erbringung von KI- Forschungs- und Beratungsleistungen im Bereich der Einsatzevaluation für alle Behörden im gesamten Ressort des Finanzministeriums des Landes NRW",
+        "Tyskland – IT-tjänster: konsultverksamhet, programvaruutveckling, Internet och stöd – RV zur Erbringung von KI- Forschungs- und Beratungsleistungen im Bereich der Einsatzevaluation für alle Behörden im gesamten Ressort des Finanzministeriums des Landes NRW",
+        "Tyskland – It-tjenester: rådgivning, programmeludvikling, internet og support – RV zur Erbringung von KI- Forschungs- und Beratungsleistungen im Bereich der Einsatzevaluation für alle Behörden im gesamten Ressort des Finanzministeriums des Landes NRW",
+        "Vokietija – IT paslaugos: konsultavimas, programinės įrangos kūrimas, internetas ir aptarnavimo paslaugos – RV zur Erbringung von KI- Forschungs- und Beratungsleistungen im Bereich der Einsatzevaluation für alle Behörden im gesamten Ressort des Finanzministeriums des Landes NRW",
+        "Vācija – IT pakalpojumi konsultēšana, programmatūras izstrāde, internets un atbalsts – RV zur Erbringung von KI- Forschungs- und Beratungsleistungen im Bereich der Einsatzevaluation für alle Behörden im gesamten Ressort des Finanzministeriums des Landes NRW",
+        "Γερμανία – Υπηρεσίες τεχνολογίας των πληροφοριών: παροχή συμβουλών, ανάπτυξη λογισμικού, Διαδίκτυο και υποστήριξη – RV zur Erbringung von KI- Forschungs- und Beratungsleistungen im Bereich der Einsatzevaluation für alle Behörden im gesamten Ressort des Finanzministeriums des Landes NRW",
+        "Гepмaния – ИТ услуги: консултации, разработване на софтуер, Интернет и поддръжка – RV zur Erbringung von KI- Forschungs- und Beratungsleistungen im Bereich der Einsatzevaluation für alle Behörden im gesamten Ressort des Finanzministeriums des Landes NRW"
+      ],
+      "vendor_keys": [
+        "pricewaterhousecoopers"
+      ],
+      "versions": [
+        {
+          "date": "2026-09-05",
+          "file": "snapshots/2026-09-05/notices/608731-2026.xml",
+          "sha256": "dd1fdd88a99194b6adbebe53e912adf9a4c77b667783dc8e6f1e417af86817a1"
+        }
+      ],
+      "winner_names": [
+        "PricewaterhouseCoopers GmbH"
+      ],
+      "xml_url": "https://ted.europa.eu/en/notice/608731-2026/xml"
+    },
+    "611345-2026": {
+      "buyer_countries": [
+        "DEU"
+      ],
+      "buyer_names": [
+        "Ministerium für Heimat, Kommunales, Bau und Digitalisierung des Landes Nordrhein-Westfalen"
+      ],
+      "cpv": [
+        "72000000",
+        "72200000",
+        "72260000"
+      ],
+      "first_seen": "2026-09-05",
+      "gone": false,
+      "last_checked": "2026-09-05",
+      "notice_type": "can-standard",
+      "phrases": [
+        "Künstliche Intelligenz"
+      ],
+      "publication_date": "2026-09-04",
+      "title": "Germany – IT services: consulting, software development, Internet and support – Digitalisierung der Arbeitsschutzverwaltung in Nordrhein-Westfalen",
+      "titles": [
+        "Alemanha – Serviços de TI: consultoria, desenvolvimento de software, Internet e apoio – Digitalisierung der Arbeitsschutzverwaltung in Nordrhein-Westfalen",
+        "Alemania – Servicios TI: consultoría, desarrollo de software, Internet y apoyo – Digitalisierung der Arbeitsschutzverwaltung in Nordrhein-Westfalen",
+        "Allemagne – Services de technologies de l'information, conseil, développement de logiciels, internet et appui – Digitalisierung der Arbeitsschutzverwaltung in Nordrhein-Westfalen",
+        "An Ghearmáin – IT services: consulting, software development, Internet and support – Digitalisierung der Arbeitsschutzverwaltung in Nordrhein-Westfalen",
+        "Deutschland – IT-Dienste: Beratung, Software-Entwicklung, Internet und Hilfestellung – Digitalisierung der Arbeitsschutzverwaltung in Nordrhein-Westfalen",
+        "Duitsland – IT-diensten: adviezen, softwareontwikkeling, internet en ondersteuning – Digitalisierung der Arbeitsschutzverwaltung in Nordrhein-Westfalen",
+        "Germania – Servicii IT: consultanţă, dezvoltare de software, internet şi asistenţă – Digitalisierung der Arbeitsschutzverwaltung in Nordrhein-Westfalen",
+        "Germania – Servizi informatici: consulenza, sviluppo di software, Internet e supporto – Digitalisierung der Arbeitsschutzverwaltung in Nordrhein-Westfalen",
+        "Germany – IT services: consulting, software development, Internet and support – Digitalisierung der Arbeitsschutzverwaltung in Nordrhein-Westfalen",
+        "Il-Ġermanja – Servizzi ta' IT: konsulenza, żvilupp ta' softwer, Internet u appoġġ – Digitalisierung der Arbeitsschutzverwaltung in Nordrhein-Westfalen",
+        "Nemecko – Služby informačných technológií: konzultácie, vývoj softvéru, internet a podpora – Digitalisierung der Arbeitsschutzverwaltung in Nordrhein-Westfalen",
+        "Nemčija – Storitve informacijske tehnologije: svetovanje, razvoj programske opreme, internet in podpora – Digitalisierung der Arbeitsschutzverwaltung in Nordrhein-Westfalen",
+        "Niemcy – Usługi informatyczne: konsultacyjne, opracowywania oprogramowania, internetowe i wsparcia – Digitalisierung der Arbeitsschutzverwaltung in Nordrhein-Westfalen",
+        "Njemačka – Usluge informacijske tehnologije: savjetovanje, razvoj programske podrške, internet i podrška – Digitalisierung der Arbeitsschutzverwaltung in Nordrhein-Westfalen",
+        "Németország – IT-szolgáltatások: tanácsadás, szoftverfejlesztés, internet és támogatás – Digitalisierung der Arbeitsschutzverwaltung in Nordrhein-Westfalen",
+        "Německo – Informační technologie: poradenství, vývoj programového vybavení, internet a podpora – Digitalisierung der Arbeitsschutzverwaltung in Nordrhein-Westfalen",
+        "Saksa – Tietotekniset palvelut: neuvonta, ohjelmistojen kehittäminen, Internet ja tuki – Digitalisierung der Arbeitsschutzverwaltung in Nordrhein-Westfalen",
+        "Saksamaa – IT-teenused: nõuande-, tarkvaraarendus-, Interneti- ja tugiteenused – Digitalisierung der Arbeitsschutzverwaltung in Nordrhein-Westfalen",
+        "Tyskland – IT-tjänster: konsultverksamhet, programvaruutveckling, Internet och stöd – Digitalisierung der Arbeitsschutzverwaltung in Nordrhein-Westfalen",
+        "Tyskland – It-tjenester: rådgivning, programmeludvikling, internet og support – Digitalisierung der Arbeitsschutzverwaltung in Nordrhein-Westfalen",
+        "Vokietija – IT paslaugos: konsultavimas, programinės įrangos kūrimas, internetas ir aptarnavimo paslaugos – Digitalisierung der Arbeitsschutzverwaltung in Nordrhein-Westfalen",
+        "Vācija – IT pakalpojumi konsultēšana, programmatūras izstrāde, internets un atbalsts – Digitalisierung der Arbeitsschutzverwaltung in Nordrhein-Westfalen",
+        "Γερμανία – Υπηρεσίες τεχνολογίας των πληροφοριών: παροχή συμβουλών, ανάπτυξη λογισμικού, Διαδίκτυο και υποστήριξη – Digitalisierung der Arbeitsschutzverwaltung in Nordrhein-Westfalen",
+        "Гepмaния – ИТ услуги: консултации, разработване на софтуер, Интернет и поддръжка – Digitalisierung der Arbeitsschutzverwaltung in Nordrhein-Westfalen"
+      ],
+      "vendor_keys": [
+        "deloitte consulting"
+      ],
+      "versions": [
+        {
+          "date": "2026-09-05",
+          "file": "snapshots/2026-09-05/notices/611345-2026.xml",
+          "sha256": "8fade0685426602c616f9a817127f84f601599a89e80c034862067e3026591d3"
+        }
+      ],
+      "winner_names": [
+        "Deloitte Consulting GmbH"
+      ],
+      "xml_url": "https://ted.europa.eu/en/notice/611345-2026/xml"
     }
   }
 }

@@ -1,0 +1,1681 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><ContractNotice xmlns="urn:oasis:names:specification:ubl:schema:xsd:ContractNotice-2" xmlns:cac="urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-2" xmlns:cbc="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-2" xmlns:defext="german-eforms-extension" xmlns:efac="http://data.europa.eu/p27/eforms-ubl-extension-aggregate-components/1" xmlns:efbc="http://data.europa.eu/p27/eforms-ubl-extension-basic-components/1" xmlns:efext="http://data.europa.eu/p27/eforms-ubl-extensions/1" xmlns:ext="urn:oasis:names:specification:ubl:schema:xsd:CommonExtensionComponents-2">
+   <ext:UBLExtensions>
+      <ext:UBLExtension>
+         <ext:ExtensionContent>
+            <efext:EformsExtension>
+               <efac:Changes>
+                  <efbc:ChangedNoticeIdentifier>18695f74-55ad-423f-97e6-74706af3711e-01</efbc:ChangedNoticeIdentifier>
+                  <efac:Change>
+                     <efbc:ChangeDescription languageID="DEU">Abgabefrist Lose 2 bis 5 wurden auf den 14.09.2026 abgeändert.</efbc:ChangeDescription>
+                     <efbc:ProcurementDocumentsChangeIndicator>false</efbc:ProcurementDocumentsChangeIndicator>
+                     <efac:ChangedSection>
+                        <efbc:ChangedSectionIdentifier>LOT-0002</efbc:ChangedSectionIdentifier>
+                     </efac:ChangedSection>
+                     <efac:ChangedSection>
+                        <efbc:ChangedSectionIdentifier>LOT-0003</efbc:ChangedSectionIdentifier>
+                     </efac:ChangedSection>
+                     <efac:ChangedSection>
+                        <efbc:ChangedSectionIdentifier>LOT-0004</efbc:ChangedSectionIdentifier>
+                     </efac:ChangedSection>
+                     <efac:ChangedSection>
+                        <efbc:ChangedSectionIdentifier>LOT-0005</efbc:ChangedSectionIdentifier>
+                     </efac:ChangedSection>
+                  </efac:Change>
+                  <efac:ChangeReason>
+                     <cbc:ReasonCode listName="change-corrig-justification">update-add</cbc:ReasonCode>
+                     <efbc:ReasonDescription languageID="DEU">Abgabefrist Lose 2 bis 5 wurden auf den 14.09.2026 abgeändert.</efbc:ReasonDescription>
+                  </efac:ChangeReason>
+               </efac:Changes>
+               <efac:NoticeSubType>
+                  <cbc:SubTypeCode listName="notice-subtype">16</cbc:SubTypeCode>
+               </efac:NoticeSubType>
+               <efac:Organizations>
+                  <efac:Organization>
+                     <efac:Company>
+                        <cbc:WebsiteURI>https://www.dfs.de</cbc:WebsiteURI>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="DEU">DFS Deutsche Flugsicherung GmbH</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:StreetName>Am DFS-Campus 10</cbc:StreetName>
+                           <cbc:CityName>Langen</cbc:CityName>
+                           <cbc:PostalZone>63225</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">DE71C</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">DEU</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>Leitweg-ID 993-80165-64</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:Telephone>0 61 037 07-46 01</cbc:Telephone>
+                           <cbc:ElectronicMail>info@dfs.de</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+                  <efac:Organization>
+                     <efac:Company>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0002</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="DEU">Vergabekammer des Bundes</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:StreetName>Kaiser-Friedrich Str. 16</cbc:StreetName>
+                           <cbc:CityName>Bonn</cbc:CityName>
+                           <cbc:PostalZone>53113</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">DEA22</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">DEU</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>022894990</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:Telephone>+4922894990</cbc:Telephone>
+                           <cbc:ElectronicMail>info@bundeskartellamt.bund.de</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+               <efac:Organization><efac:Company><cac:PartyIdentification><cbc:ID schemeName="organization">ORG-0003</cbc:ID></cac:PartyIdentification><cac:PartyName><cbc:Name languageID="DEU">Datenservice Öffentlicher Einkauf (in Verantwortung des Beschaffungsamts des BMI)</cbc:Name></cac:PartyName><cac:PostalAddress><cbc:CityName>Bonn</cbc:CityName><cbc:PostalZone>53119</cbc:PostalZone><cbc:CountrySubentityCode listName="nuts">DEA22</cbc:CountrySubentityCode><cac:Country><cbc:IdentificationCode listName="country">DEU</cbc:IdentificationCode></cac:Country></cac:PostalAddress><cac:PartyLegalEntity><cbc:CompanyID schemeID="002">0204:994-DOEVD-83</cbc:CompanyID></cac:PartyLegalEntity><cac:Contact><cbc:Telephone>+49228996100</cbc:Telephone><cbc:ElectronicMail>noreply.esender_hub@bescha.bund.de</cbc:ElectronicMail></cac:Contact></efac:Company></efac:Organization></efac:Organizations>
+            <efac:Publication><efbc:NoticePublicationID schemeName="ojs-notice-id">00605512-2026</efbc:NoticePublicationID><efbc:GazetteID schemeName="ojs-id">169/2026</efbc:GazetteID><efbc:PublicationDate>2026-09-02+02:00</efbc:PublicationDate></efac:Publication></efext:EformsExtension>
+         </ext:ExtensionContent>
+      </ext:UBLExtension>
+   </ext:UBLExtensions>
+   <cbc:UBLVersionID>2.3</cbc:UBLVersionID>
+   <cbc:CustomizationID>eforms-sdk-1.14</cbc:CustomizationID>
+   <cbc:ProfileID>eforms-sdk-1.14</cbc:ProfileID>
+   <cbc:ID schemeName="notice-id">15e342ad-6c9f-446a-8317-46a39a35a32d</cbc:ID>
+   <cbc:ContractFolderID>1e34933e-ad39-499e-b8fe-4f2102c62f8f</cbc:ContractFolderID>
+   <cbc:IssueDate>2026-08-31+02:00</cbc:IssueDate>
+   <cbc:IssueTime>11:48:47+02:00</cbc:IssueTime>
+   <cbc:VersionID>01</cbc:VersionID>
+   <cbc:RequestedPublicationDate>2026-09-02+02:00</cbc:RequestedPublicationDate>
+   <cbc:RegulatoryDomain>32014L0024</cbc:RegulatoryDomain>
+   <cbc:NoticeTypeCode listName="competition">cn-standard</cbc:NoticeTypeCode>
+   <cbc:NoticeLanguageCode>DEU</cbc:NoticeLanguageCode>
+   <cac:ContractingParty>
+      <cac:ContractingPartyType>
+         <cbc:PartyTypeCode listName="buyer-legal-type">pub-undert</cbc:PartyTypeCode>
+      </cac:ContractingPartyType>
+      <cac:ContractingActivity>
+         <cbc:ActivityTypeCode listName="authority-activity">pub-os</cbc:ActivityTypeCode>
+      </cac:ContractingActivity>
+      <cac:Party>
+         <cac:PartyIdentification>
+            <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+         </cac:PartyIdentification>
+      <cac:ServiceProviderParty><cbc:ServiceTypeCode listName="organisation-role">ted-esen</cbc:ServiceTypeCode><cac:Party><cac:PartyIdentification><cbc:ID schemeName="organization">ORG-0003</cbc:ID></cac:PartyIdentification></cac:Party></cac:ServiceProviderParty></cac:Party>
+   </cac:ContractingParty>
+   <cac:TenderingTerms>
+      <cac:ProcurementLegislationDocumentReference>
+         <cbc:ID>vgv</cbc:ID>
+      </cac:ProcurementLegislationDocumentReference>
+      <cac:TendererQualificationRequest>
+         <cac:SpecificTendererRequirement>
+            <cbc:TendererRequirementTypeCode listName="exclusion-ground">exg-natl-bre-nat-law</cbc:TendererRequirementTypeCode>
+            <cbc:Description languageID="DEU">Vorlage einer Eigenerklärung des Bewerbers, dass die in § 123 Gesetz gegen Wettbewerbsbeschränkung (GWB) genannten Ausschlussgründe nicht zutreffen und dass die Voraussetzungen gemäß § 124 GWB nicht vorliegen. 
+
+Vorlage einer Eigenerklärung des Bewerbers, dass die in Verordnung (EU) 2022/576 „EU-Sanktionsverordnung gegen Russland“ wegen der Destabilisierung der Situation in der Ukraine genannten Ausschlussgründe nicht zutreffen und dass die Voraussetzungen gemäß Verordnung (EU) 2022/576 nicht vorliegen. 
+Hinweis: Beachten Sie hierzu die Auflistung unter Ziffer 5.1.9 (Eignungskriterien "Eignung zur Berufsausübung").</cbc:Description>
+         </cac:SpecificTendererRequirement>
+      </cac:TendererQualificationRequest>
+      <cac:TendererQualificationRequest>
+         <cac:SpecificTendererRequirement>
+            <cbc:TendererRequirementTypeCode listName="exclusion-grounds-source">epo-notice</cbc:TendererRequirementTypeCode>
+         </cac:SpecificTendererRequirement>
+      </cac:TendererQualificationRequest>
+      <cac:LotDistribution>
+         <cbc:MaximumLotsAwardedNumeric>5</cbc:MaximumLotsAwardedNumeric>
+         <cbc:MaximumLotsSubmittedNumeric>5</cbc:MaximumLotsSubmittedNumeric>
+      </cac:LotDistribution>
+   </cac:TenderingTerms>
+   <cac:TenderingProcess>
+      <cbc:ProcedureCode listName="procurement-procedure-type">neg-w-call</cbc:ProcedureCode>
+      <cac:ProcessJustification>
+         <cbc:ProcessReasonCode listName="accelerated-procedure">false</cbc:ProcessReasonCode>
+      </cac:ProcessJustification>
+   </cac:TenderingProcess>
+   <cac:ProcurementProject>
+      <cbc:Name languageID="DEU">Rahmenvereinbarung zur Durchführung von Mitarbeitertrainings und -seminaren</cbc:Name>
+      <cbc:Description languageID="DEU">Die DFS Deutsche Flugsicherung GmbH (nachstehend DFS genannt) schreibt die Erbringung von Dienstleistungen zur Durchführung von Mitarbeitertrainings und -seminaren aus. Folgende Lose werden vergeben:
+
+Los 1: Seminardurchführung „Künstliche Intelligenz“ geschätzte Anzahl: ungefähr 2-3
+Los 2: Seminardurchführung „Kommunikation, Moderation und persönliche Wirkung“ geschätzte Anzahl: ungefähr 5-10
+Los 3: Seminardurchführung „Resilienz und Selbstmanagement“ geschätzte Anzahl: ungefähr 2-3
+Los 4: Seminardurchführung „Microsoft 365 und Digitale Zusammenarbeit“ geschätzte Anzahl: ungefähr 2-3
+Los 5: Seminardurchführung „Female Empowerment“ geschätzte Anzahl: ungefähr 2
+
+Der Auftraggeber übernimmt keine Abrufverpflichtung. Die in den Vergabeunterlagen angegebenen Mengen und Werte dienen ausschließlich der Kalkulation und stellen keine verbindliche Abnahme- oder Abrufzusage dar.</cbc:Description>
+      <cbc:ProcurementTypeCode listName="contract-nature">services</cbc:ProcurementTypeCode>
+      <cbc:Note languageID="DEU">Bitte beachten Sie: 
+1. Ihnen liegt hier die vollständige Auftragsbekanntmachung mit allen aktuellen Informationen vor. Die Nummerierung ist nicht fortlaufend. Dieser Fehler kann auf Grund der vorgegebenen Eingabemaske aktuell nicht behoben werden. 
+
+2. Hinweis zu den Vergabeunterlagen: Es handelt sich hier um ein Verhandlungsverfahren mit Teilnahmewettbewerb gemäß VgV §17. Die vollständigen Vergabe- und Vertragsunterlagen werden nach Abschluss des Teilnahmewettbewerbs zur Verfügung gestellt.</cbc:Note>
+      <cac:MainCommodityClassification>
+         <cbc:ItemClassificationCode listName="cpv">79632000</cbc:ItemClassificationCode>
+      </cac:MainCommodityClassification>
+      <cac:RealizedLocation>
+         <cbc:Description languageID="DEU">Je Los sollen die Trainings ca. dreimal jährlich primär am Standort Langen, gegebenenfalls auch an anderen Orten in Deutschland oder auch virtuell, stattfinden. Die Häufigkeit der Veranstaltungen variiert je nach Bedarf.</cbc:Description>
+         <cac:Address>
+            <cbc:CountrySubentityCode listName="nuts">DE71C</cbc:CountrySubentityCode>
+            <cac:Country>
+               <cbc:IdentificationCode listName="country">DEU</cbc:IdentificationCode>
+            </cac:Country>
+         </cac:Address>
+      </cac:RealizedLocation>
+   </cac:ProcurementProject>
+   <cac:ProcurementProjectLot>
+      <cbc:ID schemeName="Lot">LOT-0001</cbc:ID>
+      <cac:TenderingTerms>
+         <ext:UBLExtensions>
+            <ext:UBLExtension>
+               <ext:ExtensionContent>
+                  <efext:EformsExtension>
+                     <efac:SelectionCriteria>
+                        <cbc:TendererRequirementTypeCode listName="selection-criterion">slc-stand-other</cbc:TendererRequirementTypeCode>
+                        <cbc:Description languageID="DEU">Beschreibung: Art: Eignung zur Berufsausübung , Bezeichnung: Befähigung zur Berufsausübung einschließlich Auflagen hinsichtlich der Eintragung
+in einem Berufs- oder Handelsregister.
+
+Beschreibung:
+Auflistung und kurze Beschreibung der Eignungskriterien:
+1.	Vorlage einer Unternehmensdarstellung des Bewerbers bezüglich der ausgeschriebenen
+Leistungsart:
+Vorstellung des Unternehmens, u.a. historische Entwicklung, Organisation, Eigentums-
+und Beteiligungsstrukturen, etc. Darstellung der Kernkompetenzen / des Schwerpunktes der Geschäftstätigkeit, sowie die Bedeutung des
+entsprechenden Geschäftsfeldes bezüglich der ausgeschriebenen Leistungsart.
+
+2.	Vorlage eines Handelsregisterauszuges, der bei Ablauf der Bewerbungsfrist nicht
+älter als 6 Monate ist. Sofern der Bewerber nicht im Handelsregister eingetragen ist:
+Aussage des Bewerbers in welchen sonstigen Berufsverbänden/Registern/Innungen/Kammern/etc.
+Eintragungen bestehen. Wenn möglich, Nachweis über die jeweiligen Eintragungen (ebenfalls
+nicht älter als 6 Monate). Sollte keine Eintragung bestehen: Der Bewerber hat im Teilnahmeantrag eine Begründung vorzulegen, warum keine
+Eintragung benötigt wird bzw. besteht.
+
+3.	Vorlage einer Eigenerklärung des Bewerbers, dass die in § 123 Gesetz gegen Wettbewerbsbeschränkung
+(GWB) genannten Ausschlussgründe nicht zutreffen und dass die Voraussetzungen gemäß
+§ 124 GWB nicht vorliegen.
+
+4.	Vorlage einer Eigenerklärung des Bewerbers, dass die in Verordnung (EU) 2022/576
+„EU-Sanktionsverordnung gegen Russland“
+wegen Destabilisierung der Situation in der Ukraine genannten Ausschlussgründe nicht
+zutreffen und dass die Voraussetzungen gemäß Verordnung (EU) 2022/576 nicht vorliegen.
+Hinweis: Bitte nutzen Sie für diesen Punkt 4 ausschließlich das vorgegebene Formular
+auf der Vergabeplattform (Vergabeunterlagen).
+
+5.	Vorlage der Nachweise einer bestehenden Haftpflichtversicherung  (z.B. Unternehmenshaftpflichtversicherung,
+Produkthaftpflichtversicherung) unter Angabe der Deckungssummen.
+
+6.	Vorlage einer Eigenerklärung des Bewerbers, ob er beabsichtigt Unteraufträge zu
+erteilen. Wenn ja: Aussage, für welche Leistungen Unteraufträge eingesetzt werden
+sollen. Wenn nein: Aussage, dass er nicht beabsichtigt Unteraufträge zu erteilen oder
+dies zum
+jetzigen Zeitpunkt noch nicht absehbar ist.
+
+7.	Vorlage einer schriftlichen Erklärung des Bewerbers, dass im Unternehmen technisch/organisatorische Maßnahmen gemäß Art. 5, 25 und 32 DSGVO vorliegen und diese im Rahmen einer möglichen Angebotslegung in der Angebotsphase durch den Bewerber eingereicht
+werden könnten. Vorlage einer schriftlichen Erklärung des Bewerbers zur Bereitschaft des Abschlusses einer Zusatzvereinbarung zur Auftragsverarbeitung im Auftragsfall.
+Hinweis: Sollte eine Auftragsverarbeitung zur Anwendung kommen, so ist ein Abschluss einer Zusatzvereinbarung zur Auftragsverarbeitung zwingend erforderlich.</cbc:Description>
+                        <efbc:SecondStageIndicator>true</efbc:SecondStageIndicator>
+                     </efac:SelectionCriteria>
+                     <efac:SelectionCriteria>
+                        <cbc:TendererRequirementTypeCode listName="selection-criterion">slc-stand-other</cbc:TendererRequirementTypeCode>
+                        <cbc:Description languageID="DEU">Art: Wirtschaftliche  und finanzielle Leistungsfähigkeit, Bezeichnung: Bewertungskriterien und Gewichtung der wirtschaftlichen
+und finanziellen Leistungsfähigkeit (kaufmännische Bewertung - Gesamtgewichtung  40%):
+
+Beschreibung: Auflistung und kurze
+Beschreibung der Eignungskriterien: 1. Bonitätsbewertung : Ein Bonitätsrating des Bewerbers
+der Fa. Creditreform wird durch die Vergabestelle eingeholt. Ist der Bewerber nicht bei der Fa. Creditreform gelistet,
+so ist er verpflichtet, ein Bonitätsrating einer vergleichbaren Wirtschaftsauskunft einzureichen (die Überprüfung, ob ein Bewerber gelistet ist, hat
+durch den Bewerber selbst zu erfolgen) (geht zu 80% in die kaufmännische Bewertung mit ein).
+
+2. Umsatzentwicklung: Vorlage einer Eigenerklärung des Bewerbers zu den Umsätzen der
+vergangenen drei Geschäftsjahre bezogen auf die ausgeschriebene Leistungsart im Bereich (geht zu 20% in die kaufmännische Bewertung mit ein). Geforderte Mindeststandards : Umsatz in der ausgeschriebenen Leistungsart von durchschnittlich
+300.000 EUR / Jahr bezogen auf die letzten drei abgeschlossenen Geschäftsjahre.
+Allgemeiner Hinweis: 1. Die aufgestellte Forderung bezogen auf die letzten drei Geschäftsjahre
+stellt keine Mindestanforderung im Hinblick auf die Dauer der Geschäftstätigkeit dar.
+Unternehmen, die kürzer als drei Jahre existieren, machen diese Angaben bitte nur
+bezogen auf die Dauer ihrer Geschäftstätigkeit.
+
+2. Beachten Sie hierzu auch die Ausführungen unter "Zusätzliche Informationen".</cbc:Description>
+                        <efbc:SecondStageIndicator>true</efbc:SecondStageIndicator>
+                     </efac:SelectionCriteria>
+                     <efac:SelectionCriteria>
+                        <cbc:TendererRequirementTypeCode listName="selection-criterion">slc-abil-ref-services</cbc:TendererRequirementTypeCode>
+                        <cbc:Description languageID="DEU">Art: Technische und berufliche Leistungsfähigkeit, Bezeichnung: Bewertungskriterien und Gewichtung der Fachkunde und technischen Leistungsfähigkeit (fachliche Bewertung)
+(Gesamtgewichtung 60%):
+Beschreibung:
+
+1. Der Anbieter legt Referenzen zu erfolgreich durchgeführten Projekten vergleichbarer Größenordnung und Leistungsart aus den vergangenen drei Jahren vor. Die Darstellung umfasst mindestens eine Projektbeschreibung, den Realisierungszeitraum sowie den Auftraggeber. Die Referenzen sollen eine hohe Vergleichbarkeit mit den ausgeschriebenen Leistungen aufweisen. (geht zu 20% in die fachliche Bewertung ein).
+
+2.Der Anbieter stellt konkrete Umsetzungskonzepte für vergleichbare Kundenprojekte vor. Die Darstellung umfasst mindestens die methodische Vorgehensweise, den Ablauf der Maßnahmen sowie Ansätze zur nachhaltigen Verankerung der Lerninhalte im Arbeitsalltag und soll auf erfolgreich umgesetzten Projekten bei anderen Unternehmen basieren. (geht zu 40% in die fachliche Bewertung ein).
+
+3.Der Anbieter stellt beispielhaft potenzielle Trainerinnen und Trainer für die Durchführung der Maßnahmen vor. Die Vorstellung umfasst mindestens Lebenslauf/Kurzprofil, Nachweise relevanter Qualifikationen sowie Referenzen vergleichbarer Projekte. (geht zu 40% in die fachliche Bewertung ein).	
+
+Allgemeiner Hinweis: Die aufgestellte Forderung bezogen auf die letzten drei Geschäftsjahre
+stellt keine Mindestanforderung im Hinblick auf die Dauer der Geschäftstätigkeit dar. Unternehmen, die kürzer als drei Jahre existieren,
+machen diese Angaben bitte nur bezogen auf die Dauer ihrer Geschäftstätigkeit
+
+Allgemeiner Hinweis: Mindestanforderung: Die erreichte Punktzahl der fachlichen Bewertung muss mindestens 70% betragen.</cbc:Description>
+                        <efbc:SecondStageIndicator>true</efbc:SecondStageIndicator>
+                     </efac:SelectionCriteria>
+                     <efac:StrategicProcurement>
+                        <efbc:ApplicableLegalBasis listName="cvd-scope">false</efbc:ApplicableLegalBasis>
+                     </efac:StrategicProcurement>
+                  </efext:EformsExtension>
+               </ext:ExtensionContent>
+            </ext:UBLExtension>
+         </ext:UBLExtensions>
+         <cbc:VariantConstraintCode listName="permission">not-allowed</cbc:VariantConstraintCode>
+         <cbc:FundingProgramCode listName="eu-funded">no-eu-funds</cbc:FundingProgramCode>
+         <cbc:MultipleTendersCode listName="permission">not-allowed</cbc:MultipleTendersCode>
+         <cac:CallForTendersDocumentReference>
+            <ext:UBLExtensions>
+               <ext:UBLExtension>
+                  <ext:ExtensionContent>
+                     <efext:EformsExtension>
+                        <efac:OfficialLanguages>
+                           <cac:Language>
+                              <cbc:ID>DEU</cbc:ID>
+                           </cac:Language>
+                        </efac:OfficialLanguages>
+                     </efext:EformsExtension>
+                  </ext:ExtensionContent>
+               </ext:UBLExtension>
+            </ext:UBLExtensions>
+            <cbc:ID>E55476844</cbc:ID>
+            <cbc:DocumentType>non-restricted-document</cbc:DocumentType>
+            <cac:Attachment>
+               <cac:ExternalReference>
+                  <cbc:URI>https://www.subreport.de/E55476844</cbc:URI>
+               </cac:ExternalReference>
+            </cac:Attachment>
+         </cac:CallForTendersDocumentReference>
+         <cac:TendererQualificationRequest>
+            <cac:SpecificTendererRequirement>
+               <cbc:TendererRequirementTypeCode listName="selection-criteria-source">epo-notice</cbc:TendererRequirementTypeCode>
+            </cac:SpecificTendererRequirement>
+         </cac:TendererQualificationRequest>
+         <cac:TendererQualificationRequest>
+            <cac:SpecificTendererRequirement>
+               <cbc:TendererRequirementTypeCode listName="reserved-procurement">none</cbc:TendererRequirementTypeCode>
+            </cac:SpecificTendererRequirement>
+         </cac:TendererQualificationRequest>
+         <cac:TendererQualificationRequest>
+            <cac:SpecificTendererRequirement>
+               <cbc:TendererRequirementTypeCode listName="missing-info-submission">late-all</cbc:TendererRequirementTypeCode>
+               <cbc:Description languageID="DEU">1. Eignungsleihe (§ 47 VgV): Plant ein Bewerber die Eignungsleihe, so sind die geforderten
+Angaben/
+Informationen/ Unterlagen (Eignung zur Berufsausübung und wirtschaftliche und finanzielle
+Leistungsfähigkeit) auch von den "anderen"
+Unternehmen im Sinne des § 47 Abs. I VgV einzureichen. Zusätzlich ist eine unterzeichnete
+Verpflichtungserklärung der anderen Unternehmen
+einzureichen, die eine verbindliche Aussage über die Bereitstellung der erforderlichen
+Mittel / Ressourcen zur Erfüllung im Auftragsfall beinhaltet.
+Für die Eignungsleihe gelten die Bestimmungen von § 47 Abs. 1 S.3 und Abs. 3 VgV.
+Sofern ein Bewerber die Kapazitäten eines anderen
+Unternehmens im Hinblick auf die erforderliche wirtschaftliche und finanzielle Leistungsfähigkeit
+in Anspruch nimmt, so wird eine
+gemeinsame Haftung des Bewerbers oder Bieters und des anderen Unternehmens für die
+Auftragsausführung entsprechend dem Umfang der
+Eignungsleihe verlangt. Die entsprechende Verpflichtungserklärung, aus der sich ergibt,
+dass das andere Unternehmen im Falle der Auftragsvergabe an den Bieter mit diesem
+gemeinsam gegenüber dem Auftraggeber für die Auftragsausführung haftet, ist mit dem
+Teilnahmeantrag vorzulegen.
+2.	Bewerbergemeinschaften: Bewerbergemeinschaften müssen mit Ihrem Teilnahmeantrag
+eine von allen Mitgliedern unterzeichnete Erklärung der gesamtschuldnerischen Haftung
+abgeben.
+3.	Die Korrespondenz im Rahmen des Vergabeverfahrens erfolgt ausschließlich in deutscher
+oder englischer Sprache und ausschließlich über das System subreport Elvis.
+4.	Ebenfalls sind die Teilnahmeanträge und späteren Angebote
+ 
+ausschließlich nur elektronisch
+via: https://www.subreport.de/E32685237  einzureichen. Die Abgabe der Teilnahmeanträge
+und der späteren Angebote erfolgt ausschließlich über die Funktion "Teilnahmeanträge"
+/ "Angebote" "abgeben". Die Einreichung von Teilnahmeanträgen und Angeboten über die
+Funktion "Kommunikation" oder anderes führt zum direkten Ausschluss vom Wettbewerb.
+
+5.	Bei technischen Störungen oder Fragen zur Handhabung des Systems wenden Sie sich
+bitte direkt an subreport unter +49 221 985
+78-0 bzw. info@subreport.de. 
+
+6. Für die Erstellung der Teilnahmeanträge und der späteren
+Angebote erhält der Bewerber / Bieter keine Kostenerstattung.</cbc:Description>
+            </cac:SpecificTendererRequirement>
+         </cac:TendererQualificationRequest>
+         <cac:ContractExecutionRequirement>
+            <cbc:ExecutionRequirementCode listName="ecatalog-submission">not-allowed</cbc:ExecutionRequirementCode>
+         </cac:ContractExecutionRequirement>
+         <cac:ContractExecutionRequirement>
+            <cbc:ExecutionRequirementCode listName="einvoicing">required</cbc:ExecutionRequirementCode>
+         </cac:ContractExecutionRequirement>
+         <cac:ContractExecutionRequirement>
+            <cbc:ExecutionRequirementCode listName="reserved-execution">no</cbc:ExecutionRequirementCode>
+         </cac:ContractExecutionRequirement>
+         <cac:AwardingTerms>
+            <cbc:NoFurtherNegotiationIndicator>true</cbc:NoFurtherNegotiationIndicator>
+         </cac:AwardingTerms>
+         <cac:TenderRecipientParty>
+            <cbc:EndpointID>https://www.subreport.de/E55476844</cbc:EndpointID>
+         </cac:TenderRecipientParty>
+         <cac:AppealTerms>
+            <cac:PresentationPeriod>
+               <cbc:Description languageID="DEU">: Informationen über die Überprüfungsfristen: Bitte beachten Sie die Regelungen des § 160 GWB: (1) Die Vergabekammer leitet ein Nachprüfungsverfahren nur auf Antrag ein. (2) Antragsbefugt ist jedes Unternehmen, das ein Interesse an dem öffentlichen Auftrag oder der Konzession hat und eine Verletzung in seinen Rechten nach § 97 Absatz 6 durch Nichtbeachtung von Vergabevorschriften geltend macht. Dabei ist darzulegen, dass dem Unternehmen durch die behauptete Verletzung der Vergabevorschriften ein Schaden entstanden ist oder zu entstehen droht. (3) Der Antrag ist unzulässig, soweit 
+1. der Antragsteller den geltend gemachten Verstoß gegen Vergabevorschriften vor Einreichen des Nachprüfungsantrags erkannt und gegenüber dem Auftraggeber nicht innerhalb einer Frist von zehn Kalendertagen gerügt hat; der Ablauf der Frist nach § 134 Absatz 2 bleibt unberührt, 
+2. Verstöße gegen Vergabevorschriften, die aufgrund der Bekanntmachung erkennbar sind, nicht spätestens bis zum Ablauf der in der Bekanntmachung benannten Frist zur
+ 
+Bewerbung oder zur Angebotsabgabe gegenüber dem Auftraggeber gerügt werden, 
+3. Verstöße gegen Vergabevorschriften, die erst in den Vergabeunterlagen erkennbar sind, nicht spätestens bis zum Ablauf der Frist zur Bewerbung oder zur Angebotsabgabe gegenüber dem Auftraggeber gerügt werden, 
+4. mehr als 15 Kalendertage nach Eingang der Mitteilung des Auftraggebers einer Rüge nicht abhelfen zu wollen, vergangen sind. Satz 1 gilt nicht bei einem Antrag auf Feststellung der Unwirksamkeit des Vertrags nach § 135 Absatz 1 Nummer 2. § 134 Absatz 1 Satz 2 bleibt unberührt.</cbc:Description>
+            </cac:PresentationPeriod>
+            <cac:AppealInformationParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0002</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealInformationParty>
+            <cac:AppealReceiverParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0002</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealReceiverParty>
+         </cac:AppealTerms>
+         <cac:Language>
+            <cbc:ID>DEU</cbc:ID>
+         </cac:Language>
+         <cac:PostAwardProcess>
+            <cbc:ElectronicOrderUsageIndicator>false</cbc:ElectronicOrderUsageIndicator>
+            <cbc:ElectronicPaymentUsageIndicator>true</cbc:ElectronicPaymentUsageIndicator>
+         </cac:PostAwardProcess>
+      </cac:TenderingTerms>
+      <cac:TenderingProcess>
+         <cbc:SubmissionMethodCode listName="esubmission">required</cbc:SubmissionMethodCode>
+         <cbc:CandidateReductionConstraintIndicator>true</cbc:CandidateReductionConstraintIndicator>
+         <cbc:GovernmentAgreementConstraintIndicator>true</cbc:GovernmentAgreementConstraintIndicator>
+         <cac:InvitationSubmissionPeriod>
+            <cbc:StartDate>2026-10-15+02:00</cbc:StartDate>
+         </cac:InvitationSubmissionPeriod>
+         <cac:ParticipationRequestReceptionPeriod>
+            <cbc:EndDate>2026-09-14+02:00</cbc:EndDate>
+            <cbc:EndTime>14:00:00+02:00</cbc:EndTime>
+         </cac:ParticipationRequestReceptionPeriod>
+         <cac:EconomicOperatorShortList>
+            <cbc:LimitationDescription>true</cbc:LimitationDescription>
+            <cbc:MaximumQuantity>7</cbc:MaximumQuantity>
+            <cbc:MinimumQuantity>3</cbc:MinimumQuantity>
+         </cac:EconomicOperatorShortList>
+         <cac:AuctionTerms>
+            <cbc:AuctionConstraintIndicator>false</cbc:AuctionConstraintIndicator>
+         </cac:AuctionTerms>
+         <cac:FrameworkAgreement>
+            <cbc:MaximumOperatorQuantity>2</cbc:MaximumOperatorQuantity>
+         </cac:FrameworkAgreement>
+         <cac:ContractingSystem>
+            <cbc:ContractingSystemTypeCode listName="dps-usage">none</cbc:ContractingSystemTypeCode>
+         </cac:ContractingSystem>
+         <cac:ContractingSystem>
+            <cbc:ContractingSystemTypeCode listName="framework-agreement">fa-w-rc</cbc:ContractingSystemTypeCode>
+         </cac:ContractingSystem>
+      </cac:TenderingProcess>
+      <cac:ProcurementProject>
+         <cbc:ID schemeName="InternalID">LOT-0001 E55476844</cbc:ID>
+         <cbc:Name languageID="DEU">Rahmenvereinbarung zu Seminarendurchführung „Künstliche Intelligenz“</cbc:Name>
+         <cbc:Description languageID="DEU">Die DFS Deutsche Flugsicherung GmbH verfolgt das Ziel, einen strukturierten und unternehmensweiten Ansatz zum Aufbau von Kompetenzen im Bereich Künstliche Intelligenz (KI) zu etablieren. Mitarbeitende und Führungskräfte sollen im Sinne der KI-VO befähigt werden, KI-Anwendungen sicher, verantwortungsvoll und effizient im Arbeitsalltag einzusetzen sowie Potenziale für die Organisation systematisch zu erschließen. Hierzu soll ein mehrstufiges Befähigungskonzept umgesetzt werden, das unterschiedliche Zielgruppen und Kompetenzniveaus adressiert. 
+
+Zentrale Bestandteile sollen modular aufgebaute Lernreisen für Mitarbeitende und Führungskräfte sein, die eine Kombination aus virtuellen Trainingsformaten, begleitetem Selbststudium sowie praxisnahen Übungen umfassen. Das Copilot Lizenz Kompakt Modul soll auf den Lernreisen für Mitarbeitenden und Führungskräften aufbauen. Inhaltlich sollen sowohl Grundlagen der Künstlichen Intelligenz als auch deren konkrete Anwendung im Arbeitskontext der DFS vermittelt werden. 
+
+Schwerpunkte sollen insbesondere die Nutzung von Microsoft Copilot (Basic/Chat und Premium/mit Lizenz), praxisorientiertes Prompting und die Nutzung von Agenten, die Identifikation und Umsetzung von Anwendungsfällen sowie die Reflexion von Chancen, Grenzen und Risiken umfassen. Darüber hinaus sollen zielgruppenspezifische Formate vorgesehen werden: Für Mitarbeitende soll der Fokus auf der sicheren und effizienten Anwendung von KI im Tagesgeschäft liegen, während Formate für Führungskräfte insbesondere deren Rolle in der Steuerung, Förderung und kulturellen Verankerung von KI-Nutzung im eigenen Verantwortungsbereich adressieren sollen. 
+
+Ein wesentliches Element der vorgesehenen Transferformate soll ein Erfahrungskreis „Prompting“ darstellen. Dabei soll es sich um ein strukturiertes Austauschformat handeln, in dem Mitarbeitende ihre Erfahrungen im Umgang mit generativer KI – insbesondere bei der Erstellung und Anwendung von Prompts – teilen und weiterentwickeln. Ziel soll es sein, Best Practices transparent zu machen, die Qualität der erzeugten Ergebnisse zu steigern und den nachhaltigen Transfer in den Arbeitsalltag zu unterstützen. Der Erfahrungskreis soll damit zur organisationsweiten Vernetzung sowie zur Etablierung einer lernorientierten, offenen Nutzungskultur im Umgang mit KI beitragen. Insgesamt soll der Ansatz auf einen breiten, praxisnahen Kompetenzaufbau ausgerichtet sein, der sowohl die individuelle Handlungssicherheit im Umgang mit KI stärkt als auch die strategische Weiterentwicklung und Effizienzsteigerung innerhalb der DFS unterstützt. Der Fokus der Seminare liegt hierbei insbesondere auf folgenden Schwerpunkten:
+
+• Lernreise KI für Führungskräfte (Modularer Aufbau/ Virtuell / In Summe 1 Tag)
+• Lernreise KI Copilot Chat Grundkurs für Mitarbeitende (Modularer Aufbau/
+Virtuell / In Summe 1 Tag)
+• Lernreise KI Copilot mit Lizenz Grundkurs für Mitarbeitende (Modularer Aufbau /
+Virtuell / In Summe 1 Tag)
+• Aufbaumodul Copilot mit Lizenz für Führungskräfte und Mitarbeitende, die unterjährig
+eine Lizenz bekommen haben (Virtuell / halbtägig) 
+• Promptathon (Präsenz in Langen / halbtägig bis max. 1 Tag)</cbc:Description>
+         <cbc:ProcurementTypeCode listName="contract-nature">services</cbc:ProcurementTypeCode>
+         <cbc:SMESuitableIndicator>false</cbc:SMESuitableIndicator>
+         <cac:ProcurementAdditionalType>
+            <cbc:ProcurementTypeCode listName="strategic-procurement">none</cbc:ProcurementTypeCode>
+         </cac:ProcurementAdditionalType>
+         <cac:MainCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">80522000</cbc:ItemClassificationCode>
+         </cac:MainCommodityClassification>
+         <cac:RealizedLocation>
+            <cbc:Description languageID="DEU">Je Los sollen die Trainings ca. dreimal jährlich primär am Standort Langen, gegebenenfalls 
+auch an anderen Orten in Deutschland oder auch virtuell, stattfinden. Die 
+Häufigkeit  der Veranstaltungen variiert je nach Bedarf.</cbc:Description>
+            <cac:Address>
+               <cbc:CityName>Langen</cbc:CityName>
+               <cbc:PostalZone>63225</cbc:PostalZone>
+               <cbc:CountrySubentityCode listName="nuts">DE71C</cbc:CountrySubentityCode>
+               <cac:Country>
+                  <cbc:IdentificationCode listName="country">DEU</cbc:IdentificationCode>
+               </cac:Country>
+            </cac:Address>
+         </cac:RealizedLocation>
+         <cac:PlannedPeriod>
+            <cbc:DurationMeasure unitCode="MONTH">36</cbc:DurationMeasure>
+         </cac:PlannedPeriod>
+         <cac:ContractExtension>
+            <cbc:MaximumNumberNumeric>1</cbc:MaximumNumberNumeric>
+            <cac:Renewal>
+               <cac:Period>
+                  <cbc:Description languageID="DEU">Verlängerung um maximal 12 Monate</cbc:Description>
+               </cac:Period>
+            </cac:Renewal>
+         </cac:ContractExtension>
+      </cac:ProcurementProject>
+   </cac:ProcurementProjectLot>
+   <cac:ProcurementProjectLot>
+      <cbc:ID schemeName="Lot">LOT-0002</cbc:ID>
+      <cac:TenderingTerms>
+         <ext:UBLExtensions>
+            <ext:UBLExtension>
+               <ext:ExtensionContent>
+                  <efext:EformsExtension>
+                     <efac:SelectionCriteria>
+                        <cbc:TendererRequirementTypeCode listName="selection-criterion">slc-stand-other</cbc:TendererRequirementTypeCode>
+                        <cbc:Description languageID="DEU">Beschreibung: Art: Eignung zur Berufsausübung , Bezeichnung: Befähigung zur Berufsausübung einschließlich Auflagen hinsichtlich der Eintragung
+in einem Berufs- oder Handelsregister.
+
+Beschreibung:
+Auflistung und kurze Beschreibung der Eignungskriterien:
+1.	Vorlage einer Unternehmensdarstellung des Bewerbers bezüglich der ausgeschriebenen
+Leistungsart:
+Vorstellung des Unternehmens, u.a. historische Entwicklung, Organisation, Eigentums-
+und Beteiligungsstrukturen, etc. Darstellung der
+Kernkompetenzen / des Schwerpunktes der Geschäftstätigkeit, sowie die Bedeutung des
+entsprechenden Geschäftsfeldes bezüglich der ausgeschriebenen Leistungsart.
+
+2.	Vorlage eines Handelsregisterauszuges, der bei Ablauf der Bewerbungsfrist nicht
+älter als 6 Monate ist. Sofern der Bewerber nicht im Handelsregister eingetragen ist:
+Aussage des Bewerbers in welchen sonstigen Berufsverbänden/Registern/Innungen/Kammern/etc.
+Eintragungen bestehen. Wenn möglich, Nachweis über die jeweiligen Eintragungen (ebenfalls
+nicht älter als 6 Monate). Sollte keine Eintragung
+bestehen: Der Bewerber hat im Teilnahmeantrag eine Begründung vorzulegen, warum keine
+Eintragung benötigt wird bzw. besteht.
+
+3.	Vorlage einer Eigenerklärung des Bewerbers, dass die in § 123 Gesetz gegen Wettbewerbsbeschränkung
+(GWB) genannten Ausschlussgründe nicht zutreffen und dass die Voraussetzungen gemäß
+§ 124 GWB nicht vorliegen.
+
+4.	Vorlage einer Eigenerklärung des Bewerbers, dass die in Verordnung (EU) 2022/576
+„EU-Sanktionsverordnung gegen Russland“
+wegen Destabilisierung der Situation in der Ukraine genannten Ausschlussgründe nicht
+zutreffen und dass die Voraussetzungen gemäß Verordnung (EU) 2022/576 nicht vorliegen.
+Hinweis: Bitte nutzen Sie für diesen Punkt 4 ausschließlich das vorgegebene Formular
+auf der Vergabeplattform (Vergabeunterlagen).
+
+5.	Vorlage der Nachweise einer bestehenden Haftpflichtversicherung  (z.B. Unternehmenshaftpflichtversicherung,
+Produkthaftpflichtversicherung) unter Angabe der Deckungssummen.
+
+6.	Vorlage einer Eigenerklärung des Bewerbers, ob er beabsichtigt Unteraufträge zu
+erteilen. Wenn ja: Aussage, für welche Leistungen Unteraufträge eingesetzt werden
+sollen. Wenn nein: Aussage, dass er nicht beabsichtigt Unteraufträge zu erteilen oder
+dies zum
+jetzigen Zeitpunkt noch nicht absehbar ist.
+
+7.	Vorlage einer schriftlichen Erklärung des Bewerbers, dass im Unternehmen technisch/organisatorische Maßnahmen gemäß Art. 5, 25 und 32 DSGVO vorliegen und diese im Rahmen einer möglichen Angebotslegung in der Angebotsphase durch den Bewerber eingereicht
+werden könnten. Vorlage einer schriftlichen Erklärung des Bewerbers zur Bereitschaft des Abschlusses einer Zusatzvereinbarung zur Auftragsverarbeitung im Auftragsfall.
+Hinweis: Sollte eine Auftragsverarbeitung zur Anwendung kommen, so ist ein Abschluss einer Zusatzvereinbarung zur Auftragsverarbeitung zwingend erforderlich.</cbc:Description>
+                        <efbc:SecondStageIndicator>true</efbc:SecondStageIndicator>
+                     </efac:SelectionCriteria>
+                     <efac:SelectionCriteria>
+                        <cbc:TendererRequirementTypeCode listName="selection-criterion">slc-stand-other</cbc:TendererRequirementTypeCode>
+                        <cbc:Description languageID="DEU">Art: Wirtschaftliche  und finanzielle Leistungsfähigkeit, Bezeichnung: Bewertungskriterien und Gewichtung der wirtschaftlichen
+und finanziellen Leistungsfähigkeit (kaufmännische Bewertung - Gesamtgewichtung  40%):
+
+Beschreibung: Auflistung und kurze
+Beschreibung der Eignungskriterien: 1. Bonitätsbewertung : Ein Bonitätsrating des Bewerbers
+der Fa. Creditreform wird durch die
+Vergabestelle eingeholt. Ist der Bewerber nicht bei der Fa. Creditreform gelistet,
+so ist er verpflichtet, ein Bonitätsrating einer vergleichbaren Wirtschaftsauskunft einzureichen (die Überprüfung, ob ein Bewerber gelistet ist, hat
+durch den Bewerber selbst zu erfolgen)
+(geht zu 80% in die kaufmännische Bewertung mit ein).
+
+2. Umsatzentwicklung: Vorlage einer Eigenerklärung des Bewerbers zu den Umsätzen der
+vergangenen drei Geschäftsjahre bezogen auf die ausgeschriebene Leistungsart im Bereich (geht zu 20% in die kaufmännische Bewertung mit ein).
+Geforderte Mindeststandards : Umsatz in der ausgeschriebenen Leistungsart von durchschnittlich
+150.000 EUR / Jahr bezogen auf die letzten drei abgeschlossenen Geschäftsjahre.
+Allgemeiner Hinweis: 1. Die aufgestellte Forderung bezogen auf die letzten drei Geschäftsjahre
+stellt keine Mindestanforderung im Hinblick auf die Dauer der Geschäftstätigkeit dar.
+Unternehmen, die kürzer als drei Jahre existieren, machen diese Angaben bitte nur
+bezogen auf die Dauer ihrer Geschäftstätigkeit.
+
+2. Beachten Sie hierzu auch die Ausführungen unter "Zusätzliche Informationen".</cbc:Description>
+                        <efbc:SecondStageIndicator>true</efbc:SecondStageIndicator>
+                     </efac:SelectionCriteria>
+                     <efac:SelectionCriteria>
+                        <cbc:TendererRequirementTypeCode listName="selection-criterion">slc-abil-ref-services</cbc:TendererRequirementTypeCode>
+                        <cbc:Description languageID="DEU">Art: Technische und berufliche Leistungsfähigkeit, Bezeichnung: Bewertungskriterien und Gewichtung der Fachkunde und technischen Leistungsfähigkeit (fachliche Bewertung)
+(Gesamtgewichtung 60%):
+Beschreibung:
+
+1. Der Anbieter legt Referenzen zu erfolgreich durchgeführten Projekten vergleichbarer Größenordnung und Leistungsart aus den vergangenen drei Jahren vor. Die Darstellung umfasst mindestens eine Projektbeschreibung, den Realisierungszeitraum sowie den Auftraggeber. Die Referenzen sollen eine hohe Vergleichbarkeit mit den ausgeschriebenen Leistungen aufweisen. (geht zu 20% in die fachliche Bewertung ein).
+
+2.Der Anbieter stellt konkrete Umsetzungskonzepte für vergleichbare Kundenprojekte vor. Die Darstellung umfasst mindestens die methodische Vorgehensweise, den Ablauf der Maßnahmen sowie Ansätze zur nachhaltigen Verankerung der Lerninhalte im Arbeitsalltag und soll auf erfolgreich umgesetzten Projekten bei anderen Unternehmen basieren. (geht zu 40% in die fachliche Bewertung ein).
+
+3.Der Anbieter stellt beispielhaft potenzielle Trainerinnen und Trainer für die Durchführung der Maßnahmen vor. Die Vorstellung umfasst mindestens Lebenslauf/Kurzprofil, Nachweise relevanter Qualifikationen sowie Referenzen vergleichbarer Projekte. (geht zu 40% in die fachliche Bewertung ein).	
+
+Allgemeiner Hinweis: Die aufgestellte Forderung bezogen auf die letzten drei Geschäftsjahre
+stellt keine Mindestanforderung im Hinblick auf die Dauer der Geschäftstätigkeit dar. Unternehmen, die kürzer als drei Jahre existieren,
+machen diese Angaben bitte nur bezogen auf die Dauer ihrer Geschäftstätigkeit
+
+Allgemeiner Hinweis: Mindestanforderung: Die erreichte Punktzahl der fachlichen Bewertung muss mindestens 70% betragen.</cbc:Description>
+                        <efbc:SecondStageIndicator>true</efbc:SecondStageIndicator>
+                     </efac:SelectionCriteria>
+                     <efac:StrategicProcurement>
+                        <efbc:ApplicableLegalBasis listName="cvd-scope">false</efbc:ApplicableLegalBasis>
+                     </efac:StrategicProcurement>
+                  </efext:EformsExtension>
+               </ext:ExtensionContent>
+            </ext:UBLExtension>
+         </ext:UBLExtensions>
+         <cbc:VariantConstraintCode listName="permission">not-allowed</cbc:VariantConstraintCode>
+         <cbc:FundingProgramCode listName="eu-funded">no-eu-funds</cbc:FundingProgramCode>
+         <cbc:MultipleTendersCode listName="permission">not-allowed</cbc:MultipleTendersCode>
+         <cac:CallForTendersDocumentReference>
+            <ext:UBLExtensions>
+               <ext:UBLExtension>
+                  <ext:ExtensionContent>
+                     <efext:EformsExtension>
+                        <efac:OfficialLanguages>
+                           <cac:Language>
+                              <cbc:ID>DEU</cbc:ID>
+                           </cac:Language>
+                        </efac:OfficialLanguages>
+                     </efext:EformsExtension>
+                  </ext:ExtensionContent>
+               </ext:UBLExtension>
+            </ext:UBLExtensions>
+            <cbc:ID>E55476844</cbc:ID>
+            <cbc:DocumentType>non-restricted-document</cbc:DocumentType>
+            <cac:Attachment>
+               <cac:ExternalReference>
+                  <cbc:URI>https://www.subreport.de/E55476844</cbc:URI>
+               </cac:ExternalReference>
+            </cac:Attachment>
+         </cac:CallForTendersDocumentReference>
+         <cac:TendererQualificationRequest>
+            <cac:SpecificTendererRequirement>
+               <cbc:TendererRequirementTypeCode listName="selection-criteria-source">epo-notice</cbc:TendererRequirementTypeCode>
+            </cac:SpecificTendererRequirement>
+         </cac:TendererQualificationRequest>
+         <cac:TendererQualificationRequest>
+            <cac:SpecificTendererRequirement>
+               <cbc:TendererRequirementTypeCode listName="reserved-procurement">none</cbc:TendererRequirementTypeCode>
+            </cac:SpecificTendererRequirement>
+         </cac:TendererQualificationRequest>
+         <cac:TendererQualificationRequest>
+            <cac:SpecificTendererRequirement>
+               <cbc:TendererRequirementTypeCode listName="missing-info-submission">late-all</cbc:TendererRequirementTypeCode>
+               <cbc:Description languageID="DEU">1. Eignungsleihe (§ 47 VgV): Plant ein Bewerber die Eignungsleihe, so sind die geforderten
+Angaben/
+Informationen/ Unterlagen (Eignung zur Berufsausübung und wirtschaftliche und finanzielle
+Leistungsfähigkeit) auch von den "anderen"
+Unternehmen im Sinne des § 47 Abs. I VgV einzureichen. Zusätzlich ist eine unterzeichnete
+Verpflichtungserklärung der anderen Unternehmen
+einzureichen, die eine verbindliche Aussage über die Bereitstellung der erforderlichen
+Mittel / Ressourcen zur Erfüllung im Auftragsfall beinhaltet.
+Für die Eignungsleihe gelten die Bestimmungen von § 47 Abs. 1 S.3 und Abs. 3 VgV.
+Sofern ein Bewerber die Kapazitäten eines anderen
+Unternehmens im Hinblick auf die erforderliche wirtschaftliche und finanzielle Leistungsfähigkeit
+in Anspruch nimmt, so wird eine
+gemeinsame Haftung des Bewerbers oder Bieters und des anderen Unternehmens für die
+Auftragsausführung entsprechend dem Umfang der
+Eignungsleihe verlangt. Die entsprechende Verpflichtungserklärung, aus der sich ergibt,
+dass das andere Unternehmen im Falle der Auftragsvergabe an den Bieter mit diesem
+gemeinsam gegenüber dem Auftraggeber für die Auftragsausführung haftet, ist mit dem
+Teilnahmeantrag vorzulegen.
+2.	Bewerbergemeinschaften: Bewerbergemeinschaften müssen mit Ihrem Teilnahmeantrag
+eine von allen Mitgliedern unterzeichnete Erklärung der gesamtschuldnerischen Haftung
+abgeben.
+3.	Die Korrespondenz im Rahmen des Vergabeverfahrens erfolgt ausschließlich in deutscher
+oder englischer Sprache und ausschließlich über das System subreport Elvis.
+4.	Ebenfalls sind die Teilnahmeanträge und späteren Angebote
+ 
+ausschließlich nur elektronisch
+via: https://www.subreport.de/E32685237  einzureichen. Die Abgabe der Teilnahmeanträge
+und der späteren Angebote erfolgt ausschließlich über die Funktion "Teilnahmeanträge"
+/ "Angebote" "abgeben". Die Einreichung von Teilnahmeanträgen und Angeboten über die
+Funktion "Kommunikation" oder anderes führt zum direkten Ausschluss vom Wettbewerb.
+
+5.	Bei technischen Störungen oder Fragen zur Handhabung des Systems wenden Sie sich
+bitte direkt an subreport unter +49 221 985
+78-0 bzw. info@subreport.de. 
+
+6. Für die Erstellung der Teilnahmeanträge und der späteren
+Angebote erhält der Bewerber / Bieter keine Kostenerstattung.</cbc:Description>
+            </cac:SpecificTendererRequirement>
+         </cac:TendererQualificationRequest>
+         <cac:ContractExecutionRequirement>
+            <cbc:ExecutionRequirementCode listName="ecatalog-submission">not-allowed</cbc:ExecutionRequirementCode>
+         </cac:ContractExecutionRequirement>
+         <cac:ContractExecutionRequirement>
+            <cbc:ExecutionRequirementCode listName="einvoicing">required</cbc:ExecutionRequirementCode>
+         </cac:ContractExecutionRequirement>
+         <cac:ContractExecutionRequirement>
+            <cbc:ExecutionRequirementCode listName="reserved-execution">no</cbc:ExecutionRequirementCode>
+         </cac:ContractExecutionRequirement>
+         <cac:AwardingTerms>
+            <cbc:NoFurtherNegotiationIndicator>true</cbc:NoFurtherNegotiationIndicator>
+         </cac:AwardingTerms>
+         <cac:TenderRecipientParty>
+            <cbc:EndpointID>https://www.subreport.de/E55476844</cbc:EndpointID>
+         </cac:TenderRecipientParty>
+         <cac:AppealTerms>
+            <cac:PresentationPeriod>
+               <cbc:Description languageID="DEU">: Informationen über die Überprüfungsfristen: Bitte beachten Sie die Regelungen des § 160 GWB: (1) Die Vergabekammer leitet ein Nachprüfungsverfahren nur auf Antrag ein. (2) Antragsbefugt ist jedes Unternehmen, das ein Interesse an dem öffentlichen Auftrag oder der Konzession hat und eine Verletzung in seinen Rechten nach § 97 Absatz 6 durch Nichtbeachtung von Vergabevorschriften geltend macht. Dabei ist darzulegen, dass dem Unternehmen durch die behauptete Verletzung der Vergabevorschriften ein Schaden entstanden ist oder zu entstehen droht. (3) Der Antrag ist unzulässig, soweit 
+1. der Antragsteller den geltend gemachten Verstoß gegen Vergabevorschriften vor Einreichen des Nachprüfungsantrags erkannt und gegenüber dem Auftraggeber nicht innerhalb einer Frist von zehn Kalendertagen gerügt hat; der Ablauf der Frist nach § 134 Absatz 2 bleibt unberührt, 
+2. Verstöße gegen Vergabevorschriften, die aufgrund der Bekanntmachung erkennbar sind, nicht spätestens bis zum Ablauf der in der Bekanntmachung benannten Frist zur
+ 
+Bewerbung oder zur Angebotsabgabe gegenüber dem Auftraggeber gerügt werden, 
+3. Verstöße gegen Vergabevorschriften, die erst in den Vergabeunterlagen erkennbar sind, nicht spätestens bis zum Ablauf der Frist zur Bewerbung oder zur Angebotsabgabe gegenüber dem Auftraggeber gerügt werden, 
+4. mehr als 15 Kalendertage nach Eingang der Mitteilung des Auftraggebers einer Rüge nicht abhelfen zu wollen, vergangen sind. Satz 1 gilt nicht bei einem Antrag auf Feststellung der Unwirksamkeit des Vertrags nach § 135 Absatz 1 Nummer 2. § 134 Absatz 1 Satz 2 bleibt unberührt.</cbc:Description>
+            </cac:PresentationPeriod>
+            <cac:AppealInformationParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0002</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealInformationParty>
+            <cac:AppealReceiverParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0002</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealReceiverParty>
+         </cac:AppealTerms>
+         <cac:Language>
+            <cbc:ID>DEU</cbc:ID>
+         </cac:Language>
+         <cac:PostAwardProcess>
+            <cbc:ElectronicOrderUsageIndicator>false</cbc:ElectronicOrderUsageIndicator>
+            <cbc:ElectronicPaymentUsageIndicator>true</cbc:ElectronicPaymentUsageIndicator>
+         </cac:PostAwardProcess>
+      </cac:TenderingTerms>
+      <cac:TenderingProcess>
+         <cbc:SubmissionMethodCode listName="esubmission">required</cbc:SubmissionMethodCode>
+         <cbc:CandidateReductionConstraintIndicator>true</cbc:CandidateReductionConstraintIndicator>
+         <cbc:GovernmentAgreementConstraintIndicator>true</cbc:GovernmentAgreementConstraintIndicator>
+         <cac:InvitationSubmissionPeriod>
+            <cbc:StartDate>2026-10-15+02:00</cbc:StartDate>
+         </cac:InvitationSubmissionPeriod>
+         <cac:ParticipationRequestReceptionPeriod>
+            <cbc:EndDate>2026-09-14+02:00</cbc:EndDate>
+            <cbc:EndTime>14:00:00+02:00</cbc:EndTime>
+         </cac:ParticipationRequestReceptionPeriod>
+         <cac:EconomicOperatorShortList>
+            <cbc:LimitationDescription>true</cbc:LimitationDescription>
+            <cbc:MaximumQuantity>7</cbc:MaximumQuantity>
+            <cbc:MinimumQuantity>3</cbc:MinimumQuantity>
+         </cac:EconomicOperatorShortList>
+         <cac:AuctionTerms>
+            <cbc:AuctionConstraintIndicator>false</cbc:AuctionConstraintIndicator>
+         </cac:AuctionTerms>
+         <cac:FrameworkAgreement>
+            <cbc:MaximumOperatorQuantity>2</cbc:MaximumOperatorQuantity>
+         </cac:FrameworkAgreement>
+         <cac:ContractingSystem>
+            <cbc:ContractingSystemTypeCode listName="dps-usage">none</cbc:ContractingSystemTypeCode>
+         </cac:ContractingSystem>
+         <cac:ContractingSystem>
+            <cbc:ContractingSystemTypeCode listName="framework-agreement">fa-w-rc</cbc:ContractingSystemTypeCode>
+         </cac:ContractingSystem>
+      </cac:TenderingProcess>
+      <cac:ProcurementProject>
+         <cbc:ID schemeName="InternalID">LOT-0002 E55476844</cbc:ID>
+         <cbc:Name languageID="DEU">Rahmenvereinbarung zu Seminardurchführung „Kommunikation, Moderation und persönliche Wirkung“</cbc:Name>
+         <cbc:Description languageID="DEU">Die Seminare sollen die Kommunikations-, Team-, Moderations- und Präsentationskompetenzen der Mitarbeitenden stärken und sie befähigen, in unterschiedlichen beruflichen Situationen souverän, überzeugend und zielgruppengerecht zu agieren. Die Maßnahmen sollen insbesondere die Schwerpunkte Kommunikation, Teamarbeit, überzeugendes Auftreten, Moderation von Workshops sowie wirkungsvolle Präsentation umfassen. Ein hoher Praxisbezug mit Übungen, Simulationen, Reflexion und individuellem Feedback zur nachhaltigen Anwendung im DFS-Arbeitsalltag soll sichergestellt werden.
+
+Der Fokus der Seminare liegt hierbei insbesondere auf folgenden Schwerpunkten:
+
+•	Schlüsselfaktoren erfolgreicher Kommunikation (Präsenz / 2 Tage)
+•	Teamfähigkeit und Teamarbeit (Präsenz / 2 Tage)
+•	Überzeugend Auftreten und Wirken (Präsenz / 2 Tage)
+•	Moderation von Workshops (Präsenz / 2 Tage)
+•	Wirkungsvoll Präsentieren (Präsenz / 2 Tage)</cbc:Description>
+         <cbc:ProcurementTypeCode listName="contract-nature">services</cbc:ProcurementTypeCode>
+         <cbc:SMESuitableIndicator>false</cbc:SMESuitableIndicator>
+         <cac:ProcurementAdditionalType>
+            <cbc:ProcurementTypeCode listName="strategic-procurement">none</cbc:ProcurementTypeCode>
+         </cac:ProcurementAdditionalType>
+         <cac:MainCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">80522000</cbc:ItemClassificationCode>
+         </cac:MainCommodityClassification>
+         <cac:RealizedLocation>
+            <cbc:Description languageID="DEU">Je Los sollen die Trainings ca. dreimal jährlich primär am Standort Langen, gegebenenfalls 
+auch an anderen Orten in Deutschland oder auch virtuell, stattfinden. Die 
+Häufigkeit  der Veranstaltungen variiert je nach Bedarf.</cbc:Description>
+            <cac:Address>
+               <cbc:CityName>Langen</cbc:CityName>
+               <cbc:PostalZone>63225</cbc:PostalZone>
+               <cbc:CountrySubentityCode listName="nuts">DE71C</cbc:CountrySubentityCode>
+               <cac:Country>
+                  <cbc:IdentificationCode listName="country">DEU</cbc:IdentificationCode>
+               </cac:Country>
+            </cac:Address>
+         </cac:RealizedLocation>
+         <cac:PlannedPeriod>
+            <cbc:DurationMeasure unitCode="MONTH">36</cbc:DurationMeasure>
+         </cac:PlannedPeriod>
+         <cac:ContractExtension>
+            <cbc:MaximumNumberNumeric>1</cbc:MaximumNumberNumeric>
+            <cac:Renewal>
+               <cac:Period>
+                  <cbc:Description languageID="DEU">Verlängerung um maximal 12 Monate</cbc:Description>
+               </cac:Period>
+            </cac:Renewal>
+         </cac:ContractExtension>
+      </cac:ProcurementProject>
+   </cac:ProcurementProjectLot>
+   <cac:ProcurementProjectLot>
+      <cbc:ID schemeName="Lot">LOT-0003</cbc:ID>
+      <cac:TenderingTerms>
+         <ext:UBLExtensions>
+            <ext:UBLExtension>
+               <ext:ExtensionContent>
+                  <efext:EformsExtension>
+                     <efac:SelectionCriteria>
+                        <cbc:TendererRequirementTypeCode listName="selection-criterion">slc-stand-other</cbc:TendererRequirementTypeCode>
+                        <cbc:Description languageID="DEU">Beschreibung: Art: Eignung zur Berufsausübung , Bezeichnung: Befähigung zur Berufsausübung einschließlich Auflagen hinsichtlich der Eintragung
+in einem Berufs- oder Handelsregister.
+
+Beschreibung:
+Auflistung und kurze Beschreibung der Eignungskriterien:
+1.	Vorlage einer Unternehmensdarstellung des Bewerbers bezüglich der ausgeschriebenen
+Leistungsart:
+Vorstellung des Unternehmens, u.a. historische Entwicklung, Organisation, Eigentums-
+und Beteiligungsstrukturen, etc. Darstellung der
+Kernkompetenzen / des Schwerpunktes der Geschäftstätigkeit, sowie die Bedeutung des
+entsprechenden Geschäftsfeldes bezüglich der ausgeschriebenen Leistungsart.
+
+2.	Vorlage eines Handelsregisterauszuges, der bei Ablauf der Bewerbungsfrist nicht
+älter als 6 Monate ist. Sofern der Bewerber nicht im Handelsregister eingetragen ist:
+Aussage des Bewerbers in welchen sonstigen Berufsverbänden/Registern/Innungen/Kammern/etc.
+Eintragungen bestehen. Wenn möglich, Nachweis über die jeweiligen Eintragungen (ebenfalls
+nicht älter als 6 Monate). Sollte keine Eintragung
+bestehen: Der Bewerber hat im Teilnahmeantrag eine Begründung vorzulegen, warum keine
+Eintragung benötigt wird bzw. besteht.
+
+3.	Vorlage einer Eigenerklärung des Bewerbers, dass die in § 123 Gesetz gegen Wettbewerbsbeschränkung
+(GWB) genannten Ausschlussgründe nicht zutreffen und dass die Voraussetzungen gemäß
+§ 124 GWB nicht vorliegen.
+
+4.	Vorlage einer Eigenerklärung des Bewerbers, dass die in Verordnung (EU) 2022/576
+„EU-Sanktionsverordnung gegen Russland“
+wegen Destabilisierung der Situation in der Ukraine genannten Ausschlussgründe nicht
+zutreffen und dass die Voraussetzungen gemäß Verordnung (EU) 2022/576 nicht vorliegen.
+Hinweis: Bitte nutzen Sie für diesen Punkt 4 ausschließlich das vorgegebene Formular
+auf der Vergabeplattform (Vergabeunterlagen).
+
+5.	Vorlage der Nachweise einer bestehenden Haftpflichtversicherung  (z.B. Unternehmenshaftpflichtversicherung,
+Produkthaftpflichtversicherung) unter Angabe der Deckungssummen.
+
+6.	Vorlage einer Eigenerklärung des Bewerbers, ob er beabsichtigt Unteraufträge zu
+erteilen. Wenn ja: Aussage, für welche Leistungen Unteraufträge eingesetzt werden
+sollen. Wenn nein: Aussage, dass er nicht beabsichtigt Unteraufträge zu erteilen oder
+dies zum
+jetzigen Zeitpunkt noch nicht absehbar ist.
+
+7.	Vorlage einer schriftlichen Erklärung des Bewerbers, dass im Unternehmen technisch/organisatorische Maßnahmen gemäß Art. 5, 25 und 32 DSGVO vorliegen und diese im Rahmen einer möglichen Angebotslegung in der Angebotsphase durch den Bewerber eingereicht
+werden könnten. Vorlage einer schriftlichen Erklärung des Bewerbers zur Bereitschaft des Abschlusses einer Zusatzvereinbarung zur Auftragsverarbeitung im Auftragsfall.
+Hinweis: Sollte eine Auftragsverarbeitung zur Anwendung kommen, so ist ein Abschluss einer Zusatzvereinbarung zur Auftragsverarbeitung zwingend erforderlich.</cbc:Description>
+                        <efbc:SecondStageIndicator>true</efbc:SecondStageIndicator>
+                     </efac:SelectionCriteria>
+                     <efac:SelectionCriteria>
+                        <cbc:TendererRequirementTypeCode listName="selection-criterion">slc-stand-other</cbc:TendererRequirementTypeCode>
+                        <cbc:Description languageID="DEU">Art: Wirtschaftliche  und finanzielle Leistungsfähigkeit, Bezeichnung: Bewertungskriterien und Gewichtung der wirtschaftlichen
+und finanziellen Leistungsfähigkeit (kaufmännische Bewertung - Gesamtgewichtung  40%):
+
+Beschreibung: Auflistung und kurze
+Beschreibung der Eignungskriterien: 1. Bonitätsbewertung : Ein Bonitätsrating des Bewerbers
+der Fa. Creditreform wird durch die
+Vergabestelle eingeholt. Ist der Bewerber nicht bei der Fa. Creditreform gelistet,
+so ist er verpflichtet, ein Bonitätsrating einer vergleichbaren Wirtschaftsauskunft einzureichen (die Überprüfung, ob ein Bewerber gelistet ist, hat
+durch den Bewerber selbst zu erfolgen)
+(geht zu 80% in die kaufmännische Bewertung mit ein).
+
+2. Umsatzentwicklung: Vorlage einer Eigenerklärung des Bewerbers zu den Umsätzen der
+vergangenen drei Geschäftsjahre bezogen auf die ausgeschriebene Leistungsart im Bereich (geht zu 20% in die kaufmännische Bewertung mit ein).
+Geforderte Mindeststandards : Umsatz in der ausgeschriebenen Leistungsart von durchschnittlich
+300.000 EUR / Jahr bezogen auf die letzten drei abgeschlossenen Geschäftsjahre.
+Allgemeiner Hinweis: 1. Die aufgestellte Forderung bezogen auf die letzten drei Geschäftsjahre
+stellt keine Mindestanforderung im Hinblick auf die Dauer der Geschäftstätigkeit dar.
+Unternehmen, die kürzer als drei Jahre existieren, machen diese Angaben bitte nur
+bezogen auf die Dauer ihrer Geschäftstätigkeit.
+
+2. Beachten Sie hierzu auch die Ausführungen unter "Zusätzliche Informationen".</cbc:Description>
+                        <efbc:SecondStageIndicator>true</efbc:SecondStageIndicator>
+                     </efac:SelectionCriteria>
+                     <efac:SelectionCriteria>
+                        <cbc:TendererRequirementTypeCode listName="selection-criterion">slc-abil-ref-services</cbc:TendererRequirementTypeCode>
+                        <cbc:Description languageID="DEU">Art: Technische und berufliche Leistungsfähigkeit, Bezeichnung: Bewertungskriterien und Gewichtung der Fachkunde und technischen Leistungsfähigkeit (fachliche Bewertung)
+(Gesamtgewichtung 60%):
+Beschreibung:
+
+1. Der Anbieter legt Referenzen zu erfolgreich durchgeführten Projekten vergleichbarer Größenordnung und Leistungsart aus den vergangenen drei Jahren vor. Die Darstellung umfasst mindestens eine Projektbeschreibung, den Realisierungszeitraum sowie den Auftraggeber. Die Referenzen sollen eine hohe Vergleichbarkeit mit den ausgeschriebenen Leistungen aufweisen. (geht zu 20% in die fachliche Bewertung ein).
+
+2.Der Anbieter stellt konkrete Umsetzungskonzepte für vergleichbare Kundenprojekte vor. Die Darstellung umfasst mindestens die methodische Vorgehensweise, den Ablauf der Maßnahmen sowie Ansätze zur nachhaltigen Verankerung der Lerninhalte im Arbeitsalltag und soll auf erfolgreich umgesetzten Projekten bei anderen Unternehmen basieren. (geht zu 40% in die fachliche Bewertung ein).
+
+3.Der Anbieter stellt beispielhaft potenzielle Trainerinnen und Trainer für die Durchführung der Maßnahmen vor. Die Vorstellung umfasst mindestens Lebenslauf/Kurzprofil, Nachweise relevanter Qualifikationen sowie Referenzen vergleichbarer Projekte. (geht zu 40% in die fachliche Bewertung ein).	
+
+Allgemeiner Hinweis: Die aufgestellte Forderung bezogen auf die letzten drei Geschäftsjahre
+stellt keine Mindestanforderung im Hinblick auf die Dauer der Geschäftstätigkeit dar. Unternehmen, die kürzer als drei Jahre existieren,
+machen diese Angaben bitte nur bezogen auf die Dauer ihrer Geschäftstätigkeit
+
+Allgemeiner Hinweis: Mindestanforderung: Die erreichte Punktzahl der fachlichen Bewertung muss mindestens 70% betragen.</cbc:Description>
+                        <efbc:SecondStageIndicator>true</efbc:SecondStageIndicator>
+                     </efac:SelectionCriteria>
+                     <efac:StrategicProcurement>
+                        <efbc:ApplicableLegalBasis listName="cvd-scope">false</efbc:ApplicableLegalBasis>
+                     </efac:StrategicProcurement>
+                  </efext:EformsExtension>
+               </ext:ExtensionContent>
+            </ext:UBLExtension>
+         </ext:UBLExtensions>
+         <cbc:VariantConstraintCode listName="permission">not-allowed</cbc:VariantConstraintCode>
+         <cbc:FundingProgramCode listName="eu-funded">no-eu-funds</cbc:FundingProgramCode>
+         <cbc:MultipleTendersCode listName="permission">not-allowed</cbc:MultipleTendersCode>
+         <cac:CallForTendersDocumentReference>
+            <ext:UBLExtensions>
+               <ext:UBLExtension>
+                  <ext:ExtensionContent>
+                     <efext:EformsExtension>
+                        <efac:OfficialLanguages>
+                           <cac:Language>
+                              <cbc:ID>DEU</cbc:ID>
+                           </cac:Language>
+                        </efac:OfficialLanguages>
+                     </efext:EformsExtension>
+                  </ext:ExtensionContent>
+               </ext:UBLExtension>
+            </ext:UBLExtensions>
+            <cbc:ID>E55476844</cbc:ID>
+            <cbc:DocumentType>non-restricted-document</cbc:DocumentType>
+            <cac:Attachment>
+               <cac:ExternalReference>
+                  <cbc:URI>https://www.subreport.de/E55476844</cbc:URI>
+               </cac:ExternalReference>
+            </cac:Attachment>
+         </cac:CallForTendersDocumentReference>
+         <cac:TendererQualificationRequest>
+            <cac:SpecificTendererRequirement>
+               <cbc:TendererRequirementTypeCode listName="selection-criteria-source">epo-notice</cbc:TendererRequirementTypeCode>
+            </cac:SpecificTendererRequirement>
+         </cac:TendererQualificationRequest>
+         <cac:TendererQualificationRequest>
+            <cac:SpecificTendererRequirement>
+               <cbc:TendererRequirementTypeCode listName="reserved-procurement">none</cbc:TendererRequirementTypeCode>
+            </cac:SpecificTendererRequirement>
+         </cac:TendererQualificationRequest>
+         <cac:TendererQualificationRequest>
+            <cac:SpecificTendererRequirement>
+               <cbc:TendererRequirementTypeCode listName="missing-info-submission">late-all</cbc:TendererRequirementTypeCode>
+               <cbc:Description languageID="DEU">1. Eignungsleihe (§ 47 VgV): Plant ein Bewerber die Eignungsleihe, so sind die geforderten
+Angaben/
+Informationen/ Unterlagen (Eignung zur Berufsausübung und wirtschaftliche und finanzielle
+Leistungsfähigkeit) auch von den "anderen"
+Unternehmen im Sinne des § 47 Abs. I VgV einzureichen. Zusätzlich ist eine unterzeichnete
+Verpflichtungserklärung der anderen Unternehmen
+einzureichen, die eine verbindliche Aussage über die Bereitstellung der erforderlichen
+Mittel / Ressourcen zur Erfüllung im Auftragsfall beinhaltet.
+Für die Eignungsleihe gelten die Bestimmungen von § 47 Abs. 1 S.3 und Abs. 3 VgV.
+Sofern ein Bewerber die Kapazitäten eines anderen
+Unternehmens im Hinblick auf die erforderliche wirtschaftliche und finanzielle Leistungsfähigkeit
+in Anspruch nimmt, so wird eine
+gemeinsame Haftung des Bewerbers oder Bieters und des anderen Unternehmens für die
+Auftragsausführung entsprechend dem Umfang der
+Eignungsleihe verlangt. Die entsprechende Verpflichtungserklärung, aus der sich ergibt,
+dass das andere Unternehmen im Falle der Auftragsvergabe an den Bieter mit diesem
+gemeinsam gegenüber dem Auftraggeber für die Auftragsausführung haftet, ist mit dem
+Teilnahmeantrag vorzulegen.
+2.	Bewerbergemeinschaften: Bewerbergemeinschaften müssen mit Ihrem Teilnahmeantrag
+eine von allen Mitgliedern unterzeichnete Erklärung der gesamtschuldnerischen Haftung
+abgeben.
+3.	Die Korrespondenz im Rahmen des Vergabeverfahrens erfolgt ausschließlich in deutscher
+oder englischer Sprache und ausschließlich über das System subreport Elvis.
+4.	Ebenfalls sind die Teilnahmeanträge und späteren Angebote
+ 
+ausschließlich nur elektronisch
+via: https://www.subreport.de/E32685237  einzureichen. Die Abgabe der Teilnahmeanträge
+und der späteren Angebote erfolgt ausschließlich über die Funktion "Teilnahmeanträge"
+/ "Angebote" "abgeben". Die Einreichung von Teilnahmeanträgen und Angeboten über die
+Funktion "Kommunikation" oder anderes führt zum direkten Ausschluss vom Wettbewerb.
+
+5.	Bei technischen Störungen oder Fragen zur Handhabung des Systems wenden Sie sich
+bitte direkt an subreport unter +49 221 985
+78-0 bzw. info@subreport.de. 
+
+6. Für die Erstellung der Teilnahmeanträge und der späteren
+Angebote erhält der Bewerber / Bieter keine Kostenerstattung.</cbc:Description>
+            </cac:SpecificTendererRequirement>
+         </cac:TendererQualificationRequest>
+         <cac:ContractExecutionRequirement>
+            <cbc:ExecutionRequirementCode listName="ecatalog-submission">not-allowed</cbc:ExecutionRequirementCode>
+         </cac:ContractExecutionRequirement>
+         <cac:ContractExecutionRequirement>
+            <cbc:ExecutionRequirementCode listName="einvoicing">required</cbc:ExecutionRequirementCode>
+         </cac:ContractExecutionRequirement>
+         <cac:ContractExecutionRequirement>
+            <cbc:ExecutionRequirementCode listName="reserved-execution">no</cbc:ExecutionRequirementCode>
+         </cac:ContractExecutionRequirement>
+         <cac:AwardingTerms>
+            <cbc:NoFurtherNegotiationIndicator>true</cbc:NoFurtherNegotiationIndicator>
+         </cac:AwardingTerms>
+         <cac:TenderRecipientParty>
+            <cbc:EndpointID>https://www.subreport.de/E55476844</cbc:EndpointID>
+         </cac:TenderRecipientParty>
+         <cac:AppealTerms>
+            <cac:PresentationPeriod>
+               <cbc:Description languageID="DEU">: Informationen über die Überprüfungsfristen: Bitte beachten Sie die Regelungen des § 160 GWB: (1) Die Vergabekammer leitet ein Nachprüfungsverfahren nur auf Antrag ein. (2) Antragsbefugt ist jedes Unternehmen, das ein Interesse an dem öffentlichen Auftrag oder der Konzession hat und eine Verletzung in seinen Rechten nach § 97 Absatz 6 durch Nichtbeachtung von Vergabevorschriften geltend macht. Dabei ist darzulegen, dass dem Unternehmen durch die behauptete Verletzung der Vergabevorschriften ein Schaden entstanden ist oder zu entstehen droht. (3) Der Antrag ist unzulässig, soweit 
+1. der Antragsteller den geltend gemachten Verstoß gegen Vergabevorschriften vor Einreichen des Nachprüfungsantrags erkannt und gegenüber dem Auftraggeber nicht innerhalb einer Frist von zehn Kalendertagen gerügt hat; der Ablauf der Frist nach § 134 Absatz 2 bleibt unberührt, 
+2. Verstöße gegen Vergabevorschriften, die aufgrund der Bekanntmachung erkennbar sind, nicht spätestens bis zum Ablauf der in der Bekanntmachung benannten Frist zur
+ 
+Bewerbung oder zur Angebotsabgabe gegenüber dem Auftraggeber gerügt werden, 
+3. Verstöße gegen Vergabevorschriften, die erst in den Vergabeunterlagen erkennbar sind, nicht spätestens bis zum Ablauf der Frist zur Bewerbung oder zur Angebotsabgabe gegenüber dem Auftraggeber gerügt werden, 
+4. mehr als 15 Kalendertage nach Eingang der Mitteilung des Auftraggebers einer Rüge nicht abhelfen zu wollen, vergangen sind. Satz 1 gilt nicht bei einem Antrag auf Feststellung der Unwirksamkeit des Vertrags nach § 135 Absatz 1 Nummer 2. § 134 Absatz 1 Satz 2 bleibt unberührt.</cbc:Description>
+            </cac:PresentationPeriod>
+            <cac:AppealInformationParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0002</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealInformationParty>
+            <cac:AppealReceiverParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0002</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealReceiverParty>
+         </cac:AppealTerms>
+         <cac:Language>
+            <cbc:ID>DEU</cbc:ID>
+         </cac:Language>
+         <cac:PostAwardProcess>
+            <cbc:ElectronicOrderUsageIndicator>false</cbc:ElectronicOrderUsageIndicator>
+            <cbc:ElectronicPaymentUsageIndicator>true</cbc:ElectronicPaymentUsageIndicator>
+         </cac:PostAwardProcess>
+      </cac:TenderingTerms>
+      <cac:TenderingProcess>
+         <cbc:SubmissionMethodCode listName="esubmission">required</cbc:SubmissionMethodCode>
+         <cbc:CandidateReductionConstraintIndicator>true</cbc:CandidateReductionConstraintIndicator>
+         <cbc:GovernmentAgreementConstraintIndicator>true</cbc:GovernmentAgreementConstraintIndicator>
+         <cac:InvitationSubmissionPeriod>
+            <cbc:StartDate>2026-10-15+02:00</cbc:StartDate>
+         </cac:InvitationSubmissionPeriod>
+         <cac:ParticipationRequestReceptionPeriod>
+            <cbc:EndDate>2026-09-14+02:00</cbc:EndDate>
+            <cbc:EndTime>14:00:00+02:00</cbc:EndTime>
+         </cac:ParticipationRequestReceptionPeriod>
+         <cac:EconomicOperatorShortList>
+            <cbc:LimitationDescription>true</cbc:LimitationDescription>
+            <cbc:MaximumQuantity>7</cbc:MaximumQuantity>
+            <cbc:MinimumQuantity>3</cbc:MinimumQuantity>
+         </cac:EconomicOperatorShortList>
+         <cac:AuctionTerms>
+            <cbc:AuctionConstraintIndicator>false</cbc:AuctionConstraintIndicator>
+         </cac:AuctionTerms>
+         <cac:FrameworkAgreement>
+            <cbc:MaximumOperatorQuantity>2</cbc:MaximumOperatorQuantity>
+         </cac:FrameworkAgreement>
+         <cac:ContractingSystem>
+            <cbc:ContractingSystemTypeCode listName="dps-usage">none</cbc:ContractingSystemTypeCode>
+         </cac:ContractingSystem>
+         <cac:ContractingSystem>
+            <cbc:ContractingSystemTypeCode listName="framework-agreement">fa-w-rc</cbc:ContractingSystemTypeCode>
+         </cac:ContractingSystem>
+      </cac:TenderingProcess>
+      <cac:ProcurementProject>
+         <cbc:ID schemeName="InternalID">LOT-0003 E55476844</cbc:ID>
+         <cbc:Name languageID="DEU">Rahmenvereinbarung zu Seminardurchführung „Resilienz und Selbstmanagement“</cbc:Name>
+         <cbc:Description languageID="DEU">Ziel der Trainings ist es, Mitarbeitende dabei zu unterstützen, ihre persönlichen Ressourcen gezielt einzusetzen, Belastungen gesund zu bewältigen und ihre Arbeitsweise nachhaltig zu optimieren.
+
+Die angebotenen Maßnahmen sollen praxisnah aufzeigen, wie Resilienz gestärkt, Belastungen frühzeitig erkannt und wirksame Strategien zur Stressbewältigung im Arbeitsalltag angewendet werden können. Gleichzeitig sollen die Teilnehmenden befähigt werden, ihre Zeit und Aufgaben gezielt zu priorisieren, ihre Arbeitsorganisation zu optimieren und so ihre persönliche Leistungsfähigkeit nachhaltig zu fördern.
+
+Die Trainings sollen konkrete Werkzeuge und Methoden vermitteln, die unmittelbar im Arbeitsalltag eingesetzt werden können und einen nachhaltigen Transfer in die Praxis ermöglichen.
+
+Der Fokus der Seminare liegt hierbei insbesondere auf folgenden Schwerpunkten:
+
+•	Resilienz &amp; Stressmanagement (Präsenz / 2 Tag)
+•	Zeitmanagement und Selbsteffizienz (Präsenz / 2 Tage)
+
+Für das Los  3 kommt außerdem die Begleitung/ Moderation der "Erfahrungskreise" hinzu 
+Bei den "Erfahrungskreisen" geht es um die Reflexion der eigenen Entwicklung der Mitarbeiterinnen und Mitarbeiter der DFS nach dem Training. Der Erfahrungskreis ist eine moderierte Austauschplattform (Präsenz oder virtuell) für die Trainingsteilnehmenden, bei dem diese sich unter Verwendung verschiedener Methoden zu Fragen oder Erfahrungswerten austauschen können. Dabei können konkrete Fragestellungen aus dem eigenen Arbeitsalltag oder DFS-aktuelle Themen bearbeitet werden.</cbc:Description>
+         <cbc:ProcurementTypeCode listName="contract-nature">services</cbc:ProcurementTypeCode>
+         <cbc:SMESuitableIndicator>false</cbc:SMESuitableIndicator>
+         <cac:ProcurementAdditionalType>
+            <cbc:ProcurementTypeCode listName="strategic-procurement">none</cbc:ProcurementTypeCode>
+         </cac:ProcurementAdditionalType>
+         <cac:MainCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">80522000</cbc:ItemClassificationCode>
+         </cac:MainCommodityClassification>
+         <cac:RealizedLocation>
+            <cbc:Description languageID="DEU">Je Los sollen die Trainings ca. dreimal jährlich primär am Standort Langen, gegebenenfalls 
+auch an anderen Orten in Deutschland oder auch virtuell, stattfinden. Die 
+Häufigkeit  der Veranstaltungen variiert je nach Bedarf.</cbc:Description>
+            <cac:Address>
+               <cbc:CityName>Langen</cbc:CityName>
+               <cbc:PostalZone>63225</cbc:PostalZone>
+               <cbc:CountrySubentityCode listName="nuts">DE71C</cbc:CountrySubentityCode>
+               <cac:Country>
+                  <cbc:IdentificationCode listName="country">DEU</cbc:IdentificationCode>
+               </cac:Country>
+            </cac:Address>
+         </cac:RealizedLocation>
+         <cac:PlannedPeriod>
+            <cbc:DurationMeasure unitCode="MONTH">36</cbc:DurationMeasure>
+         </cac:PlannedPeriod>
+         <cac:ContractExtension>
+            <cbc:OptionsDescription languageID="DEU">Verlängerung um maximal 12 Monate</cbc:OptionsDescription>
+            <cbc:MaximumNumberNumeric>1</cbc:MaximumNumberNumeric>
+         </cac:ContractExtension>
+      </cac:ProcurementProject>
+   </cac:ProcurementProjectLot>
+   <cac:ProcurementProjectLot>
+      <cbc:ID schemeName="Lot">LOT-0004</cbc:ID>
+      <cac:TenderingTerms>
+         <ext:UBLExtensions>
+            <ext:UBLExtension>
+               <ext:ExtensionContent>
+                  <efext:EformsExtension>
+                     <efac:SelectionCriteria>
+                        <cbc:TendererRequirementTypeCode listName="selection-criterion">slc-stand-other</cbc:TendererRequirementTypeCode>
+                        <cbc:Description languageID="DEU">Beschreibung: Art: Eignung zur Berufsausübung , Bezeichnung: Befähigung zur Berufsausübung einschließlich Auflagen hinsichtlich der Eintragung
+in einem Berufs- oder Handelsregister.
+
+Beschreibung:
+Auflistung und kurze Beschreibung der Eignungskriterien:
+1.	Vorlage einer Unternehmensdarstellung des Bewerbers bezüglich der ausgeschriebenen
+Leistungsart:
+Vorstellung des Unternehmens, u.a. historische Entwicklung, Organisation, Eigentums-
+und Beteiligungsstrukturen, etc. Darstellung der
+Kernkompetenzen / des Schwerpunktes der Geschäftstätigkeit, sowie die Bedeutung des
+entsprechenden Geschäftsfeldes bezüglich der ausgeschriebenen Leistungsart.
+
+2.	Vorlage eines Handelsregisterauszuges, der bei Ablauf der Bewerbungsfrist nicht
+älter als 6 Monate ist. Sofern der Bewerber nicht im Handelsregister eingetragen ist:
+Aussage des Bewerbers in welchen sonstigen Berufsverbänden/Registern/Innungen/Kammern/etc.
+Eintragungen bestehen. Wenn möglich, Nachweis über die jeweiligen Eintragungen (ebenfalls
+nicht älter als 6 Monate). Sollte keine Eintragung
+bestehen: Der Bewerber hat im Teilnahmeantrag eine Begründung vorzulegen, warum keine
+Eintragung benötigt wird bzw. besteht.
+
+3.	Vorlage einer Eigenerklärung des Bewerbers, dass die in § 123 Gesetz gegen Wettbewerbsbeschränkung
+(GWB) genannten Ausschlussgründe nicht zutreffen und dass die Voraussetzungen gemäß
+§ 124 GWB nicht vorliegen.
+
+4.	Vorlage einer Eigenerklärung des Bewerbers, dass die in Verordnung (EU) 2022/576
+„EU-Sanktionsverordnung gegen Russland“
+wegen Destabilisierung der Situation in der Ukraine genannten Ausschlussgründe nicht
+zutreffen und dass die Voraussetzungen gemäß Verordnung (EU) 2022/576 nicht vorliegen.
+Hinweis: Bitte nutzen Sie für diesen Punkt 4 ausschließlich das vorgegebene Formular
+auf der Vergabeplattform (Vergabeunterlagen).
+
+5.	Vorlage der Nachweise einer bestehenden Haftpflichtversicherung  (z.B. Unternehmenshaftpflichtversicherung,
+Produkthaftpflichtversicherung) unter Angabe der Deckungssummen.
+
+6.	Vorlage einer Eigenerklärung des Bewerbers, ob er beabsichtigt Unteraufträge zu
+erteilen. Wenn ja: Aussage, für welche Leistungen Unteraufträge eingesetzt werden
+sollen. Wenn nein: Aussage, dass er nicht beabsichtigt Unteraufträge zu erteilen oder
+dies zum
+jetzigen Zeitpunkt noch nicht absehbar ist.
+
+7.	Vorlage einer schriftlichen Erklärung des Bewerbers, dass im Unternehmen technisch/organisatorische Maßnahmen gemäß Art. 5, 25 und 32 DSGVO vorliegen und diese im Rahmen einer möglichen Angebotslegung in der Angebotsphase durch den Bewerber eingereicht
+werden könnten. Vorlage einer schriftlichen Erklärung des Bewerbers zur Bereitschaft des Abschlusses einer Zusatzvereinbarung zur Auftragsverarbeitung im Auftragsfall.
+Hinweis: Sollte eine Auftragsverarbeitung zur Anwendung kommen, so ist ein Abschluss einer Zusatzvereinbarung zur Auftragsverarbeitung zwingend erforderlich.</cbc:Description>
+                        <efbc:SecondStageIndicator>true</efbc:SecondStageIndicator>
+                     </efac:SelectionCriteria>
+                     <efac:SelectionCriteria>
+                        <cbc:TendererRequirementTypeCode listName="selection-criterion">slc-stand-other</cbc:TendererRequirementTypeCode>
+                        <cbc:Description languageID="DEU">Art: Wirtschaftliche  und finanzielle Leistungsfähigkeit, Bezeichnung: Bewertungskriterien und Gewichtung der wirtschaftlichen
+und finanziellen Leistungsfähigkeit (kaufmännische Bewertung - Gesamtgewichtung  40%):
+
+Beschreibung: Auflistung und kurze
+Beschreibung der Eignungskriterien: 1. Bonitätsbewertung : Ein Bonitätsrating des Bewerbers
+der Fa. Creditreform wird durch die
+Vergabestelle eingeholt. Ist der Bewerber nicht bei der Fa. Creditreform gelistet,
+so ist er verpflichtet, ein Bonitätsrating einer vergleichbaren Wirtschaftsauskunft einzureichen (die Überprüfung, ob ein Bewerber gelistet ist, hat
+durch den Bewerber selbst zu erfolgen)
+(geht zu 80% in die kaufmännische Bewertung mit ein).
+
+2. Umsatzentwicklung: Vorlage einer Eigenerklärung des Bewerbers zu den Umsätzen der
+vergangenen drei Geschäftsjahre bezogen auf die ausgeschriebene Leistungsart im Bereich (geht zu 20% in die kaufmännische Bewertung mit ein).
+Geforderte Mindeststandards : Umsatz in der ausgeschriebenen Leistungsart von durchschnittlich
+150.000 EUR / Jahr bezogen auf die letzten drei abgeschlossenen Geschäftsjahre.
+Allgemeiner Hinweis: 1. Die aufgestellte Forderung bezogen auf die letzten drei Geschäftsjahre
+stellt keine Mindestanforderung im Hinblick auf die Dauer der Geschäftstätigkeit dar.
+Unternehmen, die kürzer als drei Jahre existieren, machen diese Angaben bitte nur
+bezogen auf die Dauer ihrer Geschäftstätigkeit.
+
+2. Beachten Sie hierzu auch die Ausführungen unter "Zusätzliche Informationen".</cbc:Description>
+                        <efbc:SecondStageIndicator>true</efbc:SecondStageIndicator>
+                     </efac:SelectionCriteria>
+                     <efac:SelectionCriteria>
+                        <cbc:TendererRequirementTypeCode listName="selection-criterion">slc-abil-ref-services</cbc:TendererRequirementTypeCode>
+                        <cbc:Description languageID="DEU">Art: Technische und berufliche Leistungsfähigkeit, Bezeichnung: Bewertungskriterien und Gewichtung der Fachkunde und technischen Leistungsfähigkeit (fachliche Bewertung)
+(Gesamtgewichtung 60%):
+Beschreibung:
+
+1. Der Anbieter legt Referenzen zu erfolgreich durchgeführten Projekten vergleichbarer Größenordnung und Leistungsart aus den vergangenen drei Jahren vor. Die Darstellung umfasst mindestens eine Projektbeschreibung, den Realisierungszeitraum sowie den Auftraggeber. Die Referenzen sollen eine hohe Vergleichbarkeit mit den ausgeschriebenen Leistungen aufweisen. (geht zu 20% in die fachliche Bewertung ein).
+
+2.Der Anbieter stellt konkrete Umsetzungskonzepte für vergleichbare Kundenprojekte vor. Die Darstellung umfasst mindestens die methodische Vorgehensweise, den Ablauf der Maßnahmen sowie Ansätze zur nachhaltigen Verankerung der Lerninhalte im Arbeitsalltag und soll auf erfolgreich umgesetzten Projekten bei anderen Unternehmen basieren. (geht zu 40% in die fachliche Bewertung ein).
+
+3.Der Anbieter stellt beispielhaft potenzielle Trainerinnen und Trainer für die Durchführung der Maßnahmen vor. Die Vorstellung umfasst mindestens Lebenslauf/Kurzprofil, Nachweise relevanter Qualifikationen sowie Referenzen vergleichbarer Projekte. (geht zu 40% in die fachliche Bewertung ein).	
+
+Allgemeiner Hinweis: Die aufgestellte Forderung bezogen auf die letzten drei Geschäftsjahre
+stellt keine Mindestanforderung im Hinblick auf die Dauer der Geschäftstätigkeit dar. Unternehmen, die kürzer als drei Jahre existieren,
+machen diese Angaben bitte nur bezogen auf die Dauer ihrer Geschäftstätigkeit
+
+Allgemeiner Hinweis: Mindestanforderung: Die erreichte Punktzahl der fachlichen Bewertung muss mindestens 70% betragen.</cbc:Description>
+                        <efbc:SecondStageIndicator>true</efbc:SecondStageIndicator>
+                     </efac:SelectionCriteria>
+                     <efac:StrategicProcurement>
+                        <efbc:ApplicableLegalBasis listName="cvd-scope">false</efbc:ApplicableLegalBasis>
+                     </efac:StrategicProcurement>
+                  </efext:EformsExtension>
+               </ext:ExtensionContent>
+            </ext:UBLExtension>
+         </ext:UBLExtensions>
+         <cbc:VariantConstraintCode listName="permission">not-allowed</cbc:VariantConstraintCode>
+         <cbc:FundingProgramCode listName="eu-funded">no-eu-funds</cbc:FundingProgramCode>
+         <cbc:MultipleTendersCode listName="permission">not-allowed</cbc:MultipleTendersCode>
+         <cac:CallForTendersDocumentReference>
+            <ext:UBLExtensions>
+               <ext:UBLExtension>
+                  <ext:ExtensionContent>
+                     <efext:EformsExtension>
+                        <efac:OfficialLanguages>
+                           <cac:Language>
+                              <cbc:ID>DEU</cbc:ID>
+                           </cac:Language>
+                        </efac:OfficialLanguages>
+                     </efext:EformsExtension>
+                  </ext:ExtensionContent>
+               </ext:UBLExtension>
+            </ext:UBLExtensions>
+            <cbc:ID>E55476844</cbc:ID>
+            <cbc:DocumentType>non-restricted-document</cbc:DocumentType>
+            <cac:Attachment>
+               <cac:ExternalReference>
+                  <cbc:URI>https://www.subreport.de/E55476844</cbc:URI>
+               </cac:ExternalReference>
+            </cac:Attachment>
+         </cac:CallForTendersDocumentReference>
+         <cac:TendererQualificationRequest>
+            <cac:SpecificTendererRequirement>
+               <cbc:TendererRequirementTypeCode listName="selection-criteria-source">epo-notice</cbc:TendererRequirementTypeCode>
+            </cac:SpecificTendererRequirement>
+         </cac:TendererQualificationRequest>
+         <cac:TendererQualificationRequest>
+            <cac:SpecificTendererRequirement>
+               <cbc:TendererRequirementTypeCode listName="reserved-procurement">none</cbc:TendererRequirementTypeCode>
+            </cac:SpecificTendererRequirement>
+         </cac:TendererQualificationRequest>
+         <cac:TendererQualificationRequest>
+            <cac:SpecificTendererRequirement>
+               <cbc:TendererRequirementTypeCode listName="missing-info-submission">late-all</cbc:TendererRequirementTypeCode>
+               <cbc:Description languageID="DEU">1. Eignungsleihe (§ 47 VgV): Plant ein Bewerber die Eignungsleihe, so sind die geforderten
+Angaben/
+Informationen/ Unterlagen (Eignung zur Berufsausübung und wirtschaftliche und finanzielle
+Leistungsfähigkeit) auch von den "anderen"
+Unternehmen im Sinne des § 47 Abs. I VgV einzureichen. Zusätzlich ist eine unterzeichnete
+Verpflichtungserklärung der anderen Unternehmen
+einzureichen, die eine verbindliche Aussage über die Bereitstellung der erforderlichen
+Mittel / Ressourcen zur Erfüllung im Auftragsfall beinhaltet.
+Für die Eignungsleihe gelten die Bestimmungen von § 47 Abs. 1 S.3 und Abs. 3 VgV.
+Sofern ein Bewerber die Kapazitäten eines anderen
+Unternehmens im Hinblick auf die erforderliche wirtschaftliche und finanzielle Leistungsfähigkeit
+in Anspruch nimmt, so wird eine
+gemeinsame Haftung des Bewerbers oder Bieters und des anderen Unternehmens für die
+Auftragsausführung entsprechend dem Umfang der
+Eignungsleihe verlangt. Die entsprechende Verpflichtungserklärung, aus der sich ergibt,
+dass das andere Unternehmen im Falle der Auftragsvergabe an den Bieter mit diesem
+gemeinsam gegenüber dem Auftraggeber für die Auftragsausführung haftet, ist mit dem
+Teilnahmeantrag vorzulegen.
+2.	Bewerbergemeinschaften: Bewerbergemeinschaften müssen mit Ihrem Teilnahmeantrag
+eine von allen Mitgliedern unterzeichnete Erklärung der gesamtschuldnerischen Haftung
+abgeben.
+3.	Die Korrespondenz im Rahmen des Vergabeverfahrens erfolgt ausschließlich in deutscher
+oder englischer Sprache und ausschließlich über das System subreport Elvis.
+4.	Ebenfalls sind die Teilnahmeanträge und späteren Angebote
+ 
+ausschließlich nur elektronisch
+via: https://www.subreport.de/E32685237  einzureichen. Die Abgabe der Teilnahmeanträge
+und der späteren Angebote erfolgt ausschließlich über die Funktion "Teilnahmeanträge"
+/ "Angebote" "abgeben". Die Einreichung von Teilnahmeanträgen und Angeboten über die
+Funktion "Kommunikation" oder anderes führt zum direkten Ausschluss vom Wettbewerb.
+
+5.	Bei technischen Störungen oder Fragen zur Handhabung des Systems wenden Sie sich
+bitte direkt an subreport unter +49 221 985
+78-0 bzw. info@subreport.de. 
+
+6. Für die Erstellung der Teilnahmeanträge und der späteren
+Angebote erhält der Bewerber / Bieter keine Kostenerstattung.</cbc:Description>
+            </cac:SpecificTendererRequirement>
+         </cac:TendererQualificationRequest>
+         <cac:ContractExecutionRequirement>
+            <cbc:ExecutionRequirementCode listName="ecatalog-submission">not-allowed</cbc:ExecutionRequirementCode>
+         </cac:ContractExecutionRequirement>
+         <cac:ContractExecutionRequirement>
+            <cbc:ExecutionRequirementCode listName="einvoicing">required</cbc:ExecutionRequirementCode>
+         </cac:ContractExecutionRequirement>
+         <cac:ContractExecutionRequirement>
+            <cbc:ExecutionRequirementCode listName="reserved-execution">no</cbc:ExecutionRequirementCode>
+         </cac:ContractExecutionRequirement>
+         <cac:AwardingTerms>
+            <cbc:NoFurtherNegotiationIndicator>true</cbc:NoFurtherNegotiationIndicator>
+         </cac:AwardingTerms>
+         <cac:TenderRecipientParty>
+            <cbc:EndpointID>https://www.subreport.de/E55476844</cbc:EndpointID>
+         </cac:TenderRecipientParty>
+         <cac:AppealTerms>
+            <cac:PresentationPeriod>
+               <cbc:Description languageID="DEU">: Informationen über die Überprüfungsfristen: Bitte beachten Sie die Regelungen des § 160 GWB: (1) Die Vergabekammer leitet ein Nachprüfungsverfahren nur auf Antrag ein. (2) Antragsbefugt ist jedes Unternehmen, das ein Interesse an dem öffentlichen Auftrag oder der Konzession hat und eine Verletzung in seinen Rechten nach § 97 Absatz 6 durch Nichtbeachtung von Vergabevorschriften geltend macht. Dabei ist darzulegen, dass dem Unternehmen durch die behauptete Verletzung der Vergabevorschriften ein Schaden entstanden ist oder zu entstehen droht. (3) Der Antrag ist unzulässig, soweit 
+1. der Antragsteller den geltend gemachten Verstoß gegen Vergabevorschriften vor Einreichen des Nachprüfungsantrags erkannt und gegenüber dem Auftraggeber nicht innerhalb einer Frist von zehn Kalendertagen gerügt hat; der Ablauf der Frist nach § 134 Absatz 2 bleibt unberührt, 
+2. Verstöße gegen Vergabevorschriften, die aufgrund der Bekanntmachung erkennbar sind, nicht spätestens bis zum Ablauf der in der Bekanntmachung benannten Frist zur
+ 
+Bewerbung oder zur Angebotsabgabe gegenüber dem Auftraggeber gerügt werden, 
+3. Verstöße gegen Vergabevorschriften, die erst in den Vergabeunterlagen erkennbar sind, nicht spätestens bis zum Ablauf der Frist zur Bewerbung oder zur Angebotsabgabe gegenüber dem Auftraggeber gerügt werden, 
+4. mehr als 15 Kalendertage nach Eingang der Mitteilung des Auftraggebers einer Rüge nicht abhelfen zu wollen, vergangen sind. Satz 1 gilt nicht bei einem Antrag auf Feststellung der Unwirksamkeit des Vertrags nach § 135 Absatz 1 Nummer 2. § 134 Absatz 1 Satz 2 bleibt unberührt.</cbc:Description>
+            </cac:PresentationPeriod>
+            <cac:AppealInformationParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0002</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealInformationParty>
+            <cac:AppealReceiverParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0002</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealReceiverParty>
+         </cac:AppealTerms>
+         <cac:Language>
+            <cbc:ID>DEU</cbc:ID>
+         </cac:Language>
+         <cac:PostAwardProcess>
+            <cbc:ElectronicOrderUsageIndicator>false</cbc:ElectronicOrderUsageIndicator>
+            <cbc:ElectronicPaymentUsageIndicator>true</cbc:ElectronicPaymentUsageIndicator>
+         </cac:PostAwardProcess>
+      </cac:TenderingTerms>
+      <cac:TenderingProcess>
+         <cbc:SubmissionMethodCode listName="esubmission">required</cbc:SubmissionMethodCode>
+         <cbc:CandidateReductionConstraintIndicator>true</cbc:CandidateReductionConstraintIndicator>
+         <cbc:GovernmentAgreementConstraintIndicator>true</cbc:GovernmentAgreementConstraintIndicator>
+         <cac:InvitationSubmissionPeriod>
+            <cbc:StartDate>2026-10-15+02:00</cbc:StartDate>
+         </cac:InvitationSubmissionPeriod>
+         <cac:ParticipationRequestReceptionPeriod>
+            <cbc:EndDate>2026-09-14+02:00</cbc:EndDate>
+            <cbc:EndTime>14:00:00+02:00</cbc:EndTime>
+         </cac:ParticipationRequestReceptionPeriod>
+         <cac:EconomicOperatorShortList>
+            <cbc:LimitationDescription>true</cbc:LimitationDescription>
+            <cbc:MaximumQuantity>7</cbc:MaximumQuantity>
+            <cbc:MinimumQuantity>3</cbc:MinimumQuantity>
+         </cac:EconomicOperatorShortList>
+         <cac:AuctionTerms>
+            <cbc:AuctionConstraintIndicator>false</cbc:AuctionConstraintIndicator>
+         </cac:AuctionTerms>
+         <cac:FrameworkAgreement>
+            <cbc:MaximumOperatorQuantity>2</cbc:MaximumOperatorQuantity>
+         </cac:FrameworkAgreement>
+         <cac:ContractingSystem>
+            <cbc:ContractingSystemTypeCode listName="dps-usage">none</cbc:ContractingSystemTypeCode>
+         </cac:ContractingSystem>
+         <cac:ContractingSystem>
+            <cbc:ContractingSystemTypeCode listName="framework-agreement">fa-w-rc</cbc:ContractingSystemTypeCode>
+         </cac:ContractingSystem>
+      </cac:TenderingProcess>
+      <cac:ProcurementProject>
+         <cbc:ID schemeName="InternalID">LOT-0004 E55476844</cbc:ID>
+         <cbc:Name languageID="DEU">Rahmenvereinbarung zu Seminardurchführung „Microsoft 365 und Digitale Zusammenarbeit“</cbc:Name>
+         <cbc:Description languageID="DEU">Die DFS setzt auf moderne digitale Arbeitsweisen und eine effiziente standortübergreifende Zusammenarbeit. Die Trainings dieses Loses sollen Mitarbeitende dabei unterstützen, die vorhandenen Werkzeuge sicher, effizient und zielgerichtet einzusetzen. Die Maßnahmen umfassen sowohl Grundlagen- als auch Vertiefungstrainings zu den eingesetzten Microsoft-Anwendungen. Neben der Vermittlung fachlicher Kenntnisse wird besonderer Wert auf praxisnahe Anwendungsfälle aus dem Arbeitsalltag gelegt.
+
+Zu den inhaltlichen Schwerpunkten zählen unter anderem die Analyse und Aufbereitung von Daten in Excel, die professionelle Erstellung von Präsentationen mit PowerPoint, die Nutzung moderner Kollaborationswerkzeuge wie Microsoft Teams, OneNote und Whiteboard sowie die effiziente Anwendung der Microsoft-365-Umgebung zur Unterstützung von Kommunikation, Wissensmanagement und Zusammenarbeit.
+
+Der Fokus der Seminare liegt hierbei insbesondere auf folgenden Schwerpunkten:
+
+•	Excel Anfänger (Virtuell / 1 Tag)
+•	Excel Fortgeschrittene (Virtuell / 1 Tag)
+•	Office 365 (Virtuell / 4 Stunden bis max. 1 Tag)
+•	PowerPoint (Virtuell / 4 Stunden)
+•	Microsoft Teams, OneNote &amp; Whiteboard (Virtuell / 1 Tag)</cbc:Description>
+         <cbc:ProcurementTypeCode listName="contract-nature">services</cbc:ProcurementTypeCode>
+         <cbc:SMESuitableIndicator>false</cbc:SMESuitableIndicator>
+         <cac:ProcurementAdditionalType>
+            <cbc:ProcurementTypeCode listName="strategic-procurement">none</cbc:ProcurementTypeCode>
+         </cac:ProcurementAdditionalType>
+         <cac:MainCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">80522000</cbc:ItemClassificationCode>
+         </cac:MainCommodityClassification>
+         <cac:RealizedLocation>
+            <cbc:Description languageID="DEU">Je Los sollen die Trainings ca. dreimal jährlich primär am Standort Langen, gegebenenfalls 
+auch an anderen Orten in Deutschland oder auch virtuell, stattfinden. Die 
+Häufigkeit  der Veranstaltungen variiert je nach Bedarf.</cbc:Description>
+            <cac:Address>
+               <cbc:CityName>Langen</cbc:CityName>
+               <cbc:PostalZone>63225</cbc:PostalZone>
+               <cbc:CountrySubentityCode listName="nuts">DE71C</cbc:CountrySubentityCode>
+               <cac:Country>
+                  <cbc:IdentificationCode listName="country">DEU</cbc:IdentificationCode>
+               </cac:Country>
+            </cac:Address>
+         </cac:RealizedLocation>
+         <cac:PlannedPeriod>
+            <cbc:DurationMeasure unitCode="MONTH">36</cbc:DurationMeasure>
+         </cac:PlannedPeriod>
+         <cac:ContractExtension>
+            <cbc:OptionsDescription languageID="DEU">Verlängerung um maximal 12 Monate</cbc:OptionsDescription>
+            <cbc:MaximumNumberNumeric>1</cbc:MaximumNumberNumeric>
+         </cac:ContractExtension>
+      </cac:ProcurementProject>
+   </cac:ProcurementProjectLot>
+   <cac:ProcurementProjectLot>
+      <cbc:ID schemeName="Lot">LOT-0005</cbc:ID>
+      <cac:TenderingTerms>
+         <ext:UBLExtensions>
+            <ext:UBLExtension>
+               <ext:ExtensionContent>
+                  <efext:EformsExtension>
+                     <efac:SelectionCriteria>
+                        <cbc:TendererRequirementTypeCode listName="selection-criterion">slc-stand-other</cbc:TendererRequirementTypeCode>
+                        <cbc:Description languageID="DEU">Beschreibung: Art: Eignung zur Berufsausübung , Bezeichnung: Befähigung zur Berufsausübung einschließlich Auflagen hinsichtlich der Eintragung
+in einem Berufs- oder Handelsregister.
+
+Beschreibung:
+Auflistung und kurze Beschreibung der Eignungskriterien:
+1.	Vorlage einer Unternehmensdarstellung des Bewerbers bezüglich der ausgeschriebenen
+Leistungsart:
+Vorstellung des Unternehmens, u.a. historische Entwicklung, Organisation, Eigentums-
+und Beteiligungsstrukturen, etc. Darstellung der
+Kernkompetenzen / des Schwerpunktes der Geschäftstätigkeit, sowie die Bedeutung des
+entsprechenden Geschäftsfeldes bezüglich der ausgeschriebenen Leistungsart.
+
+2.	Vorlage eines Handelsregisterauszuges, der bei Ablauf der Bewerbungsfrist nicht
+älter als 6 Monate ist. Sofern der Bewerber nicht im Handelsregister eingetragen ist:
+Aussage des Bewerbers in welchen sonstigen Berufsverbänden/Registern/Innungen/Kammern/etc.
+Eintragungen bestehen. Wenn möglich, Nachweis über die jeweiligen Eintragungen (ebenfalls
+nicht älter als 6 Monate). Sollte keine Eintragung
+bestehen: Der Bewerber hat im Teilnahmeantrag eine Begründung vorzulegen, warum keine
+Eintragung benötigt wird bzw. besteht.
+
+3.	Vorlage einer Eigenerklärung des Bewerbers, dass die in § 123 Gesetz gegen Wettbewerbsbeschränkung
+(GWB) genannten Ausschlussgründe nicht zutreffen und dass die Voraussetzungen gemäß
+§ 124 GWB nicht vorliegen.
+
+4.	Vorlage einer Eigenerklärung des Bewerbers, dass die in Verordnung (EU) 2022/576
+„EU-Sanktionsverordnung gegen Russland“
+wegen Destabilisierung der Situation in der Ukraine genannten Ausschlussgründe nicht
+zutreffen und dass die Voraussetzungen gemäß Verordnung (EU) 2022/576 nicht vorliegen.
+Hinweis: Bitte nutzen Sie für diesen Punkt 4 ausschließlich das vorgegebene Formular
+auf der Vergabeplattform (Vergabeunterlagen).
+
+5.	Vorlage der Nachweise einer bestehenden Haftpflichtversicherung  (z.B. Unternehmenshaftpflichtversicherung,
+Produkthaftpflichtversicherung) unter Angabe der Deckungssummen.
+
+6.	Vorlage einer Eigenerklärung des Bewerbers, ob er beabsichtigt Unteraufträge zu
+erteilen. Wenn ja: Aussage, für welche Leistungen Unteraufträge eingesetzt werden
+sollen. Wenn nein: Aussage, dass er nicht beabsichtigt Unteraufträge zu erteilen oder
+dies zum
+jetzigen Zeitpunkt noch nicht absehbar ist.
+
+7.	Vorlage einer schriftlichen Erklärung des Bewerbers, dass im Unternehmen technisch/organisatorische Maßnahmen gemäß Art. 5, 25 und 32 DSGVO vorliegen und diese im Rahmen einer möglichen Angebotslegung in der Angebotsphase durch den Bewerber eingereicht
+werden könnten. Vorlage einer schriftlichen Erklärung des Bewerbers zur Bereitschaft des Abschlusses einer Zusatzvereinbarung zur Auftragsverarbeitung im Auftragsfall.
+Hinweis: Sollte eine Auftragsverarbeitung zur Anwendung kommen, so ist ein Abschluss einer Zusatzvereinbarung zur Auftragsverarbeitung zwingend erforderlich.</cbc:Description>
+                        <efbc:SecondStageIndicator>true</efbc:SecondStageIndicator>
+                     </efac:SelectionCriteria>
+                     <efac:SelectionCriteria>
+                        <cbc:TendererRequirementTypeCode listName="selection-criterion">slc-stand-other</cbc:TendererRequirementTypeCode>
+                        <cbc:Description languageID="DEU">Art: Wirtschaftliche  und finanzielle Leistungsfähigkeit, Bezeichnung: Bewertungskriterien und Gewichtung der wirtschaftlichen
+und finanziellen Leistungsfähigkeit (kaufmännische Bewertung - Gesamtgewichtung  40%):
+
+Beschreibung: Auflistung und kurze
+Beschreibung der Eignungskriterien: 1. Bonitätsbewertung : Ein Bonitätsrating des Bewerbers
+der Fa. Creditreform wird durch die
+Vergabestelle eingeholt. Ist der Bewerber nicht bei der Fa. Creditreform gelistet,
+so ist er verpflichtet, ein Bonitätsrating einer vergleichbaren Wirtschaftsauskunft einzureichen (die Überprüfung, ob ein Bewerber gelistet ist, hat
+durch den Bewerber selbst zu erfolgen)
+(geht zu 80% in die kaufmännische Bewertung mit ein).
+
+2. Umsatzentwicklung: Vorlage einer Eigenerklärung des Bewerbers zu den Umsätzen der
+vergangenen drei Geschäftsjahre bezogen auf die ausgeschriebene Leistungsart im Bereich (geht zu 20% in die kaufmännische Bewertung mit ein).
+Geforderte Mindeststandards : Umsatz in der ausgeschriebenen Leistungsart von durchschnittlich
+150.000 EUR / Jahr bezogen auf die letzten drei abgeschlossenen Geschäftsjahre.
+Allgemeiner Hinweis: 1. Die aufgestellte Forderung bezogen auf die letzten drei Geschäftsjahre
+stellt keine Mindestanforderung im Hinblick auf die Dauer der Geschäftstätigkeit dar.
+Unternehmen, die kürzer als drei Jahre existieren, machen diese Angaben bitte nur
+bezogen auf die Dauer ihrer Geschäftstätigkeit.
+
+2. Beachten Sie hierzu auch die Ausführungen unter "Zusätzliche Informationen".</cbc:Description>
+                        <efbc:SecondStageIndicator>true</efbc:SecondStageIndicator>
+                     </efac:SelectionCriteria>
+                     <efac:SelectionCriteria>
+                        <cbc:TendererRequirementTypeCode listName="selection-criterion">slc-abil-ref-services</cbc:TendererRequirementTypeCode>
+                        <cbc:Description languageID="DEU">Art: Technische und berufliche Leistungsfähigkeit, Bezeichnung: Bewertungskriterien und Gewichtung der Fachkunde und technischen Leistungsfähigkeit (fachliche Bewertung)
+(Gesamtgewichtung 60%):
+Beschreibung:
+
+1. Der Anbieter legt Referenzen zu erfolgreich durchgeführten Projekten vergleichbarer Größenordnung und Leistungsart aus den vergangenen drei Jahren vor. Die Darstellung umfasst mindestens eine Projektbeschreibung, den Realisierungszeitraum sowie den Auftraggeber. Die Referenzen sollen eine hohe Vergleichbarkeit mit den ausgeschriebenen Leistungen aufweisen. (geht zu 20% in die fachliche Bewertung ein).
+
+2.Der Anbieter stellt konkrete Umsetzungskonzepte für vergleichbare Kundenprojekte vor. Die Darstellung umfasst mindestens die methodische Vorgehensweise, den Ablauf der Maßnahmen sowie Ansätze zur nachhaltigen Verankerung der Lerninhalte im Arbeitsalltag und soll auf erfolgreich umgesetzten Projekten bei anderen Unternehmen basieren. (geht zu 40% in die fachliche Bewertung ein).
+
+3.Der Anbieter stellt beispielhaft potenzielle Trainerinnen und Trainer für die Durchführung der Maßnahmen vor. Die Vorstellung umfasst mindestens Lebenslauf/Kurzprofil, Nachweise relevanter Qualifikationen sowie Referenzen vergleichbarer Projekte. (geht zu 40% in die fachliche Bewertung ein).	
+
+Allgemeiner Hinweis: Die aufgestellte Forderung bezogen auf die letzten drei Geschäftsjahre
+stellt keine Mindestanforderung im Hinblick auf die Dauer der Geschäftstätigkeit dar. Unternehmen, die kürzer als drei Jahre existieren,
+machen diese Angaben bitte nur bezogen auf die Dauer ihrer Geschäftstätigkeit
+
+Allgemeiner Hinweis: Mindestanforderung: Die erreichte Punktzahl der fachlichen Bewertung muss mindestens 70% betragen.</cbc:Description>
+                        <efbc:SecondStageIndicator>true</efbc:SecondStageIndicator>
+                     </efac:SelectionCriteria>
+                     <efac:StrategicProcurement>
+                        <efbc:ApplicableLegalBasis listName="cvd-scope">false</efbc:ApplicableLegalBasis>
+                     </efac:StrategicProcurement>
+                  </efext:EformsExtension>
+               </ext:ExtensionContent>
+            </ext:UBLExtension>
+         </ext:UBLExtensions>
+         <cbc:VariantConstraintCode listName="permission">not-allowed</cbc:VariantConstraintCode>
+         <cbc:FundingProgramCode listName="eu-funded">no-eu-funds</cbc:FundingProgramCode>
+         <cbc:MultipleTendersCode listName="permission">not-allowed</cbc:MultipleTendersCode>
+         <cac:CallForTendersDocumentReference>
+            <ext:UBLExtensions>
+               <ext:UBLExtension>
+                  <ext:ExtensionContent>
+                     <efext:EformsExtension>
+                        <efac:OfficialLanguages>
+                           <cac:Language>
+                              <cbc:ID>DEU</cbc:ID>
+                           </cac:Language>
+                        </efac:OfficialLanguages>
+                     </efext:EformsExtension>
+                  </ext:ExtensionContent>
+               </ext:UBLExtension>
+            </ext:UBLExtensions>
+            <cbc:ID>E55476844</cbc:ID>
+            <cbc:DocumentType>non-restricted-document</cbc:DocumentType>
+            <cac:Attachment>
+               <cac:ExternalReference>
+                  <cbc:URI>https://www.subreport.de/E55476844</cbc:URI>
+               </cac:ExternalReference>
+            </cac:Attachment>
+         </cac:CallForTendersDocumentReference>
+         <cac:TendererQualificationRequest>
+            <cac:SpecificTendererRequirement>
+               <cbc:TendererRequirementTypeCode listName="selection-criteria-source">epo-notice</cbc:TendererRequirementTypeCode>
+            </cac:SpecificTendererRequirement>
+         </cac:TendererQualificationRequest>
+         <cac:TendererQualificationRequest>
+            <cac:SpecificTendererRequirement>
+               <cbc:TendererRequirementTypeCode listName="reserved-procurement">none</cbc:TendererRequirementTypeCode>
+            </cac:SpecificTendererRequirement>
+         </cac:TendererQualificationRequest>
+         <cac:TendererQualificationRequest>
+            <cac:SpecificTendererRequirement>
+               <cbc:TendererRequirementTypeCode listName="missing-info-submission">late-all</cbc:TendererRequirementTypeCode>
+               <cbc:Description languageID="DEU">1. Eignungsleihe (§ 47 VgV): Plant ein Bewerber die Eignungsleihe, so sind die geforderten
+Angaben/
+Informationen/ Unterlagen (Eignung zur Berufsausübung und wirtschaftliche und finanzielle
+Leistungsfähigkeit) auch von den "anderen"
+Unternehmen im Sinne des § 47 Abs. I VgV einzureichen. Zusätzlich ist eine unterzeichnete
+Verpflichtungserklärung der anderen Unternehmen
+einzureichen, die eine verbindliche Aussage über die Bereitstellung der erforderlichen
+Mittel / Ressourcen zur Erfüllung im Auftragsfall beinhaltet.
+Für die Eignungsleihe gelten die Bestimmungen von § 47 Abs. 1 S.3 und Abs. 3 VgV.
+Sofern ein Bewerber die Kapazitäten eines anderen
+Unternehmens im Hinblick auf die erforderliche wirtschaftliche und finanzielle Leistungsfähigkeit
+in Anspruch nimmt, so wird eine
+gemeinsame Haftung des Bewerbers oder Bieters und des anderen Unternehmens für die
+Auftragsausführung entsprechend dem Umfang der
+Eignungsleihe verlangt. Die entsprechende Verpflichtungserklärung, aus der sich ergibt,
+dass das andere Unternehmen im Falle der Auftragsvergabe an den Bieter mit diesem
+gemeinsam gegenüber dem Auftraggeber für die Auftragsausführung haftet, ist mit dem
+Teilnahmeantrag vorzulegen.
+2.	Bewerbergemeinschaften: Bewerbergemeinschaften müssen mit Ihrem Teilnahmeantrag
+eine von allen Mitgliedern unterzeichnete Erklärung der gesamtschuldnerischen Haftung
+abgeben.
+3.	Die Korrespondenz im Rahmen des Vergabeverfahrens erfolgt ausschließlich in deutscher
+oder englischer Sprache und ausschließlich über das System subreport Elvis.
+4.	Ebenfalls sind die Teilnahmeanträge und späteren Angebote
+ 
+ausschließlich nur elektronisch
+via: https://www.subreport.de/E32685237  einzureichen. Die Abgabe der Teilnahmeanträge
+und der späteren Angebote erfolgt ausschließlich über die Funktion "Teilnahmeanträge"
+/ "Angebote" "abgeben". Die Einreichung von Teilnahmeanträgen und Angeboten über die
+Funktion "Kommunikation" oder anderes führt zum direkten Ausschluss vom Wettbewerb.
+
+5.	Bei technischen Störungen oder Fragen zur Handhabung des Systems wenden Sie sich
+bitte direkt an subreport unter +49 221 985
+78-0 bzw. info@subreport.de. 
+
+6. Für die Erstellung der Teilnahmeanträge und der späteren
+Angebote erhält der Bewerber / Bieter keine Kostenerstattung.</cbc:Description>
+            </cac:SpecificTendererRequirement>
+         </cac:TendererQualificationRequest>
+         <cac:ContractExecutionRequirement>
+            <cbc:ExecutionRequirementCode listName="ecatalog-submission">not-allowed</cbc:ExecutionRequirementCode>
+         </cac:ContractExecutionRequirement>
+         <cac:ContractExecutionRequirement>
+            <cbc:ExecutionRequirementCode listName="einvoicing">required</cbc:ExecutionRequirementCode>
+         </cac:ContractExecutionRequirement>
+         <cac:ContractExecutionRequirement>
+            <cbc:ExecutionRequirementCode listName="reserved-execution">no</cbc:ExecutionRequirementCode>
+         </cac:ContractExecutionRequirement>
+         <cac:AwardingTerms>
+            <cbc:NoFurtherNegotiationIndicator>true</cbc:NoFurtherNegotiationIndicator>
+         </cac:AwardingTerms>
+         <cac:TenderRecipientParty>
+            <cbc:EndpointID>https://www.subreport.de/E55476844</cbc:EndpointID>
+         </cac:TenderRecipientParty>
+         <cac:AppealTerms>
+            <cac:PresentationPeriod>
+               <cbc:Description languageID="DEU">: Informationen über die Überprüfungsfristen: Bitte beachten Sie die Regelungen des § 160 GWB: (1) Die Vergabekammer leitet ein Nachprüfungsverfahren nur auf Antrag ein. (2) Antragsbefugt ist jedes Unternehmen, das ein Interesse an dem öffentlichen Auftrag oder der Konzession hat und eine Verletzung in seinen Rechten nach § 97 Absatz 6 durch Nichtbeachtung von Vergabevorschriften geltend macht. Dabei ist darzulegen, dass dem Unternehmen durch die behauptete Verletzung der Vergabevorschriften ein Schaden entstanden ist oder zu entstehen droht. (3) Der Antrag ist unzulässig, soweit 
+1. der Antragsteller den geltend gemachten Verstoß gegen Vergabevorschriften vor Einreichen des Nachprüfungsantrags erkannt und gegenüber dem Auftraggeber nicht innerhalb einer Frist von zehn Kalendertagen gerügt hat; der Ablauf der Frist nach § 134 Absatz 2 bleibt unberührt, 
+2. Verstöße gegen Vergabevorschriften, die aufgrund der Bekanntmachung erkennbar sind, nicht spätestens bis zum Ablauf der in der Bekanntmachung benannten Frist zur
+ 
+Bewerbung oder zur Angebotsabgabe gegenüber dem Auftraggeber gerügt werden, 
+3. Verstöße gegen Vergabevorschriften, die erst in den Vergabeunterlagen erkennbar sind, nicht spätestens bis zum Ablauf der Frist zur Bewerbung oder zur Angebotsabgabe gegenüber dem Auftraggeber gerügt werden, 
+4. mehr als 15 Kalendertage nach Eingang der Mitteilung des Auftraggebers einer Rüge nicht abhelfen zu wollen, vergangen sind. Satz 1 gilt nicht bei einem Antrag auf Feststellung der Unwirksamkeit des Vertrags nach § 135 Absatz 1 Nummer 2. § 134 Absatz 1 Satz 2 bleibt unberührt.</cbc:Description>
+            </cac:PresentationPeriod>
+            <cac:AppealInformationParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0002</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealInformationParty>
+            <cac:AppealReceiverParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0002</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealReceiverParty>
+         </cac:AppealTerms>
+         <cac:Language>
+            <cbc:ID>DEU</cbc:ID>
+         </cac:Language>
+         <cac:PostAwardProcess>
+            <cbc:ElectronicOrderUsageIndicator>false</cbc:ElectronicOrderUsageIndicator>
+            <cbc:ElectronicPaymentUsageIndicator>true</cbc:ElectronicPaymentUsageIndicator>
+         </cac:PostAwardProcess>
+      </cac:TenderingTerms>
+      <cac:TenderingProcess>
+         <cbc:SubmissionMethodCode listName="esubmission">required</cbc:SubmissionMethodCode>
+         <cbc:CandidateReductionConstraintIndicator>true</cbc:CandidateReductionConstraintIndicator>
+         <cbc:GovernmentAgreementConstraintIndicator>true</cbc:GovernmentAgreementConstraintIndicator>
+         <cac:InvitationSubmissionPeriod>
+            <cbc:StartDate>2026-10-15+02:00</cbc:StartDate>
+         </cac:InvitationSubmissionPeriod>
+         <cac:ParticipationRequestReceptionPeriod>
+            <cbc:EndDate>2026-09-14+02:00</cbc:EndDate>
+            <cbc:EndTime>14:00:00+02:00</cbc:EndTime>
+         </cac:ParticipationRequestReceptionPeriod>
+         <cac:EconomicOperatorShortList>
+            <cbc:LimitationDescription>true</cbc:LimitationDescription>
+            <cbc:MaximumQuantity>7</cbc:MaximumQuantity>
+            <cbc:MinimumQuantity>3</cbc:MinimumQuantity>
+         </cac:EconomicOperatorShortList>
+         <cac:AuctionTerms>
+            <cbc:AuctionConstraintIndicator>false</cbc:AuctionConstraintIndicator>
+         </cac:AuctionTerms>
+         <cac:FrameworkAgreement>
+            <cbc:MaximumOperatorQuantity>2</cbc:MaximumOperatorQuantity>
+         </cac:FrameworkAgreement>
+         <cac:ContractingSystem>
+            <cbc:ContractingSystemTypeCode listName="dps-usage">none</cbc:ContractingSystemTypeCode>
+         </cac:ContractingSystem>
+         <cac:ContractingSystem>
+            <cbc:ContractingSystemTypeCode listName="framework-agreement">fa-w-rc</cbc:ContractingSystemTypeCode>
+         </cac:ContractingSystem>
+      </cac:TenderingProcess>
+      <cac:ProcurementProject>
+         <cbc:ID schemeName="InternalID">LOT-0005 E55476844</cbc:ID>
+         <cbc:Name languageID="DEU">Rahmenvereinbarung zur Seminardurchführung „Female Empowerment“</cbc:Name>
+         <cbc:Description languageID="DEU">Mit der Lernreise „Female Empowerment“ setzt die DFS ein sichtbares Zeichen für die nachhaltige Förderung von Mitarbeiterinnen und unterstreicht den Anspruch, weibliche Talente gezielt auf ihrem beruflichen und persönlichen Weg zu begleiten.
+Die Lernreise soll Frauen dabei unterstützen, ihre Stärken gezielt einzusetzen, ihre Sichtbarkeit und Einflussnahme zu erhöhen sowie ihre Karriere selbstbewusst, authentisch und erfolgreich zu gestalten. Gleichzeitig sollen Räume für Vernetzung, gegenseitige Unterstützung und gemeinsames Lernen geschaffen werden. 
+
+Die Teilnehmerinnen sollen ihre persönliche Wirkung stärken, Sicherheit im Umgang mit anspruchsvollen beruflichen Situationen gewinnen und befähigt werden, Verantwortung zu übernehmen, Veränderungen aktiv mitzugestalten und Impulse für die Weiterentwicklung der DFS zu setzen.
+
+Die Lernreise soll inspirierende Lernerfahrungen mit einem hohen Praxisbezug verbinden, neue Perspektiven eröffnen und die Teilnehmerinnen darin bestärken, ihre individuellen Entwicklungs- und Karriereziele konsequent zu verfolgen.
+Im Mittelpunkt stehen insbesondere die Themen Selbstführung, persönliche Wirksamkeit, Kommunikation, Einflussnahme, strategisches Netzwerken, Stakeholdermanagement, Resilienz, Sichtbarkeit, professionelle Positionierung sowie Karriere- und Laufbahnentwicklung. Ergänzend sind innovative Lern- und Austauschformate gewünscht, die die Vernetzung stärken, bereichsübergreifende Lerngemeinschaften fördern und einen nachhaltigen Erfahrungsaustausch ermöglichen.
+Die Maßnahme ist als hochwertiges, langfristig angelegtes Entwicklungsprogramm mit einer Laufzeit von bis zu zwei Jahren auszugestalten.
+
+Die Maßnahme ist als hochwertiges und langfristig angelegtes Entwicklungsprogramm mit einer Laufzeit von bis zu zwei Jahren auszugestalten. 
+(Laufzeit max. 2 Jahre / max. 6-8 Seminartage im Kalenderjahr / Präsenz in Langen)</cbc:Description>
+         <cbc:ProcurementTypeCode listName="contract-nature">services</cbc:ProcurementTypeCode>
+         <cbc:SMESuitableIndicator>false</cbc:SMESuitableIndicator>
+         <cac:ProcurementAdditionalType>
+            <cbc:ProcurementTypeCode listName="strategic-procurement">none</cbc:ProcurementTypeCode>
+         </cac:ProcurementAdditionalType>
+         <cac:MainCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">80522000</cbc:ItemClassificationCode>
+         </cac:MainCommodityClassification>
+         <cac:RealizedLocation>
+            <cbc:Description languageID="DEU">Je Los sollen die Trainings ca. dreimal jährlich primär am Standort Langen, gegebenenfalls 
+auch an anderen Orten in Deutschland oder auch virtuell, stattfinden. Die 
+Häufigkeit  der Veranstaltungen variiert je nach Bedarf.</cbc:Description>
+            <cac:Address>
+               <cbc:CityName>Langen</cbc:CityName>
+               <cbc:PostalZone>63225</cbc:PostalZone>
+               <cbc:CountrySubentityCode listName="nuts">DE71C</cbc:CountrySubentityCode>
+               <cac:Country>
+                  <cbc:IdentificationCode listName="country">DEU</cbc:IdentificationCode>
+               </cac:Country>
+            </cac:Address>
+         </cac:RealizedLocation>
+         <cac:PlannedPeriod>
+            <cbc:DurationMeasure unitCode="MONTH">36</cbc:DurationMeasure>
+         </cac:PlannedPeriod>
+         <cac:ContractExtension>
+            <cbc:MaximumNumberNumeric>1</cbc:MaximumNumberNumeric>
+            <cac:Renewal>
+               <cac:Period>
+                  <cbc:Description languageID="DEU">Verlängerung um maximal 12 Monate</cbc:Description>
+               </cac:Period>
+            </cac:Renewal>
+         </cac:ContractExtension>
+      </cac:ProcurementProject>
+   </cac:ProcurementProjectLot>
+</ContractNotice>

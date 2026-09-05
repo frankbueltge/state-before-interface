@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><ContractNotice xmlns="urn:oasis:names:specification:ubl:schema:xsd:ContractNotice-2" xmlns:cac="urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-2" xmlns:cbc="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-2" xmlns:efac="http://data.europa.eu/p27/eforms-ubl-extension-aggregate-components/1" xmlns:efbc="http://data.europa.eu/p27/eforms-ubl-extension-basic-components/1" xmlns:efext="http://data.europa.eu/p27/eforms-ubl-extensions/1" xmlns:ext="urn:oasis:names:specification:ubl:schema:xsd:CommonExtensionComponents-2"><ext:UBLExtensions><ext:UBLExtension><ext:ExtensionContent><efext:EformsExtension><efac:NoticeSubType><cbc:SubTypeCode listName="notice-subtype">16</cbc:SubTypeCode></efac:NoticeSubType><efac:Organizations><efac:Organization><efac:Company><cac:PartyIdentification><cbc:ID schemeName="organization">ORG-0000</cbc:ID></cac:PartyIdentification><cac:PartyName><cbc:Name languageID="DEU">Bundesministerium für Arbeit und Soziales</cbc:Name></cac:PartyName><cac:PostalAddress><cbc:CityName>Bonn</cbc:CityName><cbc:PostalZone>53123</cbc:PostalZone><cbc:CountrySubentityCode listName="nuts-lvl3">DEA22</cbc:CountrySubentityCode><cac:Country><cbc:IdentificationCode listName="country">DEU</cbc:IdentificationCode></cac:Country></cac:PostalAddress><cac:PartyLegalEntity><cbc:CompanyID>0228 99 527-0</cbc:CompanyID></cac:PartyLegalEntity><cac:Contact><cbc:Telephone>+49 228 99 527-0</cbc:Telephone><cbc:ElectronicMail>zentrale-vergabestelle@bmas.bund.de</cbc:ElectronicMail></cac:Contact></efac:Company></efac:Organization><efac:Organization><efac:Company><cac:PartyIdentification><cbc:ID schemeName="organization">ORG-0001</cbc:ID></cac:PartyIdentification><cac:PartyName><cbc:Name languageID="DEU">Bundeskartellamt -Vergabekammern des Bundes</cbc:Name></cac:PartyName><cac:PostalAddress><cbc:CityName>Bonn</cbc:CityName><cbc:PostalZone>53123</cbc:PostalZone><cbc:CountrySubentityCode listName="nuts-lvl3">DEA22</cbc:CountrySubentityCode><cac:Country><cbc:IdentificationCode listName="country">DEU</cbc:IdentificationCode></cac:Country></cac:PostalAddress><cac:PartyLegalEntity><cbc:CompanyID>0228-9499-0</cbc:CompanyID></cac:PartyLegalEntity><cac:Contact><cbc:Telephone>0228-9499-0</cbc:Telephone><cbc:ElectronicMail>vk@bundeskartellamt.de</cbc:ElectronicMail></cac:Contact></efac:Company></efac:Organization><efac:Organization><efac:Company><cac:PartyIdentification><cbc:ID schemeName="organization">ORG-0002</cbc:ID></cac:PartyIdentification><cac:PartyName><cbc:Name languageID="DEU">Datenservice Öffentlicher Einkauf (in Verantwortung des Beschaffungsamts des BMI)</cbc:Name></cac:PartyName><cac:PostalAddress><cbc:CityName>Bonn</cbc:CityName><cbc:PostalZone>53119</cbc:PostalZone><cbc:CountrySubentityCode listName="nuts">DEA22</cbc:CountrySubentityCode><cac:Country><cbc:IdentificationCode listName="country">DEU</cbc:IdentificationCode></cac:Country></cac:PostalAddress><cac:PartyLegalEntity><cbc:CompanyID schemeID="002">0204:994-DOEVD-83</cbc:CompanyID></cac:PartyLegalEntity><cac:Contact><cbc:Telephone>+49228996100</cbc:Telephone><cbc:ElectronicMail>noreply.esender_hub@bescha.bund.de</cbc:ElectronicMail></cac:Contact></efac:Company></efac:Organization></efac:Organizations><efac:Publication><efbc:NoticePublicationID schemeName="ojs-notice-id">00603352-2026</efbc:NoticePublicationID><efbc:GazetteID schemeName="ojs-id">169/2026</efbc:GazetteID><efbc:PublicationDate>2026-09-02+02:00</efbc:PublicationDate></efac:Publication></efext:EformsExtension></ext:ExtensionContent></ext:UBLExtension></ext:UBLExtensions><cbc:UBLVersionID>2.3</cbc:UBLVersionID><cbc:CustomizationID>eforms-sdk-1.13</cbc:CustomizationID><cbc:ProfileID>eforms-sdk-1.13</cbc:ProfileID><cbc:ID schemeName="notice-id">bbf3b003-4212-43de-8333-9cd482905ff2</cbc:ID><cbc:ContractFolderID>d0d5afbf-af56-45cb-88ba-2174419b24d1</cbc:ContractFolderID><cbc:IssueDate>2026-08-31+02:00</cbc:IssueDate><cbc:IssueTime>14:33:57+02:00</cbc:IssueTime><cbc:VersionID>06</cbc:VersionID><cbc:RequestedPublicationDate>2026-08-31+02:00</cbc:RequestedPublicationDate><cbc:RegulatoryDomain>32014L0024</cbc:RegulatoryDomain><cbc:NoticeTypeCode listName="competition">cn-standard</cbc:NoticeTypeCode><cbc:NoticeLanguageCode listName="eu-official-language">DEU</cbc:NoticeLanguageCode><cac:ContractingParty><cac:ContractingPartyType><cbc:PartyTypeCode listName="buyer-legal-type">cga</cbc:PartyTypeCode></cac:ContractingPartyType><cac:ContractingActivity><cbc:ActivityTypeCode listName="authority-activity">gen-pub</cbc:ActivityTypeCode></cac:ContractingActivity><cac:Party><cac:PartyIdentification><cbc:ID schemeName="organization">ORG-0000</cbc:ID></cac:PartyIdentification><cac:ServiceProviderParty><cbc:ServiceTypeCode listName="organisation-role">ted-esen</cbc:ServiceTypeCode><cac:Party><cac:PartyIdentification><cbc:ID schemeName="organization">ORG-0002</cbc:ID></cac:PartyIdentification></cac:Party></cac:ServiceProviderParty></cac:Party></cac:ContractingParty><cac:TenderingTerms><cac:ProcurementLegislationDocumentReference><cbc:ID>vgv</cbc:ID></cac:ProcurementLegislationDocumentReference><cac:TendererQualificationRequest><cac:SpecificTendererRequirement><cbc:TendererRequirementTypeCode listName="exclusion-ground">exg-crim-corrpt</cbc:TendererRequirementTypeCode><cbc:Description languageID="DEU">Ausgeschlossen werden,
+1.	Personen, deren Verhalten gem. § 123 Abs. 3 Gesetz gegen Wettbewerbsbeschränkungen* (GWB) zuzurechnen ist, wegen der in § 123 Abs. 1 Nr. 1 - 10 GWB* genannten Verstöße oder wegen vergleichbarer Verstöße anderer Staaten rechtskräftig verurteilt oder rechtskräftig mit einer Geldbuße belegt worden sind,
+
+2.	Personen, die in § 123 Abs. 4 Nr. 1 und 2 GWB* genannten Ausschlussgründe (bei nationalen Vergabeverfahren i.V.m. § 31 Abs. 2 Unterschwellenvergabeordnung (UVgO)) erfüllen,
+
+3.	Personen, die in § 124 Abs. 1 Nr. 1 - 9 GWB* genannten Ausschlussgründe (bei nationalen Vergabeverfahren i.V.m. § 31 Abs. 2 UVgO) erfüllen,
+
+4.	Personen, die die in § 21 des Arbeitnehmer-Entsendegesetzes*, § 98c des Aufenthaltsgesetzes*, § 19 des Mindestlohngesetzes*, § 21 des Schwarzarbeitsbekämpfungsgesetzes* und § 22 des Lieferkettensorgfaltspflichtengesetzes* genannten Ausschlussgründe erfüllen,
+
+5.	Personen, die einen Ausschlussgrund nach § 14 Bundestariftreuegesetz (BTTG) erfüllen.
+
+Wahrheitswidrige Angaben oder Zurückhaltung von Auskünften können zum Ausschluss von der Teilnahme an diesem und weiteren Vergabeverfahren bzw. im Falle der Auftragserteilung zur fristlosen Kündigung des geschlossenen Vertrages führen.</cbc:Description></cac:SpecificTendererRequirement><cac:SpecificTendererRequirement><cbc:TendererRequirementTypeCode listName="exclusion-ground">exg-crim-fraud</cbc:TendererRequirementTypeCode><cbc:Description languageID="DEU">Ausgeschlossen werden,
+1.	Personen, deren Verhalten gem. § 123 Abs. 3 Gesetz gegen Wettbewerbsbeschränkungen* (GWB) zuzurechnen ist, wegen der in § 123 Abs. 1 Nr. 1 - 10 GWB* genannten Verstöße oder wegen vergleichbarer Verstöße anderer Staaten rechtskräftig verurteilt oder rechtskräftig mit einer Geldbuße belegt worden sind,
+
+2.	Personen, die in § 123 Abs. 4 Nr. 1 und 2 GWB* genannten Ausschlussgründe (bei nationalen Vergabeverfahren i.V.m. § 31 Abs. 2 Unterschwellenvergabeordnung (UVgO)) erfüllen,
+
+3.	Personen, die in § 124 Abs. 1 Nr. 1 - 9 GWB* genannten Ausschlussgründe (bei nationalen Vergabeverfahren i.V.m. § 31 Abs. 2 UVgO) erfüllen,
+
+4.	Personen, die die in § 21 des Arbeitnehmer-Entsendegesetzes*, § 98c des Aufenthaltsgesetzes*, § 19 des Mindestlohngesetzes*, § 21 des Schwarzarbeitsbekämpfungsgesetzes* und § 22 des Lieferkettensorgfaltspflichtengesetzes* genannten Ausschlussgründe erfüllen,
+
+5.	Personen, die einen Ausschlussgrund nach § 14 Bundestariftreuegesetz (BTTG) erfüllen.
+
+Wahrheitswidrige Angaben oder Zurückhaltung von Auskünften können zum Ausschluss von der Teilnahme an diesem und weiteren Vergabeverfahren bzw. im Falle der Auftragserteilung zur fristlosen Kündigung des geschlossenen Vertrages führen.</cbc:Description></cac:SpecificTendererRequirement><cac:SpecificTendererRequirement><cbc:TendererRequirementTypeCode listName="exclusion-ground">exg-crim-part</cbc:TendererRequirementTypeCode><cbc:Description languageID="DEU">Ausgeschlossen werden,
+1.	Personen, deren Verhalten gem. § 123 Abs. 3 Gesetz gegen Wettbewerbsbeschränkungen* (GWB) zuzurechnen ist, wegen der in § 123 Abs. 1 Nr. 1 - 10 GWB* genannten Verstöße oder wegen vergleichbarer Verstöße anderer Staaten rechtskräftig verurteilt oder rechtskräftig mit einer Geldbuße belegt worden sind,
+
+2.	Personen, die in § 123 Abs. 4 Nr. 1 und 2 GWB* genannten Ausschlussgründe (bei nationalen Vergabeverfahren i.V.m. § 31 Abs. 2 Unterschwellenvergabeordnung (UVgO)) erfüllen,
+
+3.	Personen, die in § 124 Abs. 1 Nr. 1 - 9 GWB* genannten Ausschlussgründe (bei nationalen Vergabeverfahren i.V.m. § 31 Abs. 2 UVgO) erfüllen,
+
+4.	Personen, die die in § 21 des Arbeitnehmer-Entsendegesetzes*, § 98c des Aufenthaltsgesetzes*, § 19 des Mindestlohngesetzes*, § 21 des Schwarzarbeitsbekämpfungsgesetzes* und § 22 des Lieferkettensorgfaltspflichtengesetzes* genannten Ausschlussgründe erfüllen,
+
+5.	Personen, die einen Ausschlussgrund nach § 14 Bundestariftreuegesetz (BTTG) erfüllen.
+
+Wahrheitswidrige Angaben oder Zurückhaltung von Auskünften können zum Ausschluss von der Teilnahme an diesem und weiteren Vergabeverfahren bzw. im Falle der Auftragserteilung zur fristlosen Kündigung des geschlossenen Vertrages führen.</cbc:Description></cac:SpecificTendererRequirement><cac:SpecificTendererRequirement><cbc:TendererRequirementTypeCode listName="exclusion-ground">exg-crim-terror</cbc:TendererRequirementTypeCode><cbc:Description languageID="DEU">Ausgeschlossen werden,
+1.	Personen, deren Verhalten gem. § 123 Abs. 3 Gesetz gegen Wettbewerbsbeschränkungen* (GWB) zuzurechnen ist, wegen der in § 123 Abs. 1 Nr. 1 - 10 GWB* genannten Verstöße oder wegen vergleichbarer Verstöße anderer Staaten rechtskräftig verurteilt oder rechtskräftig mit einer Geldbuße belegt worden sind,
+
+2.	Personen, die in § 123 Abs. 4 Nr. 1 und 2 GWB* genannten Ausschlussgründe (bei nationalen Vergabeverfahren i.V.m. § 31 Abs. 2 Unterschwellenvergabeordnung (UVgO)) erfüllen,
+
+3.	Personen, die in § 124 Abs. 1 Nr. 1 - 9 GWB* genannten Ausschlussgründe (bei nationalen Vergabeverfahren i.V.m. § 31 Abs. 2 UVgO) erfüllen,
+
+4.	Personen, die die in § 21 des Arbeitnehmer-Entsendegesetzes*, § 98c des Aufenthaltsgesetzes*, § 19 des Mindestlohngesetzes*, § 21 des Schwarzarbeitsbekämpfungsgesetzes* und § 22 des Lieferkettensorgfaltspflichtengesetzes* genannten Ausschlussgründe erfüllen,
+
+5.	Personen, die einen Ausschlussgrund nach § 14 Bundestariftreuegesetz (BTTG) erfüllen.
+
+Wahrheitswidrige Angaben oder Zurückhaltung von Auskünften können zum Ausschluss von der Teilnahme an diesem und weiteren Vergabeverfahren bzw. im Falle der Auftragserteilung zur fristlosen Kündigung des geschlossenen Vertrages führen.</cbc:Description></cac:SpecificTendererRequirement><cac:SpecificTendererRequirement><cbc:TendererRequirementTypeCode listName="exclusion-ground">exg-sitn-as-susp</cbc:TendererRequirementTypeCode><cbc:Description languageID="DEU">Ausgeschlossen werden,
+1.	Personen, deren Verhalten gem. § 123 Abs. 3 Gesetz gegen Wettbewerbsbeschränkungen* (GWB) zuzurechnen ist, wegen der in § 123 Abs. 1 Nr. 1 - 10 GWB* genannten Verstöße oder wegen vergleichbarer Verstöße anderer Staaten rechtskräftig verurteilt oder rechtskräftig mit einer Geldbuße belegt worden sind,
+
+2.	Personen, die in § 123 Abs. 4 Nr. 1 und 2 GWB* genannten Ausschlussgründe (bei nationalen Vergabeverfahren i.V.m. § 31 Abs. 2 Unterschwellenvergabeordnung (UVgO)) erfüllen,
+
+3.	Personen, die in § 124 Abs. 1 Nr. 1 - 9 GWB* genannten Ausschlussgründe (bei nationalen Vergabeverfahren i.V.m. § 31 Abs. 2 UVgO) erfüllen,
+
+4.	Personen, die die in § 21 des Arbeitnehmer-Entsendegesetzes*, § 98c des Aufenthaltsgesetzes*, § 19 des Mindestlohngesetzes*, § 21 des Schwarzarbeitsbekämpfungsgesetzes* und § 22 des Lieferkettensorgfaltspflichtengesetzes* genannten Ausschlussgründe erfüllen,
+
+5.	Personen, die einen Ausschlussgrund nach § 14 Bundestariftreuegesetz (BTTG) erfüllen.
+
+Wahrheitswidrige Angaben oder Zurückhaltung von Auskünften können zum Ausschluss von der Teilnahme an diesem und weiteren Vergabeverfahren bzw. im Falle der Auftragserteilung zur fristlosen Kündigung des geschlossenen Vertrages führen.</cbc:Description></cac:SpecificTendererRequirement><cac:SpecificTendererRequirement><cbc:TendererRequirementTypeCode listName="exclusion-ground">exg-crim-laund</cbc:TendererRequirementTypeCode><cbc:Description languageID="DEU">Ausgeschlossen werden,
+1.	Personen, deren Verhalten gem. § 123 Abs. 3 Gesetz gegen Wettbewerbsbeschränkungen* (GWB) zuzurechnen ist, wegen der in § 123 Abs. 1 Nr. 1 - 10 GWB* genannten Verstöße oder wegen vergleichbarer Verstöße anderer Staaten rechtskräftig verurteilt oder rechtskräftig mit einer Geldbuße belegt worden sind,
+
+2.	Personen, die in § 123 Abs. 4 Nr. 1 und 2 GWB* genannten Ausschlussgründe (bei nationalen Vergabeverfahren i.V.m. § 31 Abs. 2 Unterschwellenvergabeordnung (UVgO)) erfüllen,
+
+3.	Personen, die in § 124 Abs. 1 Nr. 1 - 9 GWB* genannten Ausschlussgründe (bei nationalen Vergabeverfahren i.V.m. § 31 Abs. 2 UVgO) erfüllen,
+
+4.	Personen, die die in § 21 des Arbeitnehmer-Entsendegesetzes*, § 98c des Aufenthaltsgesetzes*, § 19 des Mindestlohngesetzes*, § 21 des Schwarzarbeitsbekämpfungsgesetzes* und § 22 des Lieferkettensorgfaltspflichtengesetzes* genannten Ausschlussgründe erfüllen,
+
+5.	Personen, die einen Ausschlussgrund nach § 14 Bundestariftreuegesetz (BTTG) erfüllen.
+
+Wahrheitswidrige Angaben oder Zurückhaltung von Auskünften können zum Ausschluss von der Teilnahme an diesem und weiteren Vergabeverfahren bzw. im Falle der Auftragserteilung zur fristlosen Kündigung des geschlossenen Vertrages führen.</cbc:Description></cac:SpecificTendererRequirement><cac:SpecificTendererRequirement><cbc:TendererRequirementTypeCode listName="exclusion-ground">exg-sitn-liq-admin</cbc:TendererRequirementTypeCode><cbc:Description languageID="DEU">Ausgeschlossen werden,
+1.	Personen, deren Verhalten gem. § 123 Abs. 3 Gesetz gegen Wettbewerbsbeschränkungen* (GWB) zuzurechnen ist, wegen der in § 123 Abs. 1 Nr. 1 - 10 GWB* genannten Verstöße oder wegen vergleichbarer Verstöße anderer Staaten rechtskräftig verurteilt oder rechtskräftig mit einer Geldbuße belegt worden sind,
+
+2.	Personen, die in § 123 Abs. 4 Nr. 1 und 2 GWB* genannten Ausschlussgründe (bei nationalen Vergabeverfahren i.V.m. § 31 Abs. 2 Unterschwellenvergabeordnung (UVgO)) erfüllen,
+
+3.	Personen, die in § 124 Abs. 1 Nr. 1 - 9 GWB* genannten Ausschlussgründe (bei nationalen Vergabeverfahren i.V.m. § 31 Abs. 2 UVgO) erfüllen,
+
+4.	Personen, die die in § 21 des Arbeitnehmer-Entsendegesetzes*, § 98c des Aufenthaltsgesetzes*, § 19 des Mindestlohngesetzes*, § 21 des Schwarzarbeitsbekämpfungsgesetzes* und § 22 des Lieferkettensorgfaltspflichtengesetzes* genannten Ausschlussgründe erfüllen,
+
+5.	Personen, die einen Ausschlussgrund nach § 14 Bundestariftreuegesetz (BTTG) erfüllen.
+
+Wahrheitswidrige Angaben oder Zurückhaltung von Auskünften können zum Ausschluss von der Teilnahme an diesem und weiteren Vergabeverfahren bzw. im Falle der Auftragserteilung zur fristlosen Kündigung des geschlossenen Vertrages führen.</cbc:Description></cac:SpecificTendererRequirement><cac:SpecificTendererRequirement><cbc:TendererRequirementTypeCode listName="exclusion-ground">exg-mis-partic-confl</cbc:TendererRequirementTypeCode><cbc:Description languageID="DEU">Ausgeschlossen werden,
+1.	Personen, deren Verhalten gem. § 123 Abs. 3 Gesetz gegen Wettbewerbsbeschränkungen* (GWB) zuzurechnen ist, wegen der in § 123 Abs. 1 Nr. 1 - 10 GWB* genannten Verstöße oder wegen vergleichbarer Verstöße anderer Staaten rechtskräftig verurteilt oder rechtskräftig mit einer Geldbuße belegt worden sind,
+
+2.	Personen, die in § 123 Abs. 4 Nr. 1 und 2 GWB* genannten Ausschlussgründe (bei nationalen Vergabeverfahren i.V.m. § 31 Abs. 2 Unterschwellenvergabeordnung (UVgO)) erfüllen,
+
+3.	Personen, die in § 124 Abs. 1 Nr. 1 - 9 GWB* genannten Ausschlussgründe (bei nationalen Vergabeverfahren i.V.m. § 31 Abs. 2 UVgO) erfüllen,
+
+4.	Personen, die die in § 21 des Arbeitnehmer-Entsendegesetzes*, § 98c des Aufenthaltsgesetzes*, § 19 des Mindestlohngesetzes*, § 21 des Schwarzarbeitsbekämpfungsgesetzes* und § 22 des Lieferkettensorgfaltspflichtengesetzes* genannten Ausschlussgründe erfüllen,
+
+5.	Personen, die einen Ausschlussgrund nach § 14 Bundestariftreuegesetz (BTTG) erfüllen.
+
+Wahrheitswidrige Angaben oder Zurückhaltung von Auskünften können zum Ausschluss von der Teilnahme an diesem und weiteren Vergabeverfahren bzw. im Falle der Auftragserteilung zur fristlosen Kündigung des geschlossenen Vertrages führen.</cbc:Description></cac:SpecificTendererRequirement><cac:SpecificTendererRequirement><cbc:TendererRequirementTypeCode listName="exclusion-ground">exg-mis-sanction</cbc:TendererRequirementTypeCode><cbc:Description languageID="DEU">Ausgeschlossen werden,
+1.	Personen, deren Verhalten gem. § 123 Abs. 3 Gesetz gegen Wettbewerbsbeschränkungen* (GWB) zuzurechnen ist, wegen der in § 123 Abs. 1 Nr. 1 - 10 GWB* genannten Verstöße oder wegen vergleichbarer Verstöße anderer Staaten rechtskräftig verurteilt oder rechtskräftig mit einer Geldbuße belegt worden sind,
+
+2.	Personen, die in § 123 Abs. 4 Nr. 1 und 2 GWB* genannten Ausschlussgründe (bei nationalen Vergabeverfahren i.V.m. § 31 Abs. 2 Unterschwellenvergabeordnung (UVgO)) erfüllen,
+
+3.	Personen, die in § 124 Abs. 1 Nr. 1 - 9 GWB* genannten Ausschlussgründe (bei nationalen Vergabeverfahren i.V.m. § 31 Abs. 2 UVgO) erfüllen,
+
+4.	Personen, die die in § 21 des Arbeitnehmer-Entsendegesetzes*, § 98c des Aufenthaltsgesetzes*, § 19 des Mindestlohngesetzes*, § 21 des Schwarzarbeitsbekämpfungsgesetzes* und § 22 des Lieferkettensorgfaltspflichtengesetzes* genannten Ausschlussgründe erfüllen,
+
+5.	Personen, die einen Ausschlussgrund nach § 14 Bundestariftreuegesetz (BTTG) erfüllen.
+
+Wahrheitswidrige Angaben oder Zurückhaltung von Auskünften können zum Ausschluss von der Teilnahme an diesem und weiteren Vergabeverfahren bzw. im Falle der Auftragserteilung zur fristlosen Kündigung des geschlossenen Vertrages führen.</cbc:Description></cac:SpecificTendererRequirement><cac:SpecificTendererRequirement><cbc:TendererRequirementTypeCode listName="exclusion-ground">exg-crim-traffick</cbc:TendererRequirementTypeCode><cbc:Description languageID="DEU">Ausgeschlossen werden,
+1.	Personen, deren Verhalten gem. § 123 Abs. 3 Gesetz gegen Wettbewerbsbeschränkungen* (GWB) zuzurechnen ist, wegen der in § 123 Abs. 1 Nr. 1 - 10 GWB* genannten Verstöße oder wegen vergleichbarer Verstöße anderer Staaten rechtskräftig verurteilt oder rechtskräftig mit einer Geldbuße belegt worden sind,
+
+2.	Personen, die in § 123 Abs. 4 Nr. 1 und 2 GWB* genannten Ausschlussgründe (bei nationalen Vergabeverfahren i.V.m. § 31 Abs. 2 Unterschwellenvergabeordnung (UVgO)) erfüllen,
+
+3.	Personen, die in § 124 Abs. 1 Nr. 1 - 9 GWB* genannten Ausschlussgründe (bei nationalen Vergabeverfahren i.V.m. § 31 Abs. 2 UVgO) erfüllen,
+
+4.	Personen, die die in § 21 des Arbeitnehmer-Entsendegesetzes*, § 98c des Aufenthaltsgesetzes*, § 19 des Mindestlohngesetzes*, § 21 des Schwarzarbeitsbekämpfungsgesetzes* und § 22 des Lieferkettensorgfaltspflichtengesetzes* genannten Ausschlussgründe erfüllen,
+
+5.	Personen, die einen Ausschlussgrund nach § 14 Bundestariftreuegesetz (BTTG) erfüllen.
+
+Wahrheitswidrige Angaben oder Zurückhaltung von Auskünften können zum Ausschluss von der Teilnahme an diesem und weiteren Vergabeverfahren bzw. im Falle der Auftragserteilung zur fristlosen Kündigung des geschlossenen Vertrages führen.</cbc:Description></cac:SpecificTendererRequirement><cac:SpecificTendererRequirement><cbc:TendererRequirementTypeCode listName="exclusion-ground">exg-sitn-other</cbc:TendererRequirementTypeCode><cbc:Description languageID="DEU">Ausgeschlossen werden,
+1.	Personen, deren Verhalten gem. § 123 Abs. 3 Gesetz gegen Wettbewerbsbeschränkungen* (GWB) zuzurechnen ist, wegen der in § 123 Abs. 1 Nr. 1 - 10 GWB* genannten Verstöße oder wegen vergleichbarer Verstöße anderer Staaten rechtskräftig verurteilt oder rechtskräftig mit einer Geldbuße belegt worden sind,
+
+2.	Personen, die in § 123 Abs. 4 Nr. 1 und 2 GWB* genannten Ausschlussgründe (bei nationalen Vergabeverfahren i.V.m. § 31 Abs. 2 Unterschwellenvergabeordnung (UVgO)) erfüllen,
+
+3.	Personen, die in § 124 Abs. 1 Nr. 1 - 9 GWB* genannten Ausschlussgründe (bei nationalen Vergabeverfahren i.V.m. § 31 Abs. 2 UVgO) erfüllen,
+
+4.	Personen, die die in § 21 des Arbeitnehmer-Entsendegesetzes*, § 98c des Aufenthaltsgesetzes*, § 19 des Mindestlohngesetzes*, § 21 des Schwarzarbeitsbekämpfungsgesetzes* und § 22 des Lieferkettensorgfaltspflichtengesetzes* genannten Ausschlussgründe erfüllen,
+
+5.	Personen, die einen Ausschlussgrund nach § 14 Bundestariftreuegesetz (BTTG) erfüllen.
+
+Wahrheitswidrige Angaben oder Zurückhaltung von Auskünften können zum Ausschluss von der Teilnahme an diesem und weiteren Vergabeverfahren bzw. im Falle der Auftragserteilung zur fristlosen Kündigung des geschlossenen Vertrages führen.</cbc:Description></cac:SpecificTendererRequirement><cac:SpecificTendererRequirement><cbc:TendererRequirementTypeCode listName="exclusion-ground">exg-natl-bre-nat-law</cbc:TendererRequirementTypeCode><cbc:Description languageID="DEU">Ausgeschlossen werden,
+1.	Personen, deren Verhalten gem. § 123 Abs. 3 Gesetz gegen Wettbewerbsbeschränkungen* (GWB) zuzurechnen ist, wegen der in § 123 Abs. 1 Nr. 1 - 10 GWB* genannten Verstöße oder wegen vergleichbarer Verstöße anderer Staaten rechtskräftig verurteilt oder rechtskräftig mit einer Geldbuße belegt worden sind,
+
+2.	Personen, die in § 123 Abs. 4 Nr. 1 und 2 GWB* genannten Ausschlussgründe (bei nationalen Vergabeverfahren i.V.m. § 31 Abs. 2 Unterschwellenvergabeordnung (UVgO)) erfüllen,
+
+3.	Personen, die in § 124 Abs. 1 Nr. 1 - 9 GWB* genannten Ausschlussgründe (bei nationalen Vergabeverfahren i.V.m. § 31 Abs. 2 UVgO) erfüllen,
+
+4.	Personen, die die in § 21 des Arbeitnehmer-Entsendegesetzes*, § 98c des Aufenthaltsgesetzes*, § 19 des Mindestlohngesetzes*, § 21 des Schwarzarbeitsbekämpfungsgesetzes* und § 22 des Lieferkettensorgfaltspflichtengesetzes* genannten Ausschlussgründe erfüllen,
+
+5.	Personen, die einen Ausschlussgrund nach § 14 Bundestariftreuegesetz (BTTG) erfüllen.
+
+Wahrheitswidrige Angaben oder Zurückhaltung von Auskünften können zum Ausschluss von der Teilnahme an diesem und weiteren Vergabeverfahren bzw. im Falle der Auftragserteilung zur fristlosen Kündigung des geschlossenen Vertrages führen.</cbc:Description></cac:SpecificTendererRequirement><cac:SpecificTendererRequirement><cbc:TendererRequirementTypeCode listName="exclusion-ground">exg-mis-misconduct</cbc:TendererRequirementTypeCode></cac:SpecificTendererRequirement><cac:SpecificTendererRequirement><cbc:TendererRequirementTypeCode listName="exclusion-ground">exg-mis-misrepresent</cbc:TendererRequirementTypeCode><cbc:Description languageID="DEU">Ausgeschlossen werden,
+1.	Personen, deren Verhalten gem. § 123 Abs. 3 Gesetz gegen Wettbewerbsbeschränkungen* (GWB) zuzurechnen ist, wegen der in § 123 Abs. 1 Nr. 1 - 10 GWB* genannten Verstöße oder wegen vergleichbarer Verstöße anderer Staaten rechtskräftig verurteilt oder rechtskräftig mit einer Geldbuße belegt worden sind,
+
+2.	Personen, die in § 123 Abs. 4 Nr. 1 und 2 GWB* genannten Ausschlussgründe (bei nationalen Vergabeverfahren i.V.m. § 31 Abs. 2 Unterschwellenvergabeordnung (UVgO)) erfüllen,
+
+3.	Personen, die in § 124 Abs. 1 Nr. 1 - 9 GWB* genannten Ausschlussgründe (bei nationalen Vergabeverfahren i.V.m. § 31 Abs. 2 UVgO) erfüllen,
+
+4.	Personen, die die in § 21 des Arbeitnehmer-Entsendegesetzes*, § 98c des Aufenthaltsgesetzes*, § 19 des Mindestlohngesetzes*, § 21 des Schwarzarbeitsbekämpfungsgesetzes* und § 22 des Lieferkettensorgfaltspflichtengesetzes* genannten Ausschlussgründe erfüllen,
+
+5.	Personen, die einen Ausschlussgrund nach § 14 Bundestariftreuegesetz (BTTG) erfüllen.
+
+Wahrheitswidrige Angaben oder Zurückhaltung von Auskünften können zum Ausschluss von der Teilnahme an diesem und weiteren Vergabeverfahren bzw. im Falle der Auftragserteilung zur fristlosen Kündigung des geschlossenen Vertrages führen.</cbc:Description></cac:SpecificTendererRequirement><cac:SpecificTendererRequirement><cbc:TendererRequirementTypeCode listName="exclusion-ground">exg-mis-bre-lab-law</cbc:TendererRequirementTypeCode><cbc:Description languageID="DEU">Ausgeschlossen werden,
+1.	Personen, deren Verhalten gem. § 123 Abs. 3 Gesetz gegen Wettbewerbsbeschränkungen* (GWB) zuzurechnen ist, wegen der in § 123 Abs. 1 Nr. 1 - 10 GWB* genannten Verstöße oder wegen vergleichbarer Verstöße anderer Staaten rechtskräftig verurteilt oder rechtskräftig mit einer Geldbuße belegt worden sind,
+
+2.	Personen, die in § 123 Abs. 4 Nr. 1 und 2 GWB* genannten Ausschlussgründe (bei nationalen Vergabeverfahren i.V.m. § 31 Abs. 2 Unterschwellenvergabeordnung (UVgO)) erfüllen,
+
+3.	Personen, die in § 124 Abs. 1 Nr. 1 - 9 GWB* genannten Ausschlussgründe (bei nationalen Vergabeverfahren i.V.m. § 31 Abs. 2 UVgO) erfüllen,
+
+4.	Personen, die die in § 21 des Arbeitnehmer-Entsendegesetzes*, § 98c des Aufenthaltsgesetzes*, § 19 des Mindestlohngesetzes*, § 21 des Schwarzarbeitsbekämpfungsgesetzes* und § 22 des Lieferkettensorgfaltspflichtengesetzes* genannten Ausschlussgründe erfüllen,
+
+5.	Personen, die einen Ausschlussgrund nach § 14 Bundestariftreuegesetz (BTTG) erfüllen.
+
+Wahrheitswidrige Angaben oder Zurückhaltung von Auskünften können zum Ausschluss von der Teilnahme an diesem und weiteren Vergabeverfahren bzw. im Falle der Auftragserteilung zur fristlosen Kündigung des geschlossenen Vertrages führen.</cbc:Description></cac:SpecificTendererRequirement><cac:SpecificTendererRequirement><cbc:TendererRequirementTypeCode listName="exclusion-ground">exg-mis-bre-soc-law</cbc:TendererRequirementTypeCode><cbc:Description languageID="DEU">Ausgeschlossen werden,
+1.	Personen, deren Verhalten gem. § 123 Abs. 3 Gesetz gegen Wettbewerbsbeschränkungen* (GWB) zuzurechnen ist, wegen der in § 123 Abs. 1 Nr. 1 - 10 GWB* genannten Verstöße oder wegen vergleichbarer Verstöße anderer Staaten rechtskräftig verurteilt oder rechtskräftig mit einer Geldbuße belegt worden sind,
+
+2.	Personen, die in § 123 Abs. 4 Nr. 1 und 2 GWB* genannten Ausschlussgründe (bei nationalen Vergabeverfahren i.V.m. § 31 Abs. 2 Unterschwellenvergabeordnung (UVgO)) erfüllen,
+
+3.	Personen, die in § 124 Abs. 1 Nr. 1 - 9 GWB* genannten Ausschlussgründe (bei nationalen Vergabeverfahren i.V.m. § 31 Abs. 2 UVgO) erfüllen,
+
+4.	Personen, die die in § 21 des Arbeitnehmer-Entsendegesetzes*, § 98c des Aufenthaltsgesetzes*, § 19 des Mindestlohngesetzes*, § 21 des Schwarzarbeitsbekämpfungsgesetzes* und § 22 des Lieferkettensorgfaltspflichtengesetzes* genannten Ausschlussgründe erfüllen,
+
+5.	Personen, die einen Ausschlussgrund nach § 14 Bundestariftreuegesetz (BTTG) erfüllen.
+
+Wahrheitswidrige Angaben oder Zurückhaltung von Auskünften können zum Ausschluss von der Teilnahme an diesem und weiteren Vergabeverfahren bzw. im Falle der Auftragserteilung zur fristlosen Kündigung des geschlossenen Vertrages führen.</cbc:Description></cac:SpecificTendererRequirement><cac:SpecificTendererRequirement><cbc:TendererRequirementTypeCode listName="exclusion-ground">exg-mis-bre-env-law</cbc:TendererRequirementTypeCode><cbc:Description languageID="DEU">Ausgeschlossen werden,
+1.	Personen, deren Verhalten gem. § 123 Abs. 3 Gesetz gegen Wettbewerbsbeschränkungen* (GWB) zuzurechnen ist, wegen der in § 123 Abs. 1 Nr. 1 - 10 GWB* genannten Verstöße oder wegen vergleichbarer Verstöße anderer Staaten rechtskräftig verurteilt oder rechtskräftig mit einer Geldbuße belegt worden sind,
+
+2.	Personen, die in § 123 Abs. 4 Nr. 1 und 2 GWB* genannten Ausschlussgründe (bei nationalen Vergabeverfahren i.V.m. § 31 Abs. 2 Unterschwellenvergabeordnung (UVgO)) erfüllen,
+
+3.	Personen, die in § 124 Abs. 1 Nr. 1 - 9 GWB* genannten Ausschlussgründe (bei nationalen Vergabeverfahren i.V.m. § 31 Abs. 2 UVgO) erfüllen,
+
+4.	Personen, die die in § 21 des Arbeitnehmer-Entsendegesetzes*, § 98c des Aufenthaltsgesetzes*, § 19 des Mindestlohngesetzes*, § 21 des Schwarzarbeitsbekämpfungsgesetzes* und § 22 des Lieferkettensorgfaltspflichtengesetzes* genannten Ausschlussgründe erfüllen,
+
+5.	Personen, die einen Ausschlussgrund nach § 14 Bundestariftreuegesetz (BTTG) erfüllen.
+
+Wahrheitswidrige Angaben oder Zurückhaltung von Auskünften können zum Ausschluss von der Teilnahme an diesem und weiteren Vergabeverfahren bzw. im Falle der Auftragserteilung zur fristlosen Kündigung des geschlossenen Vertrages führen.</cbc:Description></cac:SpecificTendererRequirement><cac:SpecificTendererRequirement><cbc:TendererRequirementTypeCode listName="exclusion-ground">exg-pmt-bre-ssc</cbc:TendererRequirementTypeCode><cbc:Description languageID="DEU">Ausgeschlossen werden,
+1.	Personen, deren Verhalten gem. § 123 Abs. 3 Gesetz gegen Wettbewerbsbeschränkungen* (GWB) zuzurechnen ist, wegen der in § 123 Abs. 1 Nr. 1 - 10 GWB* genannten Verstöße oder wegen vergleichbarer Verstöße anderer Staaten rechtskräftig verurteilt oder rechtskräftig mit einer Geldbuße belegt worden sind,
+
+2.	Personen, die in § 123 Abs. 4 Nr. 1 und 2 GWB* genannten Ausschlussgründe (bei nationalen Vergabeverfahren i.V.m. § 31 Abs. 2 Unterschwellenvergabeordnung (UVgO)) erfüllen,
+
+3.	Personen, die in § 124 Abs. 1 Nr. 1 - 9 GWB* genannten Ausschlussgründe (bei nationalen Vergabeverfahren i.V.m. § 31 Abs. 2 UVgO) erfüllen,
+
+4.	Personen, die die in § 21 des Arbeitnehmer-Entsendegesetzes*, § 98c des Aufenthaltsgesetzes*, § 19 des Mindestlohngesetzes*, § 21 des Schwarzarbeitsbekämpfungsgesetzes* und § 22 des Lieferkettensorgfaltspflichtengesetzes* genannten Ausschlussgründe erfüllen,
+
+5.	Personen, die einen Ausschlussgrund nach § 14 Bundestariftreuegesetz (BTTG) erfüllen.
+
+Wahrheitswidrige Angaben oder Zurückhaltung von Auskünften können zum Ausschluss von der Teilnahme an diesem und weiteren Vergabeverfahren bzw. im Falle der Auftragserteilung zur fristlosen Kündigung des geschlossenen Vertrages führen.</cbc:Description></cac:SpecificTendererRequirement><cac:SpecificTendererRequirement><cbc:TendererRequirementTypeCode listName="exclusion-ground">exg-pmt-bre-tax</cbc:TendererRequirementTypeCode><cbc:Description languageID="DEU">Ausgeschlossen werden,
+1.	Personen, deren Verhalten gem. § 123 Abs. 3 Gesetz gegen Wettbewerbsbeschränkungen* (GWB) zuzurechnen ist, wegen der in § 123 Abs. 1 Nr. 1 - 10 GWB* genannten Verstöße oder wegen vergleichbarer Verstöße anderer Staaten rechtskräftig verurteilt oder rechtskräftig mit einer Geldbuße belegt worden sind,
+
+2.	Personen, die in § 123 Abs. 4 Nr. 1 und 2 GWB* genannten Ausschlussgründe (bei nationalen Vergabeverfahren i.V.m. § 31 Abs. 2 Unterschwellenvergabeordnung (UVgO)) erfüllen,
+
+3.	Personen, die in § 124 Abs. 1 Nr. 1 - 9 GWB* genannten Ausschlussgründe (bei nationalen Vergabeverfahren i.V.m. § 31 Abs. 2 UVgO) erfüllen,
+
+4.	Personen, die die in § 21 des Arbeitnehmer-Entsendegesetzes*, § 98c des Aufenthaltsgesetzes*, § 19 des Mindestlohngesetzes*, § 21 des Schwarzarbeitsbekämpfungsgesetzes* und § 22 des Lieferkettensorgfaltspflichtengesetzes* genannten Ausschlussgründe erfüllen,
+
+5.	Personen, die einen Ausschlussgrund nach § 14 Bundestariftreuegesetz (BTTG) erfüllen.
+
+Wahrheitswidrige Angaben oder Zurückhaltung von Auskünften können zum Ausschluss von der Teilnahme an diesem und weiteren Vergabeverfahren bzw. im Falle der Auftragserteilung zur fristlosen Kündigung des geschlossenen Vertrages führen.</cbc:Description></cac:SpecificTendererRequirement><cac:SpecificTendererRequirement><cbc:TendererRequirementTypeCode listName="exclusion-ground">exg-mis-distortion</cbc:TendererRequirementTypeCode><cbc:Description languageID="DEU">Ausgeschlossen werden,
+1.	Personen, deren Verhalten gem. § 123 Abs. 3 Gesetz gegen Wettbewerbsbeschränkungen* (GWB) zuzurechnen ist, wegen der in § 123 Abs. 1 Nr. 1 - 10 GWB* genannten Verstöße oder wegen vergleichbarer Verstöße anderer Staaten rechtskräftig verurteilt oder rechtskräftig mit einer Geldbuße belegt worden sind,
+
+2.	Personen, die in § 123 Abs. 4 Nr. 1 und 2 GWB* genannten Ausschlussgründe (bei nationalen Vergabeverfahren i.V.m. § 31 Abs. 2 Unterschwellenvergabeordnung (UVgO)) erfüllen,
+
+3.	Personen, die in § 124 Abs. 1 Nr. 1 - 9 GWB* genannten Ausschlussgründe (bei nationalen Vergabeverfahren i.V.m. § 31 Abs. 2 UVgO) erfüllen,
+
+4.	Personen, die die in § 21 des Arbeitnehmer-Entsendegesetzes*, § 98c des Aufenthaltsgesetzes*, § 19 des Mindestlohngesetzes*, § 21 des Schwarzarbeitsbekämpfungsgesetzes* und § 22 des Lieferkettensorgfaltspflichtengesetzes* genannten Ausschlussgründe erfüllen,
+
+5.	Personen, die einen Ausschlussgrund nach § 14 Bundestariftreuegesetz (BTTG) erfüllen.
+
+Wahrheitswidrige Angaben oder Zurückhaltung von Auskünften können zum Ausschluss von der Teilnahme an diesem und weiteren Vergabeverfahren bzw. im Falle der Auftragserteilung zur fristlosen Kündigung des geschlossenen Vertrages führen.</cbc:Description></cac:SpecificTendererRequirement><cac:SpecificTendererRequirement><cbc:TendererRequirementTypeCode listName="exclusion-ground">exg-mis-prep-confl</cbc:TendererRequirementTypeCode><cbc:Description languageID="DEU">Ausgeschlossen werden,
+1.	Personen, deren Verhalten gem. § 123 Abs. 3 Gesetz gegen Wettbewerbsbeschränkungen* (GWB) zuzurechnen ist, wegen der in § 123 Abs. 1 Nr. 1 - 10 GWB* genannten Verstöße oder wegen vergleichbarer Verstöße anderer Staaten rechtskräftig verurteilt oder rechtskräftig mit einer Geldbuße belegt worden sind,
+
+2.	Personen, die in § 123 Abs. 4 Nr. 1 und 2 GWB* genannten Ausschlussgründe (bei nationalen Vergabeverfahren i.V.m. § 31 Abs. 2 Unterschwellenvergabeordnung (UVgO)) erfüllen,
+
+3.	Personen, die in § 124 Abs. 1 Nr. 1 - 9 GWB* genannten Ausschlussgründe (bei nationalen Vergabeverfahren i.V.m. § 31 Abs. 2 UVgO) erfüllen,
+
+4.	Personen, die die in § 21 des Arbeitnehmer-Entsendegesetzes*, § 98c des Aufenthaltsgesetzes*, § 19 des Mindestlohngesetzes*, § 21 des Schwarzarbeitsbekämpfungsgesetzes* und § 22 des Lieferkettensorgfaltspflichtengesetzes* genannten Ausschlussgründe erfüllen,
+
+5.	Personen, die einen Ausschlussgrund nach § 14 Bundestariftreuegesetz (BTTG) erfüllen.
+
+Wahrheitswidrige Angaben oder Zurückhaltung von Auskünften können zum Ausschluss von der Teilnahme an diesem und weiteren Vergabeverfahren bzw. im Falle der Auftragserteilung zur fristlosen Kündigung des geschlossenen Vertrages führen.</cbc:Description></cac:SpecificTendererRequirement><cac:SpecificTendererRequirement><cbc:TendererRequirementTypeCode listName="exclusion-ground">exg-sitn-insolvency</cbc:TendererRequirementTypeCode><cbc:Description languageID="DEU">Ausgeschlossen werden,
+1.	Personen, deren Verhalten gem. § 123 Abs. 3 Gesetz gegen Wettbewerbsbeschränkungen* (GWB) zuzurechnen ist, wegen der in § 123 Abs. 1 Nr. 1 - 10 GWB* genannten Verstöße oder wegen vergleichbarer Verstöße anderer Staaten rechtskräftig verurteilt oder rechtskräftig mit einer Geldbuße belegt worden sind,
+
+2.	Personen, die in § 123 Abs. 4 Nr. 1 und 2 GWB* genannten Ausschlussgründe (bei nationalen Vergabeverfahren i.V.m. § 31 Abs. 2 Unterschwellenvergabeordnung (UVgO)) erfüllen,
+
+3.	Personen, die in § 124 Abs. 1 Nr. 1 - 9 GWB* genannten Ausschlussgründe (bei nationalen Vergabeverfahren i.V.m. § 31 Abs. 2 UVgO) erfüllen,
+
+4.	Personen, die die in § 21 des Arbeitnehmer-Entsendegesetzes*, § 98c des Aufenthaltsgesetzes*, § 19 des Mindestlohngesetzes*, § 21 des Schwarzarbeitsbekämpfungsgesetzes* und § 22 des Lieferkettensorgfaltspflichtengesetzes* genannten Ausschlussgründe erfüllen,
+
+5.	Personen, die einen Ausschlussgrund nach § 14 Bundestariftreuegesetz (BTTG) erfüllen.
+
+Wahrheitswidrige Angaben oder Zurückhaltung von Auskünften können zum Ausschluss von der Teilnahme an diesem und weiteren Vergabeverfahren bzw. im Falle der Auftragserteilung zur fristlosen Kündigung des geschlossenen Vertrages führen.</cbc:Description></cac:SpecificTendererRequirement></cac:TendererQualificationRequest><cac:TendererQualificationRequest><cac:SpecificTendererRequirement><cbc:TendererRequirementTypeCode listName="exclusion-grounds-source">epo-notice</cbc:TendererRequirementTypeCode></cac:SpecificTendererRequirement></cac:TendererQualificationRequest></cac:TenderingTerms><cac:TenderingProcess><ext:UBLExtensions><ext:UBLExtension><ext:ExtensionContent><efext:EformsExtension><efbc:ProcedureRelaunchIndicator>false</efbc:ProcedureRelaunchIndicator></efext:EformsExtension></ext:ExtensionContent></ext:UBLExtension></ext:UBLExtensions><cbc:ProcedureCode listName="procurement-procedure-type">comp-dial</cbc:ProcedureCode><cac:NoticeDocumentReference><cbc:ID schemeName="ojs-notice-id">e87f198c-177a-4d9d-98b7-99911c4cbe31-02</cbc:ID></cac:NoticeDocumentReference></cac:TenderingProcess><cac:ProcurementProject><cbc:ID schemeName="InternalID">ZVS-04812-8/13a</cbc:ID><cbc:Name languageID="DEU">Arbeitskräftepotenziale durch Digitalisierung und KI inklusiv nutzen</cbc:Name><cbc:Description languageID="DEU">Der Erhalt und die zügige Befähigung einer digital kompetenten Arbeitsgesellschaft, die trotz demografischem Wandel und Fachkräftemangel zu einer produktiven und wettbewerbsfähigen Volkswirtschaft beiträgt, liegt im strategischen Interesse des Bundes. Für die Wettbewerbsfähigkeit von Unternehmen ist v.a. die Sicherung der Fachkräftebasis entscheidend. Angesichts einer alternden Gesellschaft besteht dringender Handlungsbedarf, die Beschäftigten möglichst lange unter guten und gesunden Arbeitsbedingungen in den Betrieben zu halten, ungenutzte inländische Potenziale zu erschließen und die Arbeitswelt inklusiver und diverser aufzustellen. Digitale Technologien und v.a. Künstliche Intelligenz (KI) bieten die Möglichkeit, Menschen mit altersbedingten, mit kognitiven oder mit psychischen Beeinträchtigungen länger und gesünder im Arbeitsmarkt zu halten oder zu integrieren und ein alters- und behinderungsgerechtes Arbeitsumfeld zu schaffen.
+
+Der zu vergebende Forschungsauftrag (Leistungszeitraum: 2027–2028) zielt auf die Identifikation der Möglichkeiten und Bedarfe von Kleinen und Mittleren Unternehmen (KMU) und Erwerbstätigen mit Beeinträchtigungen für die Nutzung technologischer Unterstützung im Betrieb und damit auf das Heben von Arbeitskräftepotenzialen mithilfe von Digitalisierung und KI. Da hierzu noch keine systematische und umfängliche Darstellung vorliegt, bedarf es der praxisorientierten und -tauglichen wissenschaftlichen Erforschung, wie KMU Beschäftigte mit Beeinträchtigungen durch den Einsatz neuer Technologien (z.B. KI) im Betrieb unterstützen können. Es soll auch ein Beitrag geleistet werden, das Erfahrungswissen der Beschäftigten zu sichern und bestehende (Beratungs-)Strukturen zu stärken, indem übergeordnete Institutionen (z.B. Inklusionsämter, Industrie- und Handelskammern, Wirtschafts-Spitzenverbände) unterstützt werden, KMU bei Fragen der digitalen Transformation zu beraten.
+
+Der Forschungsauftrag wird als Wettbewerblicher Dialog mit vorgeschaltetem Teilnahmewettbewerb europaweit ausgeschrieben. Die Leistungen können durch ein Konsortium erbracht werden.
+Um die gesetzten Ziele zu erreichen, sind durch die Auftragnehmenden, die das Forschungsvorhaben umsetzen, mind. folgende Arbeitspakete zu leisten. Die genaue Ausgestaltung soll durch die Bietenden im Rahmen des Wettbewerblichen Dialogs erläutert werden:
+
+1. Grundlagenforschung und Bedarfsanalyse:
+o Durchführung einer empirisch-explorativen Studie zur Identifikation und systematischen Darstellung der Bedürfnisse von KMU und deren Beschäftigten mit Beeinträchtigungen.
+o Erstellung einer Übersicht geeigneter technologischer und KI-basierter Lösungen.
+o Eignungsprüfung von KI-Technologien für spezifische Arbeitsfelder; bei fehlender Eignung soll der Bedarf an alternativen Lösungen aufgezeigt werden.
+
+2. Umsetzungsstrategien und Implementierung:
+o Erarbeitung von Umsetzungsvorschlägen und Hilfestellungen für die Implementierung und langfristige Nutzung der identifizierten Technologien.
+o Identifikation und Erstellung adressatengerechter Informationsmittel und -wege.
+o Einbindung von Feedback und Evaluation durch ko-kreativen Ansatz.
+
+3. Überprüfung und Anpassung:
+o Überprüfung und Testung der entwickelten Informationsmittel und -wege sowie deren Präzisierung und Anpassung.
+o Prüfung der Wirksamkeit der (KI-)Unterstützungsinstrumente.
+
+4. Dissemination inkl. eines breitenwirksamen Unterstützungsangebots in der Fläche:
+o Durchgängige Dissemination zur Verstärkung der Außenwirkung der Projektziele und -ergebnisse.
+
+Adressat*innen des Forschungsauftrags: Wissenschaftseinrichtungen, Hochschulen und Forschungsinstitutionen. Gegenstand und Adressat*innen der Forschungsmaßnahme: KMU und übergeordnete Institutionen, die entsprechend bei der Projektumsetzung einzubeziehen sind. Auch sind Perspektiven betroffener Erwerbstätiger, von Organisationen und Verbänden der Selbstvertretung, Beratung und Selbsthilfe von und für Menschen mit Behinderungen zu berücksichtigen.</cbc:Description><cbc:ProcurementTypeCode listName="contract-nature">services</cbc:ProcurementTypeCode><cbc:Note languageID="DEU">Es ist beabsichtigt, die Anzahl der Bewerber, die zur Teilnahme an der Dialogphase aufgefordert werden sollen, zu begrenzen. Sofern genügend geeignete Bewerber (mindestens drei) zur Verfügung stehen, macht die Auftraggeberin von der Möglichkeit gem. § 51 Abs. 1 VgV Gebrauch, die Zahl der Teilnehmenden zu reduzieren und maximal vier (4) geeignete Bewerber zur Teilnahme am Wettbewerblichen Dialog aufzufordern. Sofern die Zahl geeigneter Bewerber unter der Mindestzahl von drei (3) geeigneten Bewerbern liegt, kann der Auftraggeber das Vergabeverfahren fortführen, indem er den oder die Bewerber einlädt, die über die geforderte Eignung verfügen, vgl. § 51 Abs. 3 S. 2 VgV. Die Teilnehmer sind daher aufgefordert, mit dem Teilnahmeantrag die in Dokument 3 beschriebenen Nachweise der Leistungsfähigkeit beizubringen.
+Die Eignungsprüfung erfolgt anhand der fachlichen (Fachkunde) und wirtschaftlichen Leistungsfähigkeit des Teilnehmenden (siehe Dokument 3 in Verbindung mit Dokument 3a_Eignungsmatrix).
+
+Ausgewählt werden die vier (4) Bewerber, die gemäß dem in Dokument 3a_Eignungsmatrix aufgeführten Bewertungsmaßstab die höchste(n) Punktzahl(en) erreichen. Sofern zwischen mehr als vier (4) Bewerbern ein Punktegleichstand herrscht, entscheidet die höhere Punktzahl im Kriterium 3.2 Fachkenntnis Projektleitung. Sofern weiterhin Punktegleichstand herrscht, entscheidet ein zufällig ausgewähltes Los über denjenigen Bewerber, der zur Teilnahme am Dialog ausgewählt wird.</cbc:Note><cac:MainCommodityClassification><cbc:ItemClassificationCode listName="cpv">73000000</cbc:ItemClassificationCode></cac:MainCommodityClassification><cac:AdditionalCommodityClassification><cbc:ItemClassificationCode listName="cpv">73110000</cbc:ItemClassificationCode></cac:AdditionalCommodityClassification><cac:AdditionalCommodityClassification><cbc:ItemClassificationCode listName="cpv">73210000</cbc:ItemClassificationCode></cac:AdditionalCommodityClassification><cac:AdditionalCommodityClassification><cbc:ItemClassificationCode listName="cpv">73200000</cbc:ItemClassificationCode></cac:AdditionalCommodityClassification><cac:AdditionalCommodityClassification><cbc:ItemClassificationCode listName="cpv">79315000</cbc:ItemClassificationCode></cac:AdditionalCommodityClassification><cac:AdditionalCommodityClassification><cbc:ItemClassificationCode listName="cpv">79310000</cbc:ItemClassificationCode></cac:AdditionalCommodityClassification><cac:AdditionalCommodityClassification><cbc:ItemClassificationCode listName="cpv">79419000</cbc:ItemClassificationCode></cac:AdditionalCommodityClassification><cac:AdditionalCommodityClassification><cbc:ItemClassificationCode listName="cpv">79416000</cbc:ItemClassificationCode></cac:AdditionalCommodityClassification><cac:RealizedLocation><cac:Address><cbc:CountrySubentityCode listName="nuts-lvl3">DE300</cbc:CountrySubentityCode><cac:Country><cbc:IdentificationCode listName="country">DEU</cbc:IdentificationCode></cac:Country></cac:Address></cac:RealizedLocation></cac:ProcurementProject><cac:ProcurementProjectLot><cbc:ID schemeName="Lot">LOT-0000</cbc:ID><cac:TenderingTerms><ext:UBLExtensions><ext:UBLExtension><ext:ExtensionContent><efext:EformsExtension><efac:SelectionCriteria><cbc:TendererRequirementTypeCode listName="selection-criterion">slc-abil-ref-services</cbc:TendererRequirementTypeCode><cbc:Description languageID="DEU">1. Wirtschaftliche Leistungsfähigkeit
+1.1 Durchschnittlicher Umsatz
+Mit der Bewerbung ist die Eigenerklärung zum durchschnittlichen jährlichen Finanzvolumen einzureichen, vgl. Ziffer 1.1 der Vergabeunterlage Dokument 3 (Nachweise Leistungsfähigkeit). Mindestanforderung: durchschnittliches jährliches Finanzvolumen von 3 Mio. Euro (netto) der letzten drei abgeschlossenen Geschäftsjahre 
+1.2 Mitarbeiterstruktur
+Mit der Bewerbung ist die Eigenerklärung zur Mitarbeiterstruktur einzureichen, vgl. Ziffer 1.2 der Vergabeunterlage Dokument 3 (Nachweise Leistungsfähigkeit). Mindestanforderung Mitarbeiterstruktur: 15 VZÄ an wissenschaftlichen Mitarbeitenden im Bereich Wissenschaft und Forschung 
+
+2. Fachliche und technische Leistungsfähigkeit des Unternehmens
+2.1 Nachweis der Kompetenz und Erfahrung (Fachkunde) des Bewerbers in den auftragsbezogenen Forschungsbereichen
+Der Bewerber hat mindestens eine Referenz, die die Mindestanforderungen erfüllt, je Forschungsbereich 2.1, 2.2, 2.3 sowie 2.5 bis 2.8 vorzulegen, vgl. Ziffern 2.1 bis 2.8 der Vergabeunterlage Dokument 3a (Eignungsmatrix). Die Einreichung einer Referenz im Bereich 2.4 („forschungsbereichsübergreifende Fragestellungen“) stellt keine Mindestanforderung dar. Das Fehlen einer solchen Referenz führt nicht zum Ausschluss, sondern lediglich zu 0 Punkten in diesem Teilkriterium.
+
+Für die Einreichung der Unternehmensreferenzen ist die Vergabeunterlage Dokument 3b (Formblatt_Referenzen) im Abschnitt 2.1 bis 2.3 zu benutzen. 
+Für die Referenzen gelten folgende (Mindest-)Anforderungen:
+
+2.1 Referenz im Bereich Digitalisierung/KI
+Durchgeführtes Projekt mit Leistungszeitpunkt ab 01.01.2023. Inhaltliche Anforderung an die Referenzen vgl. Dokument 3 (Nachweise Leistungsfähigkeit) und Dokument 3a (Eignungsmatrix) der Vergabeunterlagen.
+
+2.2 Referenz im Bereich Inklusionsforschung
+Durchgeführtes Projekt mit Leistungszeitpunkt ab 01.01.2020. Inhaltliche Anforderung an die Referenzen vgl. Dokument 3 (Nachweise Leistungsfähigkeit) und Dokument 3a (Eignungsmatrix) der Vergabeunterlagen.
+
+
+2.3 Referenz im Bereich Arbeitsforschung
+Durchgeführtes Projekt mit Leistungszeitpunkt ab 01.01.2020. Inhaltliche Anforderung an die Referenzen vgl. Dokument 3 (Nachweise Leistungsfähigkeit) und Dokument 3a (Eignungsmatrix) der Vergabeunterlagen.
+
+2.4 Referenz zum Nachweis von Erfahrung mit forschungsbereichsübergreifenden Fragestellungen
+Durchgeführtes Projekt mit Leistungszeitpunkt ab 01.01.2020. Inhaltliche Anforderung an die Referenzen:
+Referenzen, in denen mindestens zwei der unter 2.1 bis 2.3 genannten Themenbereiche vereint abgebildet sind.
+
+2.5 Referenz im Bereich Kommunikation
+Durchgeführtes Projekt mit Leistungszeitpunkt ab 01.01.2020. Inhaltliche Anforderung an die Referenzen vgl. Dokument 3 (Nachweise Leistungsfähigkeit) und Dokument 3a (Eignungsmatrix) der Vergabeunterlagen.
+
+2.6 Referenz im Bereich Forschungsmonitoring und Konzeption von Kurzberichten
+Durchgeführtes Projekt mit Leistungszeitpunkt ab 01.01.2020. Inhaltliche Anforderung an die Referenzen vgl. Dokument 3 (Nachweise Leistungsfähigkeit) und Dokument 3a (Eignungsmatrix) der Vergabeunterlagen.
+
+2.7 Referenz im Projektmanagement
+Durchgeführtes Projekt mit Leistungszeitpunkt ab 01.01.2020. Inhaltliche Anforderung an die Referenzen vgl. Dokument 3 (Nachweise Leistungsfähigkeit) und Dokument 3a (Eignungsmatrix) der Vergabeunterlagen.
+
+2.8 Referenz im Bereich Stakeholdermanagement
+Durchgeführtes Projekt mit Leistungszeitpunkt ab 01.01.2020. Inhaltliche Anforderung an die Referenzen vgl. Dokument 3 (Nachweise Leistungsfähigkeit) und Dokument 3a (Eignungsmatrix) der Vergabeunterlagen.
+
+3. Fachliche und technische Leistungsfähigkeit der (stellvertretenden) Projektleitung
+
+3.1 Ausbildung und Erfahrung Projektleitung und Stellvertretung
+Der Bewerber benennt eine Person als Projektleitung und eine weitere Person als stellvertretende Projektleitung und verpflichtet sich, diese Personen im Projekt einzusetzen. Ein späterer Austausch der Personen ist nur gestattet, wenn deren Einsatz unmöglich ist und sofern gleichwertig qualifizierte Personen nachgereicht werden. Der Auftraggeber behält sich vor, die Qualifikationen zu prüfen.
+
+Für jede Person gilt als Mindestanforderung ein erfolgreich abgeschlossenes Hochschulstudium und mindestens 3 Jahre Berufserfahrung mit Leitungsfunktion. Der entsprechende Eignungsnachweis ist jeweils als separat einzureichender Lebenslauf sowie als Eigenerklärung (Dokument 12) sowohl für die Projektleitung als auch für die stellvertretende Projektleitung zu liefern. 
+
+3.2 und 3.3 Fachkenntnis Projektleitung/stellvertretende Projektleitung im auftragsbezogenen Forschungsbereich
+Zum Nachweis der Fachkenntnis der (stellvertretenden) Projektleitung im auftragsbezogenen Forschungsbereich ist je Person mindestens eine persönliche Referenz über durchgeführte Projekte mit Leistungszeitpunkt ab 01.01.2020 einzureichen. 
+
+Sowohl die Projektleitung als auch die Stellvertretung müssen in einem der Forschungsbereiche Digitalisierung/KI, Inklusionsforschung und/oder Arbeitsforschung Fachkenntnisse ODER Projektmanagementkompetenzen (u. a. Steuerung von Terminen, Qualitäten, Kosten) nachweisen, vgl. Ziffern 3.1 und 3.2 der Vergabeunterlage Dokument 3a (Eignungsmatrix). 
+
+Für die persönlichen Referenzen ist Dokument 3b Formblatt Referenzen im Abschnitt 3.2 bis 3.3 zu benutzen. Zusätzlich ist Dokument 12 Erklärung zur Eignung des eingesetzten Personals zu verwenden.</cbc:Description><efbc:SecondStageIndicator>true</efbc:SecondStageIndicator></efac:SelectionCriteria><efac:StrategicProcurement><efbc:ApplicableLegalBasis listName="cvd-scope">false</efbc:ApplicableLegalBasis></efac:StrategicProcurement></efext:EformsExtension></ext:ExtensionContent></ext:UBLExtension></ext:UBLExtensions><cbc:VariantConstraintCode listName="permission">not-allowed</cbc:VariantConstraintCode><cbc:FundingProgramCode listName="eu-funded">no-eu-funds</cbc:FundingProgramCode><cbc:MultipleTendersCode listName="permission">not-allowed</cbc:MultipleTendersCode><cac:CallForTendersDocumentReference><ext:UBLExtensions><ext:UBLExtension><ext:ExtensionContent><efext:EformsExtension><efac:OfficialLanguages><cac:Language><cbc:ID>DEU</cbc:ID></cac:Language></efac:OfficialLanguages></efext:EformsExtension></ext:ExtensionContent></ext:UBLExtension></ext:UBLExtensions><cbc:ID>885765-1</cbc:ID><cbc:DocumentType>non-restricted-document</cbc:DocumentType><cac:Attachment><cac:ExternalReference><cbc:URI>https://www.evergabe-online.de/tenderdocuments.html?id=885765</cbc:URI></cac:ExternalReference></cac:Attachment></cac:CallForTendersDocumentReference><cac:TendererQualificationRequest><cac:SpecificTendererRequirement><cbc:TendererRequirementTypeCode listName="selection-criteria-source">epo-notice</cbc:TendererRequirementTypeCode></cac:SpecificTendererRequirement></cac:TendererQualificationRequest><cac:TendererQualificationRequest><cac:SpecificTendererRequirement><cbc:TendererRequirementTypeCode listName="reserved-procurement">none</cbc:TendererRequirementTypeCode></cac:SpecificTendererRequirement></cac:TendererQualificationRequest><cac:TendererQualificationRequest><cac:SpecificTendererRequirement><cbc:TendererRequirementTypeCode listName="missing-info-submission">late-none</cbc:TendererRequirementTypeCode></cac:SpecificTendererRequirement></cac:TendererQualificationRequest><cac:ContractExecutionRequirement><cbc:ExecutionRequirementCode listName="conditions">performance</cbc:ExecutionRequirementCode></cac:ContractExecutionRequirement><cac:ContractExecutionRequirement><cbc:ExecutionRequirementCode listName="ecatalog-submission">not-allowed</cbc:ExecutionRequirementCode></cac:ContractExecutionRequirement><cac:ContractExecutionRequirement><cbc:ExecutionRequirementCode listName="einvoicing">required</cbc:ExecutionRequirementCode></cac:ContractExecutionRequirement><cac:ContractExecutionRequirement><cbc:ExecutionRequirementCode listName="reserved-execution">no</cbc:ExecutionRequirementCode></cac:ContractExecutionRequirement><cac:TenderRecipientParty><cbc:EndpointID>https://www.evergabe-online.de/tenderdetails.html?id=885765</cbc:EndpointID></cac:TenderRecipientParty><cac:AppealTerms><cac:AppealInformationParty><cac:PartyIdentification><cbc:ID schemeName="organization">ORG-0000</cbc:ID></cac:PartyIdentification></cac:AppealInformationParty><cac:AppealReceiverParty><cac:PartyIdentification><cbc:ID schemeName="organization">ORG-0000</cbc:ID></cac:PartyIdentification></cac:AppealReceiverParty><cac:MediationParty><cac:PartyIdentification><cbc:ID schemeName="organization">ORG-0001</cbc:ID></cac:PartyIdentification></cac:MediationParty></cac:AppealTerms><cac:Language><cbc:ID>DEU</cbc:ID></cac:Language><cac:PostAwardProcess><cbc:ElectronicOrderUsageIndicator>true</cbc:ElectronicOrderUsageIndicator><cbc:ElectronicPaymentUsageIndicator>true</cbc:ElectronicPaymentUsageIndicator></cac:PostAwardProcess></cac:TenderingTerms><cac:TenderingProcess><cbc:SubmissionMethodCode listName="esubmission">required</cbc:SubmissionMethodCode><cbc:CandidateReductionConstraintIndicator>true</cbc:CandidateReductionConstraintIndicator><cbc:GovernmentAgreementConstraintIndicator>false</cbc:GovernmentAgreementConstraintIndicator><cac:ParticipationRequestReceptionPeriod><cbc:EndDate>2026-09-30+02:00</cbc:EndDate><cbc:EndTime>23:59:00+02:00</cbc:EndTime></cac:ParticipationRequestReceptionPeriod><cac:EconomicOperatorShortList><cbc:LimitationDescription>true</cbc:LimitationDescription><cbc:MaximumQuantity>4</cbc:MaximumQuantity><cbc:MinimumQuantity>3</cbc:MinimumQuantity></cac:EconomicOperatorShortList><cac:AuctionTerms><cbc:AuctionConstraintIndicator>false</cbc:AuctionConstraintIndicator></cac:AuctionTerms><cac:FrameworkAgreement><cac:SubsequentProcessTenderRequirement><cbc:Name>buyer-categories</cbc:Name></cac:SubsequentProcessTenderRequirement></cac:FrameworkAgreement><cac:ContractingSystem><cbc:ContractingSystemTypeCode listName="dps-usage">none</cbc:ContractingSystemTypeCode></cac:ContractingSystem><cac:ContractingSystem><cbc:ContractingSystemTypeCode listName="framework-agreement">none</cbc:ContractingSystemTypeCode></cac:ContractingSystem></cac:TenderingProcess><cac:ProcurementProject><cbc:ID schemeName="InternalID">ZVS-04812-8/13a</cbc:ID><cbc:Name languageID="DEU">Arbeitskräftepotenziale durch Digitalisierung und KI inklusiv nutzen</cbc:Name><cbc:Description languageID="DEU">Der Erhalt und die zügige Befähigung einer digital kompetenten Arbeitsgesellschaft, die trotz demografischem Wandel und Fachkräftemangel zu einer produktiven und wettbewerbsfähigen Volkswirtschaft beiträgt, liegt im strategischen Interesse des Bundes. Für die Wettbewerbsfähigkeit von Unternehmen ist v.a. die Sicherung der Fachkräftebasis entscheidend. Angesichts einer alternden Gesellschaft besteht dringender Handlungsbedarf, die Beschäftigten möglichst lange unter guten und gesunden Arbeitsbedingungen in den Betrieben zu halten, ungenutzte inländische Potenziale zu erschließen und die Arbeitswelt inklusiver und diverser aufzustellen. Digitale Technologien und v.a. Künstliche Intelligenz (KI) bieten die Möglichkeit, Menschen mit altersbedingten, mit kognitiven oder mit psychischen Beeinträchtigungen länger und gesünder im Arbeitsmarkt zu halten oder zu integrieren und ein alters- und behinderungsgerechtes Arbeitsumfeld zu schaffen.
+
+Der zu vergebende Forschungsauftrag (Leistungszeitraum: 2027–2028) zielt auf die Identifikation der Möglichkeiten und Bedarfe von Kleinen und Mittleren Unternehmen (KMU) und Erwerbstätigen mit Beeinträchtigungen für die Nutzung technologischer Unterstützung im Betrieb und damit auf das Heben von Arbeitskräftepotenzialen mithilfe von Digitalisierung und KI. Da hierzu noch keine systematische und umfängliche Darstellung vorliegt, bedarf es der praxisorientierten und -tauglichen wissenschaftlichen Erforschung, wie KMU Beschäftigte mit Beeinträchtigungen durch den Einsatz neuer Technologien (z.B. KI) im Betrieb unterstützen können. Es soll auch ein Beitrag geleistet werden, das Erfahrungswissen der Beschäftigten zu sichern und bestehende (Beratungs-)Strukturen zu stärken, indem übergeordnete Institutionen (z.B. Inklusionsämter, Industrie- und Handelskammern, Wirtschafts-Spitzenverbände) unterstützt werden, KMU bei Fragen der digitalen Transformation zu beraten.
+
+Der Forschungsauftrag wird als Wettbewerblicher Dialog mit vorgeschaltetem Teilnahmewettbewerb europaweit ausgeschrieben. Die Leistungen können durch ein Konsortium erbracht werden.
+Um die gesetzten Ziele zu erreichen, sind durch die Auftragnehmenden, die das Forschungsvorhaben umsetzen, mind. folgende Arbeitspakete zu leisten. Die genaue Ausgestaltung soll durch die Bietenden im Rahmen des Wettbewerblichen Dialogs erläutert werden:
+
+1. Grundlagenforschung und Bedarfsanalyse:
+o Durchführung einer empirisch-explorativen Studie zur Identifikation und systematischen Darstellung der Bedürfnisse von KMU und deren Beschäftigten mit Beeinträchtigungen.
+o Erstellung einer Übersicht geeigneter technologischer und KI-basierter Lösungen.
+o Eignungsprüfung von KI-Technologien für spezifische Arbeitsfelder; bei fehlender Eignung soll der Bedarf an alternativen Lösungen aufgezeigt werden.
+
+2. Umsetzungsstrategien und Implementierung:
+o Erarbeitung von Umsetzungsvorschlägen und Hilfestellungen für die Implementierung und langfristige Nutzung der identifizierten Technologien.
+o Identifikation und Erstellung adressatengerechter Informationsmittel und -wege.
+o Einbindung von Feedback und Evaluation durch ko-kreativen Ansatz.
+
+3. Überprüfung und Anpassung:
+o Überprüfung und Testung der entwickelten Informationsmittel und -wege sowie deren Präzisierung und Anpassung.
+o Prüfung der Wirksamkeit der (KI-)Unterstützungsinstrumente.
+
+4. Dissemination inkl. eines breitenwirksamen Unterstützungsangebots in der Fläche:
+o Durchgängige Dissemination zur Verstärkung der Außenwirkung der Projektziele und -ergebnisse.
+
+Adressat*innen des Forschungsauftrags: Wissenschaftseinrichtungen, Hochschulen und Forschungsinstitutionen. Gegenstand und Adressat*innen der Forschungsmaßnahme: KMU und übergeordnete Institutionen, die entsprechend bei der Projektumsetzung einzubeziehen sind. Auch sind Perspektiven betroffener Erwerbstätiger, von Organisationen und Verbänden der Selbstvertretung, Beratung und Selbsthilfe von und für Menschen mit Behinderungen zu berücksichtigen.</cbc:Description><cbc:ProcurementTypeCode listName="contract-nature">services</cbc:ProcurementTypeCode><cbc:Note languageID="DEU">#Besonders auch geeignet für:freelance#,#Besonders auch geeignet für:startup#,#Besonders auch geeignet für:selbst#,#Besonders auch geeignet für:other-sme#</cbc:Note><cbc:SMESuitableIndicator>true</cbc:SMESuitableIndicator><cac:ProcurementAdditionalType><cbc:ProcurementTypeCode listName="strategic-procurement">none</cbc:ProcurementTypeCode></cac:ProcurementAdditionalType><cac:MainCommodityClassification><cbc:ItemClassificationCode listName="cpv">73300000</cbc:ItemClassificationCode></cac:MainCommodityClassification><cac:AdditionalCommodityClassification><cbc:ItemClassificationCode listName="cpv">73110000</cbc:ItemClassificationCode></cac:AdditionalCommodityClassification><cac:AdditionalCommodityClassification><cbc:ItemClassificationCode listName="cpv">73210000</cbc:ItemClassificationCode></cac:AdditionalCommodityClassification><cac:AdditionalCommodityClassification><cbc:ItemClassificationCode listName="cpv">73200000</cbc:ItemClassificationCode></cac:AdditionalCommodityClassification><cac:AdditionalCommodityClassification><cbc:ItemClassificationCode listName="cpv">79315000</cbc:ItemClassificationCode></cac:AdditionalCommodityClassification><cac:AdditionalCommodityClassification><cbc:ItemClassificationCode listName="cpv">79310000</cbc:ItemClassificationCode></cac:AdditionalCommodityClassification><cac:AdditionalCommodityClassification><cbc:ItemClassificationCode listName="cpv">79419000</cbc:ItemClassificationCode></cac:AdditionalCommodityClassification><cac:AdditionalCommodityClassification><cbc:ItemClassificationCode listName="cpv">79416000</cbc:ItemClassificationCode></cac:AdditionalCommodityClassification><cac:RealizedLocation><cac:Address><cbc:CountrySubentityCode listName="nuts-lvl3">DE300</cbc:CountrySubentityCode><cac:Country><cbc:IdentificationCode listName="country">DEU</cbc:IdentificationCode></cac:Country></cac:Address></cac:RealizedLocation><cac:PlannedPeriod><cbc:StartDate>2027-04-01+02:00</cbc:StartDate><cbc:EndDate>2028-12-31+01:00</cbc:EndDate></cac:PlannedPeriod></cac:ProcurementProject></cac:ProcurementProjectLot></ContractNotice>

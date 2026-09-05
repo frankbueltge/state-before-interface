@@ -1,0 +1,541 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><ContractAwardNotice xmlns="urn:oasis:names:specification:ubl:schema:xsd:ContractAwardNotice-2" xmlns:cac="urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-2" xmlns:cbc="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-2" xmlns:ccts-cct="urn:un:unece:uncefact:data:specification:CoreComponentTypeSchemaModule:2" xmlns:efac="http://data.europa.eu/p27/eforms-ubl-extension-aggregate-components/1" xmlns:efbc="http://data.europa.eu/p27/eforms-ubl-extension-basic-components/1" xmlns:efext="http://data.europa.eu/p27/eforms-ubl-extensions/1" xmlns:ext="urn:oasis:names:specification:ubl:schema:xsd:CommonExtensionComponents-2" xmlns:qdt="urn:oasis:names:specification:ubl:schema:xsd:QualifiedDataTypes-2" xmlns:udt="urn:oasis:names:specification:bdndr:schema:xsd:UnqualifiedDataTypes-1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<ext:UBLExtensions>
+		<ext:UBLExtension>
+			<ext:ExtensionContent>
+				<efext:EformsExtension>
+					<efac:NoticeResult>
+						<efbc:OverallMaximumFrameworkContractsAmount currencyID="EUR">4246408.00</efbc:OverallMaximumFrameworkContractsAmount>
+						<efac:LotResult>
+							<cbc:ID>RES-0001</cbc:ID>
+							<cbc:TenderResultCode listName="winner-selection-status">selec-w</cbc:TenderResultCode>
+							<efac:LotTender>
+								<cbc:ID schemeName="tender">TEN-0001</cbc:ID>
+							</efac:LotTender>
+							<efac:FrameworkAgreementValues>
+								<cbc:MaximumValueAmount currencyID="EUR">4246408.00</cbc:MaximumValueAmount>
+							</efac:FrameworkAgreementValues>
+							<efac:ReceivedSubmissionsStatistics>
+								<efbc:StatisticsCode listName="review-decision-type">tenders</efbc:StatisticsCode>
+								<efbc:StatisticsNumeric>5</efbc:StatisticsNumeric>
+							</efac:ReceivedSubmissionsStatistics>
+							<efac:ReceivedSubmissionsStatistics>
+								<efbc:StatisticsCode listName="review-decision-type">t-esubm</efbc:StatisticsCode>
+								<efbc:StatisticsNumeric>5</efbc:StatisticsNumeric>
+							</efac:ReceivedSubmissionsStatistics>
+							<efac:SettledContract>
+								<cbc:ID schemeName="contract">CON-0001</cbc:ID>
+							</efac:SettledContract>
+							<efac:StrategicProcurement>
+								<efbc:ApplicableLegalBasis listName="cvd-scope">false</efbc:ApplicableLegalBasis>
+							</efac:StrategicProcurement>
+							<efac:StrategicProcurement>
+								<efbc:ApplicableLegalBasis listName="eed-scope">false</efbc:ApplicableLegalBasis>
+							</efac:StrategicProcurement>
+							<efac:StrategicProcurement>
+								<efbc:ApplicableLegalBasis listName="ipi-scope">false</efbc:ApplicableLegalBasis>
+							</efac:StrategicProcurement>
+							<efac:TenderLot>
+								<cbc:ID schemeName="Lot">LOT-0001</cbc:ID>
+							</efac:TenderLot>
+						</efac:LotResult>
+						<efac:LotTender>
+							<cbc:ID schemeName="tender">TEN-0001</cbc:ID>
+							<efbc:TenderVariantIndicator>false</efbc:TenderVariantIndicator>
+							<efac:SubcontractingTerm>
+								<efbc:TermCode listName="applicability">not-known</efbc:TermCode>
+							</efac:SubcontractingTerm>
+							<efac:TenderingParty>
+								<cbc:ID schemeName="tenderingparty">TPA-0001</cbc:ID>
+							</efac:TenderingParty>
+							<efac:TenderLot>
+								<cbc:ID schemeName="Lot">LOT-0001</cbc:ID>
+							</efac:TenderLot>
+							<efac:TenderReference>
+								<cbc:ID>4 - 428629</cbc:ID>
+							</efac:TenderReference>
+						</efac:LotTender>
+						<efac:SettledContract>
+							<cbc:ID schemeName="contract">CON-0001</cbc:ID>
+							<cbc:IssueDate>2026-09-01+02:00</cbc:IssueDate>
+							<cbc:Title languageID="DEU">PricewaterhouseCoopers GmbH, 40474 Düsseldorf</cbc:Title>
+							<efac:ContractReference>
+								<cbc:ID>1</cbc:ID>
+							</efac:ContractReference>
+							<efac:LotTender>
+								<cbc:ID>TEN-0001</cbc:ID>
+							</efac:LotTender>
+						</efac:SettledContract>
+						<efac:TenderingParty>
+							<cbc:ID schemeName="tendering-party">TPA-0001</cbc:ID>
+							<efac:Tenderer>
+								<cbc:ID schemeName="organization">ORG-0004</cbc:ID>
+							</efac:Tenderer>
+						</efac:TenderingParty>
+					</efac:NoticeResult>
+					<efac:NoticeSubType>
+						<cbc:SubTypeCode listName="notice-subtype">29</cbc:SubTypeCode>
+					</efac:NoticeSubType>
+					<efac:Organizations>
+						<efac:Organization>
+							<efac:Company>
+								<cbc:WebsiteURI>https://www.finanzverwaltung.nrw.de/de/willkommen-im-rzf</cbc:WebsiteURI>
+								<cac:PartyIdentification>
+									<cbc:ID>ORG-0001</cbc:ID>
+								</cac:PartyIdentification>
+								<cac:PartyName>
+									<cbc:Name languageID="DEU">Rechenzentrum der Finanzverwaltung des Landes NRW</cbc:Name>
+								</cac:PartyName>
+								<cac:PostalAddress>
+									<cbc:StreetName>Roßstraße 131</cbc:StreetName>
+									<cbc:CityName>Düsseldorf</cbc:CityName>
+									<cbc:PostalZone>40476</cbc:PostalZone>
+									<cbc:CountrySubentityCode listName="nuts-lvl3">DEA11</cbc:CountrySubentityCode>
+									<cac:Country>
+										<cbc:IdentificationCode listName="country">DEU</cbc:IdentificationCode>
+									</cac:Country>
+								</cac:PostalAddress>
+								<cac:PartyLegalEntity>
+									<cbc:CompanyID>05111-12012-98</cbc:CompanyID>
+								</cac:PartyLegalEntity>
+								<cac:Contact>
+									<cbc:Name>Frau Larivera</cbc:Name>
+									<cbc:Telephone>+49 2114572-3448</cbc:Telephone>
+									<cbc:ElectronicMail>Vergabe-5011@fv.nrw.de</cbc:ElectronicMail>
+								</cac:Contact>
+							</efac:Company>
+						</efac:Organization>
+						<efac:Organization>
+							<efac:Company>
+								<cbc:WebsiteURI>https://www.bezreg-muenster.de/themen/wirtschaft-kultur-und-kommunales/vergabekammer-westfalen</cbc:WebsiteURI>
+								<cac:PartyIdentification>
+									<cbc:ID>ORG-0002</cbc:ID>
+								</cac:PartyIdentification>
+								<cac:PartyName>
+									<cbc:Name languageID="DEU">Vergabekammer Westfalen</cbc:Name>
+								</cac:PartyName>
+								<cac:PostalAddress>
+									<cbc:StreetName>Albrecht-Thaer-Straße 9</cbc:StreetName>
+									<cbc:CityName>Münster</cbc:CityName>
+									<cbc:PostalZone>48147</cbc:PostalZone>
+									<cbc:CountrySubentityCode listName="nuts-lvl3">DEA33</cbc:CountrySubentityCode>
+									<cac:Country>
+										<cbc:IdentificationCode listName="country">DEU</cbc:IdentificationCode>
+									</cac:Country>
+								</cac:PostalAddress>
+								<cac:PartyLegalEntity>
+									<cbc:CompanyID>05515-03004-07</cbc:CompanyID>
+								</cac:PartyLegalEntity>
+								<cac:Contact>
+									<cbc:Name>Geschäftsstelle der Vergabekammer</cbc:Name>
+									<cbc:Telephone>+49 2514111691</cbc:Telephone>
+									<cbc:Telefax>+49 251411-2165</cbc:Telefax>
+									<cbc:ElectronicMail>vergabekammer@brms.nrw.de</cbc:ElectronicMail>
+								</cac:Contact>
+							</efac:Company>
+						</efac:Organization>
+						<efac:Organization>
+							<efac:Company>
+								<cbc:WebsiteURI>https://www.finanzverwaltung.nrw.de/de/willkommen-im-rzf</cbc:WebsiteURI>
+								<cac:PartyIdentification>
+									<cbc:ID>ORG-0003</cbc:ID>
+								</cac:PartyIdentification>
+								<cac:PartyName>
+									<cbc:Name languageID="DEU">Rechenzentrum der Finanzverwaltung des Landes NRW</cbc:Name>
+								</cac:PartyName>
+								<cac:PostalAddress>
+									<cbc:StreetName>Roßstraße 131</cbc:StreetName>
+									<cbc:CityName>Düsseldorf</cbc:CityName>
+									<cbc:PostalZone>40476</cbc:PostalZone>
+									<cbc:CountrySubentityCode listName="nuts-lvl3">DEA11</cbc:CountrySubentityCode>
+									<cac:Country>
+										<cbc:IdentificationCode listName="country">DEU</cbc:IdentificationCode>
+									</cac:Country>
+								</cac:PostalAddress>
+								<cac:PartyLegalEntity>
+									<cbc:CompanyID>05111-12012-98</cbc:CompanyID>
+								</cac:PartyLegalEntity>
+								<cac:Contact>
+									<cbc:Name>Frau Larivera</cbc:Name>
+									<cbc:Telephone>+49 2114572-3448</cbc:Telephone>
+									<cbc:ElectronicMail>Vergabe-5011@fv.nrw.de</cbc:ElectronicMail>
+								</cac:Contact>
+							</efac:Company>
+						</efac:Organization>
+						<efac:Organization>
+							<efbc:ListedOnRegulatedMarketIndicator>false</efbc:ListedOnRegulatedMarketIndicator>
+							<efac:UltimateBeneficialOwner>
+								<cbc:ID>UBO-0001</cbc:ID>
+							</efac:UltimateBeneficialOwner>
+							<efac:Company>
+								<efbc:CompanySizeCode listName="economic-operator-size">large</efbc:CompanySizeCode>
+								<cac:PartyIdentification>
+									<cbc:ID>ORG-0004</cbc:ID>
+								</cac:PartyIdentification>
+								<cac:PartyName>
+									<cbc:Name languageID="DEU">PricewaterhouseCoopers GmbH</cbc:Name>
+								</cac:PartyName>
+								<cac:PostalAddress>
+									<cbc:StreetName>Georg-Glock-Str. 22</cbc:StreetName>
+									<cbc:CityName>Düsseldorf</cbc:CityName>
+									<cbc:PostalZone>40474</cbc:PostalZone>
+									<cbc:CountrySubentityCode listName="nuts-lvl3">DEA11</cbc:CountrySubentityCode>
+									<cac:Country>
+										<cbc:IdentificationCode listName="country">DEU</cbc:IdentificationCode>
+									</cac:Country>
+								</cac:PostalAddress>
+								<cac:PartyLegalEntity>
+									<cbc:CompanyID>107858 Berlin</cbc:CompanyID>
+								</cac:PartyLegalEntity>
+								<cac:Contact>
+									<cbc:Telephone>03026363566</cbc:Telephone>
+									<cbc:ElectronicMail>de_zentrale-pwc-wpg@pwc.com</cbc:ElectronicMail>
+								</cac:Contact>
+							</efac:Company>
+						</efac:Organization>
+						<efac:Organization><efac:Company><cac:PartyIdentification><cbc:ID schemeName="organization">ORG-0005</cbc:ID></cac:PartyIdentification><cac:PartyName><cbc:Name languageID="DEU">Datenservice Öffentlicher Einkauf (in Verantwortung des Beschaffungsamts des BMI)</cbc:Name></cac:PartyName><cac:PostalAddress><cbc:CityName>Bonn</cbc:CityName><cbc:PostalZone>53119</cbc:PostalZone><cbc:CountrySubentityCode listName="nuts">DEA22</cbc:CountrySubentityCode><cac:Country><cbc:IdentificationCode listName="country">DEU</cbc:IdentificationCode></cac:Country></cac:PostalAddress><cac:PartyLegalEntity><cbc:CompanyID schemeID="002">0204:994-DOEVD-83</cbc:CompanyID></cac:PartyLegalEntity><cac:Contact><cbc:Telephone>+49228996100</cbc:Telephone><cbc:ElectronicMail>noreply.esender_hub@bescha.bund.de</cbc:ElectronicMail></cac:Contact></efac:Company></efac:Organization><efac:UltimateBeneficialOwner>
+							<cbc:ID>UBO-0001</cbc:ID>
+							<efac:Nationality>
+								<cbc:NationalityID>DEU</cbc:NationalityID>
+							</efac:Nationality>
+						</efac:UltimateBeneficialOwner>
+					</efac:Organizations>
+				<efac:Publication><efbc:NoticePublicationID schemeName="ojs-notice-id">00608731-2026</efbc:NoticePublicationID><efbc:GazetteID schemeName="ojs-id">170/2026</efbc:GazetteID><efbc:PublicationDate>2026-09-03+02:00</efbc:PublicationDate></efac:Publication></efext:EformsExtension>
+			</ext:ExtensionContent>
+		</ext:UBLExtension>
+	</ext:UBLExtensions>
+	<cbc:UBLVersionID>2.3</cbc:UBLVersionID>
+	<cbc:CustomizationID>eforms-sdk-1.13</cbc:CustomizationID>
+	<cbc:ProfileID>eforms-sdk-1.13</cbc:ProfileID>
+	<cbc:ID schemeName="notice-id">872315df-d24d-471b-8bd9-112b8cb9b96d</cbc:ID>
+	<cbc:ContractFolderID>c626f6bf-01d1-4a2c-8d8f-83d785c8a1a3</cbc:ContractFolderID>
+	<cbc:IssueDate>2026-09-02+02:00</cbc:IssueDate>
+	<cbc:IssueTime>09:59:45+02:00</cbc:IssueTime>
+	<cbc:VersionID>01</cbc:VersionID>
+	<cbc:RequestedPublicationDate>2026-09-02+02:00</cbc:RequestedPublicationDate>
+	<cbc:RegulatoryDomain>32014L0024</cbc:RegulatoryDomain>
+	<cbc:NoticeTypeCode listName="result">can-standard</cbc:NoticeTypeCode>
+	<cbc:NoticeLanguageCode listID="eu-official-language">DEU</cbc:NoticeLanguageCode>
+	<cac:ContractingParty>
+		<cac:ContractingPartyType>
+			<cbc:PartyTypeCode listName="buyer-legal-type">ra</cbc:PartyTypeCode>
+		</cac:ContractingPartyType>
+		<cac:ContractingActivity>
+			<cbc:ActivityTypeCode listName="authority-activity">gen-pub</cbc:ActivityTypeCode>
+		</cac:ContractingActivity>
+		<cac:Party>
+			<cac:PartyIdentification>
+				<cbc:ID>ORG-0001</cbc:ID>
+			</cac:PartyIdentification>
+		<cac:ServiceProviderParty><cbc:ServiceTypeCode listName="organisation-role">ted-esen</cbc:ServiceTypeCode><cac:Party><cac:PartyIdentification><cbc:ID schemeName="organization">ORG-0005</cbc:ID></cac:PartyIdentification></cac:Party></cac:ServiceProviderParty></cac:Party>
+	</cac:ContractingParty>
+	<cac:TenderingTerms>
+		<ext:UBLExtensions>
+			<ext:UBLExtension>
+				<ext:ExtensionContent>
+					<efext:EformsExtension>
+						<efac:StrategicProcurement>
+							<efbc:ApplicableLegalBasis listName="cvd-scope">false</efbc:ApplicableLegalBasis>
+						</efac:StrategicProcurement>
+						<efac:StrategicProcurement>
+							<efbc:ApplicableLegalBasis listName="eed-scope">false</efbc:ApplicableLegalBasis>
+						</efac:StrategicProcurement>
+						<efac:StrategicProcurement>
+							<efbc:ApplicableLegalBasis listName="ipi-scope">false</efbc:ApplicableLegalBasis>
+						</efac:StrategicProcurement>
+					</efext:EformsExtension>
+				</ext:ExtensionContent>
+			</ext:UBLExtension>
+		</ext:UBLExtensions>
+		<cbc:FundingProgramCode listName="eu-funded">no-eu-funds</cbc:FundingProgramCode>
+		<cac:ProcurementLegislationDocumentReference>
+			<cbc:ID>vgv</cbc:ID>
+		</cac:ProcurementLegislationDocumentReference>
+		<cac:AppealTerms>
+			<cac:PresentationPeriod>
+				<cbc:Description languageID="DEU">Unternehmen haben einen Anspruch auf Einhaltung der Bieter und Bewerber schützenden Bestimmungen über das Vergabeverfahren gegenüber dem öffentlichen Auftraggeber, dem Rechenzentrum der Finanzverwaltungdes Landes Nordrhein-Westfalen (RZF NRW).
+Sieht sich ein am Auftrag interessiertes Unternehmen durch Nichtbeachtung von Vergabevorschriften in seinen Rechten verletzt, ist der Verstoß innerhalb einer Frist von zehn Kalendertagen beim RZF NRW zu rügen (§ 160 Abs. 3 Nr. 1 GWB).
+Verstöße gegen Vergabevorschriften, die aufgrund der Bekanntmachung erkennbar sind, und gegen solche, die erst in den Vergabeunterlagen erkennbar sind, müssen spätestens bis zum Ablauf der Frist zur Angebotsabgabe gegenüber dem RZF NRW gerügt werden (§ 160 Abs. 3 Nr. 2 und 3 GWB).
+Teilt das RZF NRW dem Unternehmen mit, der Rüge nicht abhelfen zu wollen, besteht die Möglichkeit, innerhalb von fünfzehn Kalendertagen einen Antrag auf Nachprüfung bei der Vergabekammer zu stellen (§ 160 Abs. 3 Nr. 4 GWB).</cbc:Description>
+			</cac:PresentationPeriod>
+			<cac:AppealInformationParty>
+				<cac:PartyIdentification>
+					<cbc:ID schemeName="organization">ORG-0002</cbc:ID>
+				</cac:PartyIdentification>
+			</cac:AppealInformationParty>
+			<cac:AppealReceiverParty>
+				<cac:PartyIdentification>
+					<cbc:ID schemeName="organization">ORG-0003</cbc:ID>
+				</cac:PartyIdentification>
+			</cac:AppealReceiverParty>
+		</cac:AppealTerms>
+	</cac:TenderingTerms>
+	<cac:TenderingProcess>
+		<cbc:ProcedureCode listName="procurement-procedure-type">open</cbc:ProcedureCode>
+		<cac:ProcessJustification>
+			<cbc:ProcessReasonCode listName="accelerated-procedure">false</cbc:ProcessReasonCode>
+		</cac:ProcessJustification>
+		<cac:AuctionTerms>
+			<cbc:AuctionConstraintIndicator>false</cbc:AuctionConstraintIndicator>
+		</cac:AuctionTerms>
+	</cac:TenderingProcess>
+	<cac:ProcurementProject>
+		<cbc:ID schemeName="internalID">2026/08</cbc:ID>
+		<cbc:Name languageID="DEU">RV zur Erbringung von KI- Forschungs- und Beratungsleistungen im Bereich der Einsatzevaluation für alle Behörden im gesamten Ressort des Finanzministeriums des Landes NRW</cbc:Name>
+		<cbc:Description languageID="DEU">Gegenstand der Ausschreibung ist der Abschluss einer Rahmenvereinbarung (RV) über die Erbringung von Ki- Forschungs- und Beratungsleistungen im Bereich der Einsatzevaluation für alle Behörden im gesamten Ressort des Finanzministeriums des Landes NRW</cbc:Description>
+		<cbc:ProcurementTypeCode listName="contract-nature">services</cbc:ProcurementTypeCode>
+		<cbc:Note languageID="DEU">#Bekanntmachungs-ID: CXS7YY6DYD9EQW7L#
+
+
+1) Sämtliche Vergabeunterlagen stehen kostenlos auf der Vergabeplattform zum Download zur Verfügung (Link siehe EU-Bekanntmachung Abschnitt "5.1.11. Auftragsunterlagen"). Die Unterlagen sind ausschließlich digital über die Vergabeplattform (Vergabemarktplatz NRW) fristgerecht einzureichen. Angebote, die verspätet eingehen, können nicht berücksichtigt werden. Ebenso wird die gesamte Kommunikation im Vergabeverfahren ausschließlich über den Vergabemarktplatz des Landes NRW unter www.evergabe.nrw.de durchgeführt. 
+2) Bei Widersprüchen zwischen verschiedenen Bekanntmachungstexten ist allein der im EU-Amtsblatt veröffentlichte Text maßgeblich. 
+3) Fragen werden ausschließlich über die Vergabeplattform www.vergabe.nrw.de beantwortet. Mündliche/ Telefonische Anfragen oder Anfragen per Post oder E-Mail können aus Gründen der Dokumentationspflicht und der Gleichbehandlung nicht beantwortet werden. Sofern die Antworten auf Bieterfragen für alle Bieter von Interesse sein können, werden sie in anonymisierter Form allen zur Verfügung gestellt. 
+4) Bei diesem Verfahren handelt es sich um ein vollständig elektronisches Verfahren. Bitte verwenden Sie für den Upload Ihrer Unterlagen ausschließlich den eingerichteten Submissionskanal der Vergabeplattform. Die Unterlagen dürfen ohne Aufforderung von der Vergabestelle (z. B bei einer Nachforderung) in keinem Falle per Mail oder über die Bieterkommunikation zugesendet werden, da diese dann nicht ordnungsgemäß submittiert werden können. Bei Verstößen gegen den vorgeschriebenen Weg der Einreichung der Unterlagen, führt dies zum sofortigen formalen Ausschluss. 
+5) Bietergemeinschaften sind zugelassen. Bietergemeinschaften finden nur Berücksichtigung, wenn mit dem Angebot ein Verzeichnis der Mitglieder der Gemeinschaft mit Bezeichnung des bevollmächtigten Vertreters eingereicht wird (s. beigefügtes Formular 531 EU). Bietergemeinschaften müssen die im Formular 325 EU genannten Nachweise für jedes Mitglied erbringen.</cbc:Note>
+		<cac:MainCommodityClassification>
+			<cbc:ItemClassificationCode listName="cpv">72000000</cbc:ItemClassificationCode>
+		</cac:MainCommodityClassification>
+		<cac:AdditionalCommodityClassification>
+			<cbc:ItemClassificationCode listName="cpv">75110000</cbc:ItemClassificationCode>
+		</cac:AdditionalCommodityClassification>
+		<cac:RealizedLocation>
+			<cbc:Description languageID="DEU">Der Auftragnehmer in der Wahl des Leistungsortes grundsätzlich frei. Erfordert 
+die Tätigkeit die Anwesenheit an einem bestimmten Ort, ist er dort zur Leistungserbringung verpflichtet</cbc:Description>
+			<cac:Address>
+				<cbc:Region>anyw</cbc:Region>
+			</cac:Address>
+		</cac:RealizedLocation>
+	</cac:ProcurementProject>
+	<cac:ProcurementProjectLot>
+		<cbc:ID schemeName="Lot">LOT-0001</cbc:ID>
+		<cac:TenderingTerms>
+			<ext:UBLExtensions>
+				<ext:UBLExtension>
+					<ext:ExtensionContent>
+						<efext:EformsExtension>
+							<efac:StrategicProcurement>
+								<efbc:ApplicableLegalBasis listName="cvd-scope">false</efbc:ApplicableLegalBasis>
+							</efac:StrategicProcurement>
+							<efac:StrategicProcurement>
+								<efbc:ApplicableLegalBasis listName="eed-scope">false</efbc:ApplicableLegalBasis>
+							</efac:StrategicProcurement>
+							<efac:StrategicProcurement>
+								<efbc:ApplicableLegalBasis listName="ipi-scope">false</efbc:ApplicableLegalBasis>
+							</efac:StrategicProcurement>
+						</efext:EformsExtension>
+					</ext:ExtensionContent>
+				</ext:UBLExtension>
+			</ext:UBLExtensions>
+			<cbc:FundingProgramCode listName="eu-funded">no-eu-funds</cbc:FundingProgramCode>
+			<cac:ContractExecutionRequirement>
+				<cbc:ExecutionRequirementCode listName="fsr">false</cbc:ExecutionRequirementCode>
+			</cac:ContractExecutionRequirement>
+			<cac:AwardingTerms>
+				<cac:AwardingCriterion>
+					<cac:SubordinateAwardingCriterion>
+						<ext:UBLExtensions>
+							<ext:UBLExtension>
+								<ext:ExtensionContent>
+									<efext:EformsExtension>
+										<efac:AwardCriterionParameter>
+											<efbc:ParameterCode listName="number-weight">poi-exa</efbc:ParameterCode>
+											<efbc:ParameterNumeric>70.00000000</efbc:ParameterNumeric>
+										</efac:AwardCriterionParameter>
+									</efext:EformsExtension>
+								</ext:ExtensionContent>
+							</ext:UBLExtension>
+						</ext:UBLExtensions>
+						<cbc:AwardingCriterionTypeCode listName="award-criterion-type">quality</cbc:AwardingCriterionTypeCode>
+						<cbc:Name languageID="DEU">Bewertung der Kenntnisse der angebotenene Profile</cbc:Name>
+						<cbc:Description languageID="DEU">Der Zuschlag erfolgt anhand der Erfüllung der Mindestanforderungen auf das 
+Angebot mit dem wirtschaftlichsten Angebot - also geht der Zuschlag an den 
+Bieter mit dem höchsten Gesamtwert. Die Preis- und Punktewerte werden 
+jeweils auf max. vier Dezimalstellen gerundet. Das Endergebnis auf max. drei 
+Dezimalstellen. 
+Für die Berechnung des Gesamtwertes, wird der Gesamtstundensatz mit der 
+unter Kapitel C Punkt 5 erreichten Gesamtpunktzahl in ein Verhältnis gebracht. 
+Dies erfolgt über eine gewichtete Bewertungsformel, wobei der Stundensatz 
+mit 30% und der Punktwert mit 70% gewichtet wird</cbc:Description>
+					</cac:SubordinateAwardingCriterion>
+					<cac:SubordinateAwardingCriterion>
+						<ext:UBLExtensions>
+							<ext:UBLExtension>
+								<ext:ExtensionContent>
+									<efext:EformsExtension>
+										<efac:AwardCriterionParameter>
+											<efbc:ParameterCode listName="number-weight">poi-exa</efbc:ParameterCode>
+											<efbc:ParameterNumeric>30.00000000</efbc:ParameterNumeric>
+										</efac:AwardCriterionParameter>
+									</efext:EformsExtension>
+								</ext:ExtensionContent>
+							</ext:UBLExtension>
+						</ext:UBLExtensions>
+						<cbc:AwardingCriterionTypeCode listName="award-criterion-type">price</cbc:AwardingCriterionTypeCode>
+						<cbc:Name languageID="DEU">Bewertung des Stundensatzes der angebotenen Profile</cbc:Name>
+						<cbc:Description languageID="DEU">Der Zuschlag erfolgt anhand der Erfüllung der Mindestanforderungen auf das 
+Angebot mit dem wirtschaftlichsten Angebot - also geht der Zuschlag an den 
+Bieter mit dem höchsten Gesamtwert. Die Preis- und Punktewerte werden 
+jeweils auf max. vier Dezimalstellen gerundet. Das Endergebnis auf max. drei 
+Dezimalstellen. 
+Für die Berechnung des Gesamtwertes, wird der Gesamtstundensatz mit der 
+unter Kapitel C Punkt 5 erreichten Gesamtpunktzahl in ein Verhältnis gebracht. 
+Dies erfolgt über eine gewichtete Bewertungsformel, wobei der Stundensatz 
+mit 30% und der Punktwert mit 70% gewichtet wird</cbc:Description>
+					</cac:SubordinateAwardingCriterion>
+				</cac:AwardingCriterion>
+			</cac:AwardingTerms>
+			<cac:AdditionalInformationParty>
+				<cac:PartyIdentification>
+					<cbc:ID>ORG-0001</cbc:ID>
+				</cac:PartyIdentification>
+			</cac:AdditionalInformationParty>
+			<cac:AppealTerms>
+				<cac:PresentationPeriod>
+					<cbc:Description languageID="DEU">Unternehmen haben einen Anspruch auf Einhaltung der Bieter und Bewerber schützenden Bestimmungen über das Vergabeverfahren gegenüber dem öffentlichen Auftraggeber, dem Rechenzentrum der Finanzverwaltungdes Landes Nordrhein-Westfalen (RZF NRW).
+Sieht sich ein am Auftrag interessiertes Unternehmen durch Nichtbeachtung von Vergabevorschriften in seinen Rechten verletzt, ist der Verstoß innerhalb einer Frist von zehn Kalendertagen beim RZF NRW zu rügen (§ 160 Abs. 3 Nr. 1 GWB).
+Verstöße gegen Vergabevorschriften, die aufgrund der Bekanntmachung erkennbar sind, und gegen solche, die erst in den Vergabeunterlagen erkennbar sind, müssen spätestens bis zum Ablauf der Frist zur Angebotsabgabe gegenüber dem RZF NRW gerügt werden (§ 160 Abs. 3 Nr. 2 und 3 GWB).
+Teilt das RZF NRW dem Unternehmen mit, der Rüge nicht abhelfen zu wollen, besteht die Möglichkeit, innerhalb von fünfzehn Kalendertagen einen Antrag auf Nachprüfung bei der Vergabekammer zu stellen (§ 160 Abs. 3 Nr. 4 GWB).</cbc:Description>
+				</cac:PresentationPeriod>
+				<cac:AppealInformationParty>
+					<cac:PartyIdentification>
+						<cbc:ID schemeName="organization">ORG-0002</cbc:ID>
+					</cac:PartyIdentification>
+				</cac:AppealInformationParty>
+				<cac:AppealReceiverParty>
+					<cac:PartyIdentification>
+						<cbc:ID schemeName="organization">ORG-0003</cbc:ID>
+					</cac:PartyIdentification>
+				</cac:AppealReceiverParty>
+			</cac:AppealTerms>
+		</cac:TenderingTerms>
+		<cac:TenderingProcess>
+			<cbc:GovernmentAgreementConstraintIndicator>true</cbc:GovernmentAgreementConstraintIndicator>
+			<cac:AuctionTerms>
+				<cbc:AuctionConstraintIndicator>false</cbc:AuctionConstraintIndicator>
+			</cac:AuctionTerms>
+			<cac:ContractingSystem>
+				<cbc:ContractingSystemTypeCode listName="framework-agreement">fa-wo-rc</cbc:ContractingSystemTypeCode>
+			</cac:ContractingSystem>
+			<cac:ContractingSystem>
+				<cbc:ContractingSystemTypeCode listName="dps-usage">none</cbc:ContractingSystemTypeCode>
+			</cac:ContractingSystem>
+		</cac:TenderingProcess>
+		<cac:ProcurementProject>
+			<cbc:ID schemeName="internalID">2026/08</cbc:ID>
+			<cbc:Name languageID="DEU">RV zur Erbringung von KI- Forschungs- und Beratungsleistungen im Bereich der Einsatzevaluation für alle Behörden im gesamten Ressort des Finanzministeriums des Landes NRW</cbc:Name>
+			<cbc:Description languageID="DEU">Die zu erbringende Leistung besteht aus der Managementberatung im KI- und dem eventuell mit der Lösung verbundenem RPA-Umfeld im Hinblick auf technologische Trends in Ihrer möglichen Bedeutung für den Einsatz in der Finanzverwaltung des Landes NRW und insbesondere in der Beratung zur Umsetzung von Projekten sowie der Implementierung, der Tests und der Dokumentation von zu erstellenden Prototypen in Zusammenarbeit mit Entwicklern, der Produktion und den weiteren Fachseiten des jeweiligen Auftraggebers im Ressort. 
+Zudem ist in Absprache mit dem Auftraggeber erforderlich, bei der Einführung in den Produktionsbetrieb zu unterstützen. 
+
+Die Umsetzung ist in einem agilen Vorgehen geplant, wobei eine ständige Absprache und Evaluierung der Teilergebnisse mit dem Fachpersonal des Auftraggebers stattfindet. Die zu entwickelnden Lösungen müssen On-Premise-Lösungen sein, die keine Public-Cloud-Services und keine Software-as-a-Service Bestandteile von Drittanbietern beinhaltet. Der Aufbau und Betrieb der Lösungen in oder durch Nutzung einer "Private-Cloud" hingegen sind in Abstimmung mit dem Auftraggeber möglich.
+Der Auftrag umfasst zusammengefasst die Ideenentwicklung, Konzeption, prototypische Entwicklung, Implementierung und Evaluierung innovativer KI basierter Lösungen. Die Leistungen sollen den Auftraggeber dabei unterstützen, neuartige KI-Methoden zu identifizieren, zu entwickeln und in produktionsnahe Umgebungen zu überführen.
+
+Die zu erbringenden Leistungen umfassen insbesondere:
+
+2.1 Ideen und Konzeptentwicklung
+
+- Identifikation neuer KI-Ansätze, die über den Stand der Technik hinausgehen
+- Bewertung aktueller Forschungsergebnisse hinsichtlich ihrer Anwendbarkeit
+- Erstellung wissenschaftlich fundierter Konzeptpapiere
+
+2.2 Forschungsnahe Prototypenentwicklung
+
+- Entwicklung experimenteller KI-Modelle unter Nutzung aktueller Forschungsergebnisse
+- Durchführung explorativer Experimente, inkl. Dokumentation der wissenschaftlichen Methodik
+- Vergleich verschiedener Modellarchitekturen anhand wissenschaftlicher Kriterien
+
+2.3 Implementierung und Integration
+
+- Überführung geeigneter Prototypen in produktionsnahe Softwarekomponenten
+- Entwicklung von Schnittstellen, Pipelines und Evaluationsmechanismen
+- Durchführung von Robustheits-, Bias- und Performanceanalysen
+
+2.4 Transfer wissenschaftlicher Erkenntnisse
+
+- Regelmäßige Berichte zu relevanten Forschungstrends
+- Ableitung von Handlungsempfehlungen aus internationalen Publikationen
+- Durchführung von Workshops zur Vermittlung aktueller KI-Forschung
+
+Die Auftragsforschungsleistungen im Bereich Künstliche Intelligenz (KI) für die Finanzverwaltung des Landes NRW umfasst ein breites Spektrum - von Verwaltung über Sicherheit bis hin zu strategischer Prozessoptimierung (es folgt eine nicht abschließende Aufzählung von möglichen Schwerpunktthemen und Beispielthemen):
+
+Automatisierung &amp; Prozessoptimierung
+
+- Entwicklung von KI-gestützten Workflows zur Bearbeitung von Bürgeranfragen (z.?B. Chatbots, Dokumentenklassifikation)
+- Automatisierte Entscheidungsunterstützung bei Anträgen sowohl des Bürgers als auch verwaltungsintern 
+- KI-basierte Prozessanalyse zur Identifikation ineffizienter Abläufe
+- Simulation und Design neuer Verwaltungsprozesse mit KI-gestützten Modellen
+- Entwicklung von KI-gestützten RPA-Automationen zur Entlastung der Mitarbeitenden bei manuellen Prozessen und Tätigkeiten sowie zur Unterstützung der Voll-Maschinellen-Veranlagung (VMV) im dezentralen Bereich
+- KI- Agentensysteme als Unterstützung einer Bürgerhotline
+- KI-Agenten für das Intranet
+- KI gestützte Suche im Intranet
+
+Cybersecurity &amp; Datenschutz
+
+- Entwicklung von KI-Systemen zur Erkennung und Abwehr von Cyberangriffen (z.?B. Anomalieerkennung in Netzwerken)
+- Forschung zu datenschutzkonformen KI-Modellen (z.?B. Federated Learning, Differential Privacy)
+- Risikoanalyse von KI-Anwendungen gemäß EU-KI-Verordnung
+- Auftragsforschung zur sicheren Nutzung generativer KI in Behörden
+
+Qualitätssicherung &amp; Betriebsstabilität
+
+- KI-gestützte Monitoring-Systeme zur Überwachung von IT-Infrastrukturen
+- Prognosemodelle zur Vorhersage von Systemausfällen oder Wartungsbedarf
+- Validierung und Auditierung von KI-Modellen hinsichtlich Fairness, Robustheit und Transparenz
+
+
+Datenanalyse &amp; Prognose
+
+- Entwicklung von Prognosemodellen für Bevölkerungsentwicklung, Verkehrsströme oder Energiebedarf in Bezug auf Steuerprognosen (Einnahmen, Ausfälle, Verschiebungen) 
+- KI-basierte Analyse öffentlicher Daten zur Unterstützung politischer Entscheidungsprozesse
+- Forschung zu semantischer Datenverknüpfung und Ontologien für Verwaltungsdaten
+
+Sprachverarbeitung &amp; Dokumentenanalyse
+
+- Automatisierte Extraktion von Informationen aus Gesetzestexten, Bescheiden oder Gutachten
+- Entwicklung von KI-Systemen zur Übersetzung und barrierefreien Kommunikation im Einsatzbereich der Finanzverwaltung
+- Forschung zu KI-gestützter Textgenerierung für Verwaltungsakte
+
+Ethik, Recht &amp; Governance
+
+- Auftragsstudien zur ethischen Bewertung von KI-Einsatz in der Verwaltung
+- Unterstützung bei der vergaberechtlich konformen Beschaffung von KI-Systemen
+- Entwicklung von Leitlinien, Compliance und Governance-Modellen für den behördlichen KI-Einsatz
+- Forschung zu Akzeptanz und Vertrauen in KI-Systeme bei Bürger:innen und Mitarbeitenden
+
+Spezialanwendungen
+
+- KI-basierte Betrugserkennung 
+- Einsatz von KI zur Optimierung von Notfallmanagement und Krisenreaktion
+- Entwicklung von KI-Agenten zur Unterstützung interner Schulungen und Wissensmanagement
+
+Fraud Detection / Risikosysteme
+
+- KI-basierte Klassifikationsmodelle zur Verbesserung, Optimierung und Entlastung der Mitarbeitenden der FV erstellten
+- KI-basierte Fallauswahl für Prüfungszwecke
+- KI-basierte Klassifikationsmodelle für die Aufdeckung von Steuerbetrug 
+
+Ausgeschrieben wird eine Auftragsforschung / Beratungsleistung mit einer Laufzeit vom 01.08.2026 bis zum 30.08.2030. In diesem Zeitraum soll ein Pool von 4 Personen vorgehalten werden, um die Abrufzeiten und die</cbc:Description>
+			<cbc:ProcurementTypeCode listName="contract-nature">services</cbc:ProcurementTypeCode>
+			<cac:ProcurementAdditionalType>
+				<cbc:ProcurementTypeCode listName="strategic-procurement">none</cbc:ProcurementTypeCode>
+			</cac:ProcurementAdditionalType>
+			<cac:MainCommodityClassification>
+				<cbc:ItemClassificationCode listName="cpv">72000000</cbc:ItemClassificationCode>
+			</cac:MainCommodityClassification>
+			<cac:AdditionalCommodityClassification>
+				<cbc:ItemClassificationCode listName="cpv">75110000</cbc:ItemClassificationCode>
+			</cac:AdditionalCommodityClassification>
+			<cac:RealizedLocation>
+				<cbc:Description languageID="DEU">Der Auftragnehmer in der Wahl des Leistungsortes grundsätzlich frei. Erfordert 
+die Tätigkeit die Anwesenheit an einem bestimmten Ort, ist er dort zur Leistungserbringung verpflichtet</cbc:Description>
+				<cac:Address>
+					<cbc:Region>anyw</cbc:Region>
+				</cac:Address>
+			</cac:RealizedLocation>
+			<cac:PlannedPeriod>
+				<cbc:DurationMeasure unitCode="MONTH">48</cbc:DurationMeasure>
+			</cac:PlannedPeriod>
+		</cac:ProcurementProject>
+	</cac:ProcurementProjectLot>
+	<cac:TenderResult>
+		<cbc:AwardDate>2000-01-01Z</cbc:AwardDate>
+	</cac:TenderResult>
+</ContractAwardNotice>

@@ -1,0 +1,54 @@
+{
+  "created": "2026-09-05T09:08:39+00:00",
+  "criteria": {
+    "consequential_relation": {
+      "passed": true,
+      "reason": "touches a sensitive administrative domain: CPV 75110000 (prefix 75) (608731-2026)"
+    },
+    "digital_form_possible": {
+      "passed": true,
+      "reason": "form hypothesis: an annotated dossier along the structure of the notice"
+    },
+    "falsifiable_investigation": {
+      "passed": false,
+      "reason": "no machine-testable proposition can be formed yet"
+    },
+    "machine_readable_evidence": {
+      "passed": true,
+      "reason": "1 preserved eForms XML record(s) with SHA-256 on file"
+    },
+    "machine_scale_advantage": {
+      "passed": false,
+      "reason": "a single first-seen notice is equally visible to any human reader of the journal"
+    },
+    "observable_public_problem": {
+      "passed": true,
+      "reason": "identifiable public buyer(s): Rechenzentrum der Finanzverwaltung des Landes NRW"
+    }
+  },
+  "form_hypothesis": "an annotated dossier along the structure of the notice",
+  "id": "c-20260905-10",
+  "notices_context": [
+    {
+      "buyers": [
+        "Rechenzentrum der Finanzverwaltung des Landes NRW"
+      ],
+      "countries": [
+        "DEU"
+      ],
+      "publication_number": "608731-2026",
+      "title": "Germany – IT services: consulting, software development, Internet and support – RV zur Erbringung von KI- Forschungs- und Beratungsleistungen im Bereich der Einsatzevaluation für alle Behörden im gesamten Ressort des Finanzministeriums des Landes NRW"
+    }
+  ],
+  "proposition": null,
+  "signal": {
+    "date": "2026-09-05",
+    "detail": "notice 608731-2026 entered the envelope (phrases: Künstliche Intelligenz)",
+    "key": "NEW_MATCH:608731-2026",
+    "notices": [
+      "608731-2026"
+    ],
+    "type": "NEW_MATCH"
+  },
+  "verdict": "DECLINED"
+}

@@ -1,0 +1,34 @@
+{
+  "candidates": {
+    "declined": [],
+    "open": []
+  },
+  "date": "2026-09-06",
+  "envelope_version": 1,
+  "failures": [],
+  "http_429": 0,
+  "new_matches": [],
+  "phrases": [
+    {
+      "lang": "eng",
+      "phrase": "artificial intelligence",
+      "total": 0,
+      "truncated": false
+    },
+    {
+      "lang": "deu",
+      "phrase": "Künstliche Intelligenz",
+      "total": 2,
+      "truncated": false
+    },
+    {
+      "lang": "fra",
+      "phrase": "intelligence artificielle",
+      "total": 1,
+      "truncated": false
+    }
+  ],
+  "rechecked": 28,
+  "requests": 31,
+  "signals": []
+}

@@ -1,0 +1,512 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><ContractNotice xmlns="urn:oasis:names:specification:ubl:schema:xsd:ContractNotice-2" xmlns:cac="urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-2" xmlns:cbc="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-2" xmlns:efac="http://data.europa.eu/p27/eforms-ubl-extension-aggregate-components/1" xmlns:efbc="http://data.europa.eu/p27/eforms-ubl-extension-basic-components/1" xmlns:efext="http://data.europa.eu/p27/eforms-ubl-extensions/1" xmlns:ext="urn:oasis:names:specification:ubl:schema:xsd:CommonExtensionComponents-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ext:UBLExtensions>
+    <ext:UBLExtension>
+      <ext:ExtensionContent>
+        <efext:EformsExtension>
+          <efac:NoticeSubType>
+            <cbc:SubTypeCode listName="notice-subtype">16</cbc:SubTypeCode>
+          </efac:NoticeSubType>
+          <efac:Organizations>
+            <efac:Organization>
+              <efac:Company>
+                <cac:PartyIdentification>
+                  <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+                </cac:PartyIdentification>
+                
+                <cac:PartyName>
+                  <cbc:Name languageID="ENG">AGDER TINGRETT</cbc:Name>
+                </cac:PartyName>
+                <cac:PostalAddress>
+                  <cbc:StreetName>Tollbodgata 45</cbc:StreetName>
+                  <cbc:CityName>KRISTIANSAND S</cbc:CityName>
+                  <cbc:PostalZone>4614</cbc:PostalZone>
+                  <cbc:CountrySubentityCode listName="nuts">NO092</cbc:CountrySubentityCode>
+                  <cac:Country>
+                    <cbc:IdentificationCode listName="country">NOR</cbc:IdentificationCode>
+                  </cac:Country>
+                </cac:PostalAddress>
+                <cac:PartyLegalEntity>
+                  <cbc:CompanyID schemeID="0192">926723480</cbc:CompanyID>
+                </cac:PartyLegalEntity>
+                <cac:Contact>
+                  <cbc:Name>AGDER TINGRETT</cbc:Name>
+                </cac:Contact>
+              </efac:Company>
+            </efac:Organization>
+            <efac:Organization>
+              <efac:Company>
+                <cac:PartyIdentification>
+                  <cbc:ID schemeName="organization">ORG-0002</cbc:ID>
+                </cac:PartyIdentification>
+                
+                <cac:PartyName>
+                  <cbc:Name languageID="ENG">Hyyr AS</cbc:Name>
+                </cac:PartyName>
+                <cac:PostalAddress>
+                  <cbc:StreetName>Gaustadalléen 21</cbc:StreetName>
+                  <cbc:CityName>Oslo</cbc:CityName>
+                  <cbc:PostalZone>0349</cbc:PostalZone>
+                  <cbc:CountrySubentityCode listName="nuts">NO081</cbc:CountrySubentityCode>
+                  <cac:Country>
+                    <cbc:IdentificationCode listName="country">NOR</cbc:IdentificationCode>
+                  </cac:Country>
+                </cac:PostalAddress>
+                <cac:PartyLegalEntity>
+                  <cbc:CompanyID schemeID="0192">924998687</cbc:CompanyID>
+                </cac:PartyLegalEntity>
+                <cac:Contact>
+                  <cbc:Name>Hyyr Support</cbc:Name>
+                  <cbc:Telephone>+47 90 63 65 38</cbc:Telephone>
+                  <cbc:ElectronicMail>admin@hyyr.no</cbc:ElectronicMail>
+                </cac:Contact>
+              </efac:Company>
+            </efac:Organization>
+            <efac:Organization>
+              <efac:Company>
+                <cac:PartyIdentification>
+                  <cbc:ID schemeName="organization">ORG-0003</cbc:ID>
+                </cac:PartyIdentification>
+                
+                <cac:PartyName>
+                  <cbc:Name languageID="ENG">Arendal kommune</cbc:Name>
+                </cac:PartyName>
+                <cac:PostalAddress>
+                  <cbc:StreetName>Sam Eydes Plass 2</cbc:StreetName>
+                  <cbc:CityName>Arendal</cbc:CityName>
+                  <cbc:PostalZone>4836</cbc:PostalZone>
+                  <cbc:CountrySubentityCode listName="nuts">NO092</cbc:CountrySubentityCode>
+                  <cac:Country>
+                    <cbc:IdentificationCode listName="country">NOR</cbc:IdentificationCode>
+                  </cac:Country>
+                </cac:PostalAddress>
+                <cac:PartyLegalEntity>
+                  <cbc:CompanyID schemeID="0192">940493021</cbc:CompanyID>
+                </cac:PartyLegalEntity>
+                <cac:Contact>
+                  <cbc:Name>Arendal kommune</cbc:Name>
+                  <cbc:Telephone>+47 37013000</cbc:Telephone>
+                  <cbc:ElectronicMail>ak.anskaffelser@arendal.kommune.no</cbc:ElectronicMail>
+                </cac:Contact>
+              </efac:Company>
+            </efac:Organization>
+          </efac:Organizations>
+        <efac:Publication><efbc:NoticePublicationID schemeName="ojs-notice-id">00613172-2026</efbc:NoticePublicationID><efbc:GazetteID schemeName="ojs-id">172/2026</efbc:GazetteID><efbc:PublicationDate>2026-09-07+02:00</efbc:PublicationDate></efac:Publication></efext:EformsExtension>
+      </ext:ExtensionContent>
+    </ext:UBLExtension>
+  </ext:UBLExtensions>
+  <cbc:UBLVersionID>2.3</cbc:UBLVersionID>
+  <cbc:CustomizationID>eforms-sdk-1.13</cbc:CustomizationID>
+  <cbc:ID schemeName="notice-id">bd29fea7-4713-4fd2-a07b-9ced8ad9e3b0</cbc:ID>
+  <cbc:ContractFolderID>c0e133dd-327a-4193-9a13-d4fb09b3e98d</cbc:ContractFolderID>
+  <cbc:IssueDate>2026-09-04+02:00</cbc:IssueDate>
+  <cbc:IssueTime>14:28:37+02:00</cbc:IssueTime>
+  <cbc:VersionID>01</cbc:VersionID>
+  <cbc:RegulatoryDomain>32014L0024</cbc:RegulatoryDomain>
+  <cbc:NoticeTypeCode listName="competition">cn-standard</cbc:NoticeTypeCode>
+  <cbc:NoticeLanguageCode>ENG</cbc:NoticeLanguageCode>
+  
+  <cac:ContractingParty>
+    <cac:ContractingPartyType>
+      <cbc:PartyTypeCode listName="buyer-legal-type">body-pl-la</cbc:PartyTypeCode>
+    </cac:ContractingPartyType>
+    <cac:ContractingActivity>
+      <cbc:ActivityTypeCode listName="authority-activity">gen-pub</cbc:ActivityTypeCode>
+    </cac:ContractingActivity>
+    <cac:Party>
+      <cac:PartyIdentification>
+        <cbc:ID schemeName="organization">ORG-0003</cbc:ID>
+      </cac:PartyIdentification>
+    </cac:Party>
+  </cac:ContractingParty>
+  <cac:TenderingTerms>
+    <cac:ProcurementLegislationDocumentReference>
+      <cbc:ID>Anskaffelsesforskriften</cbc:ID>
+    </cac:ProcurementLegislationDocumentReference>
+    <cac:TendererQualificationRequest>
+      <cac:SpecificTendererRequirement>
+        <cbc:TendererRequirementTypeCode listName="exclusion-grounds-source">epo-procurement-document</cbc:TendererRequirementTypeCode>
+        
+        <cbc:Description languageID="ENG">The rejection reasons are defined in the tender documentation.</cbc:Description>
+      </cac:SpecificTendererRequirement>
+      <cac:SpecificTendererRequirement>
+        <cbc:TendererRequirementTypeCode listName="selection-criteria-source">epo-procurement-document</cbc:TendererRequirementTypeCode>
+        
+        <cbc:Description languageID="ENG">The qualification requirements are defined in the tender documentation.</cbc:Description>
+      </cac:SpecificTendererRequirement>
+    </cac:TendererQualificationRequest>
+  </cac:TenderingTerms>
+  <cac:TenderingProcess>
+    
+    <cbc:Description languageID="ENG">All interested tenderers can apply for participation, but only a selection of qualified tenderers will be invited to submit a tender. The contracting authority will then conduct negotiations with the tenderers on the content of the tenders before the final award.
+
+Tenderers are strongly encouraged to follow the instructions given in this tender documentation with annexes and possibly ask questions about uncertainties in the communication module in Hyyr.</cbc:Description>
+    <cbc:ProcedureCode listName="procurement-procedure-type">neg-w-call</cbc:ProcedureCode>
+    <cac:ProcessJustification>
+      <cbc:ProcessReasonCode listName="accelerated-procedure">false</cbc:ProcessReasonCode>
+    </cac:ProcessJustification>
+  </cac:TenderingProcess>
+  <cac:ProcurementProject>
+    <cbc:ID schemeName="InternalID">cmtbihwzn000r04k03ifkaj1f</cbc:ID>
+    
+    <cbc:Name languageID="ENG">Platform for the administration and distribution of digital teaching aids and learning tools.</cbc:Name>
+    
+    <cbc:Description languageID="ENG">Background and purpose
+
+Arendal is located in the central part of Sørlandet. The municipality has approx. 46,000 inhabitants. Arendal municipality has a decentralised school structure with 16 municipal primary and secondary schools, organised as independent entities with separate rectors and management groups. The schools include both combined 1st - 10th schools and pure primary schools (1st - 7th years), as well as a resource centre with tenders across the stages. The municipality has a total of approx. 5,000 pupils in the primary and lower secondary schools.
+
+Arendal municipality is in an ongoing change of the school structure. Two primary schools (1st – 7th years) and the secondary school for one school have been decided to be folded. The changes are planned to be implemented from 01.01.2027.
+
+The overall responsibility for the school area is at the school office, which follows up on joint priorities, quality work and regulations, and acts as a link between the political level and the schools. The cooperation between the school office and the schools will take place, among other things, through fixed meeting points and joint development work, at the same time that each school adapts the work to local needs.
+
+The adult education is organised as a part of the municipality ́s training and is also a user of relevant digital services.
+
+Arendal municipality needs a joint system for the administration, distribution and access management of digital teaching aids in primary and secondary schools. The municipality has used a system for this purpose over time and has developed good experience with procurement, licence management and access management in this area. The procurement will be carried out as a result of the expiry of the existing agreement and shall ensure the continuation and further development of this work.
+
+Information on the procurement and process is in the document Konkurransegrunnlag_Digital Platform for schools.
+
+Scope 
+
+The estimated annual scope is challenging to estimate. This is connected with the complexity, changes in the school structure and a market with different actors. We estimate that the annual turnover will be NOK 3.0 million excluding VAT, which over 8 years will be NOK 24 million excluding VAT. The contract will have a valid amount of NOK 30 million excluding VAT during the contract period.
+
+The estimated scope is based on experiences with the current supplier, market dialogue and indicative prices in the market. The estimated scope is not binding for the contracting authority.
+
+The following is not included in this procurement:
+
+- Learning platform (LMS) and educational follow-up.
+
+- functionality connected to artificial intelligence (KI)
+
+- other school administrative systems.
+
+The procurement is for the administration and distribution of digital teaching aids and a learning tool. Handling printed teaching aids is not included. The procurement does not include discipline specific teaching aids or individual applications.
+
+Reservations
+
+All conditions that the tenderer has for the tender shall be stated in the point conditions in the requirement specification document.
+
+Alternative tenders
+
+Alternative tenders cannot be submitted.
+
+Documents
+
+Please see the attached documents. Note that the tenderer shall fill in information in the attached documents.</cbc:Description>
+    <cbc:ProcurementTypeCode listName="contract-nature">services</cbc:ProcurementTypeCode>
+    <cac:RequestedTenderTotal>
+      <cbc:EstimatedOverallContractAmount currencyID="NOK">12000000</cbc:EstimatedOverallContractAmount>
+    </cac:RequestedTenderTotal>
+    <cac:MainCommodityClassification>
+      <cbc:ItemClassificationCode listName="cpv">72268000</cbc:ItemClassificationCode>
+    </cac:MainCommodityClassification>
+    <cac:AdditionalCommodityClassification>
+      <cbc:ItemClassificationCode listName="cpv">72222300</cbc:ItemClassificationCode>
+    </cac:AdditionalCommodityClassification>
+    <cac:AdditionalCommodityClassification>
+      <cbc:ItemClassificationCode listName="cpv">72212100</cbc:ItemClassificationCode>
+    </cac:AdditionalCommodityClassification>
+    <cac:AdditionalCommodityClassification>
+      <cbc:ItemClassificationCode listName="cpv">72260000</cbc:ItemClassificationCode>
+    </cac:AdditionalCommodityClassification>
+    <cac:RealizedLocation>
+      
+      <cbc:Description languageID="ENG">Norway</cbc:Description>
+      <cac:Address>
+        <cbc:StreetName>Sam Eydes Plass 2</cbc:StreetName>
+        <cbc:CityName>Arendal</cbc:CityName>
+        <cbc:PostalZone>4836</cbc:PostalZone>
+        <cbc:CountrySubentityCode listName="nuts">NO092</cbc:CountrySubentityCode>
+        <cac:Country>
+          <cbc:IdentificationCode listName="country">NOR</cbc:IdentificationCode>
+        </cac:Country>
+      </cac:Address>
+    </cac:RealizedLocation>
+  </cac:ProcurementProject>
+  <cac:ProcurementProjectLot>
+    <cbc:ID schemeName="Lot">LOT-0001</cbc:ID>
+    <cac:TenderingTerms>
+      <ext:UBLExtensions>
+        <ext:UBLExtension>
+          <ext:ExtensionContent>
+            <efext:EformsExtension>
+              <efac:SelectionCriteria>
+                <cbc:CriterionTypeCode listName="selection-criterion">other</cbc:CriterionTypeCode>
+                
+                <cbc:Name languageID="ENG">The qualification requirements are described in the tender documentation.</cbc:Name>
+              </efac:SelectionCriteria>
+            </efext:EformsExtension>
+          </ext:ExtensionContent>
+        </ext:UBLExtension>
+      </ext:UBLExtensions>
+      <cbc:FundingProgramCode listName="eu-funded">no-eu-funds</cbc:FundingProgramCode>
+      <cbc:RecurringProcurementIndicator>false</cbc:RecurringProcurementIndicator>
+      <cbc:MultipleTendersCode listName="permission">not-allowed</cbc:MultipleTendersCode>
+      <cac:RequiredFinancialGuarantee>
+        <cbc:GuaranteeTypeCode listName="tender-guarantee-required">false</cbc:GuaranteeTypeCode>
+      </cac:RequiredFinancialGuarantee>
+      <cac:CallForTendersDocumentReference>
+        <cbc:ID>cmtbihwzn000r04k03ifkaj1f</cbc:ID>
+        <cbc:DocumentType>non-restricted-document</cbc:DocumentType>
+        <cac:Attachment>
+          <cac:ExternalReference>
+            <cbc:URI>https://hyyr.no/procurement/cmtbihwzn000r04k03ifkaj1f</cbc:URI>
+          </cac:ExternalReference>
+        </cac:Attachment>
+      </cac:CallForTendersDocumentReference>
+      <cac:PaymentTerms>
+        
+        <cbc:Note languageID="ENG">See tender documents</cbc:Note>
+      </cac:PaymentTerms>
+      <cac:TendererQualificationRequest>
+        <cac:SpecificTendererRequirement>
+          <cbc:TendererRequirementTypeCode listName="selection-criteria-source">epo-procurement-document</cbc:TendererRequirementTypeCode>
+        </cac:SpecificTendererRequirement>
+      </cac:TendererQualificationRequest>
+      <cac:TendererQualificationRequest>
+        <cac:SpecificTendererRequirement>
+          <cbc:TendererRequirementTypeCode listName="reserved-procurement">none</cbc:TendererRequirementTypeCode>
+        </cac:SpecificTendererRequirement>
+      </cac:TendererQualificationRequest>
+      <cac:TendererQualificationRequest>
+        <cbc:CompanyLegalFormCode listName="required">false</cbc:CompanyLegalFormCode>
+      </cac:TendererQualificationRequest>
+      <cac:ContractExecutionRequirement>
+        <cbc:ExecutionRequirementCode listName="reserved-execution">no</cbc:ExecutionRequirementCode>
+      </cac:ContractExecutionRequirement>
+      <cac:ContractExecutionRequirement>
+        <cbc:ExecutionRequirementCode listName="conditions">performance</cbc:ExecutionRequirementCode>
+        
+        <cbc:Description languageID="ENG">See Tender Documents</cbc:Description>
+      </cac:ContractExecutionRequirement>
+      <cac:ContractExecutionRequirement>
+        <cbc:ExecutionRequirementCode listName="einvoicing">required</cbc:ExecutionRequirementCode>
+      </cac:ContractExecutionRequirement>
+      <cac:ContractExecutionRequirement>
+        <cbc:ExecutionRequirementCode listName="ecatalog-submission">not-allowed</cbc:ExecutionRequirementCode>
+      </cac:ContractExecutionRequirement>
+      <cac:AwardingTerms>
+        <cbc:NoFurtherNegotiationIndicator>true</cbc:NoFurtherNegotiationIndicator>
+        <cac:AwardingCriterion>
+          <cac:SubordinateAwardingCriterion>
+            <ext:UBLExtensions>
+              <ext:UBLExtension>
+                <ext:ExtensionContent>
+                  <efext:EformsExtension>
+                    <efac:AwardCriterionParameter>
+                      <efbc:ParameterCode listName="number-weight">per-exa</efbc:ParameterCode>
+                      <efbc:ParameterNumeric>40</efbc:ParameterNumeric>
+                    </efac:AwardCriterionParameter>
+                  </efext:EformsExtension>
+                </ext:ExtensionContent>
+              </ext:UBLExtension>
+            </ext:UBLExtensions>
+            <cbc:AwardingCriterionTypeCode listName="award-criterion-type">quality</cbc:AwardingCriterionTypeCode>
+            
+            <cbc:Name languageID="ENG">Functionality and user friendliness</cbc:Name>
+            
+            <cbc:Description languageID="ENG">See the description of the award criteria in the document Konkurransegrunnlag_Digital platform for schools.</cbc:Description>
+          </cac:SubordinateAwardingCriterion>
+          <cac:SubordinateAwardingCriterion>
+            <ext:UBLExtensions>
+              <ext:UBLExtension>
+                <ext:ExtensionContent>
+                  <efext:EformsExtension>
+                    <efac:AwardCriterionParameter>
+                      <efbc:ParameterCode listName="number-weight">per-exa</efbc:ParameterCode>
+                      <efbc:ParameterNumeric>50</efbc:ParameterNumeric>
+                    </efac:AwardCriterionParameter>
+                  </efext:EformsExtension>
+                </ext:ExtensionContent>
+              </ext:UBLExtension>
+            </ext:UBLExtensions>
+            <cbc:AwardingCriterionTypeCode listName="award-criterion-type">price</cbc:AwardingCriterionTypeCode>
+            
+            <cbc:Name languageID="ENG">Price</cbc:Name>
+            
+            <cbc:Description languageID="ENG">The price form will be assessed under this criteria.</cbc:Description>
+          </cac:SubordinateAwardingCriterion>
+          <cac:SubordinateAwardingCriterion>
+            <ext:UBLExtensions>
+              <ext:UBLExtension>
+                <ext:ExtensionContent>
+                  <efext:EformsExtension>
+                    <efac:AwardCriterionParameter>
+                      <efbc:ParameterCode listName="number-weight">per-exa</efbc:ParameterCode>
+                      <efbc:ParameterNumeric>10</efbc:ParameterNumeric>
+                    </efac:AwardCriterionParameter>
+                  </efext:EformsExtension>
+                </ext:ExtensionContent>
+              </ext:UBLExtension>
+            </ext:UBLExtensions>
+            <cbc:AwardingCriterionTypeCode listName="award-criterion-type">quality</cbc:AwardingCriterionTypeCode>
+            
+            <cbc:Name languageID="ENG">Standard criteria</cbc:Name>
+            
+            <cbc:Description languageID="ENG">See the description of the award criteria in the document Konkurransegrunnlag_Digital platform for schools.</cbc:Description>
+          </cac:SubordinateAwardingCriterion>
+          <cac:SubordinateAwardingCriterion>
+            <ext:UBLExtensions>
+              <ext:UBLExtension>
+                <ext:ExtensionContent>
+                  <efext:EformsExtension>
+                    <efac:AwardCriterionParameter>
+                      <efbc:ParameterCode listName="number-weight">per-exa</efbc:ParameterCode>
+                      <efbc:ParameterNumeric>0</efbc:ParameterNumeric>
+                    </efac:AwardCriterionParameter>
+                  </efext:EformsExtension>
+                </ext:ExtensionContent>
+              </ext:UBLExtension>
+            </ext:UBLExtensions>
+            <cbc:AwardingCriterionTypeCode listName="award-criterion-type">quality</cbc:AwardingCriterionTypeCode>
+            
+            <cbc:Name languageID="ENG">Climate and environment</cbc:Name>
+            
+            <cbc:Description languageID="ENG">Our assessment is that the obligation to set requirements or weight award criteria related to climate and environment is not applicable cf. the Public Procurement Regulations §5b(3).  
+
+The procurement is for cloud services and we have looked at possible award criteria in order to fulfil the main rule in loa §5 b with a minimum of 30% weighting. One possibility could have been to assess the degree of emission-free electricity supply (excluding hydropower) to the tenderers' computer park, but it is considered both challenging to control, but and disproportionately as regards how big a result a completely marginal positive climate measure will give a set against the great economic willingness to gain weighting. Neither were there any recommendations for either requirements or award criteria from the tenderers in the mark dialogue. In the selection criteria and in the award criteria we have chosen to premiere businesses and systems that are efficient and easy to use. Such an efficiency and intuitive system will again generate a saving of time and therefore less resource use of the server fleet. Our criteria will therefore save electricity in the server park and have a lower impact on the climate by reducing CO2 emissions.
+The procurement has a climate footprint and an environmental impact that is immaterial</cbc:Description>
+          </cac:SubordinateAwardingCriterion>
+        </cac:AwardingCriterion>
+      </cac:AwardingTerms>
+      <cac:AdditionalInformationParty>
+        <cac:PartyIdentification>
+          <cbc:ID schemeName="organization">ORG-0003</cbc:ID>
+        </cac:PartyIdentification>
+      </cac:AdditionalInformationParty>
+      <cac:TenderRecipientParty>
+        <cbc:EndpointID schemeID="URL">https://hyyr.no/procurement/cmtbihwzn000r04k03ifkaj1f</cbc:EndpointID>
+        <cac:PartyIdentification>
+          <cbc:ID schemeName="organization">ORG-0002</cbc:ID>
+        </cac:PartyIdentification>
+      </cac:TenderRecipientParty>
+      <cac:AppealTerms>
+        <cac:AppealInformationParty>
+          <cac:PartyIdentification>
+            <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+          </cac:PartyIdentification>
+        </cac:AppealInformationParty>
+        <cac:AppealReceiverParty>
+          <cac:PartyIdentification>
+            <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+          </cac:PartyIdentification>
+        </cac:AppealReceiverParty>
+      </cac:AppealTerms>
+      <cac:Language>
+        <cbc:ID>NOR</cbc:ID>
+      </cac:Language>
+      <cac:Language>
+        <cbc:ID>ENG</cbc:ID>
+      </cac:Language>
+      <cac:PostAwardProcess>
+        <cbc:ElectronicOrderUsageIndicator>false</cbc:ElectronicOrderUsageIndicator>
+        <cbc:ElectronicPaymentUsageIndicator>false</cbc:ElectronicPaymentUsageIndicator>
+      </cac:PostAwardProcess>
+    </cac:TenderingTerms>
+    <cac:TenderingProcess>
+      <cbc:SubmissionMethodCode listName="esubmission">required</cbc:SubmissionMethodCode>
+      <cbc:CandidateReductionConstraintIndicator>false</cbc:CandidateReductionConstraintIndicator>
+      <cbc:GovernmentAgreementConstraintIndicator>true</cbc:GovernmentAgreementConstraintIndicator>
+      <cac:ParticipationRequestReceptionPeriod>
+        <cbc:EndDate>2026-10-07+02:00</cbc:EndDate>
+        <cbc:EndTime>12:00:00+02:00</cbc:EndTime>
+      </cac:ParticipationRequestReceptionPeriod>
+      <cac:AuctionTerms>
+        <cbc:AuctionConstraintIndicator>false</cbc:AuctionConstraintIndicator>
+      </cac:AuctionTerms>
+      <cac:ContractingSystem>
+        <cbc:ContractingSystemTypeCode listName="dps-usage">none</cbc:ContractingSystemTypeCode>
+      </cac:ContractingSystem>
+      <cac:ContractingSystem>
+        <cbc:ContractingSystemTypeCode listName="framework-agreement">none</cbc:ContractingSystemTypeCode>
+      </cac:ContractingSystem>
+    </cac:TenderingProcess>
+    <cac:ProcurementProject>
+      <cbc:ID schemeName="InternalID">cmtbihx1w000u04k0rvar1izl</cbc:ID>
+      
+      <cbc:Name languageID="ENG">Platform for the administration and distribution of digital teaching aids and learning tools.</cbc:Name>
+      
+      <cbc:Description languageID="ENG">Background and purpose
+
+Arendal is located in the central part of Sørlandet. The municipality has approx. 46,000 inhabitants. Arendal municipality has a decentralised school structure with 16 municipal primary and secondary schools, organised as independent entities with separate rectors and management groups. The schools include both combined 1st - 10th schools and pure primary schools (1st - 7th years), as well as a resource centre with tenders across the stages. The municipality has a total of approx. 5,000 pupils in the primary and lower secondary schools.
+
+Arendal municipality is in an ongoing change of the school structure. Two primary schools (1st – 7th years) and the secondary school for one school have been decided to be folded. The changes are planned to be implemented from 01.01.2027.
+
+The overall responsibility for the school area is at the school office, which follows up on joint priorities, quality work and regulations, and acts as a link between the political level and the schools. The cooperation between the school office and the schools will take place, among other things, through fixed meeting points and joint development work, at the same time that each school adapts the work to local needs.
+
+The adult education is organised as a part of the municipality ́s training and is also a user of relevant digital services.
+
+Arendal municipality needs a joint system for the administration, distribution and access management of digital teaching aids in primary and secondary schools. The municipality has used a system for this purpose over time and has developed good experience with procurement, licence management and access management in this area. The procurement will be carried out as a result of the expiry of the existing agreement and shall ensure the continuation and further development of this work.
+
+Information on the procurement and process is in the document Konkurransegrunnlag_Digital Platform for schools.
+
+Scope 
+
+The estimated annual scope is challenging to estimate. This is connected with the complexity, changes in the school structure and a market with different actors. We estimate that the annual turnover will be NOK 3.0 million excluding VAT, which over 8 years will be NOK 24 million excluding VAT. The contract will have a valid amount of NOK 30 million excluding VAT during the contract period.
+
+The estimated scope is based on experiences with the current supplier, market dialogue and indicative prices in the market. The estimated scope is not binding for the contracting authority.
+
+The following is not included in this procurement:
+
+- Learning platform (LMS) and educational follow-up.
+
+- functionality connected to artificial intelligence (KI)
+
+- other school administrative systems.
+
+The procurement is for the administration and distribution of digital teaching aids and a learning tool. Handling printed teaching aids is not included. The procurement does not include discipline specific teaching aids or individual applications.
+
+Reservations
+
+All conditions that the tenderer has for the tender shall be stated in the point conditions in the requirement specification document.
+
+Alternative tenders
+
+Alternative tenders cannot be submitted.
+
+Documents
+
+Please see the attached documents. Note that the tenderer shall fill in information in the attached documents.</cbc:Description>
+      <cbc:ProcurementTypeCode listName="contract-nature">services</cbc:ProcurementTypeCode>
+      <cac:RequestedTenderTotal>
+        <cbc:EstimatedOverallContractAmount currencyID="NOK">12000000</cbc:EstimatedOverallContractAmount>
+      </cac:RequestedTenderTotal>
+      <cac:MainCommodityClassification>
+        <cbc:ItemClassificationCode listName="cpv">72268000</cbc:ItemClassificationCode>
+      </cac:MainCommodityClassification>
+      <cac:AdditionalCommodityClassification>
+        <cbc:ItemClassificationCode listName="cpv">72222300</cbc:ItemClassificationCode>
+      </cac:AdditionalCommodityClassification>
+      <cac:AdditionalCommodityClassification>
+        <cbc:ItemClassificationCode listName="cpv">72212100</cbc:ItemClassificationCode>
+      </cac:AdditionalCommodityClassification>
+      <cac:AdditionalCommodityClassification>
+        <cbc:ItemClassificationCode listName="cpv">72260000</cbc:ItemClassificationCode>
+      </cac:AdditionalCommodityClassification>
+      <cac:RealizedLocation>
+        
+        <cbc:Description languageID="ENG">Norway</cbc:Description>
+        <cac:Address>
+          <cbc:StreetName>Sam Eydes Plass 2</cbc:StreetName>
+          <cbc:CityName>Arendal</cbc:CityName>
+          <cbc:PostalZone>4836</cbc:PostalZone>
+          <cbc:CountrySubentityCode listName="nuts">NO092</cbc:CountrySubentityCode>
+          <cac:Country>
+            <cbc:IdentificationCode listName="country">NOR</cbc:IdentificationCode>
+          </cac:Country>
+        </cac:Address>
+      </cac:RealizedLocation>
+      <cac:PlannedPeriod>
+        <cbc:StartDate>2027-04-01+02:00</cbc:StartDate>
+        <cbc:EndDate>2030-04-01+02:00</cbc:EndDate>
+      </cac:PlannedPeriod>
+      <cac:ContractExtension>
+        <cbc:MaximumNumberNumeric>5</cbc:MaximumNumberNumeric>
+        <cac:Renewal>
+          <cac:Period>
+            
+            <cbc:Description languageID="ENG">The contract can be extended for 1 year at a time, up to five times.</cbc:Description>
+          </cac:Period>
+        </cac:Renewal>
+      </cac:ContractExtension>
+    </cac:ProcurementProject>
+  </cac:ProcurementProjectLot>
+</ContractNotice>

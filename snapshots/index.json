@@ -38,7 +38,8 @@
     "NEW_MATCH:606030-2026",
     "NEW_MATCH:608000-2026",
     "NEW_MATCH:608731-2026",
-    "NEW_MATCH:611345-2026"
+    "NEW_MATCH:611345-2026",
+    "NEW_MATCH:613172-2026"
   ],
   "notices": {
     "537409-2026": {
@@ -948,7 +949,7 @@
       ],
       "first_seen": "2026-08-24",
       "gone": false,
-      "last_checked": "2026-09-06",
+      "last_checked": "2026-09-07",
       "notice_type": "cn-standard",
       "phrases": [
         "Künstliche Intelligenz"
@@ -1005,7 +1006,7 @@
       ],
       "first_seen": "2026-08-24",
       "gone": false,
-      "last_checked": "2026-09-06",
+      "last_checked": "2026-09-07",
       "notice_type": "cn-standard",
       "phrases": [
         "artificial intelligence"
@@ -1065,7 +1066,7 @@
       ],
       "first_seen": "2026-08-24",
       "gone": false,
-      "last_checked": "2026-09-06",
+      "last_checked": "2026-09-07",
       "notice_type": "cn-standard",
       "phrases": [
         "artificial intelligence"
@@ -1122,7 +1123,7 @@
       ],
       "first_seen": "2026-08-29",
       "gone": false,
-      "last_checked": "2026-09-06",
+      "last_checked": "2026-09-07",
       "notice_type": "can-standard",
       "phrases": [
         "Künstliche Intelligenz"
@@ -1181,7 +1182,7 @@
       ],
       "first_seen": "2026-08-29",
       "gone": false,
-      "last_checked": "2026-09-06",
+      "last_checked": "2026-09-07",
       "notice_type": "can-standard",
       "phrases": [
         "artificial intelligence"
@@ -1245,7 +1246,7 @@
       ],
       "first_seen": "2026-08-29",
       "gone": false,
-      "last_checked": "2026-09-06",
+      "last_checked": "2026-09-07",
       "notice_type": "cn-social",
       "phrases": [
         "artificial intelligence"
@@ -1307,7 +1308,7 @@
       ],
       "first_seen": "2026-08-29",
       "gone": false,
-      "last_checked": "2026-09-06",
+      "last_checked": "2026-09-07",
       "notice_type": "cn-standard",
       "phrases": [
         "artificial intelligence"
@@ -1363,7 +1364,7 @@
       ],
       "first_seen": "2026-08-29",
       "gone": false,
-      "last_checked": "2026-09-06",
+      "last_checked": "2026-09-07",
       "notice_type": "cn-standard",
       "phrases": [
         "artificial intelligence"
@@ -1419,7 +1420,7 @@
       ],
       "first_seen": "2026-08-29",
       "gone": false,
-      "last_checked": "2026-09-06",
+      "last_checked": "2026-09-07",
       "notice_type": "pin-only",
       "phrases": [
         "artificial intelligence"
@@ -1475,7 +1476,7 @@
       ],
       "first_seen": "2026-09-01",
       "gone": false,
-      "last_checked": "2026-09-06",
+      "last_checked": "2026-09-07",
       "notice_type": "cn-standard",
       "phrases": [
         "Künstliche Intelligenz"
@@ -1531,7 +1532,7 @@
       ],
       "first_seen": "2026-09-01",
       "gone": false,
-      "last_checked": "2026-09-06",
+      "last_checked": "2026-09-07",
       "notice_type": "cn-standard",
       "phrases": [
         "intelligence artificielle"
@@ -1587,7 +1588,7 @@
       ],
       "first_seen": "2026-09-01",
       "gone": false,
-      "last_checked": "2026-09-06",
+      "last_checked": "2026-09-07",
       "notice_type": "cn-standard",
       "phrases": [
         "intelligence artificielle"
@@ -1644,7 +1645,7 @@
       ],
       "first_seen": "2026-09-01",
       "gone": false,
-      "last_checked": "2026-09-06",
+      "last_checked": "2026-09-07",
       "notice_type": "veat",
       "phrases": [
         "artificial intelligence"
@@ -1708,7 +1709,7 @@
       ],
       "first_seen": "2026-09-05",
       "gone": false,
-      "last_checked": "2026-09-06",
+      "last_checked": "2026-09-07",
       "notice_type": "cn-standard",
       "phrases": [
         "Künstliche Intelligenz"
@@ -1764,7 +1765,7 @@
       ],
       "first_seen": "2026-09-05",
       "gone": false,
-      "last_checked": "2026-09-06",
+      "last_checked": "2026-09-07",
       "notice_type": "can-standard",
       "phrases": [
         "artificial intelligence"
@@ -1828,7 +1829,7 @@
       ],
       "first_seen": "2026-09-05",
       "gone": false,
-      "last_checked": "2026-09-06",
+      "last_checked": "2026-09-07",
       "notice_type": "cn-standard",
       "phrases": [
         "Künstliche Intelligenz"
@@ -1884,7 +1885,7 @@
       ],
       "first_seen": "2026-09-05",
       "gone": false,
-      "last_checked": "2026-09-06",
+      "last_checked": "2026-09-07",
       "notice_type": "can-standard",
       "phrases": [
         "artificial intelligence"
@@ -1948,7 +1949,7 @@
       ],
       "first_seen": "2026-09-05",
       "gone": false,
-      "last_checked": "2026-09-06",
+      "last_checked": "2026-09-07",
       "notice_type": "can-standard",
       "phrases": [
         "artificial intelligence"
@@ -2012,7 +2013,7 @@
       ],
       "first_seen": "2026-09-05",
       "gone": false,
-      "last_checked": "2026-09-06",
+      "last_checked": "2026-09-07",
       "notice_type": "can-standard",
       "phrases": [
         "artificial intelligence"
@@ -2077,7 +2078,7 @@
       ],
       "first_seen": "2026-09-05",
       "gone": false,
-      "last_checked": "2026-09-06",
+      "last_checked": "2026-09-07",
       "notice_type": "cn-standard",
       "phrases": [
         "Künstliche Intelligenz"
@@ -2133,7 +2134,7 @@
       ],
       "first_seen": "2026-09-05",
       "gone": false,
-      "last_checked": "2026-09-06",
+      "last_checked": "2026-09-07",
       "notice_type": "can-standard",
       "phrases": [
         "artificial intelligence"
@@ -2197,7 +2198,7 @@
       ],
       "first_seen": "2026-09-05",
       "gone": false,
-      "last_checked": "2026-09-06",
+      "last_checked": "2026-09-07",
       "notice_type": "can-standard",
       "phrases": [
         "intelligence artificielle"
@@ -2280,7 +2281,7 @@
       ],
       "first_seen": "2026-09-05",
       "gone": false,
-      "last_checked": "2026-09-06",
+      "last_checked": "2026-09-07",
       "notice_type": "can-standard",
       "phrases": [
         "Künstliche Intelligenz"
@@ -2342,7 +2343,7 @@
       ],
       "first_seen": "2026-09-05",
       "gone": false,
-      "last_checked": "2026-09-06",
+      "last_checked": "2026-09-07",
       "notice_type": "can-standard",
       "phrases": [
         "Künstliche Intelligenz"
@@ -2389,6 +2390,65 @@
         "Deloitte Consulting GmbH"
       ],
       "xml_url": "https://ted.europa.eu/en/notice/611345-2026/xml"
+    },
+    "613172-2026": {
+      "buyer_countries": [
+        "NOR"
+      ],
+      "buyer_names": [
+        "Arendal kommune"
+      ],
+      "cpv": [
+        "72212100",
+        "72222300",
+        "72260000",
+        "72268000"
+      ],
+      "first_seen": "2026-09-07",
+      "gone": false,
+      "last_checked": "2026-09-07",
+      "notice_type": "cn-standard",
+      "phrases": [
+        "artificial intelligence"
+      ],
+      "publication_date": "2026-09-07",
+      "title": "Norway – Software supply services – Platform for the administration and distribution of digital teaching aids and learning tools.",
+      "titles": [
+        "An Iorua – Software supply services – Platform for the administration and distribution of digital teaching aids and learning tools.",
+        "In-Norveġja – Servizzi tal-forniment tas-software – Platform for the administration and distribution of digital teaching aids and learning tools.",
+        "Noorwegen – Leveren van software – Platform for the administration and distribution of digital teaching aids and learning tools.",
+        "Norge – Levering af programmel – Platform for the administration and distribution of digital teaching aids and learning tools.",
+        "Norge – Tillhandahållande av programvara – Platform for the administration and distribution of digital teaching aids and learning tools.",
+        "Norja – Ohjelmiston toimituspalvelut – Platform for the administration and distribution of digital teaching aids and learning tools.",
+        "Norra – Tarkvara tarnimisteenused – Platform for the administration and distribution of digital teaching aids and learning tools.",
+        "Norsko – Dodávka programového vybavení – Platform for the administration and distribution of digital teaching aids and learning tools.",
+        "Noruega – Servicios de suministro de software – Platform for the administration and distribution of digital teaching aids and learning tools.",
+        "Noruega – Serviços de fornecimento de software – Platform for the administration and distribution of digital teaching aids and learning tools.",
+        "Norvegia – Servicii de furnizare de software – Platform for the administration and distribution of digital teaching aids and learning tools.",
+        "Norvegia – Servizi di fornitura di software – Platform for the administration and distribution of digital teaching aids and learning tools.",
+        "Norvegija – Programinės įrangos tiekimo paslaugos – Platform for the administration and distribution of digital teaching aids and learning tools.",
+        "Norveška – Storitve oskrbe s programsko opremo – Platform for the administration and distribution of digital teaching aids and learning tools.",
+        "Norveška – Usluge dobave programske podrške – Platform for the administration and distribution of digital teaching aids and learning tools.",
+        "Norvège – Services de fourniture de logiciels – Platform for the administration and distribution of digital teaching aids and learning tools.",
+        "Norvégia – Szoftverellátási szolgáltatások – Platform for the administration and distribution of digital teaching aids and learning tools.",
+        "Norvēģija – Programmatūras piegādes pakalpojumi – Platform for the administration and distribution of digital teaching aids and learning tools.",
+        "Norway – Software supply services – Platform for the administration and distribution of digital teaching aids and learning tools.",
+        "Norwegen – Bereitstellung von Software – Platform for the administration and distribution of digital teaching aids and learning tools.",
+        "Norwegia – Usługi dostawy oprogramowania – Platform for the administration and distribution of digital teaching aids and learning tools.",
+        "Nórsko – Dodávky softvéru – Platform for the administration and distribution of digital teaching aids and learning tools.",
+        "Νορβηγία – Υπηρεσίες προμήθειας λογισμικού – Platform for the administration and distribution of digital teaching aids and learning tools.",
+        "Норвегия – Услуги по доставка на софтуерни продукти – Platform for the administration and distribution of digital teaching aids and learning tools."
+      ],
+      "vendor_keys": [],
+      "versions": [
+        {
+          "date": "2026-09-07",
+          "file": "snapshots/2026-09-07/notices/613172-2026.xml",
+          "sha256": "f73d47ae3cd5ed10fe1885d448eddda10eae3819530fc5b3912371f07956f959"
+        }
+      ],
+      "winner_names": [],
+      "xml_url": "https://ted.europa.eu/en/notice/613172-2026/xml"
     }
   }
 }

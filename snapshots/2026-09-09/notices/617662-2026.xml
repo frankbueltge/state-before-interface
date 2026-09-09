@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><ContractAwardNotice xmlns="urn:oasis:names:specification:ubl:schema:xsd:ContractAwardNotice-2" xmlns:cac="urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-2" xmlns:cbc="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-2" xmlns:efac="http://data.europa.eu/p27/eforms-ubl-extension-aggregate-components/1" xmlns:efbc="http://data.europa.eu/p27/eforms-ubl-extension-basic-components/1" xmlns:efext="http://data.europa.eu/p27/eforms-ubl-extensions/1" xmlns:ext="urn:oasis:names:specification:ubl:schema:xsd:CommonExtensionComponents-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    	<ext:UBLExtensions>
+    		<ext:UBLExtension>
+    			<ext:ExtensionContent>
+    				<efext:EformsExtension>
+    					<efac:NoticeResult>
+                <cbc:TotalAmount currencyID="NOK">80000000</cbc:TotalAmount>
+                <efac:LotResult>
+            <cbc:ID schemeName="result">RES-0001</cbc:ID>
+            <cbc:TenderResultCode listName="winner-selection-status">selec-w</cbc:TenderResultCode>
+            
+            <efac:LotTender><cbc:ID schemeName="tender">TEN-0001</cbc:ID></efac:LotTender>
+            <efac:ReceivedSubmissionsStatistics>
+                <efbc:StatisticsCode listName="received-submission-type">t-esubm</efbc:StatisticsCode>
+                <efbc:StatisticsNumeric>7</efbc:StatisticsNumeric>
+            </efac:ReceivedSubmissionsStatistics>
+            <efac:SettledContract><cbc:ID schemeName="contract">CON-0001</cbc:ID></efac:SettledContract>
+            <efac:TenderLot>
+              <cbc:ID schemeName="Lot">LOT-0001</cbc:ID>
+            </efac:TenderLot>
+          </efac:LotResult>
+                
+                <efac:LotTender>
+            <cbc:ID schemeName="tender">TEN-0001</cbc:ID>
+            
+            <cac:LegalMonetaryTotal>
+                <cbc:PayableAmount currencyID="NOK">80000000</cbc:PayableAmount>
+            </cac:LegalMonetaryTotal>
+            <efac:SubcontractingTerm>
+                <efbc:TermCode listName="applicability">no</efbc:TermCode>
+            </efac:SubcontractingTerm>
+            <efac:TenderingParty>
+              <cbc:ID schemeName="tendering-party">TPA-0001</cbc:ID>
+            </efac:TenderingParty>
+            <efac:TenderLot>
+              <cbc:ID schemeName="Lot">LOT-0001</cbc:ID>
+            </efac:TenderLot>
+            <efac:TenderReference>
+              <cbc:ID>5413</cbc:ID>
+            </efac:TenderReference>
+          </efac:LotTender>
+                <efac:SettledContract>
+            <cbc:ID schemeName="contract">CON-0001</cbc:ID>
+            
+            <cbc:IssueDate>2026-09-02Z</cbc:IssueDate>
+            
+            <efac:ContractReference><cbc:ID>9150</cbc:ID></efac:ContractReference>
+            <efac:LotTender><cbc:ID schemeName="tender">TEN-0001</cbc:ID></efac:LotTender>
+
+          </efac:SettledContract>
+						    <efac:TenderingParty>
+            <cbc:ID schemeName="tendering-party">TPA-0001</cbc:ID>
+            <efac:Tenderer>
+              <cbc:ID schemeName="organization">ORG-0004</cbc:ID>
+              
+            </efac:Tenderer>
+          </efac:TenderingParty>
+    					</efac:NoticeResult>
+    					<efac:NoticeSubType>
+                <cbc:SubTypeCode listName="notice-subtype">29</cbc:SubTypeCode>
+    					</efac:NoticeSubType>
+    					<efac:Organizations>
+                <efac:Organization>
+        
+         <efac:Company>
+          <cbc:WebsiteURI>https://www.norsk-tipping.no</cbc:WebsiteURI>
+          <cac:PartyIdentification>
+             <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+          </cac:PartyIdentification>
+          <cac:PartyName><cbc:Name languageID="ENG">Norsk Tipping</cbc:Name></cac:PartyName>
+          <cac:PostalAddress>
+             <cbc:StreetName>Postboks 4414</cbc:StreetName>
+             <cbc:CityName>HAMAR</cbc:CityName>
+             <cbc:PostalZone>2325</cbc:PostalZone>
+             <cbc:CountrySubentityCode listName="nuts">NO020</cbc:CountrySubentityCode>
+             <cac:Country>
+                <cbc:IdentificationCode listName="country">NOR</cbc:IdentificationCode>
+             </cac:Country>
+          </cac:PostalAddress>
+          <cac:PartyLegalEntity>
+             <cbc:CompanyID>925836613</cbc:CompanyID>
+          </cac:PartyLegalEntity>
+          <cac:Contact>
+             <cbc:Name>Erik Johannesen</cbc:Name>
+             <cbc:Telephone>+47 62514000</cbc:Telephone>
+             <cbc:ElectronicMail>Erik.johannesen@norsk-tipping.no</cbc:ElectronicMail>
+          </cac:Contact>
+         </efac:Company>
+        </efac:Organization>
+      <efac:Organization>
+       <efac:Company>
+           <cbc:WebsiteURI>https://www.domstol.no/no/domstoler/tingrett/hedmarken-og-osterdal-tingrett/</cbc:WebsiteURI>
+           <cac:PartyIdentification>
+               <cbc:ID schemeName="organization">ORG-0002</cbc:ID>
+           </cac:PartyIdentification>
+           <cac:PartyName>
+               <cbc:Name languageID="ENG">Hedmarken og Østerdal tingrett</cbc:Name>
+           </cac:PartyName>
+           <cac:PostalAddress>
+               <cbc:StreetName>Postboks 4450</cbc:StreetName>
+               <cbc:CityName>Hamar</cbc:CityName>
+               <cbc:PostalZone>2326</cbc:PostalZone>
+               <cbc:CountrySubentityCode listName="nuts">NO020</cbc:CountrySubentityCode>
+               <cac:Country>
+                   <cbc:IdentificationCode listName="country">NOR</cbc:IdentificationCode>
+               </cac:Country>
+           </cac:PostalAddress>
+           <cac:PartyLegalEntity>
+               <cbc:CompanyID>935364892</cbc:CompanyID>
+           </cac:PartyLegalEntity>
+           <cac:Contact>
+               <cbc:Telephone>+47 62550650</cbc:Telephone>
+               <cbc:ElectronicMail>toinpost@domstol.no</cbc:ElectronicMail>
+           </cac:Contact>
+       </efac:Company>
+      </efac:Organization>
+      <efac:Organization>
+       <efac:Company>
+           <cbc:WebsiteURI>https://artifik.no</cbc:WebsiteURI>
+           <cac:PartyIdentification>
+               <cbc:ID schemeName="organization">ORG-0003</cbc:ID>
+           </cac:PartyIdentification>
+           <cac:PartyName>
+               <cbc:Name languageID="ENG">Artifik AS</cbc:Name>
+           </cac:PartyName>
+           <cac:PostalAddress>
+               <cbc:StreetName>Stortingsgata 12</cbc:StreetName>
+               <cbc:CityName>Oslo</cbc:CityName>
+               <cbc:PostalZone>0161</cbc:PostalZone>
+               <cbc:CountrySubentityCode listName="nuts">NO081</cbc:CountrySubentityCode>
+               <cac:Country>
+                   <cbc:IdentificationCode listName="country">NOR</cbc:IdentificationCode>
+               </cac:Country>
+           </cac:PostalAddress>
+           <cac:PartyLegalEntity>
+               <cbc:CompanyID>925364967</cbc:CompanyID>
+           </cac:PartyLegalEntity>
+           <cac:Contact>
+               <cbc:ElectronicMail>support@artifik.no</cbc:ElectronicMail>
+           </cac:Contact>
+       </efac:Company>
+      </efac:Organization>
+                <efac:Organization>
+             <efac:Company>
+                <cbc:WebsiteURI>https://mnemonic.no</cbc:WebsiteURI>
+                <efbc:CompanySizeCode listName="economic-operator-size">large</efbc:CompanySizeCode>
+                <cac:PartyIdentification>
+                   <cbc:ID schemeName="organization">ORG-0004</cbc:ID>
+                </cac:PartyIdentification>
+                <cac:PartyName><cbc:Name languageID="ENG">Mnemonic AS</cbc:Name></cac:PartyName>
+                <cac:PostalAddress>
+                   <cbc:StreetName>Henrik Ibsens gate 100</cbc:StreetName>
+                   <cbc:CityName>Oslo</cbc:CityName>
+                   <cbc:PostalZone>0255</cbc:PostalZone>
+                   <cbc:CountrySubentityCode listName="nuts">NOZZZ</cbc:CountrySubentityCode>
+                   <cac:Country>
+                      <cbc:IdentificationCode listName="country">NOR</cbc:IdentificationCode>
+                   </cac:Country>
+                </cac:PostalAddress>
+                <cac:PartyLegalEntity>
+                   <cbc:CompanyID>982089549</cbc:CompanyID>
+                </cac:PartyLegalEntity>
+                <cac:Contact>
+                   <cbc:Telephone>+47 23204700</cbc:Telephone>
+                   <cbc:ElectronicMail>contact@mnemonic.no</cbc:ElectronicMail>
+                </cac:Contact>
+             </efac:Company>
+          </efac:Organization>
+    					</efac:Organizations>
+    				<efac:Publication><efbc:NoticePublicationID schemeName="ojs-notice-id">00617662-2026</efbc:NoticePublicationID><efbc:GazetteID schemeName="ojs-id">173/2026</efbc:GazetteID><efbc:PublicationDate>2026-09-08+02:00</efbc:PublicationDate></efac:Publication></efext:EformsExtension>
+    			</ext:ExtensionContent>
+    		</ext:UBLExtension>
+    	</ext:UBLExtensions>
+   	<cbc:UBLVersionID>2.3</cbc:UBLVersionID>
+    	<cbc:CustomizationID>eforms-sdk-1.13</cbc:CustomizationID>
+      <cbc:ID schemeName="notice-id">a99d2007-1b7d-4b40-aaa1-5636e5fa2979</cbc:ID>
+      <cbc:ContractFolderID>1e9d4d4f-df20-4008-879f-436ec19bf40e</cbc:ContractFolderID>
+      <cbc:IssueDate>2026-09-07Z</cbc:IssueDate>
+    <cbc:IssueTime>10:54:56.790Z</cbc:IssueTime>
+    	<cbc:VersionID>01</cbc:VersionID>
+    	<cbc:RegulatoryDomain>32014L0024</cbc:RegulatoryDomain>
+      <cbc:NoticeTypeCode listName="result">can-standard</cbc:NoticeTypeCode>
+    	<cbc:NoticeLanguageCode>ENG</cbc:NoticeLanguageCode>
+    	
+      <cac:ContractingParty>
+        <cbc:BuyerProfileURI>https://www.norsk-tipping.no</cbc:BuyerProfileURI>
+        <cac:ContractingPartyType><cbc:PartyTypeCode listName="buyer-legal-type">body-pl</cbc:PartyTypeCode></cac:ContractingPartyType>
+        <cac:ContractingActivity>
+          <cbc:ActivityTypeCode listName="authority-activity">gen-pub</cbc:ActivityTypeCode>
+        </cac:ContractingActivity>
+        <cac:Party>
+           <cac:PartyIdentification>
+              <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+           </cac:PartyIdentification>
+           <cac:ServiceProviderParty>
+      <cbc:ServiceTypeCode listName="organisation-role">serv-prov</cbc:ServiceTypeCode>
+        <cac:Party>
+          <cac:PartyIdentification>
+            <cbc:ID schemeName="organization">ORG-0003</cbc:ID>
+          </cac:PartyIdentification>
+        </cac:Party>
+     </cac:ServiceProviderParty>
+        </cac:Party>
+    </cac:ContractingParty>
+      <cac:TenderingProcess>
+      <cbc:ProcedureCode listName="procurement-procedure-type">neg-w-call</cbc:ProcedureCode>
+      <cac:ProcessJustification><cbc:ProcessReasonCode listName="accelerated-procedure">false</cbc:ProcessReasonCode></cac:ProcessJustification>
+    </cac:TenderingProcess>
+      <cac:ProcurementProject>
+  <cbc:ID>3756</cbc:ID>
+   <cbc:Name languageID="ENG">IT Security Partner</cbc:Name>
+   <cbc:Description languageID="ENG">1.1 Purpose
+
+Norsk Tipping ́s aim with this procurement is to join up with a partner who can deliver a modern and comprehensive system that contributes to ensuring Norsk Tipping ́s values against all forms of security breaches.
+
+1.2 Need that shall be covered
+
+The procurement shall cover the need for a comprehensive system that prevents security breaches and ensures quick and efficient handling of security incidents. The area is complex and in continuous development, which sets high requirements for flexibility and adaptability. A collaborating partner must therefore have documented ability to quickly identify and adapt to new threats and attack techniques, both as regards detection and protection from security incidents.
+
+The coming contract is planned for four (4) years, with an option for an extension for a further 1+1 year. The total possible contract period is therefore six (6) years.
+
+Since the last procurement, both the threat picture and the geo-political framework conditions have changed significantly. At the same time Norsk Tipping ́s operative model for IT systems has evolved. The data centre at Hamar remains a central part of infrastructure, but there has been extensive modernisation, as well as changes in both service placement and operational models for systems and games.
+
+The new agreement must therefore be flexible and adapted to changes in technology, architecture and delivery models. Furthermore, it shall be easy to regulate in accordance with variations in traffic and transaction amounts, both up and down. The price models shall also be designed so that they can smoothly handle changed needs throughout the contract period.
+
+Increased use of services provided as cloud services and new business models means that both systems and communication structures are more globally integrated. At the same time, the use of private, public and hybrid cloud solutions introduces new security challenges that must be dealt with through requirements, clear management and continual risk assessment.
+
+Based on this, Norsk Tipping is looking for a security partner with documented experience and high professional competence within ensuring complex and modern IT environments with a high transaction volume. The chosen partner will have a central role in securing and developing modern methods, processes and technologies for the prevention, detection and handling of security events.
+
+The tenderer's ability to use new technology – especially within artificial intelligence – will be important both for better detection and to prevent events from occurring. The list below shows some of the relevant areas:
+
+·        Security Monitoring 24/7/365 (SOC services)
+
+·        Event Notification/Handling
+
+·        Client Security
+
+·        Server security
+
+·        Network security
+
+·        Cloud security
+
+·        E-mail security
+
+·        Threat Intelligence
+
+·        Vulnerability notification/handling
+
+·        Security Testing
+
+·        Red/Blue/Purple Team Capabilities
+
+·        IRT Services
+
+·        etc.
+
+Norsk Tipping has other agreements that are limited to this agreement. Examples of such agreements are services for DDoS protection as well as agreements for specialised components within security, networks and servers. Good interaction and effective coordination with other suppliers and solutions will therefore be decisive for goal achievement.</cbc:Description>
+   <cbc:ProcurementTypeCode listName="contract-nature">services</cbc:ProcurementTypeCode>
+   <cac:RequestedTenderTotal>
+            
+            <cbc:EstimatedOverallContractAmount currencyID="NOK">80000000</cbc:EstimatedOverallContractAmount>
+          </cac:RequestedTenderTotal>
+   <cac:MainCommodityClassification>
+      <cbc:ItemClassificationCode listName="cpv">72000000</cbc:ItemClassificationCode>
+   </cac:MainCommodityClassification>
+   <cac:AdditionalCommodityClassification>
+      <cbc:ItemClassificationCode listName="cpv">72200000</cbc:ItemClassificationCode>
+   </cac:AdditionalCommodityClassification><cac:AdditionalCommodityClassification>
+      <cbc:ItemClassificationCode listName="cpv">72210000</cbc:ItemClassificationCode>
+   </cac:AdditionalCommodityClassification>
+   <cac:RealizedLocation>
+        <cac:Address>
+          <cbc:CountrySubentityCode listName="nuts">NO020</cbc:CountrySubentityCode>
+          <cac:Country>
+            <cbc:IdentificationCode listName="country">NOR</cbc:IdentificationCode>
+          </cac:Country>
+        </cac:Address>
+      </cac:RealizedLocation>
+   <cac:PlannedPeriod><cbc:StartDate>2026-11-01Z</cbc:StartDate>
+    <cbc:EndDate>2030-10-31Z</cbc:EndDate></cac:PlannedPeriod>
+  </cac:ProcurementProject>
+      <cac:ProcurementProjectLot>
+       <cbc:ID schemeName="Lot">LOT-0001</cbc:ID>
+       <cac:TenderingTerms>
+          
+          <cbc:FundingProgramCode listName="eu-funded">no-eu-funds</cbc:FundingProgramCode>
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          <cac:AwardingTerms>
+        
+        
+        
+      <cac:AwardingCriterion>
+        <cac:SubordinateAwardingCriterion>
+              <ext:UBLExtensions>
+          <ext:UBLExtension>
+            <ext:ExtensionContent>
+              <efext:EformsExtension>
+                <efac:AwardCriterionParameter>
+                  <efbc:ParameterCode listName="number-weight">per-exa</efbc:ParameterCode>
+                  <efbc:ParameterNumeric>30</efbc:ParameterNumeric>
+                </efac:AwardCriterionParameter>
+              </efext:EformsExtension>
+            </ext:ExtensionContent>
+          </ext:UBLExtension>
+        </ext:UBLExtensions>
+              <cbc:AwardingCriterionTypeCode listName="award-criterion-type">price</cbc:AwardingCriterionTypeCode>
+              <cbc:Description languageID="ENG">Price</cbc:Description>
+                 </cac:SubordinateAwardingCriterion><cac:SubordinateAwardingCriterion>
+              <ext:UBLExtensions>
+          <ext:UBLExtension>
+            <ext:ExtensionContent>
+              <efext:EformsExtension>
+                <efac:AwardCriterionParameter>
+                  <efbc:ParameterCode listName="number-weight">per-exa</efbc:ParameterCode>
+                  <efbc:ParameterNumeric>70</efbc:ParameterNumeric>
+                </efac:AwardCriterionParameter>
+              </efext:EformsExtension>
+            </ext:ExtensionContent>
+          </ext:UBLExtension>
+        </ext:UBLExtensions>
+              <cbc:AwardingCriterionTypeCode listName="award-criterion-type">quality</cbc:AwardingCriterionTypeCode>
+              <cbc:Description languageID="ENG">Quality requirements</cbc:Description>
+                 </cac:SubordinateAwardingCriterion>
+      </cac:AwardingCriterion>
+    </cac:AwardingTerms>
+          <cac:AdditionalInformationParty>
+             <cac:PartyIdentification>
+                <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+             </cac:PartyIdentification>
+          </cac:AdditionalInformationParty>
+          
+           
+           <cac:AppealTerms>
+                 <cac:AppealInformationParty>
+                    <cac:PartyIdentification>
+                        <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+                    </cac:PartyIdentification>
+                </cac:AppealInformationParty>
+              <cac:AppealReceiverParty>
+                 <cac:PartyIdentification>
+                    <cbc:ID schemeName="organization">ORG-0002</cbc:ID>
+                 </cac:PartyIdentification>
+              </cac:AppealReceiverParty>
+           </cac:AppealTerms>
+           
+           
+           
+        </cac:TenderingTerms>
+        <cac:TenderingProcess>
+           
+           
+           
+           <cbc:GovernmentAgreementConstraintIndicator>false</cbc:GovernmentAgreementConstraintIndicator>
+           
+           <cac:AuctionTerms>
+              <cbc:AuctionConstraintIndicator>false</cbc:AuctionConstraintIndicator>
+           </cac:AuctionTerms>
+           
+           <cac:ContractingSystem>
+              <cbc:ContractingSystemTypeCode listName="framework-agreement">none</cbc:ContractingSystemTypeCode>
+           </cac:ContractingSystem>
+           <cac:ContractingSystem>
+              <cbc:ContractingSystemTypeCode listName="dps-usage">none</cbc:ContractingSystemTypeCode>
+           </cac:ContractingSystem>
+        </cac:TenderingProcess>
+        <cac:ProcurementProject>
+          <cbc:ID>4877</cbc:ID>
+          <cbc:Name languageID="ENG">IT Security Partner</cbc:Name>
+          <cbc:Description languageID="ENG">1.1 Purpose
+
+Norsk Tipping ́s aim with this procurement is to join up with a partner who can deliver a modern and comprehensive system that contributes to ensuring Norsk Tipping ́s values against all forms of security breaches.
+
+1.2 Need that shall be covered
+
+The procurement shall cover the need for a comprehensive system that prevents security breaches and ensures quick and efficient handling of security incidents. The area is complex and in continuous development, which sets high requirements for flexibility and adaptability. A collaborating partner must therefore have documented ability to quickly identify and adapt to new threats and attack techniques, both as regards detection and protection from security incidents.
+
+The coming contract is planned for four (4) years, with an option for an extension for a further 1+1 year. The total possible contract period is therefore six (6) years.
+
+Since the last procurement, both the threat picture and the geo-political framework conditions have changed significantly. At the same time Norsk Tipping ́s operative model for IT systems has evolved. The data centre at Hamar remains a central part of infrastructure, but there has been extensive modernisation, as well as changes in both service placement and operational models for systems and games.
+
+The new agreement must therefore be flexible and adapted to changes in technology, architecture and delivery models. Furthermore, it shall be easy to regulate in accordance with variations in traffic and transaction amounts, both up and down. The price models shall also be designed so that they can smoothly handle changed needs throughout the contract period.
+
+Increased use of services provided as cloud services and new business models means that both systems and communication structures are more globally integrated. At the same time, the use of private, public and hybrid cloud solutions introduces new security challenges that must be dealt with through requirements, clear management and continual risk assessment.
+
+Based on this, Norsk Tipping is looking for a security partner with documented experience and high professional competence within ensuring complex and modern IT environments with a high transaction volume. The chosen partner will have a central role in securing and developing modern methods, processes and technologies for the prevention, detection and handling of security events.
+
+The tenderer's ability to use new technology – especially within artificial intelligence – will be important both for better detection and to prevent events from occurring. The list below shows some of the relevant areas:
+
+·        Security Monitoring 24/7/365 (SOC services)
+
+·        Event Notification/Handling
+
+·        Client Security
+
+·        Server security
+
+·        Network security
+
+·        Cloud security
+
+·        E-mail security
+
+·        Threat Intelligence
+
+·        Vulnerability notification/handling
+
+·        Security Testing
+
+·        Red/Blue/Purple Team Capabilities
+
+·        IRT Services
+
+·        etc.
+
+Norsk Tipping has other agreements that are limited to this agreement. Examples of such agreements are services for DDoS protection as well as agreements for specialised components within security, networks and servers. Good interaction and effective coordination with other suppliers and solutions will therefore be decisive for goal achievement.</cbc:Description>
+          <cbc:ProcurementTypeCode listName="contract-nature">services</cbc:ProcurementTypeCode>
+          
+          
+          <cac:MainCommodityClassification>
+      <cbc:ItemClassificationCode listName="cpv">72000000</cbc:ItemClassificationCode>
+   </cac:MainCommodityClassification>
+   <cac:AdditionalCommodityClassification>
+      <cbc:ItemClassificationCode listName="cpv">72200000</cbc:ItemClassificationCode>
+   </cac:AdditionalCommodityClassification><cac:AdditionalCommodityClassification>
+      <cbc:ItemClassificationCode listName="cpv">72210000</cbc:ItemClassificationCode>
+   </cac:AdditionalCommodityClassification>
+          <cac:RealizedLocation>
+        <cac:Address>
+          <cbc:CountrySubentityCode listName="nuts">NO020</cbc:CountrySubentityCode>
+          <cac:Country>
+            <cbc:IdentificationCode listName="country">NOR</cbc:IdentificationCode>
+          </cac:Country>
+        </cac:Address>
+      </cac:RealizedLocation>
+          <cac:PlannedPeriod><cbc:StartDate>2026-11-01Z</cbc:StartDate>
+    <cbc:EndDate>2030-10-31Z</cbc:EndDate></cac:PlannedPeriod>
+          <cac:ContractExtension>
+        
+        <cbc:MaximumNumberNumeric>2</cbc:MaximumNumberNumeric>
+        <cac:Renewal>
+       <cac:Period>
+         <cbc:Description languageID="ENG">
+1 + 1 year.
+            1+1 year (31.10.2032)
+         </cbc:Description>
+       </cac:Period>
+     </cac:Renewal>
+    </cac:ContractExtension>
+        </cac:ProcurementProject>
+      </cac:ProcurementProjectLot>
+    	<cac:TenderResult>
+        <cbc:AwardDate>2026-06-30Z</cbc:AwardDate>
+    	</cac:TenderResult>
+    </ContractAwardNotice>

@@ -1,0 +1,166 @@
+{
+  "candidates": {
+    "declined": [
+      "c-20260909-01",
+      "c-20260909-02",
+      "c-20260909-03",
+      "c-20260909-04"
+    ],
+    "open": []
+  },
+  "date": "2026-09-09",
+  "envelope_version": 1,
+  "failures": [
+    {
+      "error": "HTTP 202",
+      "scope": "recheck:590745-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "recheck:592241-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "recheck:593981-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "recheck:596026-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "recheck:596208-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "recheck:597131-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "recheck:599056-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "recheck:600277-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "recheck:602661-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "recheck:603352-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "recheck:603694-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "recheck:604590-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "recheck:604647-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "recheck:604662-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "recheck:604840-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "recheck:605512-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "recheck:606030-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "recheck:608000-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "recheck:608731-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "recheck:611345-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "recheck:613172-2026"
+    }
+  ],
+  "http_429": 0,
+  "new_matches": [
+    "616969-2026",
+    "617662-2026",
+    "617955-2026",
+    "622567-2026"
+  ],
+  "phrases": [
+    {
+      "lang": "eng",
+      "phrase": "artificial intelligence",
+      "total": 3,
+      "truncated": false
+    },
+    {
+      "lang": "deu",
+      "phrase": "Künstliche Intelligenz",
+      "total": 2,
+      "truncated": false
+    },
+    {
+      "lang": "fra",
+      "phrase": "intelligence artificielle",
+      "total": 0,
+      "truncated": false
+    }
+  ],
+  "rechecked": 22,
+  "requests": 29,
+  "signals": [
+    {
+      "candidate": "c-20260909-01",
+      "detail": "notice 616969-2026 entered the envelope (phrases: artificial intelligence)",
+      "key": "NEW_MATCH:616969-2026",
+      "notices": [
+        "616969-2026"
+      ],
+      "type": "NEW_MATCH"
+    },
+    {
+      "candidate": "c-20260909-02",
+      "detail": "notice 617662-2026 entered the envelope (phrases: artificial intelligence)",
+      "key": "NEW_MATCH:617662-2026",
+      "notices": [
+        "617662-2026"
+      ],
+      "type": "NEW_MATCH"
+    },
+    {
+      "candidate": "c-20260909-03",
+      "detail": "notice 617955-2026 entered the envelope (phrases: Künstliche Intelligenz)",
+      "key": "NEW_MATCH:617955-2026",
+      "notices": [
+        "617955-2026"
+      ],
+      "type": "NEW_MATCH"
+    },
+    {
+      "candidate": "c-20260909-04",
+      "detail": "notice 622567-2026 entered the envelope (phrases: Künstliche Intelligenz)",
+      "key": "NEW_MATCH:622567-2026",
+      "notices": [
+        "622567-2026"
+      ],
+      "type": "NEW_MATCH"
+    }
+  ]
+}

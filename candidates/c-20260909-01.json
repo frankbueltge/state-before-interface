@@ -1,0 +1,54 @@
+{
+  "created": "2026-09-09T09:50:12+00:00",
+  "criteria": {
+    "consequential_relation": {
+      "passed": false,
+      "reason": "no marker of a sensitive administrative domain (employment, welfare, policing, migration, health, education, justice, taxation)"
+    },
+    "digital_form_possible": {
+      "passed": true,
+      "reason": "form hypothesis: an annotated dossier along the structure of the notice"
+    },
+    "falsifiable_investigation": {
+      "passed": true,
+      "reason": "testable proposition: buyer 'Technology Ireland ICT Skillnet' already on record (592241-2026) — this is a sustained procurement programme, not a one-off purchase"
+    },
+    "machine_readable_evidence": {
+      "passed": true,
+      "reason": "1 preserved eForms XML record(s) with SHA-256 on file"
+    },
+    "machine_scale_advantage": {
+      "passed": true,
+      "reason": "machine memory relates this record to prior records: buyer 'Technology Ireland ICT Skillnet' already on record (592241-2026)"
+    },
+    "observable_public_problem": {
+      "passed": true,
+      "reason": "identifiable public buyer(s): Technology Ireland ICT Skillnet"
+    }
+  },
+  "form_hypothesis": "an annotated dossier along the structure of the notice",
+  "id": "c-20260909-01",
+  "notices_context": [
+    {
+      "buyers": [
+        "Technology Ireland ICT Skillnet"
+      ],
+      "countries": [
+        "IRL"
+      ],
+      "publication_number": "616969-2026",
+      "title": "Ireland – Business analysis consultancy services – RFAPD for the provision of Enterprise AI Adoption and Capability Development Services divided into 4 Lots to Technology Ireland ICT Skillne"
+    }
+  ],
+  "proposition": "buyer 'Technology Ireland ICT Skillnet' already on record (592241-2026) — this is a sustained procurement programme, not a one-off purchase",
+  "signal": {
+    "date": "2026-09-09",
+    "detail": "notice 616969-2026 entered the envelope (phrases: artificial intelligence)",
+    "key": "NEW_MATCH:616969-2026",
+    "notices": [
+      "616969-2026"
+    ],
+    "type": "NEW_MATCH"
+  },
+  "verdict": "DECLINED"
+}

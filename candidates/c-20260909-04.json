@@ -1,0 +1,54 @@
+{
+  "created": "2026-09-09T09:50:12+00:00",
+  "criteria": {
+    "consequential_relation": {
+      "passed": true,
+      "reason": "touches a sensitive administrative domain: CPV 75130000 (prefix 75) (622567-2026)"
+    },
+    "digital_form_possible": {
+      "passed": true,
+      "reason": "form hypothesis: an annotated dossier along the structure of the notice"
+    },
+    "falsifiable_investigation": {
+      "passed": false,
+      "reason": "no machine-testable proposition can be formed yet"
+    },
+    "machine_readable_evidence": {
+      "passed": true,
+      "reason": "1 preserved eForms XML record(s) with SHA-256 on file"
+    },
+    "machine_scale_advantage": {
+      "passed": false,
+      "reason": "a single first-seen notice is equally visible to any human reader of the journal"
+    },
+    "observable_public_problem": {
+      "passed": true,
+      "reason": "identifiable public buyer(s): Bundesministerium für Wirtschaft und Energie"
+    }
+  },
+  "form_hypothesis": "an annotated dossier along the structure of the notice",
+  "id": "c-20260909-04",
+  "notices_context": [
+    {
+      "buyers": [
+        "Bundesministerium für Wirtschaft und Energie"
+      ],
+      "countries": [
+        "DEU"
+      ],
+      "publication_number": "622567-2026",
+      "title": "Germany – Research and development services and related consultancy services – Studie Zukunftsprojektion und Entwicklungspotentiale der Kultur- und Kreativwirtschaft 2037"
+    }
+  ],
+  "proposition": null,
+  "signal": {
+    "date": "2026-09-09",
+    "detail": "notice 622567-2026 entered the envelope (phrases: Künstliche Intelligenz)",
+    "key": "NEW_MATCH:622567-2026",
+    "notices": [
+      "622567-2026"
+    ],
+    "type": "NEW_MATCH"
+  },
+  "verdict": "DECLINED"
+}

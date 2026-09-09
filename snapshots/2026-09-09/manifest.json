@@ -1,0 +1,61 @@
+{
+  "entries": [
+    {
+      "bytes": 26187,
+      "file": "snapshots/2026-09-09/search/artificial-intelligence-p1.json",
+      "http_status": 200,
+      "retrieved_at": "2026-09-09T09:49:38+00:00",
+      "sha256": "8eb813ee1f9b44bbddd694954e478031e7f96f6a404cd51d01aea068f331bcb8",
+      "url": "https://api.ted.europa.eu/v3/notices/search"
+    },
+    {
+      "bytes": 19445,
+      "file": "snapshots/2026-09-09/search/kunstliche-intelligenz-p1.json",
+      "http_status": 200,
+      "retrieved_at": "2026-09-09T09:49:39+00:00",
+      "sha256": "9490b6b77f9524ec3cb7ccb2938aa41c77c3967715990e3bf1cb0c0e52db604e",
+      "url": "https://api.ted.europa.eu/v3/notices/search"
+    },
+    {
+      "bytes": 78,
+      "file": "snapshots/2026-09-09/search/intelligence-artificielle-p1.json",
+      "http_status": 200,
+      "retrieved_at": "2026-09-09T09:49:41+00:00",
+      "sha256": "4392cb2130efe494f4bca8f6967874500e6242fa87227fa0bcb8504a0bfb6737",
+      "url": "https://api.ted.europa.eu/v3/notices/search"
+    },
+    {
+      "bytes": 48859,
+      "file": "snapshots/2026-09-09/notices/616969-2026.xml",
+      "http_status": 200,
+      "retrieved_at": "2026-09-09T09:49:43+00:00",
+      "sha256": "c48eaf71248c35bd6efba2f2b314cab0d1ef6e45309083a8211dfbd31d1eeac9",
+      "url": "https://ted.europa.eu/en/notice/616969-2026/xml"
+    },
+    {
+      "bytes": 24711,
+      "file": "snapshots/2026-09-09/notices/617662-2026.xml",
+      "http_status": 200,
+      "retrieved_at": "2026-09-09T09:49:43+00:00",
+      "sha256": "831a7e99715f668254a509f49061efd7ef57c6307226ab70a5954cf74887fb71",
+      "url": "https://ted.europa.eu/en/notice/617662-2026/xml"
+    },
+    {
+      "bytes": 26157,
+      "file": "snapshots/2026-09-09/notices/617955-2026.xml",
+      "http_status": 200,
+      "retrieved_at": "2026-09-09T09:49:45+00:00",
+      "sha256": "cca8e1c6984baeac621c0c9e4a99c67271abee35b7aeb46b6f7a3f282be5658d",
+      "url": "https://ted.europa.eu/en/notice/617955-2026/xml"
+    },
+    {
+      "bytes": 41358,
+      "file": "snapshots/2026-09-09/notices/622567-2026.xml",
+      "http_status": 200,
+      "retrieved_at": "2026-09-09T09:49:46+00:00",
+      "sha256": "333811acb3f986beb86253795ef0cd12f0ef924e0cb382f454cce500ee8d73d2",
+      "url": "https://ted.europa.eu/en/notice/622567-2026/xml"
+    }
+  ],
+  "run_date": "2026-09-09"
+}

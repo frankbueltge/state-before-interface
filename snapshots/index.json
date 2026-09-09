@@ -39,7 +39,11 @@
     "NEW_MATCH:608000-2026",
     "NEW_MATCH:608731-2026",
     "NEW_MATCH:611345-2026",
-    "NEW_MATCH:613172-2026"
+    "NEW_MATCH:613172-2026",
+    "NEW_MATCH:616969-2026",
+    "NEW_MATCH:617662-2026",
+    "NEW_MATCH:617955-2026",
+    "NEW_MATCH:622567-2026"
   ],
   "notices": {
     "537409-2026": {
@@ -1123,7 +1127,7 @@
       ],
       "first_seen": "2026-08-29",
       "gone": false,
-      "last_checked": "2026-09-08",
+      "last_checked": "2026-09-09",
       "notice_type": "can-standard",
       "phrases": [
         "Künstliche Intelligenz"
@@ -1182,7 +1186,7 @@
       ],
       "first_seen": "2026-08-29",
       "gone": false,
-      "last_checked": "2026-09-08",
+      "last_checked": "2026-09-09",
       "notice_type": "can-standard",
       "phrases": [
         "artificial intelligence"
@@ -1246,7 +1250,7 @@
       ],
       "first_seen": "2026-08-29",
       "gone": false,
-      "last_checked": "2026-09-08",
+      "last_checked": "2026-09-09",
       "notice_type": "cn-social",
       "phrases": [
         "artificial intelligence"
@@ -1308,7 +1312,7 @@
       ],
       "first_seen": "2026-08-29",
       "gone": false,
-      "last_checked": "2026-09-08",
+      "last_checked": "2026-09-09",
       "notice_type": "cn-standard",
       "phrases": [
         "artificial intelligence"
@@ -1364,7 +1368,7 @@
       ],
       "first_seen": "2026-08-29",
       "gone": false,
-      "last_checked": "2026-09-08",
+      "last_checked": "2026-09-09",
       "notice_type": "cn-standard",
       "phrases": [
         "artificial intelligence"
@@ -1420,7 +1424,7 @@
       ],
       "first_seen": "2026-08-29",
       "gone": false,
-      "last_checked": "2026-09-08",
+      "last_checked": "2026-09-09",
       "notice_type": "pin-only",
       "phrases": [
         "artificial intelligence"
@@ -1476,7 +1480,7 @@
       ],
       "first_seen": "2026-09-01",
       "gone": false,
-      "last_checked": "2026-09-08",
+      "last_checked": "2026-09-09",
       "notice_type": "cn-standard",
       "phrases": [
         "Künstliche Intelligenz"
@@ -1532,7 +1536,7 @@
       ],
       "first_seen": "2026-09-01",
       "gone": false,
-      "last_checked": "2026-09-08",
+      "last_checked": "2026-09-09",
       "notice_type": "cn-standard",
       "phrases": [
         "intelligence artificielle"
@@ -1588,7 +1592,7 @@
       ],
       "first_seen": "2026-09-01",
       "gone": false,
-      "last_checked": "2026-09-08",
+      "last_checked": "2026-09-09",
       "notice_type": "cn-standard",
       "phrases": [
         "intelligence artificielle"
@@ -1645,7 +1649,7 @@
       ],
       "first_seen": "2026-09-01",
       "gone": false,
-      "last_checked": "2026-09-08",
+      "last_checked": "2026-09-09",
       "notice_type": "veat",
       "phrases": [
         "artificial intelligence"
@@ -1709,7 +1713,7 @@
       ],
       "first_seen": "2026-09-05",
       "gone": false,
-      "last_checked": "2026-09-08",
+      "last_checked": "2026-09-09",
       "notice_type": "cn-standard",
       "phrases": [
         "Künstliche Intelligenz"
@@ -1765,7 +1769,7 @@
       ],
       "first_seen": "2026-09-05",
       "gone": false,
-      "last_checked": "2026-09-08",
+      "last_checked": "2026-09-09",
       "notice_type": "can-standard",
       "phrases": [
         "artificial intelligence"
@@ -1829,7 +1833,7 @@
       ],
       "first_seen": "2026-09-05",
       "gone": false,
-      "last_checked": "2026-09-08",
+      "last_checked": "2026-09-09",
       "notice_type": "cn-standard",
       "phrases": [
         "Künstliche Intelligenz"
@@ -1885,7 +1889,7 @@
       ],
       "first_seen": "2026-09-05",
       "gone": false,
-      "last_checked": "2026-09-08",
+      "last_checked": "2026-09-09",
       "notice_type": "can-standard",
       "phrases": [
         "artificial intelligence"
@@ -1949,7 +1953,7 @@
       ],
       "first_seen": "2026-09-05",
       "gone": false,
-      "last_checked": "2026-09-08",
+      "last_checked": "2026-09-09",
       "notice_type": "can-standard",
       "phrases": [
         "artificial intelligence"
@@ -2013,7 +2017,7 @@
       ],
       "first_seen": "2026-09-05",
       "gone": false,
-      "last_checked": "2026-09-08",
+      "last_checked": "2026-09-09",
       "notice_type": "can-standard",
       "phrases": [
         "artificial intelligence"
@@ -2078,7 +2082,7 @@
       ],
       "first_seen": "2026-09-05",
       "gone": false,
-      "last_checked": "2026-09-08",
+      "last_checked": "2026-09-09",
       "notice_type": "cn-standard",
       "phrases": [
         "Künstliche Intelligenz"
@@ -2134,7 +2138,7 @@
       ],
       "first_seen": "2026-09-05",
       "gone": false,
-      "last_checked": "2026-09-08",
+      "last_checked": "2026-09-09",
       "notice_type": "can-standard",
       "phrases": [
         "artificial intelligence"
@@ -2198,7 +2202,7 @@
       ],
       "first_seen": "2026-09-05",
       "gone": false,
-      "last_checked": "2026-09-08",
+      "last_checked": "2026-09-09",
       "notice_type": "can-standard",
       "phrases": [
         "intelligence artificielle"
@@ -2281,7 +2285,7 @@
       ],
       "first_seen": "2026-09-05",
       "gone": false,
-      "last_checked": "2026-09-08",
+      "last_checked": "2026-09-09",
       "notice_type": "can-standard",
       "phrases": [
         "Künstliche Intelligenz"
@@ -2343,7 +2347,7 @@
       ],
       "first_seen": "2026-09-05",
       "gone": false,
-      "last_checked": "2026-09-08",
+      "last_checked": "2026-09-09",
       "notice_type": "can-standard",
       "phrases": [
         "Künstliche Intelligenz"
@@ -2406,7 +2410,7 @@
       ],
       "first_seen": "2026-09-07",
       "gone": false,
-      "last_checked": "2026-09-08",
+      "last_checked": "2026-09-09",
       "notice_type": "cn-standard",
       "phrases": [
         "artificial intelligence"
@@ -2449,6 +2453,240 @@
       ],
       "winner_names": [],
       "xml_url": "https://ted.europa.eu/en/notice/613172-2026/xml"
+    },
+    "616969-2026": {
+      "buyer_countries": [
+        "IRL"
+      ],
+      "buyer_names": [
+        "Technology Ireland ICT Skillnet"
+      ],
+      "cpv": [
+        "72221000"
+      ],
+      "first_seen": "2026-09-09",
+      "gone": false,
+      "last_checked": "2026-09-09",
+      "notice_type": "cn-standard",
+      "phrases": [
+        "artificial intelligence"
+      ],
+      "publication_date": "2026-09-08",
+      "title": "Ireland – Business analysis consultancy services – RFAPD for the provision of Enterprise AI Adoption and Capability Development Services divided into 4 Lots to Technology Ireland ICT Skillne",
+      "titles": [
+        "Airija – Verslo analizės konsultacinės paslaugos – RFAPD for the provision of Enterprise AI Adoption and Capability Development Services divided into 4 Lots to Technology Ireland ICT Skillne",
+        "Ierland – Bedrijfsanalyseadviezen – RFAPD for the provision of Enterprise AI Adoption and Capability Development Services divided into 4 Lots to Technology Ireland ICT Skillne",
+        "Iirimaa – Ärianalüüsi nõustamisteenused – RFAPD for the provision of Enterprise AI Adoption and Capability Development Services divided into 4 Lots to Technology Ireland ICT Skillne",
+        "Ireland – Business analysis consultancy services – RFAPD for the provision of Enterprise AI Adoption and Capability Development Services divided into 4 Lots to Technology Ireland ICT Skillne",
+        "Irland – Beratung im Bereich Unternehmensanalyse – RFAPD for the provision of Enterprise AI Adoption and Capability Development Services divided into 4 Lots to Technology Ireland ICT Skillne",
+        "Irland – Konsulentvirksomhed i forbindelse med forretningsanalyser – RFAPD for the provision of Enterprise AI Adoption and Capability Development Services divided into 4 Lots to Technology Ireland ICT Skillne",
+        "Irland – Konsulttjänster för företagsanalys – RFAPD for the provision of Enterprise AI Adoption and Capability Development Services divided into 4 Lots to Technology Ireland ICT Skillne",
+        "Irlanda – Servicii de consultanţă privind analiza economică – RFAPD for the provision of Enterprise AI Adoption and Capability Development Services divided into 4 Lots to Technology Ireland ICT Skillne",
+        "Irlanda – Servicios de consultoría en análisis empresarial – RFAPD for the provision of Enterprise AI Adoption and Capability Development Services divided into 4 Lots to Technology Ireland ICT Skillne",
+        "Irlanda – Servizi di consulenza per analisi economiche – RFAPD for the provision of Enterprise AI Adoption and Capability Development Services divided into 4 Lots to Technology Ireland ICT Skillne",
+        "Irlanda – Serviços de consultoria em matéria de análise de gestão – RFAPD for the provision of Enterprise AI Adoption and Capability Development Services divided into 4 Lots to Technology Ireland ICT Skillne",
+        "Irlande – Services de conseil en analyse d'exploitation – RFAPD for the provision of Enterprise AI Adoption and Capability Development Services divided into 4 Lots to Technology Ireland ICT Skillne",
+        "Irlandia – Usługi doradcze w zakresie analizy biznesowej – RFAPD for the provision of Enterprise AI Adoption and Capability Development Services divided into 4 Lots to Technology Ireland ICT Skillne",
+        "Irlanti – Yritysanalyysejä koskevat konsulttipalvelut – RFAPD for the provision of Enterprise AI Adoption and Capability Development Services divided into 4 Lots to Technology Ireland ICT Skillne",
+        "Irska – Storitve svetovanja na področju poslovnih analiz – RFAPD for the provision of Enterprise AI Adoption and Capability Development Services divided into 4 Lots to Technology Ireland ICT Skillne",
+        "Irska – Usluge savjetovanja na području poslovnih analiza – RFAPD for the provision of Enterprise AI Adoption and Capability Development Services divided into 4 Lots to Technology Ireland ICT Skillne",
+        "Irsko – Poradenské služby v oblasti obchodní analýzy – RFAPD for the provision of Enterprise AI Adoption and Capability Development Services divided into 4 Lots to Technology Ireland ICT Skillne",
+        "L-Irlanda – Servizzi ta' konsulenza dwar l-analiżi tan-negozju – RFAPD for the provision of Enterprise AI Adoption and Capability Development Services divided into 4 Lots to Technology Ireland ICT Skillne",
+        "Éire – Business analysis consultancy services – RFAPD for the provision of Enterprise AI Adoption and Capability Development Services divided into 4 Lots to Technology Ireland ICT Skillne",
+        "Írország – Üzleti elemzési tanácsadó szolgáltatások – RFAPD for the provision of Enterprise AI Adoption and Capability Development Services divided into 4 Lots to Technology Ireland ICT Skillne",
+        "Írsko – Poradenstvo pri analýze podnikania – RFAPD for the provision of Enterprise AI Adoption and Capability Development Services divided into 4 Lots to Technology Ireland ICT Skillne",
+        "Īrija – Uzņēmējdarbības analīzes konsultāciju pakalpojumi – RFAPD for the provision of Enterprise AI Adoption and Capability Development Services divided into 4 Lots to Technology Ireland ICT Skillne",
+        "Ιρλανδία – Υπηρεσίες παροχής συμβουλών επιχειρησιακής ανάλυσης – RFAPD for the provision of Enterprise AI Adoption and Capability Development Services divided into 4 Lots to Technology Ireland ICT Skillne",
+        "Иpлaндия – Консултантски услуги по бизнес анализи на експлоатацията на системата – RFAPD for the provision of Enterprise AI Adoption and Capability Development Services divided into 4 Lots to Technology Ireland ICT Skillne"
+      ],
+      "vendor_keys": [],
+      "versions": [
+        {
+          "date": "2026-09-09",
+          "file": "snapshots/2026-09-09/notices/616969-2026.xml",
+          "sha256": "c48eaf71248c35bd6efba2f2b314cab0d1ef6e45309083a8211dfbd31d1eeac9"
+        }
+      ],
+      "winner_names": [],
+      "xml_url": "https://ted.europa.eu/en/notice/616969-2026/xml"
+    },
+    "617662-2026": {
+      "buyer_countries": [
+        "NOR"
+      ],
+      "buyer_names": [
+        "Norsk Tipping"
+      ],
+      "cpv": [
+        "72000000",
+        "72200000",
+        "72210000"
+      ],
+      "first_seen": "2026-09-09",
+      "gone": false,
+      "last_checked": "2026-09-09",
+      "notice_type": "can-standard",
+      "phrases": [
+        "artificial intelligence"
+      ],
+      "publication_date": "2026-09-08",
+      "title": "Norway – IT services: consulting, software development, Internet and support – IT Security Partner",
+      "titles": [
+        "An Iorua – IT services: consulting, software development, Internet and support – IT Security Partner",
+        "In-Norveġja – Servizzi ta' IT: konsulenza, żvilupp ta' softwer, Internet u appoġġ – IT Security Partner",
+        "Noorwegen – IT-diensten: adviezen, softwareontwikkeling, internet en ondersteuning – IT Security Partner",
+        "Norge – IT-tjänster: konsultverksamhet, programvaruutveckling, Internet och stöd – IT Security Partner",
+        "Norge – It-tjenester: rådgivning, programmeludvikling, internet og support – IT Security Partner",
+        "Norja – Tietotekniset palvelut: neuvonta, ohjelmistojen kehittäminen, Internet ja tuki – IT Security Partner",
+        "Norra – IT-teenused: nõuande-, tarkvaraarendus-, Interneti- ja tugiteenused – IT Security Partner",
+        "Norsko – Informační technologie: poradenství, vývoj programového vybavení, internet a podpora – IT Security Partner",
+        "Noruega – Servicios TI: consultoría, desarrollo de software, Internet y apoyo – IT Security Partner",
+        "Noruega – Serviços de TI: consultoria, desenvolvimento de software, Internet e apoio – IT Security Partner",
+        "Norvegia – Servicii IT: consultanţă, dezvoltare de software, internet şi asistenţă – IT Security Partner",
+        "Norvegia – Servizi informatici: consulenza, sviluppo di software, Internet e supporto – IT Security Partner",
+        "Norvegija – IT paslaugos: konsultavimas, programinės įrangos kūrimas, internetas ir aptarnavimo paslaugos – IT Security Partner",
+        "Norveška – Storitve informacijske tehnologije: svetovanje, razvoj programske opreme, internet in podpora – IT Security Partner",
+        "Norveška – Usluge informacijske tehnologije: savjetovanje, razvoj programske podrške, internet i podrška – IT Security Partner",
+        "Norvège – Services de technologies de l'information, conseil, développement de logiciels, internet et appui – IT Security Partner",
+        "Norvégia – IT-szolgáltatások: tanácsadás, szoftverfejlesztés, internet és támogatás – IT Security Partner",
+        "Norvēģija – IT pakalpojumi konsultēšana, programmatūras izstrāde, internets un atbalsts – IT Security Partner",
+        "Norway – IT services: consulting, software development, Internet and support – IT Security Partner",
+        "Norwegen – IT-Dienste: Beratung, Software-Entwicklung, Internet und Hilfestellung – IT Security Partner",
+        "Norwegia – Usługi informatyczne: konsultacyjne, opracowywania oprogramowania, internetowe i wsparcia – IT Security Partner",
+        "Nórsko – Služby informačných technológií: konzultácie, vývoj softvéru, internet a podpora – IT Security Partner",
+        "Νορβηγία – Υπηρεσίες τεχνολογίας των πληροφοριών: παροχή συμβουλών, ανάπτυξη λογισμικού, Διαδίκτυο και υποστήριξη – IT Security Partner",
+        "Норвегия – ИТ услуги: консултации, разработване на софтуер, Интернет и поддръжка – IT Security Partner"
+      ],
+      "vendor_keys": [
+        "mnemonic"
+      ],
+      "versions": [
+        {
+          "date": "2026-09-09",
+          "file": "snapshots/2026-09-09/notices/617662-2026.xml",
+          "sha256": "831a7e99715f668254a509f49061efd7ef57c6307226ab70a5954cf74887fb71"
+        }
+      ],
+      "winner_names": [
+        "Mnemonic AS"
+      ],
+      "xml_url": "https://ted.europa.eu/en/notice/617662-2026/xml"
+    },
+    "617955-2026": {
+      "buyer_countries": [
+        "DEU"
+      ],
+      "buyer_names": [
+        "Bundesamt für Sicherheit in der Informationstechnik"
+      ],
+      "cpv": [
+        "72000000"
+      ],
+      "first_seen": "2026-09-09",
+      "gone": false,
+      "last_checked": "2026-09-09",
+      "notice_type": "cn-standard",
+      "phrases": [
+        "Künstliche Intelligenz"
+      ],
+      "publication_date": "2026-09-08",
+      "title": "Germany – IT services: consulting, software development, Internet and support – Projekt 1000 - \"Agentic AI: Prüfanforderungen für LLM-basierte agentische künstliche Intelligenz (PRAKI)\"",
+      "titles": [
+        "Alemanha – Serviços de TI: consultoria, desenvolvimento de software, Internet e apoio – Projekt 1000 - \"Agentic AI: Prüfanforderungen für LLM-basierte agentische künstliche Intelligenz (PRAKI)\"",
+        "Alemania – Servicios TI: consultoría, desarrollo de software, Internet y apoyo – Projekt 1000 - \"Agentic AI: Prüfanforderungen für LLM-basierte agentische künstliche Intelligenz (PRAKI)\"",
+        "Allemagne – Services de technologies de l'information, conseil, développement de logiciels, internet et appui – Projekt 1000 - \"Agentic AI: Prüfanforderungen für LLM-basierte agentische künstliche Intelligenz (PRAKI)\"",
+        "An Ghearmáin – IT services: consulting, software development, Internet and support – Projekt 1000 - \"Agentic AI: Prüfanforderungen für LLM-basierte agentische künstliche Intelligenz (PRAKI)\"",
+        "Deutschland – IT-Dienste: Beratung, Software-Entwicklung, Internet und Hilfestellung – Projekt 1000 - \"Agentic AI: Prüfanforderungen für LLM-basierte agentische künstliche Intelligenz (PRAKI)\"",
+        "Duitsland – IT-diensten: adviezen, softwareontwikkeling, internet en ondersteuning – Projekt 1000 - \"Agentic AI: Prüfanforderungen für LLM-basierte agentische künstliche Intelligenz (PRAKI)\"",
+        "Germania – Servicii IT: consultanţă, dezvoltare de software, internet şi asistenţă – Projekt 1000 - \"Agentic AI: Prüfanforderungen für LLM-basierte agentische künstliche Intelligenz (PRAKI)\"",
+        "Germania – Servizi informatici: consulenza, sviluppo di software, Internet e supporto – Projekt 1000 - \"Agentic AI: Prüfanforderungen für LLM-basierte agentische künstliche Intelligenz (PRAKI)\"",
+        "Germany – IT services: consulting, software development, Internet and support – Projekt 1000 - \"Agentic AI: Prüfanforderungen für LLM-basierte agentische künstliche Intelligenz (PRAKI)\"",
+        "Il-Ġermanja – Servizzi ta' IT: konsulenza, żvilupp ta' softwer, Internet u appoġġ – Projekt 1000 - \"Agentic AI: Prüfanforderungen für LLM-basierte agentische künstliche Intelligenz (PRAKI)\"",
+        "Nemecko – Služby informačných technológií: konzultácie, vývoj softvéru, internet a podpora – Projekt 1000 - \"Agentic AI: Prüfanforderungen für LLM-basierte agentische künstliche Intelligenz (PRAKI)\"",
+        "Nemčija – Storitve informacijske tehnologije: svetovanje, razvoj programske opreme, internet in podpora – Projekt 1000 - \"Agentic AI: Prüfanforderungen für LLM-basierte agentische künstliche Intelligenz (PRAKI)\"",
+        "Niemcy – Usługi informatyczne: konsultacyjne, opracowywania oprogramowania, internetowe i wsparcia – Projekt 1000 - \"Agentic AI: Prüfanforderungen für LLM-basierte agentische künstliche Intelligenz (PRAKI)\"",
+        "Njemačka – Usluge informacijske tehnologije: savjetovanje, razvoj programske podrške, internet i podrška – Projekt 1000 - \"Agentic AI: Prüfanforderungen für LLM-basierte agentische künstliche Intelligenz (PRAKI)\"",
+        "Németország – IT-szolgáltatások: tanácsadás, szoftverfejlesztés, internet és támogatás – Projekt 1000 - \"Agentic AI: Prüfanforderungen für LLM-basierte agentische künstliche Intelligenz (PRAKI)\"",
+        "Německo – Informační technologie: poradenství, vývoj programového vybavení, internet a podpora – Projekt 1000 - \"Agentic AI: Prüfanforderungen für LLM-basierte agentische künstliche Intelligenz (PRAKI)\"",
+        "Saksa – Tietotekniset palvelut: neuvonta, ohjelmistojen kehittäminen, Internet ja tuki – Projekt 1000 - \"Agentic AI: Prüfanforderungen für LLM-basierte agentische künstliche Intelligenz (PRAKI)\"",
+        "Saksamaa – IT-teenused: nõuande-, tarkvaraarendus-, Interneti- ja tugiteenused – Projekt 1000 - \"Agentic AI: Prüfanforderungen für LLM-basierte agentische künstliche Intelligenz (PRAKI)\"",
+        "Tyskland – IT-tjänster: konsultverksamhet, programvaruutveckling, Internet och stöd – Projekt 1000 - \"Agentic AI: Prüfanforderungen für LLM-basierte agentische künstliche Intelligenz (PRAKI)\"",
+        "Tyskland – It-tjenester: rådgivning, programmeludvikling, internet og support – Projekt 1000 - \"Agentic AI: Prüfanforderungen für LLM-basierte agentische künstliche Intelligenz (PRAKI)\"",
+        "Vokietija – IT paslaugos: konsultavimas, programinės įrangos kūrimas, internetas ir aptarnavimo paslaugos – Projekt 1000 - \"Agentic AI: Prüfanforderungen für LLM-basierte agentische künstliche Intelligenz (PRAKI)\"",
+        "Vācija – IT pakalpojumi konsultēšana, programmatūras izstrāde, internets un atbalsts – Projekt 1000 - \"Agentic AI: Prüfanforderungen für LLM-basierte agentische künstliche Intelligenz (PRAKI)\"",
+        "Γερμανία – Υπηρεσίες τεχνολογίας των πληροφοριών: παροχή συμβουλών, ανάπτυξη λογισμικού, Διαδίκτυο και υποστήριξη – Projekt 1000 - \"Agentic AI: Prüfanforderungen für LLM-basierte agentische künstliche Intelligenz (PRAKI)\"",
+        "Гepмaния – ИТ услуги: консултации, разработване на софтуер, Интернет и поддръжка – Projekt 1000 - \"Agentic AI: Prüfanforderungen für LLM-basierte agentische künstliche Intelligenz (PRAKI)\""
+      ],
+      "vendor_keys": [],
+      "versions": [
+        {
+          "date": "2026-09-09",
+          "file": "snapshots/2026-09-09/notices/617955-2026.xml",
+          "sha256": "cca8e1c6984baeac621c0c9e4a99c67271abee35b7aeb46b6f7a3f282be5658d"
+        }
+      ],
+      "winner_names": [],
+      "xml_url": "https://ted.europa.eu/en/notice/617955-2026/xml"
+    },
+    "622567-2026": {
+      "buyer_countries": [
+        "DEU"
+      ],
+      "buyer_names": [
+        "Bundesministerium für Wirtschaft und Energie"
+      ],
+      "cpv": [
+        "72312100",
+        "72314000",
+        "73000000",
+        "75130000",
+        "79311400"
+      ],
+      "first_seen": "2026-09-09",
+      "gone": false,
+      "last_checked": "2026-09-09",
+      "notice_type": "cn-standard",
+      "phrases": [
+        "Künstliche Intelligenz"
+      ],
+      "publication_date": "2026-09-09",
+      "title": "Germany – Research and development services and related consultancy services – Studie Zukunftsprojektion und Entwicklungspotentiale der Kultur- und Kreativwirtschaft 2037",
+      "titles": [
+        "Alemanha – Serviços de investigação e desenvolvimento e serviços de consultoria conexos – Studie Zukunftsprojektion und Entwicklungspotentiale der Kultur- und Kreativwirtschaft 2037",
+        "Alemania – Servicios de investigación y desarrollo y servicios de consultoría conexos – Studie Zukunftsprojektion und Entwicklungspotentiale der Kultur- und Kreativwirtschaft 2037",
+        "Allemagne – Services de recherche et développement et services de conseil connexes – Studie Zukunftsprojektion und Entwicklungspotentiale der Kultur- und Kreativwirtschaft 2037",
+        "An Ghearmáin – Research and development services and related consultancy services – Studie Zukunftsprojektion und Entwicklungspotentiale der Kultur- und Kreativwirtschaft 2037",
+        "Deutschland – Forschungs- und Entwicklungsdienste und zugehörige Beratung – Studie Zukunftsprojektion und Entwicklungspotentiale der Kultur- und Kreativwirtschaft 2037",
+        "Duitsland – Onderzoek en ontwikkeling, en aanverwante adviezen – Studie Zukunftsprojektion und Entwicklungspotentiale der Kultur- und Kreativwirtschaft 2037",
+        "Germania – Servicii de cercetare şi de dezvoltare şi servicii conexe de consultanţă – Studie Zukunftsprojektion und Entwicklungspotentiale der Kultur- und Kreativwirtschaft 2037",
+        "Germania – Servizi di ricerca e sviluppo nonché servizi di consulenza affini – Studie Zukunftsprojektion und Entwicklungspotentiale der Kultur- und Kreativwirtschaft 2037",
+        "Germany – Research and development services and related consultancy services – Studie Zukunftsprojektion und Entwicklungspotentiale der Kultur- und Kreativwirtschaft 2037",
+        "Il-Ġermanja – Servizzi ta' riċerka u żvilupp u servizzi relatati mal-konsulenza – Studie Zukunftsprojektion und Entwicklungspotentiale der Kultur- und Kreativwirtschaft 2037",
+        "Nemecko – Výskum a vývoj a súvisiace poradenské služby – Studie Zukunftsprojektion und Entwicklungspotentiale der Kultur- und Kreativwirtschaft 2037",
+        "Nemčija – Storitve na področju raziskav in razvoja ter s tem povezane svetovalne storitve – Studie Zukunftsprojektion und Entwicklungspotentiale der Kultur- und Kreativwirtschaft 2037",
+        "Niemcy – Usługi badawcze i eksperymentalno-rozwojowe oraz pokrewne usługi doradcze – Studie Zukunftsprojektion und Entwicklungspotentiale der Kultur- und Kreativwirtschaft 2037",
+        "Njemačka – Usluge na području istraživanja i razvoja i s tim povezane usluge savjetovanja – Studie Zukunftsprojektion und Entwicklungspotentiale der Kultur- und Kreativwirtschaft 2037",
+        "Németország – Kutatási és fejlesztési szolgáltatások és kapcsolódó tanácsadói szolgáltatások – Studie Zukunftsprojektion und Entwicklungspotentiale der Kultur- und Kreativwirtschaft 2037",
+        "Německo – Výzkum a vývoj a související služby – Studie Zukunftsprojektion und Entwicklungspotentiale der Kultur- und Kreativwirtschaft 2037",
+        "Saksa – Tutkimus- ja kehityspalvelut ja niihin liittyvät konsulttipalvelut – Studie Zukunftsprojektion und Entwicklungspotentiale der Kultur- und Kreativwirtschaft 2037",
+        "Saksamaa – Uurimis- ja arendusteenused ja seonduvad nõustamisteenused – Studie Zukunftsprojektion und Entwicklungspotentiale der Kultur- und Kreativwirtschaft 2037",
+        "Tyskland – FoU-tjänster samt tillhörande konsulttjänster – Studie Zukunftsprojektion und Entwicklungspotentiale der Kultur- und Kreativwirtschaft 2037",
+        "Tyskland – Forsknings- og udviklingsvirksomhed og hermed beslægtet konsulentvirksomhed – Studie Zukunftsprojektion und Entwicklungspotentiale der Kultur- und Kreativwirtschaft 2037",
+        "Vokietija – Mokslinių tyrimų ir taikomosios veiklos paslaugos bei su jomis susijusios konsultacinės paslaugos – Studie Zukunftsprojektion und Entwicklungspotentiale der Kultur- und Kreativwirtschaft 2037",
+        "Vācija – Pētniecības un izstrādes pakalpojumi un saistītie konsultāciju pakalpojumi – Studie Zukunftsprojektion und Entwicklungspotentiale der Kultur- und Kreativwirtschaft 2037",
+        "Γερμανία – Υπηρεσίες έρευνας και ανάπτυξης, καθώς και συναφείς υπηρεσίες παροχής συμβουλών – Studie Zukunftsprojektion und Entwicklungspotentiale der Kultur- und Kreativwirtschaft 2037",
+        "Гepмaния – Научни изследвания и експериментални разработки и свързаните с тях консултантски услуги – Studie Zukunftsprojektion und Entwicklungspotentiale der Kultur- und Kreativwirtschaft 2037"
+      ],
+      "vendor_keys": [],
+      "versions": [
+        {
+          "date": "2026-09-09",
+          "file": "snapshots/2026-09-09/notices/622567-2026.xml",
+          "sha256": "333811acb3f986beb86253795ef0cd12f0ef924e0cb382f454cce500ee8d73d2"
+        }
+      ],
+      "winner_names": [],
+      "xml_url": "https://ted.europa.eu/en/notice/622567-2026/xml"
     }
   }
 }

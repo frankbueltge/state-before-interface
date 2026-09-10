@@ -1,0 +1,48 @@
+{
+  "candidates": {
+    "declined": [
+      "c-20260910-01"
+    ],
+    "open": []
+  },
+  "date": "2026-09-10",
+  "envelope_version": 1,
+  "failures": [],
+  "http_429": 0,
+  "new_matches": [
+    "625194-2026"
+  ],
+  "phrases": [
+    {
+      "lang": "eng",
+      "phrase": "artificial intelligence",
+      "total": 3,
+      "truncated": false
+    },
+    {
+      "lang": "deu",
+      "phrase": "Künstliche Intelligenz",
+      "total": 2,
+      "truncated": false
+    },
+    {
+      "lang": "fra",
+      "phrase": "intelligence artificielle",
+      "total": 1,
+      "truncated": false
+    }
+  ],
+  "rechecked": 26,
+  "requests": 30,
+  "signals": [
+    {
+      "candidate": "c-20260910-01",
+      "detail": "notice 625194-2026 entered the envelope (phrases: intelligence artificielle)",
+      "key": "NEW_MATCH:625194-2026",
+      "notices": [
+        "625194-2026"
+      ],
+      "type": "NEW_MATCH"
+    }
+  ]
+}

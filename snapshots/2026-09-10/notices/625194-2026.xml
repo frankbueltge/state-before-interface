@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><ContractNotice xmlns="urn:oasis:names:specification:ubl:schema:xsd:ContractNotice-2" xmlns:cac="urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-2" xmlns:cbc="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-2" xmlns:efac="http://data.europa.eu/p27/eforms-ubl-extension-aggregate-components/1" xmlns:efbc="http://data.europa.eu/p27/eforms-ubl-extension-basic-components/1" xmlns:efext="http://data.europa.eu/p27/eforms-ubl-extensions/1" xmlns:ext="urn:oasis:names:specification:ubl:schema:xsd:CommonExtensionComponents-2">
+   <ext:UBLExtensions>
+      <ext:UBLExtension>
+         <ext:ExtensionContent>
+            <efext:EformsExtension>
+               <efac:Changes>
+                  <efbc:ChangedNoticeIdentifier>514112-2026</efbc:ChangedNoticeIdentifier>
+                  <efac:Change>
+                     <efbc:ChangeDescription languageID="FRA">Rubrique R.5.1.12-Conditions du marché public : La date limite de réception des candidatures, reportée au 18 septembre 2026 à 12:00, est à nouveau reportée au 16 octobre 2026 à 12:00</efbc:ChangeDescription>
+                     <efac:ChangedSection>
+                        <efbc:ChangedSectionIdentifier>GLO-0001</efbc:ChangedSectionIdentifier>
+                     </efac:ChangedSection>
+                  </efac:Change>
+                  <efac:ChangeReason>
+                     <cbc:ReasonCode listName="change-corrig-justification">cor-buy</cbc:ReasonCode>
+                     <efbc:ReasonDescription languageID="FRA">Report de la date limite de réception des candidatures</efbc:ReasonDescription>
+                  </efac:ChangeReason>
+               </efac:Changes>
+               <efac:NoticeSubType>
+                  <cbc:SubTypeCode listName="notice-subtype">16</cbc:SubTypeCode>
+               </efac:NoticeSubType>
+               <efac:Organizations>
+                  <efac:Organization>
+                     <efac:Company>
+                        <cbc:WebsiteURI>https://www.rungisinternational.com</cbc:WebsiteURI>
+                        <cbc:EndpointID>https://marches.maximilien.fr</cbc:EndpointID>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="FRA">SEMMARIS - Marché International de Rungis</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:StreetName>1 rue de la Tour</cbc:StreetName>
+                           <cbc:Department>94550</cbc:Department>
+                           <cbc:CityName>Chevilly Larue</cbc:CityName>
+                           <cbc:PostalZone>94550</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">FR107</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">FRA</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>66201249100012</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:Name>SEMMARIS - Direction des Affaires Juridiques et Générales et de la Compliance</cbc:Name>
+                           <cbc:Telephone>+33141808147</cbc:Telephone>
+                           <cbc:ElectronicMail>isabel.marques@semmaris.fr</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                     <efac:TouchPoint>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="touchpoint">TPO-0001</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="FRA">Tribunal Administratif de Melun</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:Department>77000</cbc:Department>
+                           <cbc:PostalZone>77000</cbc:PostalZone>
+                        </cac:PostalAddress>
+                        <cac:Contact>
+                           <cbc:Telephone>+33160565690</cbc:Telephone>
+                           <cbc:ElectronicMail>greffe.ta-melun@juradm.fr</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:TouchPoint>
+                  </efac:Organization>
+                  <efac:Organization>
+                     <efac:Company>
+                        <cbc:WebsiteURI>https://op.europa.eu</cbc:WebsiteURI>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0000</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="FRA">Publications Office of the European Union</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:CityName>Luxembourg</cbc:CityName>
+                           <cbc:PostalZone>2417</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">LU000</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">LUX</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>PUBL</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:Telephone>+352 29291</cbc:Telephone>
+                           <cbc:ElectronicMail>ted@publications.europa.eu</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+               </efac:Organizations>
+            <efac:Publication><efbc:NoticePublicationID schemeName="ojs-notice-id">00625194-2026</efbc:NoticePublicationID><efbc:GazetteID schemeName="ojs-id">175/2026</efbc:GazetteID><efbc:PublicationDate>2026-09-10+02:00</efbc:PublicationDate></efac:Publication></efext:EformsExtension>
+         </ext:ExtensionContent>
+      </ext:UBLExtension>
+   </ext:UBLExtensions>
+   <cbc:UBLVersionID>2.3</cbc:UBLVersionID>
+   <cbc:CustomizationID>eforms-sdk-1.14</cbc:CustomizationID>
+   <cbc:ID schemeName="notice-id">32e2bef5-d8d5-4d63-a64a-c03bdce6fc55</cbc:ID>
+   <cbc:ContractFolderID>3986c2c8-5a7f-4d87-84b0-44e1ac9e6f0f</cbc:ContractFolderID>
+   <cbc:IssueDate>2026-09-09Z</cbc:IssueDate>
+   <cbc:IssueTime>07:57:54Z</cbc:IssueTime>
+   <cbc:VersionID>01</cbc:VersionID>
+   <cbc:RegulatoryDomain>32014L0024</cbc:RegulatoryDomain>
+   <cbc:NoticeTypeCode listName="competition">cn-standard</cbc:NoticeTypeCode>
+   <cbc:NoticeLanguageCode listName="language">FRA</cbc:NoticeLanguageCode>
+   <cac:ContractingParty>
+      <cbc:BuyerProfileURI>https://marches.maximilien.fr</cbc:BuyerProfileURI>
+      <cac:ContractingPartyType>
+         <cbc:PartyTypeCode listName="buyer-legal-type">spec-rights-entity</cbc:PartyTypeCode>
+      </cac:ContractingPartyType>
+      <cac:ContractingActivity>
+         <cbc:ActivityTypeCode listName="authority-activity">econ-aff</cbc:ActivityTypeCode>
+      </cac:ContractingActivity>
+      <cac:Party>
+         <cac:PartyIdentification>
+            <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+         </cac:PartyIdentification>
+         <cac:ServiceProviderParty>
+            <cbc:ServiceTypeCode listName="organisation-role">ted-esen</cbc:ServiceTypeCode>
+            <cac:Party>
+               <cac:PartyIdentification>
+                  <cbc:ID schemeName="organization">ORG-0000</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:Party>
+         </cac:ServiceProviderParty>
+      </cac:Party>
+   </cac:ContractingParty>
+   <cac:TenderingTerms>
+      <cac:TendererQualificationRequest>
+         <cac:SpecificTendererRequirement>
+            <cbc:TendererRequirementTypeCode listName="exclusion-grounds-source">epo-procurement-document</cbc:TendererRequirementTypeCode>
+         </cac:SpecificTendererRequirement>
+      </cac:TendererQualificationRequest>
+   </cac:TenderingTerms>
+   <cac:TenderingProcess>
+      <cbc:ProcedureCode listName="procurement-procedure-type">oth-mult</cbc:ProcedureCode>
+   </cac:TenderingProcess>
+   <cac:ProcurementProject>
+      <cbc:ID schemeName="InternalID">BU Immobilière - Direction de l'Exploitation et de la Maintenance</cbc:ID>
+      <cbc:Name languageID="FRA">Concession de services relative à la conception, la réalisation et l’exploitation d’un DATACENTER sur un terrain au sein du Marché International de Rungis</cbc:Name>
+      <cbc:Description languageID="FRA">Le Marché International de Rungis, plus grand marché agro-alimentaire du monde, recherche un concessionnaire pour concevoir, réaliser et exploiter un DATACENTER au sein du Marché International de Rungis. Ce projet participe à l’objectif de souveraineté du MIN de RUNGIS et à la sécurité de ses données. Il permet également de renforcer sa position de leader mondial dans le domaine agroalimentaire par la mise à disposition d’une infrastructure de pointe aux entreprises de l’écosystème du Marché de Rungis.
+La SEMMARIS a déjà fait évaluer la capacité du site à être raccordé électriquement pour une puissance de 55 MW électrique. La Proposition Technique et Financière (PTF) a été transmise par RTE à la SEMMARIS. Selon les résultats de la présente consultation, la SEMMARIS donnera son accord de lancement des études puis des travaux de raccordement électrique. Le raccordement électrique pourra être mis à disposition à la fin de l’année 2030.
+</cbc:Description>
+      <cbc:ProcurementTypeCode listName="contract-nature">services</cbc:ProcurementTypeCode>
+      <cbc:Note languageID="FRA">La procédure est passée conformément aux dispositions du Code de la commande publique relative aux concessions.</cbc:Note>
+      <cac:MainCommodityClassification>
+         <cbc:ItemClassificationCode listName="cpv">72500000</cbc:ItemClassificationCode>
+      </cac:MainCommodityClassification>
+      <cac:AdditionalCommodityClassification>
+         <cbc:ItemClassificationCode listName="cpv">72514000</cbc:ItemClassificationCode>
+      </cac:AdditionalCommodityClassification>
+      <cac:AdditionalCommodityClassification>
+         <cbc:ItemClassificationCode listName="cpv">72310000</cbc:ItemClassificationCode>
+      </cac:AdditionalCommodityClassification>
+      <cac:AdditionalCommodityClassification>
+         <cbc:ItemClassificationCode listName="cpv">72317000</cbc:ItemClassificationCode>
+      </cac:AdditionalCommodityClassification>
+      <cac:AdditionalCommodityClassification>
+         <cbc:ItemClassificationCode listName="cpv">45213250</cbc:ItemClassificationCode>
+      </cac:AdditionalCommodityClassification>
+      <cac:RealizedLocation>
+         <cbc:Description languageID="FRA">La SEMMARIS pourra recourir à la négociation, conformément à l'article L.3124-1 du Code de la commande publique. Les modalités et les conditions de négociation seront définies dans le dossier de consultation.
+Des soutenances de présentation des offres pourront être prévues. Elles seront menées en langue française.
+Le délai minimum pendant lequel le soumissionnaire est tenu de maintenir son offre est fixé à 6 mois.</cbc:Description>
+         <cac:Address>
+            <cbc:StreetName>1 rue de la Tour</cbc:StreetName>
+            <cbc:CityName>Chevilly Larue</cbc:CityName>
+            <cbc:PostalZone>94550</cbc:PostalZone>
+            <cbc:CountrySubentityCode listName="nuts">FR107</cbc:CountrySubentityCode>
+            <cac:Country>
+               <cbc:IdentificationCode listName="country">FRA</cbc:IdentificationCode>
+            </cac:Country>
+         </cac:Address>
+      </cac:RealizedLocation>
+   </cac:ProcurementProject>
+   <cac:ProcurementProjectLot>
+      <cbc:ID schemeName="Lot">LOT-0001</cbc:ID>
+      <cac:TenderingTerms>
+         <ext:UBLExtensions>
+            <ext:UBLExtension>
+               <ext:ExtensionContent>
+                  <efext:EformsExtension>
+                     <efac:SelectionCriteria>
+                        <cbc:TendererRequirementTypeCode listName="selection-criterion">slc-stand-other</cbc:TendererRequirementTypeCode>
+                        <cbc:Description languageID="FRA">La SEMMARIS analysera, conformément au Code de la commande publique, les dossiers de candidature complets selon les éléments ci-dessous : 
+-	Capacité technique (60 %) : 
+o	Références en conception, réalisation et exploitation d’infrastructures similaires (20 %), 
+o	Présentation des entreprises et rôle de chacun des intervenants dans la présente concession, qualités et ressources qui seront mises à disposition (15 %),
+o	Organisation des moyens humains pour l’ensemble des phases de la concession, localisation des équipes support (5 %),
+o	Capacité à maîtriser des technologies spécifiques : alimentation électrique et secours, refroidissement (10 %), 
+o	Capacité en matière de sécurité et de confidentialité des données, niveau de garantie de cybersécurité, certifications refroidissement (10 %),
+-	Capacités économique et financière (40 %) : chiffres d’affaires du candidat, solidité, garantie d’exploitation sur la durée de la concession.
+S'agissant de la conformité administrative du dossier de candidature, le candidat devra justifier des pièces suivantes, en langue française :
+- DC1 assortie des habilitations de pouvoir et des attestations en vigueur : L'attention du candidat est appelée sur le caractère intangible de la forme de la candidature. En effet, il n'est pas possible, sauf cas d'exceptions, de modifier la forme de la candidature entre la phase de candidature et la phase de dépôt des offres.
+- Les missions essentielles de conception, réalisation et exploitation ne peuvent être sous-traitées.
+En cas de groupement, le mandataire et chacun du ou des co-traitants devront justifier des pièces suivantes :
+- DC2 ;
+- DC4 La liste des sous-traitants envisagés, à déclarer dès la phase de candidature ;
+- Afin de prouver qu'il ne se trouve pas dans un des cas d'exclusion mentionné à l'article L. 2141-3, le candidat produit son numéro unique d'identification permettant au pouvoir adjudicateur d'accéder aux informations pertinentes par le biais du site internet https://annuaire-entreprises.data.gouv.fr ou s'il le souhaite, un extrait de l'inscription au registre du commerce et des sociétés ou au répertoire des métiers (ou récépissé du dépôt de la déclaration d'immatriculation pour les entreprises en cours d'inscription). S'il est étranger, le candidat produit un document délivré par l'autorité judiciaire ou administrative compétente de son pays d'origine ou d'établissement, attestant de l'absence de cas d'exclusion.
+- Les candidats et soumissionnaires devront produire une attestation par laquelle ils s'engagent à respecter l'ensemble des prescriptions posées par le règlement général sur la protection des données personnelles ;
+- Appartenance à un groupe. Dans l’affirmative, merci d’indiquer le nom du groupe ;
+- Structure capitalistique détaillée et gouvernance de l’entreprise (nature juridique, actionnaire, filiales, structure).  ;
+Une déclaration sur l’honneur attestant :
+	1) qu’il ne fait l’objet d’aucune exclusion de la participation à la procédure de passation des contrats de concession prévue aux articles L3123-1 à L.3123-14 du Code de la Commande Publique
+	2) que les renseignements et documents relatifs à ses capacités et à ses aptitudes, exigés en application des articles L. 3123-18, L. 3123-19 et L.3123-21 et dans les conditions fixées aux articles R. 3123-1 à R. 3123-8 du Code de la commande publique, sont exacts.
+	3) qu’il ne fait l’objet d’aucune exclusion de la participation de passation des contrats de concessions prévue aux articles L.3123-1 à -14 du Code de la commande publique
+	4) que le travail est effectué par des salariés employés régulièrement au regard des articles R.1221-10, L.3243-2 et R.3243-1 du Code du travail.
+</cbc:Description>
+                        <efbc:SecondStageIndicator>true</efbc:SecondStageIndicator>
+                     </efac:SelectionCriteria>
+                     <efac:SelectionCriteria>
+                        <cbc:TendererRequirementTypeCode listName="selection-criterion">slc-stand-to-gen</cbc:TendererRequirementTypeCode>
+                        <cbc:Description languageID="FRA">S'agissant de la capacité économique et financière, le candidat devra justifier des pièces suivantes, en langue française :
+Pour chacun des membres du groupement :
+- Déclaration concernant le chiffre d'affaires global portant au maximum sur les trois derniers exercices disponibles ;
+- Déclaration concernant le chiffre d'affaires du domaine d'activité faisant l'objet de la concession, portant au maximum sur les trois derniers exercices disponibles ;
+- Les garanties financières d’exploitation sur la durée de la concession ;
+- Attestations d’assurances, notamment en ce qui concerne les assurances couvrant les responsabilités civile et professionnelle (précisant le niveau de couverture en euros) dont le candidat dispose ;
+- L’attestation de déclaration et de paiement des cotisations et contributions sociales (URSSAF, AGEFIPH et Congés Payés) de moins de six mois ;
+- L’attestation de dépôt de l’ensemble des déclarations fiscales obligatoires.</cbc:Description>
+                        <efbc:SecondStageIndicator>true</efbc:SecondStageIndicator>
+                     </efac:SelectionCriteria>
+                     <efac:SelectionCriteria>
+                        <cbc:TendererRequirementTypeCode listName="selection-criterion">slc-abil-ref-services</cbc:TendererRequirementTypeCode>
+                        <cbc:Description languageID="FRA">S'agissant de la capacité technique et professionnelle, le candidat devra justifier des pièces suivantes, en lanque française :
+Pour chacun des membres du groupement :
+- Liste des références similaires en termes de conception/ réalisation/ exploitation de DATACENTER avec indications des surfaces, puissances, montants d’investissement, chiffres d’affaires et les modes d’exploitation ; 
+- Une déclaration indiquant les effectifs moyens annuels du candidat et l'importance du personnel d'encadrement pendant les 3 dernières années ;
+-  Présentation des entreprises et rôle de chacun des intervenants dans la présente concession, savoir-faire et expertises pour les technologies développées, qualités et ressources qui seront mises à disposition de la concession ;
+-  Présentation de la localisation des équipes support.
+- Présentation des capacités du candidat en matière de sécurité et de confidentialité des données (moyens mis en œuvre, références, certifications, etc), niveau de garantie de cybersécurité.
+</cbc:Description>
+                        <efbc:SecondStageIndicator>true</efbc:SecondStageIndicator>
+                     </efac:SelectionCriteria>
+                  </efext:EformsExtension>
+               </ext:ExtensionContent>
+            </ext:UBLExtension>
+         </ext:UBLExtensions>
+         <cbc:FundingProgramCode listName="eu-funded">no-eu-funds</cbc:FundingProgramCode>
+         <cac:RequiredFinancialGuarantee>
+            <cbc:GuaranteeTypeCode listName="tender-guarantee-required">true</cbc:GuaranteeTypeCode>
+            <cbc:Description languageID="FRA">Le candidat devra présenter ses garanties financières d'exploitation sur la durée de la concession.</cbc:Description>
+         </cac:RequiredFinancialGuarantee>
+         <cac:CallForTendersDocumentReference>
+            <ext:UBLExtensions>
+               <ext:UBLExtension>
+                  <ext:ExtensionContent>
+                     <efext:EformsExtension>
+                        <efac:OfficialLanguages>
+                           <cac:Language>
+                              <cbc:ID>FRA</cbc:ID>
+                           </cac:Language>
+                        </efac:OfficialLanguages>
+                     </efext:EformsExtension>
+                  </ext:ExtensionContent>
+               </ext:UBLExtension>
+            </ext:UBLExtensions>
+            <cbc:ID>_DEFAULT_VALUE_CHANGE_ME_</cbc:ID>
+            <cbc:DocumentType>restricted-document</cbc:DocumentType>
+            <cac:Attachment>
+               <cac:ExternalReference>
+                  <cbc:URI>https://marches.maximilien.fr</cbc:URI>
+               </cac:ExternalReference>
+            </cac:Attachment>
+         </cac:CallForTendersDocumentReference>
+         <cac:TendererQualificationRequest>
+            <cac:SpecificTendererRequirement>
+               <cbc:TendererRequirementTypeCode listName="selection-criteria-source">epo-notice</cbc:TendererRequirementTypeCode>
+            </cac:SpecificTendererRequirement>
+         </cac:TendererQualificationRequest>
+         <cac:TendererQualificationRequest>
+            <cac:SpecificTendererRequirement>
+               <cbc:TendererRequirementTypeCode listName="reserved-procurement">none</cbc:TendererRequirementTypeCode>
+            </cac:SpecificTendererRequirement>
+         </cac:TendererQualificationRequest>
+         <cac:ContractExecutionRequirement>
+            <cbc:ExecutionRequirementCode listName="reserved-execution">no</cbc:ExecutionRequirementCode>
+         </cac:ContractExecutionRequirement>
+         <cac:ContractExecutionRequirement>
+            <cbc:ExecutionRequirementCode listName="einvoicing">allowed</cbc:ExecutionRequirementCode>
+         </cac:ContractExecutionRequirement>
+         <cac:ContractExecutionRequirement>
+            <cbc:ExecutionRequirementCode listName="nda">true</cbc:ExecutionRequirementCode>
+            <cbc:Description languageID="FRA">L'accord de confidentialité sera précisé dans le dossier de consultation.</cbc:Description>
+         </cac:ContractExecutionRequirement>
+         <cac:ContractExecutionRequirement>
+            <cbc:ExecutionRequirementCode listName="ecatalog-submission">not-allowed</cbc:ExecutionRequirementCode>
+         </cac:ContractExecutionRequirement>
+         <cac:ContractExecutionRequirement>
+            <cbc:ExecutionRequirementCode listName="esignature-submission">true</cbc:ExecutionRequirementCode>
+         </cac:ContractExecutionRequirement>
+         <cac:AwardingTerms>
+            <cac:AwardingCriterion>
+               <cac:SubordinateAwardingCriterion>
+                  <cbc:AwardingCriterionTypeCode listName="award-criterion-type">cost</cbc:AwardingCriterionTypeCode>
+                  <cbc:Description languageID="FRA">Le critère coût n'est pas le seul critère d'attribution. Tous les critères seront indiqués dans le dossier de consultation transmis aux candidats admis à répondre à la phase d'offres.</cbc:Description>
+               </cac:SubordinateAwardingCriterion>
+            </cac:AwardingCriterion>
+         </cac:AwardingTerms>
+         <cac:AdditionalInformationParty>
+            <cac:PartyIdentification>
+               <cbc:ID>ORG-0001</cbc:ID>
+            </cac:PartyIdentification>
+         </cac:AdditionalInformationParty>
+         <cac:DocumentProviderParty>
+            <cac:PartyIdentification>
+               <cbc:ID>ORG-0001</cbc:ID>
+            </cac:PartyIdentification>
+         </cac:DocumentProviderParty>
+         <cac:TenderRecipientParty>
+            <cbc:EndpointID>https://marches.maximilien.fr</cbc:EndpointID>
+            <cac:PartyIdentification>
+               <cbc:ID>ORG-0001</cbc:ID>
+            </cac:PartyIdentification>
+         </cac:TenderRecipientParty>
+         <cac:TenderEvaluationParty>
+            <cac:PartyIdentification>
+               <cbc:ID>ORG-0001</cbc:ID>
+            </cac:PartyIdentification>
+         </cac:TenderEvaluationParty>
+         <cac:AppealTerms>
+            <cac:AppealInformationParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>TPO-0001</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealInformationParty>
+            <cac:AppealReceiverParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>TPO-0001</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealReceiverParty>
+            <cac:MediationParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>TPO-0001</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:MediationParty>
+         </cac:AppealTerms>
+         <cac:Language>
+            <cbc:ID>FRA</cbc:ID>
+         </cac:Language>
+         <cac:PostAwardProcess>
+            <cbc:ElectronicOrderUsageIndicator>false</cbc:ElectronicOrderUsageIndicator>
+            <cbc:ElectronicPaymentUsageIndicator>false</cbc:ElectronicPaymentUsageIndicator>
+         </cac:PostAwardProcess>
+      </cac:TenderingTerms>
+      <cac:TenderingProcess>
+         <cbc:SubmissionMethodCode listName="esubmission">allowed</cbc:SubmissionMethodCode>
+         <cbc:CandidateReductionConstraintIndicator>true</cbc:CandidateReductionConstraintIndicator>
+         <cbc:GovernmentAgreementConstraintIndicator>false</cbc:GovernmentAgreementConstraintIndicator>
+         <cac:ParticipationRequestReceptionPeriod>
+            <cbc:EndDate>2026-08-28+02:00</cbc:EndDate>
+            <cbc:EndTime>12:00:00+02:00</cbc:EndTime>
+         </cac:ParticipationRequestReceptionPeriod>
+         <cac:EconomicOperatorShortList>
+            <cbc:LimitationDescription>true</cbc:LimitationDescription>
+            <cbc:MaximumQuantity>5</cbc:MaximumQuantity>
+            <cbc:MinimumQuantity>1</cbc:MinimumQuantity>
+         </cac:EconomicOperatorShortList>
+         <cac:AuctionTerms>
+            <cbc:AuctionConstraintIndicator>false</cbc:AuctionConstraintIndicator>
+         </cac:AuctionTerms>
+         <cac:ContractingSystem>
+            <cbc:ContractingSystemTypeCode listName="framework-agreement">none</cbc:ContractingSystemTypeCode>
+         </cac:ContractingSystem>
+         <cac:ContractingSystem>
+            <cbc:ContractingSystemTypeCode listName="dps-usage">none</cbc:ContractingSystemTypeCode>
+         </cac:ContractingSystem>
+      </cac:TenderingProcess>
+      <cac:ProcurementProject>
+         <cbc:Name languageID="FRA">Concession de services relative à la conception, la réalisation et l’exploitation d’un DATACENTER sur un terrain au sein du Marché International de Rungis</cbc:Name>
+         <cbc:Description languageID="FRA">Le DATACENTER occupera une parcelle, d’une surface de 25 000 m². Les études de faisabilité démontrent une constructibilité à hauteur de 11 500 m² SDP. 
+Le site ne présente pas de contrainte spécifique sur le plan réglementaire et administratif. La SEMMARIS a initié l’étude « faune flore » au début de l’année 2026, les conclusions seront établies début 2027. 
+Le site pourra accueillir une solution Intelligence Artificielle et/ou une solution Hébergement CLOUD sur laquelle le Concessionnaire sera rémunéré. Il en assumera le risque.
+Le DATACENTER sera dimensionné de façon à pouvoir être alimenté jusqu’à concurrence de 55 MW électrique. Le projet intègrera la valorisation de la chaleur fatale dans le réseau de chaleur de la SEMMARIS.
+La SEMMARIS mettra à disposition le terrain jusqu’au 31/12/2068, échéance de la mission confiée par l’Etat à la SEMMARIS. La durée de concession est justifiée par le niveau très important des investissements liés à l’opération.
+La présente concession vaudra occupation du domaine public. Le Concessionnaire s’acquittera, d’une part, d’un droit d’entrée qui comprendra notamment le coût communiqué par RTE pour le raccordement électrique (chiffré à 29,113 M€) complété du montant proposé par le candidat et, d’autre part, d’une redevance d’occupation fixe ainsi que d’une rémunération complémentaire qu’il proposera dans son offre. Ces éléments seront détaillés dans le dossier de consultation.
+</cbc:Description>
+         <cbc:ProcurementTypeCode listName="contract-nature">services</cbc:ProcurementTypeCode>
+         <cbc:Note languageID="FRA">Les candidatures doivent être déposées sur la plateforme de dématérialisation Maximilien à l'adresse suivante : https://marches.maximilien.fr
+Tout renseignement administratif ou technique peut être demandé sur la plateforme Maximilien à l'adresse suivante : https://marches.maximilien.fr
+Cette concession de services est de type restreint. A ce titre, elle comprend deux phases : une phase de sélection des candidatures et une phase d'offres. Dès lors, les éléments techniques de la concession seront communiqués en phase d'offres, aux candidats retenus.
+Tant pour la phase de candidature, que pour la phase d'offres, les plis doivent être transmis en une seule fois. Si plusieurs enveloppes sont déposées sur la plateforme Maximilien successivement, seule la dernière reçue dans le délai fixé sera examinée.
+Pour modifier une candidature ou une offre déjà déposée, l'opérateur économique doit en transmettre une nouvelle intégralement avant la fin du délai de réponse. Celle-ci sera admise et la première rejetée sans être ouverte.
+Nous vous remercions d'inscrire une adresse mél non sécurisée par des pare-feux et de bien vérifier vos spams.
+Aucun délai supplémentaire ne sera octroyé pour ces motifs.
+</cbc:Note>
+         <cac:MainCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">72500000</cbc:ItemClassificationCode>
+         </cac:MainCommodityClassification>
+         <cac:AdditionalCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">72514000</cbc:ItemClassificationCode>
+         </cac:AdditionalCommodityClassification>
+         <cac:AdditionalCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">72310000</cbc:ItemClassificationCode>
+         </cac:AdditionalCommodityClassification>
+         <cac:AdditionalCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">72317000</cbc:ItemClassificationCode>
+         </cac:AdditionalCommodityClassification>
+         <cac:AdditionalCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">45213250</cbc:ItemClassificationCode>
+         </cac:AdditionalCommodityClassification>
+         <cac:RealizedLocation>
+            <cac:Address>
+               <cbc:CountrySubentityCode listName="nuts">FR107</cbc:CountrySubentityCode>
+               <cac:Country>
+                  <cbc:IdentificationCode listName="country">FRA</cbc:IdentificationCode>
+               </cac:Country>
+            </cac:Address>
+         </cac:RealizedLocation>
+         <cac:PlannedPeriod>
+            <cbc:StartDate>2027-04-01+02:00</cbc:StartDate>
+            <cbc:EndDate>2068-12-31+01:00</cbc:EndDate>
+         </cac:PlannedPeriod>
+      </cac:ProcurementProject>
+   </cac:ProcurementProjectLot>
+</ContractNotice>

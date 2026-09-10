@@ -43,7 +43,8 @@
     "NEW_MATCH:616969-2026",
     "NEW_MATCH:617662-2026",
     "NEW_MATCH:617955-2026",
-    "NEW_MATCH:622567-2026"
+    "NEW_MATCH:622567-2026",
+    "NEW_MATCH:625194-2026"
   ],
   "notices": {
     "537409-2026": {
@@ -1127,7 +1128,7 @@
       ],
       "first_seen": "2026-08-29",
       "gone": false,
-      "last_checked": "2026-09-09",
+      "last_checked": "2026-09-10",
       "notice_type": "can-standard",
       "phrases": [
         "Künstliche Intelligenz"
@@ -1186,7 +1187,7 @@
       ],
       "first_seen": "2026-08-29",
       "gone": false,
-      "last_checked": "2026-09-09",
+      "last_checked": "2026-09-10",
       "notice_type": "can-standard",
       "phrases": [
         "artificial intelligence"
@@ -1250,7 +1251,7 @@
       ],
       "first_seen": "2026-08-29",
       "gone": false,
-      "last_checked": "2026-09-09",
+      "last_checked": "2026-09-10",
       "notice_type": "cn-social",
       "phrases": [
         "artificial intelligence"
@@ -1312,7 +1313,7 @@
       ],
       "first_seen": "2026-08-29",
       "gone": false,
-      "last_checked": "2026-09-09",
+      "last_checked": "2026-09-10",
       "notice_type": "cn-standard",
       "phrases": [
         "artificial intelligence"
@@ -1368,7 +1369,7 @@
       ],
       "first_seen": "2026-08-29",
       "gone": false,
-      "last_checked": "2026-09-09",
+      "last_checked": "2026-09-10",
       "notice_type": "cn-standard",
       "phrases": [
         "artificial intelligence"
@@ -1424,7 +1425,7 @@
       ],
       "first_seen": "2026-08-29",
       "gone": false,
-      "last_checked": "2026-09-09",
+      "last_checked": "2026-09-10",
       "notice_type": "pin-only",
       "phrases": [
         "artificial intelligence"
@@ -1480,7 +1481,7 @@
       ],
       "first_seen": "2026-09-01",
       "gone": false,
-      "last_checked": "2026-09-09",
+      "last_checked": "2026-09-10",
       "notice_type": "cn-standard",
       "phrases": [
         "Künstliche Intelligenz"
@@ -1536,7 +1537,7 @@
       ],
       "first_seen": "2026-09-01",
       "gone": false,
-      "last_checked": "2026-09-09",
+      "last_checked": "2026-09-10",
       "notice_type": "cn-standard",
       "phrases": [
         "intelligence artificielle"
@@ -1592,7 +1593,7 @@
       ],
       "first_seen": "2026-09-01",
       "gone": false,
-      "last_checked": "2026-09-09",
+      "last_checked": "2026-09-10",
       "notice_type": "cn-standard",
       "phrases": [
         "intelligence artificielle"
@@ -1649,7 +1650,7 @@
       ],
       "first_seen": "2026-09-01",
       "gone": false,
-      "last_checked": "2026-09-09",
+      "last_checked": "2026-09-10",
       "notice_type": "veat",
       "phrases": [
         "artificial intelligence"
@@ -1713,7 +1714,7 @@
       ],
       "first_seen": "2026-09-05",
       "gone": false,
-      "last_checked": "2026-09-09",
+      "last_checked": "2026-09-10",
       "notice_type": "cn-standard",
       "phrases": [
         "Künstliche Intelligenz"
@@ -1769,7 +1770,7 @@
       ],
       "first_seen": "2026-09-05",
       "gone": false,
-      "last_checked": "2026-09-09",
+      "last_checked": "2026-09-10",
       "notice_type": "can-standard",
       "phrases": [
         "artificial intelligence"
@@ -1833,7 +1834,7 @@
       ],
       "first_seen": "2026-09-05",
       "gone": false,
-      "last_checked": "2026-09-09",
+      "last_checked": "2026-09-10",
       "notice_type": "cn-standard",
       "phrases": [
         "Künstliche Intelligenz"
@@ -1889,7 +1890,7 @@
       ],
       "first_seen": "2026-09-05",
       "gone": false,
-      "last_checked": "2026-09-09",
+      "last_checked": "2026-09-10",
       "notice_type": "can-standard",
       "phrases": [
         "artificial intelligence"
@@ -1953,7 +1954,7 @@
       ],
       "first_seen": "2026-09-05",
       "gone": false,
-      "last_checked": "2026-09-09",
+      "last_checked": "2026-09-10",
       "notice_type": "can-standard",
       "phrases": [
         "artificial intelligence"
@@ -2017,7 +2018,7 @@
       ],
       "first_seen": "2026-09-05",
       "gone": false,
-      "last_checked": "2026-09-09",
+      "last_checked": "2026-09-10",
       "notice_type": "can-standard",
       "phrases": [
         "artificial intelligence"
@@ -2082,7 +2083,7 @@
       ],
       "first_seen": "2026-09-05",
       "gone": false,
-      "last_checked": "2026-09-09",
+      "last_checked": "2026-09-10",
       "notice_type": "cn-standard",
       "phrases": [
         "Künstliche Intelligenz"
@@ -2138,7 +2139,7 @@
       ],
       "first_seen": "2026-09-05",
       "gone": false,
-      "last_checked": "2026-09-09",
+      "last_checked": "2026-09-10",
       "notice_type": "can-standard",
       "phrases": [
         "artificial intelligence"
@@ -2202,7 +2203,7 @@
       ],
       "first_seen": "2026-09-05",
       "gone": false,
-      "last_checked": "2026-09-09",
+      "last_checked": "2026-09-10",
       "notice_type": "can-standard",
       "phrases": [
         "intelligence artificielle"
@@ -2285,7 +2286,7 @@
       ],
       "first_seen": "2026-09-05",
       "gone": false,
-      "last_checked": "2026-09-09",
+      "last_checked": "2026-09-10",
       "notice_type": "can-standard",
       "phrases": [
         "Künstliche Intelligenz"
@@ -2347,7 +2348,7 @@
       ],
       "first_seen": "2026-09-05",
       "gone": false,
-      "last_checked": "2026-09-09",
+      "last_checked": "2026-09-10",
       "notice_type": "can-standard",
       "phrases": [
         "Künstliche Intelligenz"
@@ -2410,7 +2411,7 @@
       ],
       "first_seen": "2026-09-07",
       "gone": false,
-      "last_checked": "2026-09-09",
+      "last_checked": "2026-09-10",
       "notice_type": "cn-standard",
       "phrases": [
         "artificial intelligence"
@@ -2466,7 +2467,7 @@
       ],
       "first_seen": "2026-09-09",
       "gone": false,
-      "last_checked": "2026-09-09",
+      "last_checked": "2026-09-10",
       "notice_type": "cn-standard",
       "phrases": [
         "artificial intelligence"
@@ -2524,7 +2525,7 @@
       ],
       "first_seen": "2026-09-09",
       "gone": false,
-      "last_checked": "2026-09-09",
+      "last_checked": "2026-09-10",
       "notice_type": "can-standard",
       "phrases": [
         "artificial intelligence"
@@ -2584,7 +2585,7 @@
       ],
       "first_seen": "2026-09-09",
       "gone": false,
-      "last_checked": "2026-09-09",
+      "last_checked": "2026-09-10",
       "notice_type": "cn-standard",
       "phrases": [
         "Künstliche Intelligenz"
@@ -2644,7 +2645,7 @@
       ],
       "first_seen": "2026-09-09",
       "gone": false,
-      "last_checked": "2026-09-09",
+      "last_checked": "2026-09-10",
       "notice_type": "cn-standard",
       "phrases": [
         "Künstliche Intelligenz"
@@ -2687,6 +2688,66 @@
       ],
       "winner_names": [],
       "xml_url": "https://ted.europa.eu/en/notice/622567-2026/xml"
+    },
+    "625194-2026": {
+      "buyer_countries": [
+        "FRA"
+      ],
+      "buyer_names": [
+        "SEMMARIS - Marché International de Rungis"
+      ],
+      "cpv": [
+        "45213250",
+        "72310000",
+        "72317000",
+        "72500000",
+        "72514000"
+      ],
+      "first_seen": "2026-09-10",
+      "gone": false,
+      "last_checked": "2026-09-10",
+      "notice_type": "cn-standard",
+      "phrases": [
+        "intelligence artificielle"
+      ],
+      "publication_date": "2026-09-10",
+      "title": "France – Computer-related services – Concession de services relative à la conception, la réalisation et l’exploitation d’un DATACENTER sur un terrain au sein du Marché International de Rungis",
+      "titles": [
+        "An Fhrainc – Computer-related services – Concession de services relative à la conception, la réalisation et l’exploitation d’un DATACENTER sur un terrain au sein du Marché International de Rungis",
+        "France – Computer-related services – Concession de services relative à la conception, la réalisation et l’exploitation d’un DATACENTER sur un terrain au sein du Marché International de Rungis",
+        "France – Services informatiques – Concession de services relative à la conception, la réalisation et l’exploitation d’un DATACENTER sur un terrain au sein du Marché International de Rungis",
+        "Francia – Servicios informáticos – Concession de services relative à la conception, la réalisation et l’exploitation d’un DATACENTER sur un terrain au sein du Marché International de Rungis",
+        "Francia – Servizi informatici – Concession de services relative à la conception, la réalisation et l’exploitation d’un DATACENTER sur un terrain au sein du Marché International de Rungis",
+        "Franciaország – Számítógépekkel kapcsolatos szolgáltatások – Concession de services relative à la conception, la réalisation et l’exploitation d’un DATACENTER sur un terrain au sein du Marché International de Rungis",
+        "Francie – Výpočetní služby – Concession de services relative à la conception, la réalisation et l’exploitation d’un DATACENTER sur un terrain au sein du Marché International de Rungis",
+        "Francija – Datorsaistītie pakalpojumi – Concession de services relative à la conception, la réalisation et l’exploitation d’un DATACENTER sur un terrain au sein du Marché International de Rungis",
+        "Francija – Z računalniki povezane storitve – Concession de services relative à la conception, la réalisation et l’exploitation d’un DATACENTER sur un terrain au sein du Marché International de Rungis",
+        "Francja – Komputerowe usługi pokrewne – Concession de services relative à la conception, la réalisation et l’exploitation d’un DATACENTER sur un terrain au sein du Marché International de Rungis",
+        "Francuska – Usluge povezane s računalom – Concession de services relative à la conception, la réalisation et l’exploitation d’un DATACENTER sur un terrain au sein du Marché International de Rungis",
+        "Francúzsko – Služby súvisiace s počítačmi – Concession de services relative à la conception, la réalisation et l’exploitation d’un DATACENTER sur un terrain au sein du Marché International de Rungis",
+        "Frankreich – Datenverarbeitungsdienste – Concession de services relative à la conception, la réalisation et l’exploitation d’un DATACENTER sur un terrain au sein du Marché International de Rungis",
+        "Frankrig – Servicevirksomhed i forbindelse med datamater – Concession de services relative à la conception, la réalisation et l’exploitation d’un DATACENTER sur un terrain au sein du Marché International de Rungis",
+        "Frankrijk – Informaticadiensten – Concession de services relative à la conception, la réalisation et l’exploitation d’un DATACENTER sur un terrain au sein du Marché International de Rungis",
+        "Frankrike – Datortjänster – Concession de services relative à la conception, la réalisation et l’exploitation d’un DATACENTER sur un terrain au sein du Marché International de Rungis",
+        "Franza – Servizzi relatati mal-kompjuter – Concession de services relative à la conception, la réalisation et l’exploitation d’un DATACENTER sur un terrain au sein du Marché International de Rungis",
+        "França – Serviços relacionados com a informática – Concession de services relative à la conception, la réalisation et l’exploitation d’un DATACENTER sur un terrain au sein du Marché International de Rungis",
+        "Franţa – Servicii informatice – Concession de services relative à la conception, la réalisation et l’exploitation d’un DATACENTER sur un terrain au sein du Marché International de Rungis",
+        "Prancūzija – Su kompiuteriais susijusios paslaugos – Concession de services relative à la conception, la réalisation et l’exploitation d’un DATACENTER sur un terrain au sein du Marché International de Rungis",
+        "Prantsusmaa – Arvutiga seotud teenused – Concession de services relative à la conception, la réalisation et l’exploitation d’un DATACENTER sur un terrain au sein du Marché International de Rungis",
+        "Ranska – Tietokonepalvelut – Concession de services relative à la conception, la réalisation et l’exploitation d’un DATACENTER sur un terrain au sein du Marché International de Rungis",
+        "Γαλλία – Υπηρεσίες πληροφορικής – Concession de services relative à la conception, la réalisation et l’exploitation d’un DATACENTER sur un terrain au sein du Marché International de Rungis",
+        "Фpaнция – Услуги, свързани с използване на компютри – Concession de services relative à la conception, la réalisation et l’exploitation d’un DATACENTER sur un terrain au sein du Marché International de Rungis"
+      ],
+      "vendor_keys": [],
+      "versions": [
+        {
+          "date": "2026-09-10",
+          "file": "snapshots/2026-09-10/notices/625194-2026.xml",
+          "sha256": "166c6e7240557ab23b7866e81f97806f22805d5fc1d0f80cc60b24b49ff004d4"
+        }
+      ],
+      "winner_names": [],
+      "xml_url": "https://ted.europa.eu/en/notice/625194-2026/xml"
     }
   }
 }

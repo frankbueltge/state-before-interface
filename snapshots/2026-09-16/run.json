@@ -1,0 +1,119 @@
+{
+  "candidates": {
+    "declined": [],
+    "open": []
+  },
+  "date": "2026-09-16",
+  "envelope_version": 1,
+  "failures": [
+    {
+      "error": "HTTP 202",
+      "scope": "xml:631512-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "xml:633195-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "xml:639096-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "recheck:603352-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "recheck:603694-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "recheck:604590-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "recheck:604647-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "recheck:604662-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "recheck:604840-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "recheck:605512-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "recheck:606030-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "recheck:608000-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "recheck:608731-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "recheck:611345-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "recheck:613172-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "recheck:616969-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "recheck:617662-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "recheck:617955-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "recheck:622567-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "recheck:625194-2026"
+    }
+  ],
+  "http_429": 0,
+  "new_matches": [
+    "631512-2026",
+    "633195-2026",
+    "639096-2026"
+  ],
+  "phrases": [
+    {
+      "lang": "eng",
+      "phrase": "artificial intelligence",
+      "total": 2,
+      "truncated": false
+    },
+    {
+      "lang": "deu",
+      "phrase": "Künstliche Intelligenz",
+      "total": 1,
+      "truncated": false
+    },
+    {
+      "lang": "fra",
+      "phrase": "intelligence artificielle",
+      "total": 0,
+      "truncated": false
+    }
+  ],
+  "rechecked": 17,
+  "requests": 23,
+  "signals": []
+}

@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><ContractNotice xmlns="urn:oasis:names:specification:ubl:schema:xsd:ContractNotice-2" xmlns:cac="urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-2" xmlns:cbc="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-2" xmlns:ccts-cct="urn:un:unece:uncefact:data:specification:CoreComponentTypeSchemaModule:2" xmlns:efac="http://data.europa.eu/p27/eforms-ubl-extension-aggregate-components/1" xmlns:efbc="http://data.europa.eu/p27/eforms-ubl-extension-basic-components/1" xmlns:efext="http://data.europa.eu/p27/eforms-ubl-extensions/1" xmlns:ext="urn:oasis:names:specification:ubl:schema:xsd:CommonExtensionComponents-2" xmlns:qdt="urn:oasis:names:specification:ubl:schema:xsd:QualifiedDataTypes-2" xmlns:udt="urn:oasis:names:specification:bdndr:schema:xsd:UnqualifiedDataTypes-1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<ext:UBLExtensions>
+		<ext:UBLExtension>
+			<ext:ExtensionContent>
+				<efext:EformsExtension>
+					<efac:NoticeSubType>
+						<cbc:SubTypeCode listName="notice-subtype">16</cbc:SubTypeCode>
+					</efac:NoticeSubType>
+					<efac:Organizations>
+						<efac:Organization>
+							<efbc:AwardingCPBIndicator>true</efbc:AwardingCPBIndicator>
+							<efac:Company>
+								<cac:PartyIdentification>
+									<cbc:ID>ORG-0001</cbc:ID>
+								</cac:PartyIdentification>
+								<cac:PartyName>
+									<cbc:Name languageID="DEU">TMB Tourismus-Marketing Brandenburg GmbH</cbc:Name>
+								</cac:PartyName>
+								<cac:PostalAddress>
+									<cbc:StreetName>Babelsberger Str. 26</cbc:StreetName>
+									<cbc:CityName>Potsdam</cbc:CityName>
+									<cbc:PostalZone>14473</cbc:PostalZone>
+									<cbc:CountrySubentityCode listName="nuts-lvl3">DE404</cbc:CountrySubentityCode>
+									<cac:Country>
+										<cbc:IdentificationCode listName="country">DEU</cbc:IdentificationCode>
+									</cac:Country>
+								</cac:PostalAddress>
+								<cac:PartyLegalEntity>
+									<cbc:CompanyID>DE194533636</cbc:CompanyID>
+								</cac:PartyLegalEntity>
+								<cac:Contact>
+									<cbc:Telephone>0331-29873-0</cbc:Telephone>
+									<cbc:ElectronicMail>ausschreibung@reiseland-brandenburg.de</cbc:ElectronicMail>
+								</cac:Contact>
+							</efac:Company>
+						</efac:Organization>
+						<efac:Organization>
+							<efac:Company>
+								<cac:PartyIdentification>
+									<cbc:ID>ORG-0002</cbc:ID>
+								</cac:PartyIdentification>
+								<cac:PartyName>
+									<cbc:Name languageID="DEU">Vergabekammer des Landes Brandenburg beim Ministerium für Wirtschaft, Energie, Klimaschutz und Europa</cbc:Name>
+								</cac:PartyName>
+								<cac:PostalAddress>
+									<cbc:StreetName>Heinrich-Mann-Allee 107</cbc:StreetName>
+									<cbc:CityName>Potsdam</cbc:CityName>
+									<cbc:PostalZone>14473</cbc:PostalZone>
+									<cbc:CountrySubentityCode listName="nuts-lvl3">DE404</cbc:CountrySubentityCode>
+									<cac:Country>
+										<cbc:IdentificationCode listName="country">DEU</cbc:IdentificationCode>
+									</cac:Country>
+								</cac:PostalAddress>
+								<cac:PartyLegalEntity>
+									<cbc:CompanyID>t:03318661719</cbc:CompanyID>
+								</cac:PartyLegalEntity>
+							</efac:Company>
+						</efac:Organization>
+					<efac:Organization><efac:Company><cac:PartyIdentification><cbc:ID schemeName="organization">ORG-0003</cbc:ID></cac:PartyIdentification><cac:PartyName><cbc:Name languageID="DEU">Datenservice Öffentlicher Einkauf (in Verantwortung des Beschaffungsamts des BMI)</cbc:Name></cac:PartyName><cac:PostalAddress><cbc:CityName>Bonn</cbc:CityName><cbc:PostalZone>53119</cbc:PostalZone><cbc:CountrySubentityCode listName="nuts">DEA22</cbc:CountrySubentityCode><cac:Country><cbc:IdentificationCode listName="country">DEU</cbc:IdentificationCode></cac:Country></cac:PostalAddress><cac:PartyLegalEntity><cbc:CompanyID schemeID="002">0204:994-DOEVD-83</cbc:CompanyID></cac:PartyLegalEntity><cac:Contact><cbc:Telephone>+49228996100</cbc:Telephone><cbc:ElectronicMail>noreply.esender_hub@bescha.bund.de</cbc:ElectronicMail></cac:Contact></efac:Company></efac:Organization></efac:Organizations>
+				<efac:Publication><efbc:NoticePublicationID schemeName="ojs-notice-id">00645866-2026</efbc:NoticePublicationID><efbc:GazetteID schemeName="ojs-id">181/2026</efbc:GazetteID><efbc:PublicationDate>2026-09-18+02:00</efbc:PublicationDate></efac:Publication></efext:EformsExtension>
+			</ext:ExtensionContent>
+		</ext:UBLExtension>
+	</ext:UBLExtensions>
+	<cbc:UBLVersionID>2.3</cbc:UBLVersionID>
+	<cbc:CustomizationID>eforms-sdk-1.13</cbc:CustomizationID>
+	<cbc:ProfileID>eforms-sdk-1.13</cbc:ProfileID>
+	<cbc:ID schemeName="notice-id">b46151e8-ac62-44b1-9945-ed47f2c78f11</cbc:ID>
+	<cbc:ContractFolderID>239e3b86-3b66-4c38-a41f-ac80586dcb40</cbc:ContractFolderID>
+	<cbc:IssueDate>2026-09-16+02:00</cbc:IssueDate>
+	<cbc:IssueTime>15:16:02+02:00</cbc:IssueTime>
+	<cbc:VersionID>01</cbc:VersionID>
+	<cbc:RequestedPublicationDate>2026-09-16+02:00</cbc:RequestedPublicationDate>
+	<cbc:RegulatoryDomain>32014L0024</cbc:RegulatoryDomain>
+	<cbc:NoticeTypeCode listName="competition">cn-standard</cbc:NoticeTypeCode>
+	<cbc:NoticeLanguageCode listID="eu-official-language">DEU</cbc:NoticeLanguageCode>
+	<cac:ContractingParty>
+		<cac:ContractingPartyType>
+			<cbc:PartyTypeCode listName="buyer-legal-type">pub-undert-la</cbc:PartyTypeCode>
+		</cac:ContractingPartyType>
+		<cac:ContractingActivity>
+			<cbc:ActivityTypeCode listName="authority-activity">rcr</cbc:ActivityTypeCode>
+		</cac:ContractingActivity>
+		<cac:Party>
+			<cac:PartyIdentification>
+				<cbc:ID>ORG-0001</cbc:ID>
+			</cac:PartyIdentification>
+		<cac:ServiceProviderParty><cbc:ServiceTypeCode listName="organisation-role">ted-esen</cbc:ServiceTypeCode><cac:Party><cac:PartyIdentification><cbc:ID schemeName="organization">ORG-0003</cbc:ID></cac:PartyIdentification></cac:Party></cac:ServiceProviderParty></cac:Party>
+	</cac:ContractingParty>
+	<cac:TenderingTerms>
+		<ext:UBLExtensions>
+			<ext:UBLExtension>
+				<ext:ExtensionContent>
+					<efext:EformsExtension>
+						<efac:StrategicProcurement>
+							<efbc:ApplicableLegalBasis listName="cvd-scope">false</efbc:ApplicableLegalBasis>
+						</efac:StrategicProcurement>
+						<efac:StrategicProcurement>
+							<efbc:ApplicableLegalBasis listName="eed-scope">false</efbc:ApplicableLegalBasis>
+						</efac:StrategicProcurement>
+					</efext:EformsExtension>
+				</ext:ExtensionContent>
+			</ext:UBLExtension>
+		</ext:UBLExtensions>
+		<cbc:FundingProgramCode listName="eu-funded">no-eu-funds</cbc:FundingProgramCode>
+		<cac:RequiredFinancialGuarantee>
+			<cbc:GuaranteeTypeCode listName="tender-guarantee-required">false</cbc:GuaranteeTypeCode>
+		</cac:RequiredFinancialGuarantee>
+		<cac:ProcurementLegislationDocumentReference>
+			<cbc:ID>vgv</cbc:ID>
+		</cac:ProcurementLegislationDocumentReference>
+		<cac:CallForTendersDocumentReference>
+			<ext:UBLExtensions>
+				<ext:UBLExtension>
+					<ext:ExtensionContent>
+						<efext:EformsExtension>
+							<efac:OfficialLanguages>
+								<cac:Language>
+									<cbc:ID>DEU</cbc:ID>
+								</cac:Language>
+							</efac:OfficialLanguages>
+						</efext:EformsExtension>
+					</ext:ExtensionContent>
+				</ext:UBLExtension>
+			</ext:UBLExtensions>
+			<cbc:ID>SomeTenderDocID1</cbc:ID>
+			<cbc:DocumentType>non-restricted-document</cbc:DocumentType>
+		</cac:CallForTendersDocumentReference>
+		<cac:TendererQualificationRequest>
+			<cac:SpecificTendererRequirement>
+				<cbc:TendererRequirementTypeCode listName="exclusion-grounds-source">epo-procurement-document</cbc:TendererRequirementTypeCode>
+			</cac:SpecificTendererRequirement>
+		</cac:TendererQualificationRequest>
+		<cac:TenderRecipientParty>
+			<cac:PartyIdentification>
+				<cbc:ID>ORG-0001</cbc:ID>
+			</cac:PartyIdentification>
+		</cac:TenderRecipientParty>
+		<cac:AppealTerms>
+			<cac:AppealInformationParty>
+				<cac:PartyIdentification>
+					<cbc:ID schemeName="organization">ORG-0002</cbc:ID>
+				</cac:PartyIdentification>
+			</cac:AppealInformationParty>
+			<cac:AppealReceiverParty>
+				<cac:PartyIdentification>
+					<cbc:ID schemeName="organization">ORG-0002</cbc:ID>
+				</cac:PartyIdentification>
+			</cac:AppealReceiverParty>
+		</cac:AppealTerms>
+		<cac:Language>
+			<cbc:ID>DEU</cbc:ID>
+		</cac:Language>
+	</cac:TenderingTerms>
+	<cac:TenderingProcess>
+		<cbc:ProcedureCode listName="procurement-procedure-type">open</cbc:ProcedureCode>
+		<cbc:AccessToolsURI>https://vergabemarktplatz.brandenburg.de/VMPSatellite/notice/CXP9YRJHXN2</cbc:AccessToolsURI>
+		<cac:ProcessJustification>
+			<cbc:ProcessReasonCode listName="accelerated-procedure">false</cbc:ProcessReasonCode>
+		</cac:ProcessJustification>
+		<cac:AuctionTerms>
+			<cbc:AuctionConstraintIndicator>false</cbc:AuctionConstraintIndicator>
+		</cac:AuctionTerms>
+	</cac:TenderingProcess>
+	<cac:ProcurementProject>
+		<cbc:ID schemeName="internalID">TMB-JH-2026-03</cbc:ID>
+		<cbc:Name languageID="DEU">Bereitstellung, Customizing, Betrieb sowie Weiterentwicklung eines landesweiten touristischen Datenmanagementsystems</cbc:Name>
+		<cbc:Description languageID="DEU">Die Ausschreibung umfasst folgende Arbeitspakete:  Arbeitspaket 1: Feinkonzeption als Vorarbeit zur Umsetzung von Arbeitspaket 2  Dieses Arbeitspaket umfasst die nötigen Feinkonzeptionen für die Bereitstellung und vor allem das Customizing des Datenmanagementsystems.  In der Feinkonzeption sind insbesondere folgende Punkte zu bearbeiten: - Gesamtarchitektur (Hard- und Software, Instanzen- und Mandantenmodell) - Datenmodellierung, -auszeichnung und -repräsentation - Rollen- und Rechtesystem, Benutzergruppen - Benutzeroberflächen / UI (Dateneingabe) - Qualitätsstandards und Doublettenprüfung bzw. -konsolidierung - Datensynchronisation zwischen Instanzen sowie Konnektoren beim Import aus externen Datenmanagementsystemen via API - Umsetzung der Complianceanforderungen (Barrierearmut, Datenschutz, Gesetze / Verordnungen (EU KI Act, EmpCo etc.) - Repräsentanz der Daten beim Export im Ausgabemanagement der Daten - Dashboards für das Systemmanagement und das Monitoring (KPIs) - initiale Datenmigration für den Import aus den bestehenden Dateninventaren  Arbeitspaket 2: Customizing (Eingabe- und Ausgabemanagement), inkl. Datenmigration, Schulungen und Dokumentation Dieses Arbeitspaket umfasst im Kern die Bereitstellung und vor allem das Customizing des Datenmanagementsystems aufbauend auf Arbeitspaket 1. Dies umfasst die Umsetzung der Standardsettings (Datenmodell, Rollen / Rechte, Oberflächen, API-Management, etc.) und die Einrichtung von 12 Instanzen inkl. Datensynchronisation. Zur Einführung des Systems ist zudem eine Datenmigration aus den Altsystemen sowie zwei Legacy APIs (XML) zur Aufrechterhaltung der Datenflüsse für Schnittstellenkonsumenten zu den bisherigen Datensystemen umzusetzen. Das Arbeitspaket umfasst die Schulung für die TMB (Administratoren und Betreiber regionaler Instanzen), Schulungsunterlagen und eine Dokumentation.  Arbeitspaket 3: Betrieb des API-Managements Die API-Infrastruktur soll im Rahmen des Projektes von der historisch gewachsenen Logik der XML-Exporte auf ein modernes API-Management umgestellt werden. Der Auftragnehmer übernimmt den laufenden technischen Betrieb des API-Managements des Datenmanagementsystems und stellt die zuverlässige, sichere und leistungsfähige Bereitstellung der APIs für die anzuschließenden Nutzer sicher.   Arbeitspaket 4: Systembetrieb, Hosting, Support Der Auftragnehmer übernimmt den laufenden technischen Betrieb, das Hosting und den technischen Support des Datenmanagementsystems einschließlich der hierfür erforderlichen Systemkomponenten und stellt deren zuverlässige, sichere und leistungsfähige Verfügbarkeit während der Vertragslaufzeit sicher. Hierzu gehört insbesondere die Überwachung der Systemumgebung, Wartung und Aktualisierung der eingesetzten Komponenten sowie die Bearbeitung und Behebung von technischen Störungen. Für den laufenden Systembetrieb und das Hosting aller Komponenten werden die folgenden Leistungen gefordert, die entweder von dem Auftragnehmer direkt oder durch den Auftragnehmer zu beauftragende Dritte zu erbringen sind. In beiden Fällen ist der Auftragnehmer zentraler Ansprechpartner für den Auftraggeber und hat (ggf. gemeinsam mit seinen Subunternehmern bzw. die zu benennenden Dritten) die nachfolgenden Anforderungen sicherzustellen.  Arbeitspaket 5: Konzeption und Aufbau / Integration einer Graph-RAG-fähigen Infrastruktur in das Datenmanagementsystem Graph-RAG-fähige Services sind dort notwendig, wo faktenbasierte, kontextsensitive Antworten aus kuratierten Inhalten mit KI-Systemen erzeugt werden sollen, etwa im Tourismusnetzwerk (als landesweites Informationssystem bspw. für Touristinformationen), in Serviceassistenten, Chatbots oder in internen Wissenssystemen. Um hier zukunftsfähig zu werden, wird dieses Arbeitspaket ausgeschrieben.  Arbeitspaket 6: Betrieb einer Graph-RAG-fähigen Infrastruktur Der Auftragnehmer übernimmt den technischen Betrieb der für die TMB bereitgestellten Graph-RAG-fähigen Infrastruktur und stellt deren zuverlässige, sichere und leistungsfähige Nutzung während der Vertragslaufzeit sicher. Der Betrieb umfasst insb. die Verfügbarkeit der erforderlichen Komponenten für die semantische Suche und Bereitstellung von Wissen für die angeschlossenen Anwendungen.  Arbeitspaket 7: Weiterentwicklung des Datenmanagementsystems und der angeschlossenen Komponenten Dieses Arbeitspaket dient der Kalkulation von Weiterentwicklungsaufträgen, die durch Einzelbeauftragung ausgelöst und umgesetzt werden.  Arbeitspaket 8: Consulting für das API-Management Der Auftragnehmer soll die TMB bei der Beratung und Betreuung der rund 200 bestehenden und neu hinzukommenden Nutzer der APIs des Datenmanagementsystems unterstützen. Ziel ist es, die API-Nutzer bei der individuellen Nutzung, Konfiguration und Weiterentwicklung ihrer Datenanbindungen fachlich und technisch zu unterstützen und eine möglichst reibungslose Nutzung der bereitgestellten Datenströme sicherzustellen.  Das Volumen des Auftrages beträgt geschätzt 332.500,00 Euro für einen Zeitraum von vier Jahren.</cbc:Description>
+		<cbc:ProcurementTypeCode listName="contract-nature">services</cbc:ProcurementTypeCode>
+		<cbc:Note languageID="DEU">#Bekanntmachungs-ID: CXP9YRJHXN2#</cbc:Note>
+		<cac:RequestedTenderTotal>
+			<cbc:EstimatedOverallContractAmount currencyID="EUR">332500.00</cbc:EstimatedOverallContractAmount>
+		</cac:RequestedTenderTotal>
+		<cac:MainCommodityClassification>
+			<cbc:ItemClassificationCode listName="cpv">72000000</cbc:ItemClassificationCode>
+		</cac:MainCommodityClassification>
+		<cac:AdditionalCommodityClassification>
+			<cbc:ItemClassificationCode listName="cpv">48000000</cbc:ItemClassificationCode>
+		</cac:AdditionalCommodityClassification>
+		<cac:RealizedLocation>
+			<cac:Address>
+				<cbc:StreetName>Babelsberger Str. 26</cbc:StreetName>
+				<cbc:CityName>Potsdam</cbc:CityName>
+				<cbc:PostalZone>14473</cbc:PostalZone>
+				<cbc:CountrySubentityCode listName="nuts">DE404</cbc:CountrySubentityCode>
+				<cac:Country>
+					<cbc:IdentificationCode listName="country">DEU</cbc:IdentificationCode>
+				</cac:Country>
+			</cac:Address>
+		</cac:RealizedLocation>
+	</cac:ProcurementProject>
+	<cac:ProcurementProjectLot>
+		<cbc:ID schemeName="Lot">LOT-0001</cbc:ID>
+		<cac:TenderingTerms>
+			<ext:UBLExtensions>
+				<ext:UBLExtension>
+					<ext:ExtensionContent>
+						<efext:EformsExtension>
+							<efac:StrategicProcurement>
+								<efbc:ApplicableLegalBasis listName="cvd-scope">false</efbc:ApplicableLegalBasis>
+							</efac:StrategicProcurement>
+							<efac:StrategicProcurement>
+								<efbc:ApplicableLegalBasis listName="eed-scope">false</efbc:ApplicableLegalBasis>
+							</efac:StrategicProcurement>
+						</efext:EformsExtension>
+					</ext:ExtensionContent>
+				</ext:UBLExtension>
+			</ext:UBLExtensions>
+			<cbc:VariantConstraintCode listName="permission">not-allowed</cbc:VariantConstraintCode>
+			<cbc:FundingProgramCode listName="eu-funded">no-eu-funds</cbc:FundingProgramCode>
+			<cbc:RequiredCurriculaCode listName="requirement-stage">t-requ</cbc:RequiredCurriculaCode>
+			<cbc:MultipleTendersCode listName="permission">not-allowed</cbc:MultipleTendersCode>
+			<cac:RequiredFinancialGuarantee>
+				<cbc:GuaranteeTypeCode listName="tender-guarantee-required">false</cbc:GuaranteeTypeCode>
+			</cac:RequiredFinancialGuarantee>
+			<cac:CallForTendersDocumentReference>
+				<ext:UBLExtensions>
+					<ext:UBLExtension>
+						<ext:ExtensionContent>
+							<efext:EformsExtension>
+								<efac:OfficialLanguages>
+									<cac:Language>
+										<cbc:ID>DEU</cbc:ID>
+									</cac:Language>
+								</efac:OfficialLanguages>
+							</efext:EformsExtension>
+						</ext:ExtensionContent>
+					</ext:UBLExtension>
+				</ext:UBLExtensions>
+				<cbc:ID>SomeTenderDocID1</cbc:ID>
+				<cbc:DocumentType>non-restricted-document</cbc:DocumentType>
+				<cac:Attachment>
+					<cac:ExternalReference>
+						<cbc:URI>https://vergabemarktplatz.brandenburg.de/VMPSatellite/notice/CXP9YRJHXN2/documents</cbc:URI>
+					</cac:ExternalReference>
+				</cac:Attachment>
+			</cac:CallForTendersDocumentReference>
+			<cac:TendererQualificationRequest>
+				<cbc:CompanyLegalFormCode listName="required">false</cbc:CompanyLegalFormCode>
+			</cac:TendererQualificationRequest>
+			<cac:TendererQualificationRequest>
+				<cac:SpecificTendererRequirement>
+					<cbc:TendererRequirementTypeCode listName="missing-info-submission">late-some</cbc:TendererRequirementTypeCode>
+					<cbc:Description languageID="DEU">Preisblatt, Tabelle Erfüllungsgrad, Konzeption, Service Level Agreement werden nicht nachgefordert. Fehlende Unterlagen führen zum Ausschluss.</cbc:Description>
+				</cac:SpecificTendererRequirement>
+			</cac:TendererQualificationRequest>
+			<cac:TendererQualificationRequest>
+				<cac:SpecificTendererRequirement>
+					<cbc:TendererRequirementTypeCode listName="reserved-procurement">none</cbc:TendererRequirementTypeCode>
+				</cac:SpecificTendererRequirement>
+			</cac:TendererQualificationRequest>
+			<cac:TendererQualificationRequest>
+				<cac:SpecificTendererRequirement>
+					<cbc:TendererRequirementTypeCode listName="selection-criteria-source">epo-procurement-document</cbc:TendererRequirementTypeCode>
+				</cac:SpecificTendererRequirement>
+			</cac:TendererQualificationRequest>
+			<cac:ContractExecutionRequirement>
+				<cbc:ExecutionRequirementCode listName="reserved-execution">no</cbc:ExecutionRequirementCode>
+			</cac:ContractExecutionRequirement>
+			<cac:ContractExecutionRequirement>
+				<cbc:ExecutionRequirementCode listName="ecatalog-submission">not-allowed</cbc:ExecutionRequirementCode>
+			</cac:ContractExecutionRequirement>
+			<cac:ContractExecutionRequirement>
+				<cbc:ExecutionRequirementCode listName="einvoicing">allowed</cbc:ExecutionRequirementCode>
+			</cac:ContractExecutionRequirement>
+			<cac:ContractExecutionRequirement>
+				<cbc:ExecutionRequirementCode listName="fsr">false</cbc:ExecutionRequirementCode>
+			</cac:ContractExecutionRequirement>
+			<cac:AwardingTerms>
+				<cac:AwardingCriterion>
+					<cac:SubordinateAwardingCriterion>
+						<ext:UBLExtensions>
+							<ext:UBLExtension>
+								<ext:ExtensionContent>
+									<efext:EformsExtension>
+										<efac:AwardCriterionParameter>
+											<efbc:ParameterCode listName="number-fixed">fix-tot</efbc:ParameterCode>
+											<efbc:ParameterNumeric>50.0</efbc:ParameterNumeric>
+										</efac:AwardCriterionParameter>
+									</efext:EformsExtension>
+								</ext:ExtensionContent>
+							</ext:UBLExtension>
+						</ext:UBLExtensions>
+						<cbc:AwardingCriterionTypeCode listName="award-criterion-type">quality</cbc:AwardingCriterionTypeCode>
+						<cbc:Name languageID="DEU">Erfüllungsgrad</cbc:Name>
+						<cbc:Description languageID="DEU">Der Erfüllungsgrad der Software in Bezug auf die formulierten Anforderungen fließt zu 50 Prozent in die Bewertung ein.</cbc:Description>
+					</cac:SubordinateAwardingCriterion>
+					<cac:SubordinateAwardingCriterion>
+						<ext:UBLExtensions>
+							<ext:UBLExtension>
+								<ext:ExtensionContent>
+									<efext:EformsExtension>
+										<efac:AwardCriterionParameter>
+											<efbc:ParameterCode listName="number-fixed">fix-tot</efbc:ParameterCode>
+											<efbc:ParameterNumeric>40.0</efbc:ParameterNumeric>
+										</efac:AwardCriterionParameter>
+									</efext:EformsExtension>
+								</ext:ExtensionContent>
+							</ext:UBLExtension>
+						</ext:UBLExtensions>
+						<cbc:AwardingCriterionTypeCode listName="award-criterion-type">price</cbc:AwardingCriterionTypeCode>
+						<cbc:Name languageID="DEU">Preis des Angebotes</cbc:Name>
+						<cbc:Description languageID="DEU">Der Gesamtpreis fließt zu 40 Prozent in die Bewertung ein.</cbc:Description>
+					</cac:SubordinateAwardingCriterion>
+					<cac:SubordinateAwardingCriterion>
+						<ext:UBLExtensions>
+							<ext:UBLExtension>
+								<ext:ExtensionContent>
+									<efext:EformsExtension>
+										<efac:AwardCriterionParameter>
+											<efbc:ParameterCode listName="number-fixed">fix-tot</efbc:ParameterCode>
+											<efbc:ParameterNumeric>10.0</efbc:ParameterNumeric>
+										</efac:AwardCriterionParameter>
+									</efext:EformsExtension>
+								</ext:ExtensionContent>
+							</ext:UBLExtension>
+						</ext:UBLExtensions>
+						<cbc:AwardingCriterionTypeCode listName="award-criterion-type">quality</cbc:AwardingCriterionTypeCode>
+						<cbc:Name languageID="DEU">Konzept</cbc:Name>
+						<cbc:Description languageID="DEU">Die Erstellung eines Konzeptes "Konzept für den Aufbau und den Betrieb einer "Graph-RAG-fähigen Infrastruktur" fließt zu 10 Prozent in die Bewertung ein.</cbc:Description>
+					</cac:SubordinateAwardingCriterion>
+				</cac:AwardingCriterion>
+			</cac:AwardingTerms>
+			<cac:AdditionalInformationParty>
+				<cac:PartyIdentification>
+					<cbc:ID>ORG-0001</cbc:ID>
+				</cac:PartyIdentification>
+			</cac:AdditionalInformationParty>
+			<cac:TenderRecipientParty>
+				<cbc:EndpointID>https://vergabemarktplatz.brandenburg.de/VMPSatellite/notice/CXP9YRJHXN2</cbc:EndpointID>
+				<cac:PartyIdentification>
+					<cbc:ID>ORG-0001</cbc:ID>
+				</cac:PartyIdentification>
+			</cac:TenderRecipientParty>
+			<cac:TenderValidityPeriod>
+				<cbc:DurationMeasure unitCode="DAY">39</cbc:DurationMeasure>
+			</cac:TenderValidityPeriod>
+			<cac:AppealTerms>
+				<cac:AppealInformationParty>
+					<cac:PartyIdentification>
+						<cbc:ID schemeName="organization">ORG-0002</cbc:ID>
+					</cac:PartyIdentification>
+				</cac:AppealInformationParty>
+				<cac:AppealReceiverParty>
+					<cac:PartyIdentification>
+						<cbc:ID schemeName="organization">ORG-0002</cbc:ID>
+					</cac:PartyIdentification>
+				</cac:AppealReceiverParty>
+			</cac:AppealTerms>
+			<cac:Language>
+				<cbc:ID>DEU</cbc:ID>
+			</cac:Language>
+			<cac:PostAwardProcess>
+				<cbc:ElectronicOrderUsageIndicator>true</cbc:ElectronicOrderUsageIndicator>
+				<cbc:ElectronicPaymentUsageIndicator>true</cbc:ElectronicPaymentUsageIndicator>
+			</cac:PostAwardProcess>
+			<cac:SecurityClearanceTerm>
+				<cbc:Code listName="required">false</cbc:Code>
+			</cac:SecurityClearanceTerm>
+		</cac:TenderingTerms>
+		<cac:TenderingProcess>
+			<cbc:SubmissionMethodCode listName="esubmission">required</cbc:SubmissionMethodCode>
+			<cbc:GovernmentAgreementConstraintIndicator>false</cbc:GovernmentAgreementConstraintIndicator>
+			<cbc:AccessToolsURI>https://vergabemarktplatz.brandenburg.de/VMPSatellite/notice/CXP9YRJHXN2</cbc:AccessToolsURI>
+			<cac:TenderSubmissionDeadlinePeriod>
+				<cbc:EndDate>2026-10-22+02:00</cbc:EndDate>
+				<cbc:EndTime>13:00:00+02:00</cbc:EndTime>
+			</cac:TenderSubmissionDeadlinePeriod>
+			<cac:AdditionalInformationRequestPeriod>
+				<cbc:EndDate>2026-10-15+02:00</cbc:EndDate>
+				<cbc:EndTime>23:59:59+02:00</cbc:EndTime>
+			</cac:AdditionalInformationRequestPeriod>
+			<cac:OpenTenderEvent>
+				<cbc:OccurrenceDate>2026-10-22+02:00</cbc:OccurrenceDate>
+				<cbc:OccurrenceTime>13:01:00+02:00</cbc:OccurrenceTime>
+			</cac:OpenTenderEvent>
+			<cac:AuctionTerms>
+				<cbc:AuctionConstraintIndicator>false</cbc:AuctionConstraintIndicator>
+			</cac:AuctionTerms>
+			<cac:ContractingSystem>
+				<cbc:ContractingSystemTypeCode listName="framework-agreement">none</cbc:ContractingSystemTypeCode>
+			</cac:ContractingSystem>
+			<cac:ContractingSystem>
+				<cbc:ContractingSystemTypeCode listName="dps-usage">none</cbc:ContractingSystemTypeCode>
+			</cac:ContractingSystem>
+		</cac:TenderingProcess>
+		<cac:ProcurementProject>
+			<cbc:ID schemeName="internalID">TMB-JH-2026-03</cbc:ID>
+			<cbc:Name languageID="DEU">Bereitstellung, Customizing, Betrieb sowie Weiterentwicklung eines landesweiten touristischen Datenmanagementsystems</cbc:Name>
+			<cbc:Description languageID="DEU">Mit der Beschaffung werden folgende Bedürfnisse und Anforderungen (Ziele) verbunden:  Vor dem Hintergrund neuer strategischer und rechtlicher Grundlagen (Tourismusstrategie Brandenburg (2023), Unternehmenskonzeption der TMB (2025), EU Artificial Intelligence Act bzw. die Verordnung über künstliche Intelligenz u.a.) einerseits, und der grundsätzlichen Entwicklungen im Bereich Digitalisierung (insbesondere KI) andererseits, möchte die TMB ein neues einheitliches Datenmanagement als Grundlage der Arbeit im Contentnetzwerk Brandenburg beschaffen. Im Kern soll ein Datenmanagementsystem für alle Arten bzw. Typen von Daten und Contents (B2C und B2B) mit folgenden Bestandteilen zur Verfügung gestellt werden:   - Eingabemanagement/ Pflege-Schicht - KI- und Service-Schicht - Ausgabemanagement/ Ausspielungs-Schicht  Die angestrebte Zielarchitektur basiert auf am Markt etablierten, wartbaren und personell beherrschbaren Technologien sowie offenen Standards. Zur Sicherung der digitalen Souveränität wird bewusst auf proprietäre Sonderentwicklungen verzichtet und stattdessen auf modulare, zukunftssichere Softwarestrukturen gesetzt. Durch einen konsequenten API-First-Ansatz soll zudem sichergestellt werden, dass einzelne Funktionsmodule jederzeit herstellerunabhängig ausgetauscht, erweitert und nahtlos an beliebige Drittsysteme angebunden werden können. Die heutige Trennung der POIs und Touren (DAMAS), Veranstaltung (TDH) sowie Medien (Medienarchiv) soll in einem Datenmanagementsystem konsolidiert werden. Dies trifft auch auf die Inhalte des B2B Portals sowie der Portale des B2C Website-frameworks. Damit soll der Umsetzung eines "Headless CMS Ansatzes" Vorschub geleistet werden, das auf eine komplette Trennung von Inhalt und Design abzielt. In seiner jetzigen Ausprägung ist das Datenmanagement - historisch bedingt - zentralistisch aufgebaut. Die Steuerung und Koordination des Systems liegt bei der TMB. So werden bspw. alle Mandanten von der TMB angelegt (inkl. Benutzerverwaltung, Rechtesteuerung, Vertragswesen etc.). Im zukünftigen System soll ein weniger hierarchisches und flexibles System zur Anwendung kommen. Dabei nehmen die elf Reiseregionen des Landes eine zentralere Rolle als bisher ein. Sie sollen eigene Instanzen des Landessystems erhalten, um bspw. die regionalen Redakteure selbständig zu steuern. Die regionalen Instanzen sind technisch vollständig eigenständige Systeme. Es handelt sich daher nicht um ein klassisches zentrales Mandantensystem mit lediglich logisch getrennten Sichten auf einen landesweiten Datenbestand. Vielmehr verfügt jede Instanz über eine eigene Datenhaltung bzw. Datenbank mit eigener Mandantenstruktur. Der Datenaustausch soll über definierte Synchronisationsmechanismen zwischen den eigenständigen Instanzen erfolgen.   Datenbankarchitektur  - Die zentrale Dateneingabe für die TMB und das Contentnetzwerk Brandenburg verteilt sich, wie oben dargestellt, über die POI-Datenbank DAMAS, die Veranstaltungsdatenbank (TDH) und das Medienarchiv. Somit gibt es, abgesehen vom Geoinformationssystem QGIS, keine zentrale und generische Datenhaltung. Hauptziel ist es, nur noch ein System zum Daten- und Contentmanagement zu betreiben. Dies betrifft auch das gegenwärtig solitär betriebene B2B-Portal und die Portale des B2C Websiteframeworks. - Die Architektur soll gleichzeitig durch die Umsetzung eines Instanzenmodells dezentralisiert werden, um die Vorteile der landesweiten Zusammenarbeit zu nutzen, aber auch die Individualität der Partner, insb. der Reiseregionen, zu ermöglichen. So wird ein schlankes Standard-Rollen- und Rechtesystem ermöglicht, das innerhalb der Instanzen differenziert werden kann. - Das Datenmodell wird - aufbauend auf der Integration der Daten der oben beschrieben Datenbänke und der heute getrennten B2B Daten weiterentwickelt. Als Landesstandard wird ein Datenmodell für alle Datentypen entworfen. - Es wird ein landesweiter Qualitätsstandard eingeführt. - Die Zusammenführung aller Daten und Contents in ein einheitliches Datenmodell und eine technische Infrastruktur bietet die Grundlage für die Umsetzung eines "Headless CMS-Ansatzes".  Eingabemanagement - Für die Eingabe von Daten und Contents soll es nur noch eine Oberfläche geben. - Inhalte sollen aus externen Systemen via API in das Landessystem importiert werden können. - Die Nutzung von responsiven, möglichst barrierearmen Eingabeoberflächen wird angestrebt.  KI- und Serviceschicht - Die Dateneingabe soll mit Unterstützung von KI-Anwendungen weitestgehend automatisiert werden. - Bereitstellung von KI-gesteuerten Dashboards für das Management und Monitoring der Datenbank sowie einem damit verbundenen Taskmanager. - Entwicklung und Bewirtschaftung einer Graph-RAG-fähigen Infrastrukur als Basis interner Wissenssysteme und Gästeservices  Ausgabemanagement - Bereitstellung einer einfach zu bedienenden Managementoberfläche für das Ausgabemanagement - Bereitstellung von konfigurierbaren Standard-APIs (REST / GraphQL) - Bereitstellung von Konnektoren zu gängigen Inventarsystemen - Bereitstellung von konfigurierbaren barrierefreien Widgets - Bereitstellung eines konfigurierbaren MCP-Servers und eines WebMCP-Service - Bereitstellung einer lesenden WebDAV Schnittstelle für Medien, mit der Daten direkt, z.B: im Windows Explorer als Verzeichnisse dargestellt werden können - Bereitstellung eines Medienportals, auf dem Medien für diverse Interessenten mit den hinterlegten Lizenzen downloadbar zur Verfügung gestellt werden.</cbc:Description>
+			<cbc:ProcurementTypeCode listName="contract-nature">services</cbc:ProcurementTypeCode>
+			<cbc:Note languageID="DEU">#Besonders auch geeignet für:selbst#, #Besonders auch geeignet für:startup#, #Besonders auch geeignet für:other-sme#</cbc:Note>
+			<cbc:SMESuitableIndicator>true</cbc:SMESuitableIndicator>
+			<cac:ProcurementAdditionalType>
+				<cbc:ProcurementTypeCode listName="strategic-procurement">none</cbc:ProcurementTypeCode>
+			</cac:ProcurementAdditionalType>
+			<cac:MainCommodityClassification>
+				<cbc:ItemClassificationCode listName="cpv">72000000</cbc:ItemClassificationCode>
+			</cac:MainCommodityClassification>
+			<cac:AdditionalCommodityClassification>
+				<cbc:ItemClassificationCode listName="cpv">48000000</cbc:ItemClassificationCode>
+			</cac:AdditionalCommodityClassification>
+			<cac:RealizedLocation>
+				<cac:Address>
+					<cbc:StreetName>Babelsberger Str. 26</cbc:StreetName>
+					<cbc:CityName>Potsdam</cbc:CityName>
+					<cbc:PostalZone>14473</cbc:PostalZone>
+					<cbc:CountrySubentityCode listName="nuts">DE404</cbc:CountrySubentityCode>
+					<cac:Country>
+						<cbc:IdentificationCode listName="country">DEU</cbc:IdentificationCode>
+					</cac:Country>
+				</cac:Address>
+			</cac:RealizedLocation>
+			<cac:PlannedPeriod>
+				<cbc:DurationMeasure unitCode="YEAR">4</cbc:DurationMeasure>
+			</cac:PlannedPeriod>
+		</cac:ProcurementProject>
+	</cac:ProcurementProjectLot>
+</ContractNotice>

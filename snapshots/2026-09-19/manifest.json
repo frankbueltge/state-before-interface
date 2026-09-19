@@ -1,0 +1,53 @@
+{
+  "entries": [
+    {
+      "bytes": 29395,
+      "file": "snapshots/2026-09-19/search/artificial-intelligence-p1.json",
+      "http_status": 200,
+      "retrieved_at": "2026-09-19T09:34:04+00:00",
+      "sha256": "e37d0e0a63b63a5e8b7f06245443bd124a725fd9216a95dddc13c3ec9daebb5c",
+      "url": "https://api.ted.europa.eu/v3/notices/search"
+    },
+    {
+      "bytes": 18570,
+      "file": "snapshots/2026-09-19/search/kunstliche-intelligenz-p1.json",
+      "http_status": 200,
+      "retrieved_at": "2026-09-19T09:34:06+00:00",
+      "sha256": "ce24024356bb9355225745d0a7d78f8ebe5ba1f4f778599807e9c1f36a9350c8",
+      "url": "https://api.ted.europa.eu/v3/notices/search"
+    },
+    {
+      "bytes": 78,
+      "file": "snapshots/2026-09-19/search/intelligence-artificielle-p1.json",
+      "http_status": 200,
+      "retrieved_at": "2026-09-19T09:34:08+00:00",
+      "sha256": "4392cb2130efe494f4bca8f6967874500e6242fa87227fa0bcb8504a0bfb6737",
+      "url": "https://api.ted.europa.eu/v3/notices/search"
+    },
+    {
+      "bytes": 22702,
+      "file": "snapshots/2026-09-19/notices/639096-2026.xml",
+      "http_status": 200,
+      "retrieved_at": "2026-09-19T09:34:08+00:00",
+      "sha256": "a830c1ca4551d637aa266f33a314fa49cdb5dd195ba60bcdbbaea70fd443f8d0",
+      "url": "https://ted.europa.eu/en/notice/639096-2026/xml"
+    },
+    {
+      "bytes": 15420,
+      "file": "snapshots/2026-09-19/notices/645014-2026.xml",
+      "http_status": 200,
+      "retrieved_at": "2026-09-19T09:34:09+00:00",
+      "sha256": "f03f378410049853aa45ddc49b5f60de05588ca1be0faafe207ec393879455b5",
+      "url": "https://ted.europa.eu/en/notice/645014-2026/xml"
+    },
+    {
+      "bytes": 31801,
+      "file": "snapshots/2026-09-19/notices/645866-2026.xml",
+      "http_status": 200,
+      "retrieved_at": "2026-09-19T09:34:11+00:00",
+      "sha256": "2a916736e855ffb8649446269236f41a102bc68e4be6a97ef3186d00a0a08a23",
+      "url": "https://ted.europa.eu/en/notice/645866-2026/xml"
+    }
+  ],
+  "run_date": "2026-09-19"
+}

@@ -44,7 +44,10 @@
     "NEW_MATCH:617662-2026",
     "NEW_MATCH:617955-2026",
     "NEW_MATCH:622567-2026",
-    "NEW_MATCH:625194-2026"
+    "NEW_MATCH:625194-2026",
+    "NEW_MATCH:639096-2026",
+    "NEW_MATCH:645014-2026",
+    "NEW_MATCH:645866-2026"
   ],
   "notices": {
     "537409-2026": {
@@ -1714,7 +1717,7 @@
       ],
       "first_seen": "2026-09-05",
       "gone": false,
-      "last_checked": "2026-09-18",
+      "last_checked": "2026-09-19",
       "notice_type": "cn-standard",
       "phrases": [
         "Künstliche Intelligenz"
@@ -1770,7 +1773,7 @@
       ],
       "first_seen": "2026-09-05",
       "gone": false,
-      "last_checked": "2026-09-18",
+      "last_checked": "2026-09-19",
       "notice_type": "can-standard",
       "phrases": [
         "artificial intelligence"
@@ -1834,7 +1837,7 @@
       ],
       "first_seen": "2026-09-05",
       "gone": false,
-      "last_checked": "2026-09-18",
+      "last_checked": "2026-09-19",
       "notice_type": "cn-standard",
       "phrases": [
         "Künstliche Intelligenz"
@@ -1890,7 +1893,7 @@
       ],
       "first_seen": "2026-09-05",
       "gone": false,
-      "last_checked": "2026-09-18",
+      "last_checked": "2026-09-19",
       "notice_type": "can-standard",
       "phrases": [
         "artificial intelligence"
@@ -1954,7 +1957,7 @@
       ],
       "first_seen": "2026-09-05",
       "gone": false,
-      "last_checked": "2026-09-18",
+      "last_checked": "2026-09-19",
       "notice_type": "can-standard",
       "phrases": [
         "artificial intelligence"
@@ -2018,7 +2021,7 @@
       ],
       "first_seen": "2026-09-05",
       "gone": false,
-      "last_checked": "2026-09-18",
+      "last_checked": "2026-09-19",
       "notice_type": "can-standard",
       "phrases": [
         "artificial intelligence"
@@ -2083,7 +2086,7 @@
       ],
       "first_seen": "2026-09-05",
       "gone": false,
-      "last_checked": "2026-09-18",
+      "last_checked": "2026-09-19",
       "notice_type": "cn-standard",
       "phrases": [
         "Künstliche Intelligenz"
@@ -2139,7 +2142,7 @@
       ],
       "first_seen": "2026-09-05",
       "gone": false,
-      "last_checked": "2026-09-18",
+      "last_checked": "2026-09-19",
       "notice_type": "can-standard",
       "phrases": [
         "artificial intelligence"
@@ -2203,7 +2206,7 @@
       ],
       "first_seen": "2026-09-05",
       "gone": false,
-      "last_checked": "2026-09-18",
+      "last_checked": "2026-09-19",
       "notice_type": "can-standard",
       "phrases": [
         "intelligence artificielle"
@@ -2286,7 +2289,7 @@
       ],
       "first_seen": "2026-09-05",
       "gone": false,
-      "last_checked": "2026-09-18",
+      "last_checked": "2026-09-19",
       "notice_type": "can-standard",
       "phrases": [
         "Künstliche Intelligenz"
@@ -2348,7 +2351,7 @@
       ],
       "first_seen": "2026-09-05",
       "gone": false,
-      "last_checked": "2026-09-18",
+      "last_checked": "2026-09-19",
       "notice_type": "can-standard",
       "phrases": [
         "Künstliche Intelligenz"
@@ -2411,7 +2414,7 @@
       ],
       "first_seen": "2026-09-07",
       "gone": false,
-      "last_checked": "2026-09-18",
+      "last_checked": "2026-09-19",
       "notice_type": "cn-standard",
       "phrases": [
         "artificial intelligence"
@@ -2467,7 +2470,7 @@
       ],
       "first_seen": "2026-09-09",
       "gone": false,
-      "last_checked": "2026-09-18",
+      "last_checked": "2026-09-19",
       "notice_type": "cn-standard",
       "phrases": [
         "artificial intelligence"
@@ -2525,7 +2528,7 @@
       ],
       "first_seen": "2026-09-09",
       "gone": false,
-      "last_checked": "2026-09-18",
+      "last_checked": "2026-09-19",
       "notice_type": "can-standard",
       "phrases": [
         "artificial intelligence"
@@ -2585,7 +2588,7 @@
       ],
       "first_seen": "2026-09-09",
       "gone": false,
-      "last_checked": "2026-09-18",
+      "last_checked": "2026-09-19",
       "notice_type": "cn-standard",
       "phrases": [
         "Künstliche Intelligenz"
@@ -2645,7 +2648,7 @@
       ],
       "first_seen": "2026-09-09",
       "gone": false,
-      "last_checked": "2026-09-18",
+      "last_checked": "2026-09-19",
       "notice_type": "cn-standard",
       "phrases": [
         "Künstliche Intelligenz"
@@ -2705,7 +2708,7 @@
       ],
       "first_seen": "2026-09-10",
       "gone": false,
-      "last_checked": "2026-09-18",
+      "last_checked": "2026-09-19",
       "notice_type": "cn-standard",
       "phrases": [
         "intelligence artificielle"
@@ -2748,6 +2751,186 @@
       ],
       "winner_names": [],
       "xml_url": "https://ted.europa.eu/en/notice/625194-2026/xml"
+    },
+    "639096-2026": {
+      "buyer_countries": [
+        "MLT"
+      ],
+      "buyer_names": [
+        "Sectoral Procurement Directorate"
+      ],
+      "cpv": [
+        "79100000",
+        "79110000",
+        "79111000",
+        "79112000",
+        "79130000",
+        "79140000"
+      ],
+      "first_seen": "2026-09-19",
+      "gone": false,
+      "last_checked": "2026-09-19",
+      "notice_type": "can-standard",
+      "phrases": [
+        "artificial intelligence"
+      ],
+      "publication_date": "2026-09-16",
+      "title": "Malta – Legal services – SPD7/2025/059 - FRAMEWORK CONTRACT FOR THE PROVISION OF VARIOUS LEGAL SERVICES PERTAINING TO COMMERCIAL, IT, DATA PROTECTION AND ARTIFICIAL INTELLIGENCE (AI) FOR THE MALTA FINANCIAL SERVICES AUTHORITY (MFSA)",
+      "titles": [
+        "Malta – Dienstleistungen im juristischen Bereich – SPD7/2025/059 - FRAMEWORK CONTRACT FOR THE PROVISION OF VARIOUS LEGAL SERVICES PERTAINING TO COMMERCIAL, IT, DATA PROTECTION AND ARTIFICIAL INTELLIGENCE (AI) FOR THE MALTA FINANCIAL SERVICES AUTHORITY (MFSA)",
+        "Malta – Juridische dienstverlening – SPD7/2025/059 - FRAMEWORK CONTRACT FOR THE PROVISION OF VARIOUS LEGAL SERVICES PERTAINING TO COMMERCIAL, IT, DATA PROTECTION AND ARTIFICIAL INTELLIGENCE (AI) FOR THE MALTA FINANCIAL SERVICES AUTHORITY (MFSA)",
+        "Malta – Juridisk virksomhed – SPD7/2025/059 - FRAMEWORK CONTRACT FOR THE PROVISION OF VARIOUS LEGAL SERVICES PERTAINING TO COMMERCIAL, IT, DATA PROTECTION AND ARTIFICIAL INTELLIGENCE (AI) FOR THE MALTA FINANCIAL SERVICES AUTHORITY (MFSA)",
+        "Malta – Juridiska tjänster – SPD7/2025/059 - FRAMEWORK CONTRACT FOR THE PROVISION OF VARIOUS LEGAL SERVICES PERTAINING TO COMMERCIAL, IT, DATA PROTECTION AND ARTIFICIAL INTELLIGENCE (AI) FOR THE MALTA FINANCIAL SERVICES AUTHORITY (MFSA)",
+        "Malta – Juridiskie pakalpojumi – SPD7/2025/059 - FRAMEWORK CONTRACT FOR THE PROVISION OF VARIOUS LEGAL SERVICES PERTAINING TO COMMERCIAL, IT, DATA PROTECTION AND ARTIFICIAL INTELLIGENCE (AI) FOR THE MALTA FINANCIAL SERVICES AUTHORITY (MFSA)",
+        "Malta – Legal services – SPD7/2025/059 - FRAMEWORK CONTRACT FOR THE PROVISION OF VARIOUS LEGAL SERVICES PERTAINING TO COMMERCIAL, IT, DATA PROTECTION AND ARTIFICIAL INTELLIGENCE (AI) FOR THE MALTA FINANCIAL SERVICES AUTHORITY (MFSA)",
+        "Malta – Oikeudelliset palvelut – SPD7/2025/059 - FRAMEWORK CONTRACT FOR THE PROVISION OF VARIOUS LEGAL SERVICES PERTAINING TO COMMERCIAL, IT, DATA PROTECTION AND ARTIFICIAL INTELLIGENCE (AI) FOR THE MALTA FINANCIAL SERVICES AUTHORITY (MFSA)",
+        "Malta – Pravne storitve – SPD7/2025/059 - FRAMEWORK CONTRACT FOR THE PROVISION OF VARIOUS LEGAL SERVICES PERTAINING TO COMMERCIAL, IT, DATA PROTECTION AND ARTIFICIAL INTELLIGENCE (AI) FOR THE MALTA FINANCIAL SERVICES AUTHORITY (MFSA)",
+        "Malta – Pravne usluge – SPD7/2025/059 - FRAMEWORK CONTRACT FOR THE PROVISION OF VARIOUS LEGAL SERVICES PERTAINING TO COMMERCIAL, IT, DATA PROTECTION AND ARTIFICIAL INTELLIGENCE (AI) FOR THE MALTA FINANCIAL SERVICES AUTHORITY (MFSA)",
+        "Malta – Právne služby – SPD7/2025/059 - FRAMEWORK CONTRACT FOR THE PROVISION OF VARIOUS LEGAL SERVICES PERTAINING TO COMMERCIAL, IT, DATA PROTECTION AND ARTIFICIAL INTELLIGENCE (AI) FOR THE MALTA FINANCIAL SERVICES AUTHORITY (MFSA)",
+        "Malta – Právní služby – SPD7/2025/059 - FRAMEWORK CONTRACT FOR THE PROVISION OF VARIOUS LEGAL SERVICES PERTAINING TO COMMERCIAL, IT, DATA PROTECTION AND ARTIFICIAL INTELLIGENCE (AI) FOR THE MALTA FINANCIAL SERVICES AUTHORITY (MFSA)",
+        "Malta – Servicii juridice – SPD7/2025/059 - FRAMEWORK CONTRACT FOR THE PROVISION OF VARIOUS LEGAL SERVICES PERTAINING TO COMMERCIAL, IT, DATA PROTECTION AND ARTIFICIAL INTELLIGENCE (AI) FOR THE MALTA FINANCIAL SERVICES AUTHORITY (MFSA)",
+        "Malta – Servicios jurídicos – SPD7/2025/059 - FRAMEWORK CONTRACT FOR THE PROVISION OF VARIOUS LEGAL SERVICES PERTAINING TO COMMERCIAL, IT, DATA PROTECTION AND ARTIFICIAL INTELLIGENCE (AI) FOR THE MALTA FINANCIAL SERVICES AUTHORITY (MFSA)",
+        "Malta – Servizi giuridici – SPD7/2025/059 - FRAMEWORK CONTRACT FOR THE PROVISION OF VARIOUS LEGAL SERVICES PERTAINING TO COMMERCIAL, IT, DATA PROTECTION AND ARTIFICIAL INTELLIGENCE (AI) FOR THE MALTA FINANCIAL SERVICES AUTHORITY (MFSA)",
+        "Malta – Servizzi legali – SPD7/2025/059 - FRAMEWORK CONTRACT FOR THE PROVISION OF VARIOUS LEGAL SERVICES PERTAINING TO COMMERCIAL, IT, DATA PROTECTION AND ARTIFICIAL INTELLIGENCE (AI) FOR THE MALTA FINANCIAL SERVICES AUTHORITY (MFSA)",
+        "Malta – Serviços jurídicos – SPD7/2025/059 - FRAMEWORK CONTRACT FOR THE PROVISION OF VARIOUS LEGAL SERVICES PERTAINING TO COMMERCIAL, IT, DATA PROTECTION AND ARTIFICIAL INTELLIGENCE (AI) FOR THE MALTA FINANCIAL SERVICES AUTHORITY (MFSA)",
+        "Malta – Teisinės paslaugos – SPD7/2025/059 - FRAMEWORK CONTRACT FOR THE PROVISION OF VARIOUS LEGAL SERVICES PERTAINING TO COMMERCIAL, IT, DATA PROTECTION AND ARTIFICIAL INTELLIGENCE (AI) FOR THE MALTA FINANCIAL SERVICES AUTHORITY (MFSA)",
+        "Malta – Usługi prawnicze – SPD7/2025/059 - FRAMEWORK CONTRACT FOR THE PROVISION OF VARIOUS LEGAL SERVICES PERTAINING TO COMMERCIAL, IT, DATA PROTECTION AND ARTIFICIAL INTELLIGENCE (AI) FOR THE MALTA FINANCIAL SERVICES AUTHORITY (MFSA)",
+        "Malta – Õigusteenused – SPD7/2025/059 - FRAMEWORK CONTRACT FOR THE PROVISION OF VARIOUS LEGAL SERVICES PERTAINING TO COMMERCIAL, IT, DATA PROTECTION AND ARTIFICIAL INTELLIGENCE (AI) FOR THE MALTA FINANCIAL SERVICES AUTHORITY (MFSA)",
+        "Malte – Services juridiques – SPD7/2025/059 - FRAMEWORK CONTRACT FOR THE PROVISION OF VARIOUS LEGAL SERVICES PERTAINING TO COMMERCIAL, IT, DATA PROTECTION AND ARTIFICIAL INTELLIGENCE (AI) FOR THE MALTA FINANCIAL SERVICES AUTHORITY (MFSA)",
+        "Málta – Jogi szolgáltatások – SPD7/2025/059 - FRAMEWORK CONTRACT FOR THE PROVISION OF VARIOUS LEGAL SERVICES PERTAINING TO COMMERCIAL, IT, DATA PROTECTION AND ARTIFICIAL INTELLIGENCE (AI) FOR THE MALTA FINANCIAL SERVICES AUTHORITY (MFSA)",
+        "Málta – Legal services – SPD7/2025/059 - FRAMEWORK CONTRACT FOR THE PROVISION OF VARIOUS LEGAL SERVICES PERTAINING TO COMMERCIAL, IT, DATA PROTECTION AND ARTIFICIAL INTELLIGENCE (AI) FOR THE MALTA FINANCIAL SERVICES AUTHORITY (MFSA)",
+        "Μάλτα – Νομικές υπηρεσίες – SPD7/2025/059 - FRAMEWORK CONTRACT FOR THE PROVISION OF VARIOUS LEGAL SERVICES PERTAINING TO COMMERCIAL, IT, DATA PROTECTION AND ARTIFICIAL INTELLIGENCE (AI) FOR THE MALTA FINANCIAL SERVICES AUTHORITY (MFSA)",
+        "Малта – Юридически услуги – SPD7/2025/059 - FRAMEWORK CONTRACT FOR THE PROVISION OF VARIOUS LEGAL SERVICES PERTAINING TO COMMERCIAL, IT, DATA PROTECTION AND ARTIFICIAL INTELLIGENCE (AI) FOR THE MALTA FINANCIAL SERVICES AUTHORITY (MFSA)"
+      ],
+      "vendor_keys": [
+        "rsm malta"
+      ],
+      "versions": [
+        {
+          "date": "2026-09-19",
+          "file": "snapshots/2026-09-19/notices/639096-2026.xml",
+          "sha256": "a830c1ca4551d637aa266f33a314fa49cdb5dd195ba60bcdbbaea70fd443f8d0"
+        }
+      ],
+      "winner_names": [
+        "RSM Malta"
+      ],
+      "xml_url": "https://ted.europa.eu/en/notice/639096-2026/xml"
+    },
+    "645014-2026": {
+      "buyer_countries": [
+        "DEU"
+      ],
+      "buyer_names": [
+        "Sovereign Tech Agency GmbH"
+      ],
+      "cpv": [
+        "73000000"
+      ],
+      "first_seen": "2026-09-19",
+      "gone": false,
+      "last_checked": "2026-09-19",
+      "notice_type": "veat",
+      "phrases": [
+        "Künstliche Intelligenz",
+        "artificial intelligence"
+      ],
+      "publication_date": "2026-09-18",
+      "title": "Germany – Research and development services and related consultancy services – Project \"OpenJS: AI Vulnerability Disclosure\"",
+      "titles": [
+        "Alemanha – Serviços de investigação e desenvolvimento e serviços de consultoria conexos – Project \"OpenJS: AI Vulnerability Disclosure\"",
+        "Alemania – Servicios de investigación y desarrollo y servicios de consultoría conexos – Project \"OpenJS: AI Vulnerability Disclosure\"",
+        "Allemagne – Services de recherche et développement et services de conseil connexes – Project \"OpenJS: AI Vulnerability Disclosure\"",
+        "An Ghearmáin – Research and development services and related consultancy services – Project \"OpenJS: AI Vulnerability Disclosure\"",
+        "Deutschland – Forschungs- und Entwicklungsdienste und zugehörige Beratung – Projekt \"OpenJS: AI Vulnerability Disclosure\"",
+        "Duitsland – Onderzoek en ontwikkeling, en aanverwante adviezen – Project \"OpenJS: AI Vulnerability Disclosure\"",
+        "Germania – Servicii de cercetare şi de dezvoltare şi servicii conexe de consultanţă – Project \"OpenJS: AI Vulnerability Disclosure\"",
+        "Germania – Servizi di ricerca e sviluppo nonché servizi di consulenza affini – Project \"OpenJS: AI Vulnerability Disclosure\"",
+        "Germany – Research and development services and related consultancy services – Project \"OpenJS: AI Vulnerability Disclosure\"",
+        "Il-Ġermanja – Servizzi ta' riċerka u żvilupp u servizzi relatati mal-konsulenza – Project \"OpenJS: AI Vulnerability Disclosure\"",
+        "Nemecko – Výskum a vývoj a súvisiace poradenské služby – Project \"OpenJS: AI Vulnerability Disclosure\"",
+        "Nemčija – Storitve na področju raziskav in razvoja ter s tem povezane svetovalne storitve – Project \"OpenJS: AI Vulnerability Disclosure\"",
+        "Niemcy – Usługi badawcze i eksperymentalno-rozwojowe oraz pokrewne usługi doradcze – Project \"OpenJS: AI Vulnerability Disclosure\"",
+        "Njemačka – Usluge na području istraživanja i razvoja i s tim povezane usluge savjetovanja – Project \"OpenJS: AI Vulnerability Disclosure\"",
+        "Németország – Kutatási és fejlesztési szolgáltatások és kapcsolódó tanácsadói szolgáltatások – Project \"OpenJS: AI Vulnerability Disclosure\"",
+        "Německo – Výzkum a vývoj a související služby – Project \"OpenJS: AI Vulnerability Disclosure\"",
+        "Saksa – Tutkimus- ja kehityspalvelut ja niihin liittyvät konsulttipalvelut – Project \"OpenJS: AI Vulnerability Disclosure\"",
+        "Saksamaa – Uurimis- ja arendusteenused ja seonduvad nõustamisteenused – Project \"OpenJS: AI Vulnerability Disclosure\"",
+        "Tyskland – FoU-tjänster samt tillhörande konsulttjänster – Project \"OpenJS: AI Vulnerability Disclosure\"",
+        "Tyskland – Forsknings- og udviklingsvirksomhed og hermed beslægtet konsulentvirksomhed – Project \"OpenJS: AI Vulnerability Disclosure\"",
+        "Vokietija – Mokslinių tyrimų ir taikomosios veiklos paslaugos bei su jomis susijusios konsultacinės paslaugos – Project \"OpenJS: AI Vulnerability Disclosure\"",
+        "Vācija – Pētniecības un izstrādes pakalpojumi un saistītie konsultāciju pakalpojumi – Project \"OpenJS: AI Vulnerability Disclosure\"",
+        "Γερμανία – Υπηρεσίες έρευνας και ανάπτυξης, καθώς και συναφείς υπηρεσίες παροχής συμβουλών – Project \"OpenJS: AI Vulnerability Disclosure\"",
+        "Гepмaния – Научни изследвания и експериментални разработки и свързаните с тях консултантски услуги – Project \"OpenJS: AI Vulnerability Disclosure\""
+      ],
+      "vendor_keys": [],
+      "versions": [
+        {
+          "date": "2026-09-19",
+          "file": "snapshots/2026-09-19/notices/645014-2026.xml",
+          "sha256": "f03f378410049853aa45ddc49b5f60de05588ca1be0faafe207ec393879455b5"
+        }
+      ],
+      "winner_names": [],
+      "xml_url": "https://ted.europa.eu/en/notice/645014-2026/xml"
+    },
+    "645866-2026": {
+      "buyer_countries": [
+        "DEU"
+      ],
+      "buyer_names": [
+        "TMB Tourismus-Marketing Brandenburg GmbH"
+      ],
+      "cpv": [
+        "48000000",
+        "72000000"
+      ],
+      "first_seen": "2026-09-19",
+      "gone": false,
+      "last_checked": "2026-09-19",
+      "notice_type": "cn-standard",
+      "phrases": [
+        "Künstliche Intelligenz",
+        "artificial intelligence"
+      ],
+      "publication_date": "2026-09-18",
+      "title": "Germany – IT services: consulting, software development, Internet and support – Bereitstellung, Customizing, Betrieb sowie Weiterentwicklung eines landesweiten touristischen Datenmanagementsystems",
+      "titles": [
+        "Alemanha – Serviços de TI: consultoria, desenvolvimento de software, Internet e apoio – Bereitstellung, Customizing, Betrieb sowie Weiterentwicklung eines landesweiten touristischen Datenmanagementsystems",
+        "Alemania – Servicios TI: consultoría, desarrollo de software, Internet y apoyo – Bereitstellung, Customizing, Betrieb sowie Weiterentwicklung eines landesweiten touristischen Datenmanagementsystems",
+        "Allemagne – Services de technologies de l'information, conseil, développement de logiciels, internet et appui – Bereitstellung, Customizing, Betrieb sowie Weiterentwicklung eines landesweiten touristischen Datenmanagementsystems",
+        "An Ghearmáin – IT services: consulting, software development, Internet and support – Bereitstellung, Customizing, Betrieb sowie Weiterentwicklung eines landesweiten touristischen Datenmanagementsystems",
+        "Deutschland – IT-Dienste: Beratung, Software-Entwicklung, Internet und Hilfestellung – Bereitstellung, Customizing, Betrieb sowie Weiterentwicklung eines landesweiten touristischen Datenmanagementsystems",
+        "Duitsland – IT-diensten: adviezen, softwareontwikkeling, internet en ondersteuning – Bereitstellung, Customizing, Betrieb sowie Weiterentwicklung eines landesweiten touristischen Datenmanagementsystems",
+        "Germania – Servicii IT: consultanţă, dezvoltare de software, internet şi asistenţă – Bereitstellung, Customizing, Betrieb sowie Weiterentwicklung eines landesweiten touristischen Datenmanagementsystems",
+        "Germania – Servizi informatici: consulenza, sviluppo di software, Internet e supporto – Bereitstellung, Customizing, Betrieb sowie Weiterentwicklung eines landesweiten touristischen Datenmanagementsystems",
+        "Germany – IT services: consulting, software development, Internet and support – Bereitstellung, Customizing, Betrieb sowie Weiterentwicklung eines landesweiten touristischen Datenmanagementsystems",
+        "Il-Ġermanja – Servizzi ta' IT: konsulenza, żvilupp ta' softwer, Internet u appoġġ – Bereitstellung, Customizing, Betrieb sowie Weiterentwicklung eines landesweiten touristischen Datenmanagementsystems",
+        "Nemecko – Služby informačných technológií: konzultácie, vývoj softvéru, internet a podpora – Bereitstellung, Customizing, Betrieb sowie Weiterentwicklung eines landesweiten touristischen Datenmanagementsystems",
+        "Nemčija – Storitve informacijske tehnologije: svetovanje, razvoj programske opreme, internet in podpora – Bereitstellung, Customizing, Betrieb sowie Weiterentwicklung eines landesweiten touristischen Datenmanagementsystems",
+        "Niemcy – Usługi informatyczne: konsultacyjne, opracowywania oprogramowania, internetowe i wsparcia – Bereitstellung, Customizing, Betrieb sowie Weiterentwicklung eines landesweiten touristischen Datenmanagementsystems",
+        "Njemačka – Usluge informacijske tehnologije: savjetovanje, razvoj programske podrške, internet i podrška – Bereitstellung, Customizing, Betrieb sowie Weiterentwicklung eines landesweiten touristischen Datenmanagementsystems",
+        "Németország – IT-szolgáltatások: tanácsadás, szoftverfejlesztés, internet és támogatás – Bereitstellung, Customizing, Betrieb sowie Weiterentwicklung eines landesweiten touristischen Datenmanagementsystems",
+        "Německo – Informační technologie: poradenství, vývoj programového vybavení, internet a podpora – Bereitstellung, Customizing, Betrieb sowie Weiterentwicklung eines landesweiten touristischen Datenmanagementsystems",
+        "Saksa – Tietotekniset palvelut: neuvonta, ohjelmistojen kehittäminen, Internet ja tuki – Bereitstellung, Customizing, Betrieb sowie Weiterentwicklung eines landesweiten touristischen Datenmanagementsystems",
+        "Saksamaa – IT-teenused: nõuande-, tarkvaraarendus-, Interneti- ja tugiteenused – Bereitstellung, Customizing, Betrieb sowie Weiterentwicklung eines landesweiten touristischen Datenmanagementsystems",
+        "Tyskland – IT-tjänster: konsultverksamhet, programvaruutveckling, Internet och stöd – Bereitstellung, Customizing, Betrieb sowie Weiterentwicklung eines landesweiten touristischen Datenmanagementsystems",
+        "Tyskland – It-tjenester: rådgivning, programmeludvikling, internet og support – Bereitstellung, Customizing, Betrieb sowie Weiterentwicklung eines landesweiten touristischen Datenmanagementsystems",
+        "Vokietija – IT paslaugos: konsultavimas, programinės įrangos kūrimas, internetas ir aptarnavimo paslaugos – Bereitstellung, Customizing, Betrieb sowie Weiterentwicklung eines landesweiten touristischen Datenmanagementsystems",
+        "Vācija – IT pakalpojumi konsultēšana, programmatūras izstrāde, internets un atbalsts – Bereitstellung, Customizing, Betrieb sowie Weiterentwicklung eines landesweiten touristischen Datenmanagementsystems",
+        "Γερμανία – Υπηρεσίες τεχνολογίας των πληροφοριών: παροχή συμβουλών, ανάπτυξη λογισμικού, Διαδίκτυο και υποστήριξη – Bereitstellung, Customizing, Betrieb sowie Weiterentwicklung eines landesweiten touristischen Datenmanagementsystems",
+        "Гepмaния – ИТ услуги: консултации, разработване на софтуер, Интернет и поддръжка – Bereitstellung, Customizing, Betrieb sowie Weiterentwicklung eines landesweiten touristischen Datenmanagementsystems"
+      ],
+      "vendor_keys": [],
+      "versions": [
+        {
+          "date": "2026-09-19",
+          "file": "snapshots/2026-09-19/notices/645866-2026.xml",
+          "sha256": "2a916736e855ffb8649446269236f41a102bc68e4be6a97ef3186d00a0a08a23"
+        }
+      ],
+      "winner_names": [],
+      "xml_url": "https://ted.europa.eu/en/notice/645866-2026/xml"
     }
   }
 }

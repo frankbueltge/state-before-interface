@@ -47,7 +47,9 @@
     "NEW_MATCH:625194-2026",
     "NEW_MATCH:639096-2026",
     "NEW_MATCH:645014-2026",
-    "NEW_MATCH:645866-2026"
+    "NEW_MATCH:645866-2026",
+    "NEW_MATCH:647124-2026",
+    "NEW_MATCH:648921-2026"
   ],
   "notices": {
     "537409-2026": {
@@ -2414,7 +2416,7 @@
       ],
       "first_seen": "2026-09-07",
       "gone": false,
-      "last_checked": "2026-09-20",
+      "last_checked": "2026-09-21",
       "notice_type": "cn-standard",
       "phrases": [
         "artificial intelligence"
@@ -2470,7 +2472,7 @@
       ],
       "first_seen": "2026-09-09",
       "gone": false,
-      "last_checked": "2026-09-20",
+      "last_checked": "2026-09-21",
       "notice_type": "cn-standard",
       "phrases": [
         "artificial intelligence"
@@ -2528,7 +2530,7 @@
       ],
       "first_seen": "2026-09-09",
       "gone": false,
-      "last_checked": "2026-09-20",
+      "last_checked": "2026-09-21",
       "notice_type": "can-standard",
       "phrases": [
         "artificial intelligence"
@@ -2588,7 +2590,7 @@
       ],
       "first_seen": "2026-09-09",
       "gone": false,
-      "last_checked": "2026-09-20",
+      "last_checked": "2026-09-21",
       "notice_type": "cn-standard",
       "phrases": [
         "Künstliche Intelligenz"
@@ -2648,7 +2650,7 @@
       ],
       "first_seen": "2026-09-09",
       "gone": false,
-      "last_checked": "2026-09-20",
+      "last_checked": "2026-09-21",
       "notice_type": "cn-standard",
       "phrases": [
         "Künstliche Intelligenz"
@@ -2708,7 +2710,7 @@
       ],
       "first_seen": "2026-09-10",
       "gone": false,
-      "last_checked": "2026-09-20",
+      "last_checked": "2026-09-21",
       "notice_type": "cn-standard",
       "phrases": [
         "intelligence artificielle"
@@ -2769,7 +2771,7 @@
       ],
       "first_seen": "2026-09-19",
       "gone": false,
-      "last_checked": "2026-09-20",
+      "last_checked": "2026-09-21",
       "notice_type": "can-standard",
       "phrases": [
         "artificial intelligence"
@@ -2829,7 +2831,7 @@
       ],
       "first_seen": "2026-09-19",
       "gone": false,
-      "last_checked": "2026-09-20",
+      "last_checked": "2026-09-21",
       "notice_type": "veat",
       "phrases": [
         "Künstliche Intelligenz",
@@ -2887,7 +2889,7 @@
       ],
       "first_seen": "2026-09-19",
       "gone": false,
-      "last_checked": "2026-09-20",
+      "last_checked": "2026-09-21",
       "notice_type": "cn-standard",
       "phrases": [
         "Künstliche Intelligenz",
@@ -2931,6 +2933,125 @@
       ],
       "winner_names": [],
       "xml_url": "https://ted.europa.eu/en/notice/645866-2026/xml"
+    },
+    "647124-2026": {
+      "buyer_countries": [
+        "NOR"
+      ],
+      "buyer_names": [
+        "NDMA"
+      ],
+      "cpv": [
+        "32420000",
+        "35700000",
+        "35710000",
+        "72000000",
+        "72222300",
+        "72500000",
+        "72700000"
+      ],
+      "first_seen": "2026-09-21",
+      "gone": false,
+      "last_checked": "2026-09-21",
+      "notice_type": "pin-only",
+      "phrases": [
+        "artificial intelligence"
+      ],
+      "publication_date": "2026-09-21",
+      "title": "Norway – IT services: consulting, software development, Internet and support – Supplier conference on the Norwegian Defence ́s digital transformation 5 October 2026.",
+      "titles": [
+        "An Iorua – IT services: consulting, software development, Internet and support – Supplier conference on the Norwegian Defence ́s digital transformation 5 October 2026.",
+        "In-Norveġja – Servizzi ta' IT: konsulenza, żvilupp ta' softwer, Internet u appoġġ – Supplier conference on the Norwegian Defence ́s digital transformation 5 October 2026.",
+        "Noorwegen – IT-diensten: adviezen, softwareontwikkeling, internet en ondersteuning – Supplier conference on the Norwegian Defence ́s digital transformation 5 October 2026.",
+        "Norge – IT-tjänster: konsultverksamhet, programvaruutveckling, Internet och stöd – Supplier conference on the Norwegian Defence ́s digital transformation 5 October 2026.",
+        "Norge – It-tjenester: rådgivning, programmeludvikling, internet og support – Supplier conference on the Norwegian Defence ́s digital transformation 5 October 2026.",
+        "Norja – Tietotekniset palvelut: neuvonta, ohjelmistojen kehittäminen, Internet ja tuki – Supplier conference on the Norwegian Defence ́s digital transformation 5 October 2026.",
+        "Norra – IT-teenused: nõuande-, tarkvaraarendus-, Interneti- ja tugiteenused – Supplier conference on the Norwegian Defence ́s digital transformation 5 October 2026.",
+        "Norsko – Informační technologie: poradenství, vývoj programového vybavení, internet a podpora – Supplier conference on the Norwegian Defence ́s digital transformation 5 October 2026.",
+        "Noruega – Servicios TI: consultoría, desarrollo de software, Internet y apoyo – Supplier conference on the Norwegian Defence ́s digital transformation 5 October 2026.",
+        "Noruega – Serviços de TI: consultoria, desenvolvimento de software, Internet e apoio – Supplier conference on the Norwegian Defence ́s digital transformation 5 October 2026.",
+        "Norvegia – Servicii IT: consultanţă, dezvoltare de software, internet şi asistenţă – Supplier conference on the Norwegian Defence ́s digital transformation 5 October 2026.",
+        "Norvegia – Servizi informatici: consulenza, sviluppo di software, Internet e supporto – Supplier conference on the Norwegian Defence ́s digital transformation 5 October 2026.",
+        "Norvegija – IT paslaugos: konsultavimas, programinės įrangos kūrimas, internetas ir aptarnavimo paslaugos – Supplier conference on the Norwegian Defence ́s digital transformation 5 October 2026.",
+        "Norveška – Storitve informacijske tehnologije: svetovanje, razvoj programske opreme, internet in podpora – Supplier conference on the Norwegian Defence ́s digital transformation 5 October 2026.",
+        "Norveška – Usluge informacijske tehnologije: savjetovanje, razvoj programske podrške, internet i podrška – Supplier conference on the Norwegian Defence ́s digital transformation 5 October 2026.",
+        "Norvège – Services de technologies de l'information, conseil, développement de logiciels, internet et appui – Supplier conference on the Norwegian Defence ́s digital transformation 5 October 2026.",
+        "Norvégia – IT-szolgáltatások: tanácsadás, szoftverfejlesztés, internet és támogatás – Supplier conference on the Norwegian Defence ́s digital transformation 5 October 2026.",
+        "Norvēģija – IT pakalpojumi konsultēšana, programmatūras izstrāde, internets un atbalsts – Supplier conference on the Norwegian Defence ́s digital transformation 5 October 2026.",
+        "Norway – IT services: consulting, software development, Internet and support – Supplier conference on the Norwegian Defence ́s digital transformation 5 October 2026.",
+        "Norwegen – IT-Dienste: Beratung, Software-Entwicklung, Internet und Hilfestellung – Supplier conference on the Norwegian Defence ́s digital transformation 5 October 2026.",
+        "Norwegia – Usługi informatyczne: konsultacyjne, opracowywania oprogramowania, internetowe i wsparcia – Supplier conference on the Norwegian Defence ́s digital transformation 5 October 2026.",
+        "Nórsko – Služby informačných technológií: konzultácie, vývoj softvéru, internet a podpora – Supplier conference on the Norwegian Defence ́s digital transformation 5 October 2026.",
+        "Νορβηγία – Υπηρεσίες τεχνολογίας των πληροφοριών: παροχή συμβουλών, ανάπτυξη λογισμικού, Διαδίκτυο και υποστήριξη – Supplier conference on the Norwegian Defence ́s digital transformation 5 October 2026.",
+        "Норвегия – ИТ услуги: консултации, разработване на софтуер, Интернет и поддръжка – Supplier conference on the Norwegian Defence ́s digital transformation 5 October 2026."
+      ],
+      "vendor_keys": [],
+      "versions": [
+        {
+          "date": "2026-09-21",
+          "file": "snapshots/2026-09-21/notices/647124-2026.xml",
+          "sha256": "3d8813a6a4da841d1382d2023758eb0824a2bb7148e11f081f767ea1b0fc4186"
+        }
+      ],
+      "winner_names": [],
+      "xml_url": "https://ted.europa.eu/en/notice/647124-2026/xml"
+    },
+    "648921-2026": {
+      "buyer_countries": [
+        "DEU"
+      ],
+      "buyer_names": [
+        "Sovereign Tech Agency GmbH"
+      ],
+      "cpv": [
+        "73000000"
+      ],
+      "first_seen": "2026-09-21",
+      "gone": false,
+      "last_checked": "2026-09-21",
+      "notice_type": "veat",
+      "phrases": [
+        "Künstliche Intelligenz",
+        "artificial intelligence"
+      ],
+      "publication_date": "2026-09-21",
+      "title": "Germany – Research and development services and related consultancy services – Project \"FreeBSD – AI-Assisted Vulnerability Discovery\"",
+      "titles": [
+        "Alemanha – Serviços de investigação e desenvolvimento e serviços de consultoria conexos – Project \"FreeBSD – AI-Assisted Vulnerability Discovery\"",
+        "Alemania – Servicios de investigación y desarrollo y servicios de consultoría conexos – Project \"FreeBSD – AI-Assisted Vulnerability Discovery\"",
+        "Allemagne – Services de recherche et développement et services de conseil connexes – Project \"FreeBSD – AI-Assisted Vulnerability Discovery\"",
+        "An Ghearmáin – Research and development services and related consultancy services – Project \"FreeBSD – AI-Assisted Vulnerability Discovery\"",
+        "Deutschland – Forschungs- und Entwicklungsdienste und zugehörige Beratung – Projekt \"FreeBSD – AI-Assisted Vulnerability Discovery\"",
+        "Duitsland – Onderzoek en ontwikkeling, en aanverwante adviezen – Project \"FreeBSD – AI-Assisted Vulnerability Discovery\"",
+        "Germania – Servicii de cercetare şi de dezvoltare şi servicii conexe de consultanţă – Project \"FreeBSD – AI-Assisted Vulnerability Discovery\"",
+        "Germania – Servizi di ricerca e sviluppo nonché servizi di consulenza affini – Project \"FreeBSD – AI-Assisted Vulnerability Discovery\"",
+        "Germany – Research and development services and related consultancy services – Project \"FreeBSD – AI-Assisted Vulnerability Discovery\"",
+        "Il-Ġermanja – Servizzi ta' riċerka u żvilupp u servizzi relatati mal-konsulenza – Project \"FreeBSD – AI-Assisted Vulnerability Discovery\"",
+        "Nemecko – Výskum a vývoj a súvisiace poradenské služby – Project \"FreeBSD – AI-Assisted Vulnerability Discovery\"",
+        "Nemčija – Storitve na področju raziskav in razvoja ter s tem povezane svetovalne storitve – Project \"FreeBSD – AI-Assisted Vulnerability Discovery\"",
+        "Niemcy – Usługi badawcze i eksperymentalno-rozwojowe oraz pokrewne usługi doradcze – Project \"FreeBSD – AI-Assisted Vulnerability Discovery\"",
+        "Njemačka – Usluge na području istraživanja i razvoja i s tim povezane usluge savjetovanja – Project \"FreeBSD – AI-Assisted Vulnerability Discovery\"",
+        "Németország – Kutatási és fejlesztési szolgáltatások és kapcsolódó tanácsadói szolgáltatások – Project \"FreeBSD – AI-Assisted Vulnerability Discovery\"",
+        "Německo – Výzkum a vývoj a související služby – Project \"FreeBSD – AI-Assisted Vulnerability Discovery\"",
+        "Saksa – Tutkimus- ja kehityspalvelut ja niihin liittyvät konsulttipalvelut – Project \"FreeBSD – AI-Assisted Vulnerability Discovery\"",
+        "Saksamaa – Uurimis- ja arendusteenused ja seonduvad nõustamisteenused – Project \"FreeBSD – AI-Assisted Vulnerability Discovery\"",
+        "Tyskland – FoU-tjänster samt tillhörande konsulttjänster – Project \"FreeBSD – AI-Assisted Vulnerability Discovery\"",
+        "Tyskland – Forsknings- og udviklingsvirksomhed og hermed beslægtet konsulentvirksomhed – Project \"FreeBSD – AI-Assisted Vulnerability Discovery\"",
+        "Vokietija – Mokslinių tyrimų ir taikomosios veiklos paslaugos bei su jomis susijusios konsultacinės paslaugos – Project \"FreeBSD – AI-Assisted Vulnerability Discovery\"",
+        "Vācija – Pētniecības un izstrādes pakalpojumi un saistītie konsultāciju pakalpojumi – Project \"FreeBSD – AI-Assisted Vulnerability Discovery\"",
+        "Γερμανία – Υπηρεσίες έρευνας και ανάπτυξης, καθώς και συναφείς υπηρεσίες παροχής συμβουλών – Project \"FreeBSD – AI-Assisted Vulnerability Discovery\"",
+        "Гepмaния – Научни изследвания и експериментални разработки и свързаните с тях консултантски услуги – Project \"FreeBSD – AI-Assisted Vulnerability Discovery\""
+      ],
+      "vendor_keys": [],
+      "versions": [
+        {
+          "date": "2026-09-21",
+          "file": "snapshots/2026-09-21/notices/648921-2026.xml",
+          "sha256": "f172b5fdad618eabfc386788a1f08975aac69b971be035a050eb5fc71b5c4cf9"
+        }
+      ],
+      "winner_names": [],
+      "xml_url": "https://ted.europa.eu/en/notice/648921-2026/xml"
     }
   }
 }

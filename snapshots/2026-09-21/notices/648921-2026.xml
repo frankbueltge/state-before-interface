@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><ContractAwardNotice xmlns="urn:oasis:names:specification:ubl:schema:xsd:ContractAwardNotice-2" xmlns:cac="urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-2" xmlns:cbc="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-2" xmlns:efac="http://data.europa.eu/p27/eforms-ubl-extension-aggregate-components/1" xmlns:efbc="http://data.europa.eu/p27/eforms-ubl-extension-basic-components/1" xmlns:efext="http://data.europa.eu/p27/eforms-ubl-extensions/1" xmlns:ext="urn:oasis:names:specification:ubl:schema:xsd:CommonExtensionComponents-2">
+   <ext:UBLExtensions>
+      <ext:UBLExtension>
+         <ext:ExtensionContent>
+            <efext:EformsExtension>
+               <efac:NoticeResult>
+                  <efac:SettledContract>
+                     <cbc:ID schemeName="contract">CON-0001</cbc:ID>
+                     <efac:ContractReference>
+                        <cbc:ID>STA_FreeBSD–AI-Assisted Vulnerability Discovery</cbc:ID>
+                     </efac:ContractReference>
+                  </efac:SettledContract>
+               </efac:NoticeResult>
+               <efac:NoticeSubType>
+                  <cbc:SubTypeCode listName="notice-subtype">25</cbc:SubTypeCode>
+               </efac:NoticeSubType>
+               <efac:Organizations>
+                  <efac:Organization>
+                     <efac:Company>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="DEU">Sovereign Tech Agency GmbH</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PartyName>
+                           <cbc:Name languageID="ENG">Sovereign Tech Agency GmbH</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:StreetName>Gartenstraße 7</cbc:StreetName>
+                           <cbc:CityName>Berlin</cbc:CityName>
+                           <cbc:PostalZone>10115 Berlin</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">DE300</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">DEU</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:Contact>
+                           <cbc:Telephone>+49 15112966948</cbc:Telephone>
+                           <cbc:ElectronicMail>info@sovereign.tech</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+                  <efac:Organization>
+                     <efac:Company>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0002</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="DEU">Vergabekammer des Bundes beim Bundeskartellamt</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PartyName>
+                           <cbc:Name languageID="ENG">Vergabekammer des Bundes beim Bundeskartellamt</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:CityName>Bonn</cbc:CityName>
+                           <cbc:PostalZone>53123</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">DEA22</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">DEU</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                     </efac:Company>
+                  </efac:Organization>
+                  <efac:Organization>
+                     <efac:Company>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0003</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="DEU">The FreeBSD Foundation</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PartyName>
+                           <cbc:Name languageID="ENG">The FreeBSD Foundation</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:CityName>Boulder (Colorado)</cbc:CityName>
+                           <cbc:PostalZone>80304</cbc:PostalZone>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">USA</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                     </efac:Company>
+                  </efac:Organization>
+                  <efac:Organization>
+                     <efbc:NaturalPersonIndicator>false</efbc:NaturalPersonIndicator>
+                     <efac:Company>
+                        <cbc:WebsiteURI>https://op.europa.eu</cbc:WebsiteURI>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0000</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="DEU">Publications Office of the European Union</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PartyName>
+                           <cbc:Name languageID="ENG">Publications Office of the European Union</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:CityName>Luxembourg</cbc:CityName>
+                           <cbc:PostalZone>2417</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">LU000</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">LUX</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>PUBL</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:Telephone>+352 29291</cbc:Telephone>
+                           <cbc:ElectronicMail>ted@publications.europa.eu</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+               </efac:Organizations>
+            <efac:Publication><efbc:NoticePublicationID schemeName="ojs-notice-id">00648921-2026</efbc:NoticePublicationID><efbc:GazetteID schemeName="ojs-id">182/2026</efbc:GazetteID><efbc:PublicationDate>2026-09-21+02:00</efbc:PublicationDate></efac:Publication></efext:EformsExtension>
+         </ext:ExtensionContent>
+      </ext:UBLExtension>
+   </ext:UBLExtensions>
+   <cbc:UBLVersionID>2.3</cbc:UBLVersionID>
+   <cbc:CustomizationID>eforms-sdk-1.14</cbc:CustomizationID>
+   <cbc:ID schemeName="notice-id">58e63801-9eec-4693-bb01-bdc0764143fa</cbc:ID>
+   <cbc:ContractFolderID>b0bb4205-195c-4a04-acbf-33af07299615</cbc:ContractFolderID>
+   <cbc:IssueDate>2026-09-18Z</cbc:IssueDate>
+   <cbc:IssueTime>12:04:00Z</cbc:IssueTime>
+   <cbc:VersionID>01</cbc:VersionID>
+   <cbc:RegulatoryDomain>32014L0024</cbc:RegulatoryDomain>
+   <cbc:NoticeTypeCode listName="dir-awa-pre">veat</cbc:NoticeTypeCode>
+   <cbc:NoticeLanguageCode listName="language">ENG</cbc:NoticeLanguageCode>
+   <cac:AdditionalNoticeLanguage>
+      <cbc:ID>DEU</cbc:ID>
+   </cac:AdditionalNoticeLanguage>
+   <cac:ContractingParty>
+      <cac:ContractingPartyType>
+         <cbc:PartyTypeCode listName="buyer-legal-type">pub-undert</cbc:PartyTypeCode>
+      </cac:ContractingPartyType>
+      <cac:Party>
+         <cac:PartyIdentification>
+            <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+         </cac:PartyIdentification>
+         <cac:ServiceProviderParty>
+            <cbc:ServiceTypeCode listName="organisation-role">ted-esen</cbc:ServiceTypeCode>
+            <cac:Party>
+               <cac:PartyIdentification>
+                  <cbc:ID schemeName="organization">ORG-0000</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:Party>
+         </cac:ServiceProviderParty>
+         <cac:ServiceProviderParty>
+            <cbc:ServiceTypeCode listName="organisation-role">serv-prov</cbc:ServiceTypeCode>
+            <cac:Party>
+               <cac:PartyIdentification>
+                  <cbc:ID schemeName="organization">ORG-0003</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:Party>
+         </cac:ServiceProviderParty>
+      </cac:Party>
+   </cac:ContractingParty>
+   <cac:TenderingProcess>
+      <cbc:ProcedureCode listName="procurement-procedure-type">neg-wo-call</cbc:ProcedureCode>
+      <cac:ProcessJustification>
+         <cbc:ProcessReasonCode listName="direct-award-justification">rd</cbc:ProcessReasonCode>
+         <cbc:ProcessReason languageID="DEU">Als Forschungs­ und Entwicklungsdienstleistung, ist der Auftrag vom Anwendungsbereich
+des Vergaberechts ausgenommen (vgl. § 116 Abs. 1 Nr. 2 GWB)</cbc:ProcessReason>
+         <cbc:ProcessReason languageID="ENG">As a research and development service, the contract is exempt from the scope of public procurement law (see Section 116(1)(2) GWB)
+</cbc:ProcessReason>
+      </cac:ProcessJustification>
+   </cac:TenderingProcess>
+   <cac:ProcurementProject>
+      <cbc:ID schemeName="InternalID">STA_FreeBSD–AI-Assisted Vulnerability Discovery</cbc:ID>
+      <cbc:Name languageID="DEU">Projekt "FreeBSD – AI-Assisted Vulnerability Discovery"</cbc:Name>
+      <cbc:Name languageID="ENG">Project "FreeBSD – AI-Assisted Vulnerability Discovery"</cbc:Name>
+      <cbc:Description languageID="DEU">Dieser Dienstleistungsvertrag betrifft das FOSS-Betriebssystem FreeBSD und umfasst die Erforschung, wie künstliche Intelligenz die Open-Source-Wartung stärken kann, wobei der Schwerpunkt auf dem Prozess des FreeBSD-Sicherheitsteams liegt, Schwachstellen zu finden, zu validieren, zu beheben und offenzulegen sowie Sicherheitshinweise zu erstellen. FreeBSD ist ein modernes, Unix-ähnliches Betriebssystem, das unter permissive license veröffentlicht wird. Als Teil der beiden einzelnen Arbeitspakete umfasst der Vertrag einen Workflow für die Codeüberprüfung, der sowohl mit gehosteten kommerziellen Modellen als auch mit Modellen funktioniert, die das Projekt selbst betreibt, eine erprobte Methode zur Aufdeckung von Sicherheitslücken, die zu Ergebnissen führt, auf die Entwickler*innen reagieren können, verbesserte Verfahren zur Validierung und Behebung der gefundenen Probleme, die Arbeit an bestehenden und prototypischen Tools zur Erkennung von Fehlern im Kernel sowie eine Bewertung dieser Modelle im Rahmen automatisierter Tests und die Veröffentlichung der Methoden, Ergebnisse und gewonnenen Erkenntnisse, damit andere Open-Source-Projekte diese reproduzieren und anpassen können. Ziel dieser Dienstleistung ist es, einen proaktiven Workflow zu etablieren, der mit den Bedingungen für freie und Open-Source-Software vereinbar ist und die Geschwindigkeit und Qualität von Reparaturen und Wartungsarbeiten verbessert, ohne die Maintainer*innen zu überlasten.</cbc:Description>
+      <cbc:Description languageID="ENG">This service agreement concerns the FOSS operating system FreeBSD and covers research into how artificial intelligence can strengthen open source maintenance, focusing on the FreeBSD Security Team's process of finding, validating, patching, and disclosing vulnerabilities and producing Security Advisories. FreeBSD is a modern, Unix-like operating system released under a permissive licence. As part of two work packages, the contract covers a code review workflow that works with both hosted commercial models and models the project runs itself, a tested method for discovering vulnerabilities that produces findings developers can act on, improved ways of validating and fixing what is found, work on existing and prototype tools that detect defects in the kernel, and an evaluation of these models in automated testing, and the publication of the methods, findings, and lessons learned so that other open source projects can reproduce and adapt them. The aim of this service is to establish a proactive workflow, compatible with free and open source software terms, that improves the speed and quality of repairing and maintaining without overwhelming maintainers.</cbc:Description>
+      <cbc:ProcurementTypeCode listName="contract-nature">services</cbc:ProcurementTypeCode>
+      <cac:MainCommodityClassification>
+         <cbc:ItemClassificationCode listName="cpv">73000000</cbc:ItemClassificationCode>
+      </cac:MainCommodityClassification>
+      <cac:RealizedLocation>
+         <cac:Address>
+            <cbc:Region>anyw</cbc:Region>
+         </cac:Address>
+      </cac:RealizedLocation>
+   </cac:ProcurementProject>
+   <cac:ProcurementProjectLot>
+      <cbc:ID schemeName="Lot">LOT-0001</cbc:ID>
+      <cac:TenderingTerms>
+         <cac:AppealTerms>
+            <cac:AppealInformationParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0001</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealInformationParty>
+            <cac:AppealReceiverParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0002</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealReceiverParty>
+         </cac:AppealTerms>
+      </cac:TenderingTerms>
+      <cac:TenderingProcess>
+         <cbc:GovernmentAgreementConstraintIndicator>true</cbc:GovernmentAgreementConstraintIndicator>
+      </cac:TenderingProcess>
+      <cac:ProcurementProject>
+         <cbc:ID schemeName="InternalID">STA_FreeBSD–AI-Assisted Vulnerability Discovery</cbc:ID>
+         <cbc:Name languageID="DEU">Projekt "FreeBSD – AI-Assisted Vulnerability Discovery"</cbc:Name>
+         <cbc:Name languageID="ENG">Projekt "FreeBSD – AI-Assisted Vulnerability Discovery"</cbc:Name>
+         <cbc:Description languageID="DEU">Dieser Dienstleistungsvertrag betrifft das FOSS-Betriebssystem FreeBSD und umfasst die Erforschung, wie künstliche Intelligenz die Open-Source-Wartung stärken kann, wobei der Schwerpunkt auf dem Prozess des FreeBSD-Sicherheitsteams liegt, Schwachstellen zu finden, zu validieren, zu beheben und offenzulegen sowie Sicherheitshinweise zu erstellen. FreeBSD ist ein modernes, Unix-ähnliches Betriebssystem, das unter permissive license veröffentlicht wird. Als Teil der beiden einzelnen Arbeitspakete umfasst der Vertrag einen Workflow für die Codeüberprüfung, der sowohl mit gehosteten kommerziellen Modellen als auch mit Modellen funktioniert, die das Projekt selbst betreibt, eine erprobte Methode zur Aufdeckung von Sicherheitslücken, die zu Ergebnissen führt, auf die Entwickler*innen reagieren können, verbesserte Verfahren zur Validierung und Behebung der gefundenen Probleme, die Arbeit an bestehenden und prototypischen Tools zur Erkennung von Fehlern im Kernel sowie eine Bewertung dieser Modelle im Rahmen automatisierter Tests und die Veröffentlichung der Methoden, Ergebnisse und gewonnenen Erkenntnisse, damit andere Open-Source-Projekte diese reproduzieren und anpassen können. Ziel dieser Dienstleistung ist es, einen proaktiven Workflow zu etablieren, der mit den Bedingungen für freie und Open-Source-Software vereinbar ist und die Geschwindigkeit und Qualität von Reparaturen und Wartungsarbeiten verbessert, ohne die Maintainer*innen zu überlasten.</cbc:Description>
+         <cbc:Description languageID="ENG">This service agreement concerns the FOSS operating system FreeBSD and covers research into how artificial intelligence can strengthen open source maintenance, focusing on the FreeBSD Security Team's process of finding, validating, patching, and disclosing vulnerabilities and producing Security Advisories. FreeBSD is a modern, Unix-like operating system released under a permissive licence. As part of two work packages, the contract covers a code review workflow that works with both hosted commercial models and models the project runs itself, a tested method for discovering vulnerabilities that produces findings developers can act on, improved ways of validating and fixing what is found, work on existing and prototype tools that detect defects in the kernel, and an evaluation of these models in automated testing, and the publication of the methods, findings, and lessons learned so that other open source projects can reproduce and adapt them. The aim of this service is to establish a proactive workflow, compatible with free and open source software terms, that improves the speed and quality of repairing and maintaining without overwhelming maintainers.</cbc:Description>
+         <cbc:ProcurementTypeCode listName="contract-nature">services</cbc:ProcurementTypeCode>
+         <cac:MainCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">73000000</cbc:ItemClassificationCode>
+         </cac:MainCommodityClassification>
+         <cac:RealizedLocation>
+            <cac:Address>
+               <cbc:Region>anyw</cbc:Region>
+            </cac:Address>
+         </cac:RealizedLocation>
+      </cac:ProcurementProject>
+   </cac:ProcurementProjectLot>
+   <cac:TenderResult>
+      <cbc:AwardDate>2000-01-01Z</cbc:AwardDate>
+   </cac:TenderResult>
+</ContractAwardNotice>

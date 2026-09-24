@@ -1,0 +1,90 @@
+{
+  "candidates": {
+    "declined": [],
+    "open": []
+  },
+  "date": "2026-09-24",
+  "envelope_version": 1,
+  "failures": [
+    {
+      "error": "HTTP 202",
+      "scope": "xml:652216-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "xml:653286-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "xml:657499-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "xml:658659-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "xml:658793-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "xml:659569-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "recheck:625194-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "recheck:639096-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "recheck:645014-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "recheck:645866-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "recheck:647124-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "recheck:648921-2026"
+    }
+  ],
+  "http_429": 0,
+  "new_matches": [
+    "652216-2026",
+    "653286-2026",
+    "657499-2026",
+    "658659-2026",
+    "658793-2026",
+    "659569-2026"
+  ],
+  "phrases": [
+    {
+      "lang": "eng",
+      "phrase": "artificial intelligence",
+      "total": 5,
+      "truncated": false
+    },
+    {
+      "lang": "deu",
+      "phrase": "Künstliche Intelligenz",
+      "total": 3,
+      "truncated": false
+    },
+    {
+      "lang": "fra",
+      "phrase": "intelligence artificielle",
+      "total": 1,
+      "truncated": false
+    }
+  ],
+  "rechecked": 6,
+  "requests": 15,
+  "signals": []
+}

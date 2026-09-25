@@ -1,0 +1,54 @@
+{
+  "created": "2026-09-25T10:14:24+00:00",
+  "criteria": {
+    "consequential_relation": {
+      "passed": false,
+      "reason": "no marker of a sensitive administrative domain (employment, welfare, policing, migration, health, education, justice, taxation)"
+    },
+    "digital_form_possible": {
+      "passed": true,
+      "reason": "form hypothesis: an annotated dossier along the structure of the notice"
+    },
+    "falsifiable_investigation": {
+      "passed": false,
+      "reason": "no machine-testable proposition can be formed yet"
+    },
+    "machine_readable_evidence": {
+      "passed": true,
+      "reason": "1 preserved eForms XML record(s) with SHA-256 on file"
+    },
+    "machine_scale_advantage": {
+      "passed": false,
+      "reason": "a single first-seen notice is equally visible to any human reader of the journal"
+    },
+    "observable_public_problem": {
+      "passed": true,
+      "reason": "identifiable public buyer(s): European Union Intellectual Property Office"
+    }
+  },
+  "form_hypothesis": "an annotated dossier along the structure of the notice",
+  "id": "c-20260925-03",
+  "notices_context": [
+    {
+      "buyers": [
+        "European Union Intellectual Property Office"
+      ],
+      "countries": [
+        "ESP"
+      ],
+      "publication_number": "657499-2026",
+      "title": "Spain – Business and management consultancy and related services – List of vendors for the provision of independent and on-hand expertise on specialised services in the field of intellectual property rights"
+    }
+  ],
+  "proposition": null,
+  "signal": {
+    "date": "2026-09-25",
+    "detail": "notice 657499-2026 entered the envelope (phrases: artificial intelligence)",
+    "key": "NEW_MATCH:657499-2026",
+    "notices": [
+      "657499-2026"
+    ],
+    "type": "NEW_MATCH"
+  },
+  "verdict": "DECLINED"
+}

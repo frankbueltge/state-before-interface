@@ -49,7 +49,15 @@
     "NEW_MATCH:645014-2026",
     "NEW_MATCH:645866-2026",
     "NEW_MATCH:647124-2026",
-    "NEW_MATCH:648921-2026"
+    "NEW_MATCH:648921-2026",
+    "NEW_MATCH:652216-2026",
+    "NEW_MATCH:653286-2026",
+    "NEW_MATCH:657499-2026",
+    "NEW_MATCH:658659-2026",
+    "NEW_MATCH:658793-2026",
+    "NEW_MATCH:659569-2026",
+    "NEW_MATCH:660583-2026",
+    "NEW_MATCH:661336-2026"
   ],
   "notices": {
     "537409-2026": {
@@ -2771,7 +2779,7 @@
       ],
       "first_seen": "2026-09-19",
       "gone": false,
-      "last_checked": "2026-09-24",
+      "last_checked": "2026-09-25",
       "notice_type": "can-standard",
       "phrases": [
         "artificial intelligence"
@@ -2831,7 +2839,7 @@
       ],
       "first_seen": "2026-09-19",
       "gone": false,
-      "last_checked": "2026-09-24",
+      "last_checked": "2026-09-25",
       "notice_type": "veat",
       "phrases": [
         "Künstliche Intelligenz",
@@ -2889,7 +2897,7 @@
       ],
       "first_seen": "2026-09-19",
       "gone": false,
-      "last_checked": "2026-09-24",
+      "last_checked": "2026-09-25",
       "notice_type": "cn-standard",
       "phrases": [
         "Künstliche Intelligenz",
@@ -2952,7 +2960,7 @@
       ],
       "first_seen": "2026-09-21",
       "gone": false,
-      "last_checked": "2026-09-24",
+      "last_checked": "2026-09-25",
       "notice_type": "pin-only",
       "phrases": [
         "artificial intelligence"
@@ -3008,7 +3016,7 @@
       ],
       "first_seen": "2026-09-21",
       "gone": false,
-      "last_checked": "2026-09-24",
+      "last_checked": "2026-09-25",
       "notice_type": "veat",
       "phrases": [
         "Künstliche Intelligenz",
@@ -3052,6 +3060,475 @@
       ],
       "winner_names": [],
       "xml_url": "https://ted.europa.eu/en/notice/648921-2026/xml"
+    },
+    "652216-2026": {
+      "buyer_countries": [
+        "DEU"
+      ],
+      "buyer_names": [
+        "Universitätsklinikum Aachen AöR"
+      ],
+      "cpv": [
+        "38000000"
+      ],
+      "first_seen": "2026-09-25",
+      "gone": false,
+      "last_checked": "2026-09-25",
+      "notice_type": "cn-standard",
+      "phrases": [
+        "Künstliche Intelligenz"
+      ],
+      "publication_date": "2026-09-22",
+      "title": "Germany – Laboratory, optical and precision equipments (excl. glasses) – Scanner Hub Digitale Pathologie",
+      "titles": [
+        "Alemanha – Equipamento laboratorial, óptico e de precisão (exc. óculos) – Scanner Hub Digitale Pathologie",
+        "Alemania – Equipo de laboratorio, óptico y de precisión (excepto gafas) – Scanner Hub Digitale Pathologie",
+        "Allemagne – Équipements de laboratoire, d'optique et de précision (excepté les lunettes) – Scanner Hub Digitale Pathologie",
+        "An Ghearmáin – Laboratory, optical and precision equipments (excl. glasses) – Scanner Hub Digitale Pathologie",
+        "Deutschland – Laborgeräte, optische Geräte und Präzisionsgeräte (außer Gläser) – Scanner Hub Digitale Pathologie",
+        "Duitsland – Laboratoriuminstrumenten, optische en precisie-instrumenten (uitgezonderd brillen) – Scanner Hub Digitale Pathologie",
+        "Germania – Attrezzature da laboratorio, ottiche e di precisione (escluso vetri) – Scanner Hub Digitale Pathologie",
+        "Germania – Echipamente de laborator, optice şi de precizie (cu excepţia ochelarilor) – Scanner Hub Digitale Pathologie",
+        "Germany – Laboratory, optical and precision equipments (excl. glasses) – Scanner Hub Digitale Pathologie",
+        "Il-Ġermanja – Tagħmir tal-laboratorju, ottiku u ta' preċiżjoni (minbarra nuċċalijiet) – Scanner Hub Digitale Pathologie",
+        "Nemecko – Laboratórne, optické a presné prístroje a vybavenie (s výnimkou skiel) – Scanner Hub Digitale Pathologie",
+        "Nemčija – Laboratorijska, optična in precizna oprema (razen očal) – Scanner Hub Digitale Pathologie",
+        "Niemcy – Sprzęt laboratoryjny, optyczny i precyzyjny (z wyjątkiem szklanego) – Scanner Hub Digitale Pathologie",
+        "Njemačka – Laboratorijska, optička i precizna oprema (osim naočala) – Scanner Hub Digitale Pathologie",
+        "Németország – Laboratóriumi, optikai és precíziós felszerelések (kivéve szemüvegek) – Scanner Hub Digitale Pathologie",
+        "Německo – Laboratorní, optické a přesné přístroje a zařízení (mimo skel) – Scanner Hub Digitale Pathologie",
+        "Saksa – Laboratoriolaitteet, optiset ja tarkkuuslaitteet (lukuun ottamatta silmälaseja) – Scanner Hub Digitale Pathologie",
+        "Saksamaa – Laboriseadmed, optika- ja täppisinstrumendid (v.a klaasid) – Scanner Hub Digitale Pathologie",
+        "Tyskland – Laboratorieudstyr, optisk udstyr og præcisionsudstyr (ikke briller) – Scanner Hub Digitale Pathologie",
+        "Tyskland – Laboratorieutrustning, optisk utrustning och precisionsutrustning (exkl. glas) – Scanner Hub Digitale Pathologie",
+        "Vokietija – Laboratorinė, optinė ir precizinė įranga (išskyrus akinius) – Scanner Hub Digitale Pathologie",
+        "Vācija – Laboratorijas, optiskās un precīzijas ierīces (izņemot brilles) – Scanner Hub Digitale Pathologie",
+        "Γερμανία – Εξοπλισμός εργαστηριακός, οπτικός και ακριβείας (εκτός από γυαλιά) – Scanner Hub Digitale Pathologie",
+        "Гepмaния – Лабораторно, оптично и прецизно оборудване (без стъклени изделия) – Scanner Hub Digitale Pathologie"
+      ],
+      "vendor_keys": [],
+      "versions": [
+        {
+          "date": "2026-09-25",
+          "file": "snapshots/2026-09-25/notices/652216-2026.xml",
+          "sha256": "bcb41f310b8292b5193a3cc9c57a8e1f00b5e53dbf8a5e202cab9fe24ea15450"
+        }
+      ],
+      "winner_names": [],
+      "xml_url": "https://ted.europa.eu/en/notice/652216-2026/xml"
+    },
+    "653286-2026": {
+      "buyer_countries": [
+        "DEU"
+      ],
+      "buyer_names": [
+        "Deutsches Forschungszentrum für Künstliche Intelligenz GmbH (DFKI)"
+      ],
+      "cpv": [
+        "42900000"
+      ],
+      "first_seen": "2026-09-25",
+      "gone": false,
+      "last_checked": "2026-09-25",
+      "notice_type": "cn-standard",
+      "phrases": [
+        "Künstliche Intelligenz"
+      ],
+      "publication_date": "2026-09-22",
+      "title": "Germany – Miscellaneous general and special-purpose machinery – Beschaffung von ferngesteuerten Unterwasserrobotern (ROV) für das DFKI Robotics Innovation Center",
+      "titles": [
+        "Alemanha – Maquinaria diversa genérica ou de finalidade específica – Beschaffung von ferngesteuerten Unterwasserrobotern (ROV) für das DFKI Robotics Innovation Center",
+        "Alemania – Máquinas diversas para usos generales y especiales – Beschaffung von ferngesteuerten Unterwasserrobotern (ROV) für das DFKI Robotics Innovation Center",
+        "Allemagne – Machines diverses à usage général et à usage spécial – Beschaffung von ferngesteuerten Unterwasserrobotern (ROV) für das DFKI Robotics Innovation Center",
+        "An Ghearmáin – Miscellaneous general and special-purpose machinery – Beschaffung von ferngesteuerten Unterwasserrobotern (ROV) für das DFKI Robotics Innovation Center",
+        "Deutschland – Maschinen für allgemeine und besondere Zwecke – Beschaffung von ferngesteuerten Unterwasserrobotern (ROV) für das DFKI Robotics Innovation Center",
+        "Duitsland – Diverse machines voor algemeen en specifiek gebruik – Beschaffung von ferngesteuerten Unterwasserrobotern (ROV) für das DFKI Robotics Innovation Center",
+        "Germania – Diverse utilaje de uz general şi special – Beschaffung von ferngesteuerten Unterwasserrobotern (ROV) für das DFKI Robotics Innovation Center",
+        "Germania – Macchinari vari per usi generali e specifici – Beschaffung von ferngesteuerten Unterwasserrobotern (ROV) für das DFKI Robotics Innovation Center",
+        "Germany – Miscellaneous general and special-purpose machinery – Beschaffung von ferngesteuerten Unterwasserrobotern (ROV) für das DFKI Robotics Innovation Center",
+        "Il-Ġermanja – Makkinarju ġenerali u għal għan speċjali varji – Beschaffung von ferngesteuerten Unterwasserrobotern (ROV) für das DFKI Robotics Innovation Center",
+        "Nemecko – Rôzne strojové zariadenia na všeobecné a osobitné účely – Beschaffung von ferngesteuerten Unterwasserrobotern (ROV) für das DFKI Robotics Innovation Center",
+        "Nemčija – Razni stroji za splošne in posebne namene – Beschaffung von ferngesteuerten Unterwasserrobotern (ROV) für das DFKI Robotics Innovation Center",
+        "Niemcy – Różne maszyny ogólnego i specjalnego przeznaczenia – Beschaffung von ferngesteuerten Unterwasserrobotern (ROV) für das DFKI Robotics Innovation Center",
+        "Njemačka – Razni strojevi opće i posebne namjene – Beschaffung von ferngesteuerten Unterwasserrobotern (ROV) für das DFKI Robotics Innovation Center",
+        "Németország – Különféle általános és különleges célú gépek – Beschaffung von ferngesteuerten Unterwasserrobotern (ROV) für das DFKI Robotics Innovation Center",
+        "Německo – Různá strojní zařízení pro všeobecné účely a speciální strojní zařízení – Beschaffung von ferngesteuerten Unterwasserrobotern (ROV) für das DFKI Robotics Innovation Center",
+        "Saksa – Erilaiset yleis- ja erikoiskoneet – Beschaffung von ferngesteuerten Unterwasserrobotern (ROV) für das DFKI Robotics Innovation Center",
+        "Saksamaa – Mitmesugused üld- ja eriotstarbelised masinad – Beschaffung von ferngesteuerten Unterwasserrobotern (ROV) für das DFKI Robotics Innovation Center",
+        "Tyskland – Diverse allmänna maskiner och specialmaskiner – Beschaffung von ferngesteuerten Unterwasserrobotern (ROV) für das DFKI Robotics Innovation Center",
+        "Tyskland – Diverse maskiner til generelle og specielle formål – Beschaffung von ferngesteuerten Unterwasserrobotern (ROV) für das DFKI Robotics Innovation Center",
+        "Vokietija – Įvairios bendrosios ir specialiosios paskirties mašinos – Beschaffung von ferngesteuerten Unterwasserrobotern (ROV) für das DFKI Robotics Innovation Center",
+        "Vācija – Dažāda, vispārēja un speciāla pielietojuma tehnika – Beschaffung von ferngesteuerten Unterwasserrobotern (ROV) für das DFKI Robotics Innovation Center",
+        "Γερμανία – Διάφορα μηχανήματα γενικής και ειδικής χρήσης – Beschaffung von ferngesteuerten Unterwasserrobotern (ROV) für das DFKI Robotics Innovation Center",
+        "Гepмaния – Различни видове машини с общо и специално предназначение – Beschaffung von ferngesteuerten Unterwasserrobotern (ROV) für das DFKI Robotics Innovation Center"
+      ],
+      "vendor_keys": [],
+      "versions": [
+        {
+          "date": "2026-09-25",
+          "file": "snapshots/2026-09-25/notices/653286-2026.xml",
+          "sha256": "ef27482f956d447326726d6cb815d97805f7dd11fb68682f80595eb7f36b42f2"
+        }
+      ],
+      "winner_names": [],
+      "xml_url": "https://ted.europa.eu/en/notice/653286-2026/xml"
+    },
+    "657499-2026": {
+      "buyer_countries": [
+        "ESP"
+      ],
+      "buyer_names": [
+        "European Union Intellectual Property Office"
+      ],
+      "cpv": [
+        "79400000"
+      ],
+      "first_seen": "2026-09-25",
+      "gone": false,
+      "last_checked": "2026-09-25",
+      "notice_type": "pin-cfc-standard",
+      "phrases": [
+        "artificial intelligence"
+      ],
+      "publication_date": "2026-09-24",
+      "title": "Spain – Business and management consultancy and related services – List of vendors for the provision of independent and on-hand expertise on specialised services in the field of intellectual property rights",
+      "titles": [
+        "An Spáinn – Business and management consultancy and related services – List of vendors for the provision of independent and on-hand expertise on specialised services in the field of intellectual property rights",
+        "Espagne – Conseil en affaires et en gestion et services connexes – List of vendors for the provision of independent and on-hand expertise on specialised services in the field of intellectual property rights",
+        "Espanha – Serviços de consultoria em matéria comercial e de gestão e serviços conexos – List of vendors for the provision of independent and on-hand expertise on specialised services in the field of intellectual property rights",
+        "Espanja – Yrityskonsultointi, johdon konsultointi ja niihin liittyvät palvelut – List of vendors for the provision of independent and on-hand expertise on specialised services in the field of intellectual property rights",
+        "España – Servicios de consultoría comercial y de gestión y servicios afines – List of vendors for the provision of independent and on-hand expertise on specialised services in the field of intellectual property rights",
+        "Hispaania – Äri- ja juhtimisalased nõustamis- ja seonduvad teenused – List of vendors for the provision of independent and on-hand expertise on specialised services in the field of intellectual property rights",
+        "Hiszpania – Usługi doradcze w zakresie działalności gospodarczej i zarządzania oraz podobne – List of vendors for the provision of independent and on-hand expertise on specialised services in the field of intellectual property rights",
+        "Ispanija – Verslo ir valdymo konsultacinės bei susijusios paslaugos – List of vendors for the provision of independent and on-hand expertise on specialised services in the field of intellectual property rights",
+        "Spagna – Servizi di consulenza commerciale e di gestione e servizi connessi – List of vendors for the provision of independent and on-hand expertise on specialised services in the field of intellectual property rights",
+        "Spain – Business and management consultancy and related services – List of vendors for the provision of independent and on-hand expertise on specialised services in the field of intellectual property rights",
+        "Spania – Consultanţă în afaceri şi în management şi servicii conexe – List of vendors for the provision of independent and on-hand expertise on specialised services in the field of intellectual property rights",
+        "Spanien – Företags- och managementrådgivning samt tillhörande tjänster – List of vendors for the provision of independent and on-hand expertise on specialised services in the field of intellectual property rights",
+        "Spanien – Unternehmens- und Managementberatung und zugehörige Dienste – List of vendors for the provision of independent and on-hand expertise on specialised services in the field of intellectual property rights",
+        "Spanien – Virksomhedsrådgivning og administrativ rådgivning samt beslægtede tjenesteydelser – List of vendors for the provision of independent and on-hand expertise on specialised services in the field of intellectual property rights",
+        "Spanja – Servizzi ta' l-amministrazzjoni tan-negozju u dawk relatati magħhom – List of vendors for the provision of independent and on-hand expertise on specialised services in the field of intellectual property rights",
+        "Spanje – Adviezen inzake bedrijfsvoering en management, en aanverwante diensten – List of vendors for the provision of independent and on-hand expertise on specialised services in the field of intellectual property rights",
+        "Spanyolország – Üzleti és vezetői tanácsadói és kapcsolódó szolgáltatások – List of vendors for the provision of independent and on-hand expertise on specialised services in the field of intellectual property rights",
+        "Spānija – Uzņēmējdarbības un vadības konsultāciju un saistītie pakalpojumi – List of vendors for the provision of independent and on-hand expertise on specialised services in the field of intellectual property rights",
+        "Španielsko – Poradenské služby v oblasti obchodu a riadenia a súvisiace služby (podnikateľské poradenstvo) – List of vendors for the provision of independent and on-hand expertise on specialised services in the field of intellectual property rights",
+        "Španija – Podjetniško in managersko svetovanje ter s tem povezane storitve – List of vendors for the provision of independent and on-hand expertise on specialised services in the field of intellectual property rights",
+        "Španjolska – Usluge savjetovanja na području poslovanja i upravljanja i srodne usluge – List of vendors for the provision of independent and on-hand expertise on specialised services in the field of intellectual property rights",
+        "Španělsko – Podnikatelské a manažerské poradenství a související služby – List of vendors for the provision of independent and on-hand expertise on specialised services in the field of intellectual property rights",
+        "Ισπανία – Υπηρεσίες παροχής γενικών επιχειρηματικών συμβουλών και συμβουλών σε θέματα διαχείρισης – List of vendors for the provision of independent and on-hand expertise on specialised services in the field of intellectual property rights",
+        "Иcпaния – Консултантски услуги по управление и стопанска дейност и свързаните с тях услуги – List of vendors for the provision of independent and on-hand expertise on specialised services in the field of intellectual property rights"
+      ],
+      "vendor_keys": [],
+      "versions": [
+        {
+          "date": "2026-09-25",
+          "file": "snapshots/2026-09-25/notices/657499-2026.xml",
+          "sha256": "eba97138a9856aa6c02913924b698218673a254dfef5ae05f1c9743cda555fa6"
+        }
+      ],
+      "winner_names": [],
+      "xml_url": "https://ted.europa.eu/en/notice/657499-2026/xml"
+    },
+    "658659-2026": {
+      "buyer_countries": [
+        "FRA"
+      ],
+      "buyer_names": [
+        "SEMITAN"
+      ],
+      "cpv": [
+        "72150000",
+        "72200000",
+        "72224000",
+        "72246000"
+      ],
+      "first_seen": "2026-09-25",
+      "gone": false,
+      "last_checked": "2026-09-25",
+      "notice_type": "cn-standard",
+      "phrases": [
+        "intelligence artificielle"
+      ],
+      "publication_date": "2026-09-24",
+      "title": "France – Systems consultancy services – Accords-cadres de prestations pour la Direction des Systèmes d'Information - 13 lots",
+      "titles": [
+        "An Fhrainc – Systems consultancy services – Accords-cadres de prestations pour la Direction des Systèmes d'Information - 13 lots",
+        "France – Services de conseil en systèmes informatiques – Accords-cadres de prestations pour la Direction des Systèmes d'Information - 13 lots",
+        "France – Systems consultancy services – Accords-cadres de prestations pour la Direction des Systèmes d'Information - 13 lots",
+        "Francia – Servicios de consultoría en sistemas – Accords-cadres de prestations pour la Direction des Systèmes d'Information - 13 lots",
+        "Francia – Servizi di consulenza di sistemi – Accords-cadres de prestations pour la Direction des Systèmes d'Information - 13 lots",
+        "Franciaország – Rendszer-tanácsadói szolgáltatások – Accords-cadres de prestations pour la Direction des Systèmes d'Information - 13 lots",
+        "Francie – Systémové poradenství – Accords-cadres de prestations pour la Direction des Systèmes d'Information - 13 lots",
+        "Francija – Sistēmu konsultāciju pakalpojumi – Accords-cadres de prestations pour la Direction des Systèmes d'Information - 13 lots",
+        "Francija – Storitve svetovanja o sistemih – Accords-cadres de prestations pour la Direction des Systèmes d'Information - 13 lots",
+        "Francja – Usługi doradcze w zakresie systemów – Accords-cadres de prestations pour la Direction des Systèmes d'Information - 13 lots",
+        "Francuska – Usluge savjetovanja o sistemima – Accords-cadres de prestations pour la Direction des Systèmes d'Information - 13 lots",
+        "Francúzsko – Systémové poradenstvo – Accords-cadres de prestations pour la Direction des Systèmes d'Information - 13 lots",
+        "Frankreich – Systemberatung – Accords-cadres de prestations pour la Direction des Systèmes d'Information - 13 lots",
+        "Frankrig – Systemrådgivning – Accords-cadres de prestations pour la Direction des Systèmes d'Information - 13 lots",
+        "Frankrijk – Systeemadviesdiensten – Accords-cadres de prestations pour la Direction des Systèmes d'Information - 13 lots",
+        "Frankrike – Konsulttjänster för system – Accords-cadres de prestations pour la Direction des Systèmes d'Information - 13 lots",
+        "Franza – Servizzi ta' sistema ta' konsulenza – Accords-cadres de prestations pour la Direction des Systèmes d'Information - 13 lots",
+        "França – Serviços de consultoria em matéria de sistemas – Accords-cadres de prestations pour la Direction des Systèmes d'Information - 13 lots",
+        "Franţa – Servicii de consultanţă privind sistemele – Accords-cadres de prestations pour la Direction des Systèmes d'Information - 13 lots",
+        "Prancūzija – Sistemų konsultacinės paslaugos – Accords-cadres de prestations pour la Direction des Systèmes d'Information - 13 lots",
+        "Prantsusmaa – Süsteemi nõustamisteenused – Accords-cadres de prestations pour la Direction des Systèmes d'Information - 13 lots",
+        "Ranska – Järjestelmiä koskevat konsulttipalvelut – Accords-cadres de prestations pour la Direction des Systèmes d'Information - 13 lots",
+        "Γαλλία – Υπηρεσίες παροχής συμβουλών σε θέματα συστημάτων πληροφορικής – Accords-cadres de prestations pour la Direction des Systèmes d'Information - 13 lots",
+        "Фpaнция – Консултантски услуги по компютърни системи – Accords-cadres de prestations pour la Direction des Systèmes d'Information - 13 lots"
+      ],
+      "vendor_keys": [],
+      "versions": [
+        {
+          "date": "2026-09-25",
+          "file": "snapshots/2026-09-25/notices/658659-2026.xml",
+          "sha256": "3549ee71c90ad5c233db928d5f7b868f6af2db1b422a2878652a07cf1a78658f"
+        }
+      ],
+      "winner_names": [],
+      "xml_url": "https://ted.europa.eu/en/notice/658659-2026/xml"
+    },
+    "658793-2026": {
+      "buyer_countries": [
+        "IRL"
+      ],
+      "buyer_names": [
+        "Irish Wheelchair Association (IWA)"
+      ],
+      "cpv": [
+        "48000000",
+        "48730000",
+        "48810000",
+        "48900000",
+        "72222300"
+      ],
+      "first_seen": "2026-09-25",
+      "gone": false,
+      "last_checked": "2026-09-25",
+      "notice_type": "can-standard",
+      "phrases": [
+        "artificial intelligence"
+      ],
+      "publication_date": "2026-09-24",
+      "title": "Ireland – Information technology services – Firewall and Associated Services 2026",
+      "titles": [
+        "Airija – Informacijos technologijos paslaugos – Firewall and Associated Services 2026",
+        "Ierland – Diensten in verband met informatietechnologie – Firewall and Associated Services 2026",
+        "Iirimaa – Infotehnoloogia teenused – Firewall and Associated Services 2026",
+        "Ireland – Information technology services – Firewall and Associated Services 2026",
+        "Irland – IT-tjänster – Firewall and Associated Services 2026",
+        "Irland – Informationstechnologiedienste – Firewall and Associated Services 2026",
+        "Irland – Tjenesteydelser i forbindelse med informationsteknologi – Firewall and Associated Services 2026",
+        "Irlanda – Servicii de tehnologie a informaţiilor – Firewall and Associated Services 2026",
+        "Irlanda – Servicios de tecnología de la información – Firewall and Associated Services 2026",
+        "Irlanda – Servizi di tecnologia dell'informazione – Firewall and Associated Services 2026",
+        "Irlanda – Serviços relacionados com as tecnologias da informação – Firewall and Associated Services 2026",
+        "Irlande – Services de technologies de l'information – Firewall and Associated Services 2026",
+        "Irlandia – Usługi w zakresie technologii informacji – Firewall and Associated Services 2026",
+        "Irlanti – Tietotekniikkapalvelut – Firewall and Associated Services 2026",
+        "Irska – Storitve informacijske tehnologije – Firewall and Associated Services 2026",
+        "Irska – Usluge informacijske tehnologije – Firewall and Associated Services 2026",
+        "Irsko – Služby informačních technologií – Firewall and Associated Services 2026",
+        "L-Irlanda – Servizzi teknoloġiċi ta' l-informatika – Firewall and Associated Services 2026",
+        "Éire – Information technology services – Firewall and Associated Services 2026",
+        "Írország – Információs technológiával kapcsolatos szolgáltatások – Firewall and Associated Services 2026",
+        "Írsko – Služby informačných technológií – Firewall and Associated Services 2026",
+        "Īrija – Informācijas tehnoloģijas pakalpojumi – Firewall and Associated Services 2026",
+        "Ιρλανδία – Υπηρεσίες τεχνολογίας των πληροφοριών – Firewall and Associated Services 2026",
+        "Иpлaндия – Услуги, свързани с информационни технологии – Firewall and Associated Services 2026"
+      ],
+      "vendor_keys": [
+        "digitalwell ireland"
+      ],
+      "versions": [
+        {
+          "date": "2026-09-25",
+          "file": "snapshots/2026-09-25/notices/658793-2026.xml",
+          "sha256": "94dc780e3d9a775a116573037aa29b7f8faa16e2ce88bbf6f1af1f99e35c80ea"
+        }
+      ],
+      "winner_names": [
+        "DigitalWell Ireland Ltd"
+      ],
+      "xml_url": "https://ted.europa.eu/en/notice/658793-2026/xml"
+    },
+    "659569-2026": {
+      "buyer_countries": [
+        "DEU"
+      ],
+      "buyer_names": [
+        "EIT RawMaterials GmbH"
+      ],
+      "cpv": [
+        "80000000",
+        "80420000",
+        "80521000",
+        "80522000"
+      ],
+      "first_seen": "2026-09-25",
+      "gone": false,
+      "last_checked": "2026-09-25",
+      "notice_type": "cn-standard",
+      "phrases": [
+        "artificial intelligence"
+      ],
+      "publication_date": "2026-09-24",
+      "title": "Germany – Education and training services – Development of Training Courses for the European Raw Materials Sector",
+      "titles": [
+        "Alemanha – Serviços de ensino e formação – Development of Training Courses for the European Raw Materials Sector",
+        "Alemania – Servicios de enseñanza y formación – Development of Training Courses for the European Raw Materials Sector",
+        "Allemagne – Services d'enseignement et de formation – Development of Training Courses for the European Raw Materials Sector",
+        "An Ghearmáin – Education and training services – Development of Training Courses for the European Raw Materials Sector",
+        "Deutschland – Allgemeine und berufliche Bildung – Development of Training Courses for the European Raw Materials Sector",
+        "Duitsland – Diensten voor onderwijs en opleiding – Development of Training Courses for the European Raw Materials Sector",
+        "Germania – Servicii de învăţământ şi formare profesională – Development of Training Courses for the European Raw Materials Sector",
+        "Germania – Servizi di istruzione e formazione – Development of Training Courses for the European Raw Materials Sector",
+        "Germany – Education and training services – Development of Training Courses for the European Raw Materials Sector",
+        "Il-Ġermanja – Servizzi ta' edukazzjoni u taħriġ – Development of Training Courses for the European Raw Materials Sector",
+        "Nemecko – Vzdelávacie a školiace (výcvikové) služby – Development of Training Courses for the European Raw Materials Sector",
+        "Nemčija – Storitve izobraževanja in usposabljanja – Development of Training Courses for the European Raw Materials Sector",
+        "Niemcy – Usługi edukacyjne i szkoleniowe – Development of Training Courses for the European Raw Materials Sector",
+        "Njemačka – Usluge obrazovanja i osposobljavanja – Development of Training Courses for the European Raw Materials Sector",
+        "Németország – Oktatási és képzési szolgáltatások – Development of Training Courses for the European Raw Materials Sector",
+        "Německo – Vzdělávání a školení – Development of Training Courses for the European Raw Materials Sector",
+        "Saksa – Yleissivistävän ja ammatillisen koulutuksen palvelut – Development of Training Courses for the European Raw Materials Sector",
+        "Saksamaa – Haridus- ja koolitusteenused – Development of Training Courses for the European Raw Materials Sector",
+        "Tyskland – Uddannelse og undervisning – Development of Training Courses for the European Raw Materials Sector",
+        "Tyskland – Undervisning och utbildning – Development of Training Courses for the European Raw Materials Sector",
+        "Vokietija – Švietimo ir mokymo paslaugos – Development of Training Courses for the European Raw Materials Sector",
+        "Vācija – Izglītības un mācību pakalpojumi – Development of Training Courses for the European Raw Materials Sector",
+        "Γερμανία – Υπηρεσίες εκπαίδευσης και επιμόρφωσης – Development of Training Courses for the European Raw Materials Sector",
+        "Гepмaния – Образователни и учебно-тренировъчни услуги – Development of Training Courses for the European Raw Materials Sector"
+      ],
+      "vendor_keys": [],
+      "versions": [
+        {
+          "date": "2026-09-25",
+          "file": "snapshots/2026-09-25/notices/659569-2026.xml",
+          "sha256": "06a7747ffb025b0a0d88b3bb5c736da4b9e542017893ee2bf3f9a011aeaaa27c"
+        }
+      ],
+      "winner_names": [],
+      "xml_url": "https://ted.europa.eu/en/notice/659569-2026/xml"
+    },
+    "660583-2026": {
+      "buyer_countries": [
+        "POL"
+      ],
+      "buyer_names": [
+        "Politechnika Gdańska"
+      ],
+      "cpv": [
+        "30200000"
+      ],
+      "first_seen": "2026-09-25",
+      "gone": false,
+      "last_checked": "2026-09-25",
+      "notice_type": "can-standard",
+      "phrases": [
+        "artificial intelligence"
+      ],
+      "publication_date": "2026-09-25",
+      "title": "Poland – Computer equipment and supplies – Dostawa podzespołów komputerowych do realizacji zadań w projektach PROACTIF, Shift2SDV oraz AIMS5.0. na potrzeby Wydziału Elektroniki, Telekomunikacji i Informatyki Politechniki Gdańskiej",
+      "titles": [
+        "An Pholainn – Computer equipment and supplies – Dostawa podzespołów komputerowych do realizacji zadań w projektach PROACTIF, Shift2SDV oraz AIMS5.0. na potrzeby Wydziału Elektroniki, Telekomunikacji i Informatyki Politechniki Gdańskiej",
+        "Il-Polonja – Apparat u aċċessorji tal-kompjuter – Dostawa podzespołów komputerowych do realizacji zadań w projektach PROACTIF, Shift2SDV oraz AIMS5.0. na potrzeby Wydziału Elektroniki, Telekomunikacji i Informatyki Politechniki Gdańskiej",
+        "Lengyelország – Számítógépek és tartozékaik – Dostawa podzespołów komputerowych do realizacji zadań w projektach PROACTIF, Shift2SDV oraz AIMS5.0. na potrzeby Wydziału Elektroniki, Telekomunikacji i Informatyki Politechniki Gdańskiej",
+        "Lenkija – Kompiuterinė įranga ir reikmenys – Dostawa podzespołów komputerowych do realizacji zadań w projektach PROACTIF, Shift2SDV oraz AIMS5.0. na potrzeby Wydziału Elektroniki, Telekomunikacji i Informatyki Politechniki Gdańskiej",
+        "Poland – Computer equipment and supplies – Dostawa podzespołów komputerowych do realizacji zadań w projektach PROACTIF, Shift2SDV oraz AIMS5.0. na potrzeby Wydziału Elektroniki, Telekomunikacji i Informatyki Politechniki Gdańskiej",
+        "Polen – Computeranlagen und Zubehör – Dostawa podzespołów komputerowych do realizacji zadań w projektach PROACTIF, Shift2SDV oraz AIMS5.0. na potrzeby Wydziału Elektroniki, Telekomunikacji i Informatyki Politechniki Gdańskiej",
+        "Polen – Computeruitrusting en -benodigdheden – Dostawa podzespołów komputerowych do realizacji zadań w projektach PROACTIF, Shift2SDV oraz AIMS5.0. na potrzeby Wydziału Elektroniki, Telekomunikacji i Informatyki Politechniki Gdańskiej",
+        "Polen – Datorer och datamateriel – Dostawa podzespołów komputerowych do realizacji zadań w projektach PROACTIF, Shift2SDV oraz AIMS5.0. na potrzeby Wydziału Elektroniki, Telekomunikacji i Informatyki Politechniki Gdańskiej",
+        "Polen – Edb-maskiner og -artikler – Dostawa podzespołów komputerowych do realizacji zadań w projektach PROACTIF, Shift2SDV oraz AIMS5.0. na potrzeby Wydziału Elektroniki, Telekomunikacji i Informatyki Politechniki Gdańskiej",
+        "Polija – Datoru iekārtas un piederumi – Dostawa podzespołów komputerowych do realizacji zadań w projektach PROACTIF, Shift2SDV oraz AIMS5.0. na potrzeby Wydziału Elektroniki, Telekomunikacji i Informatyki Politechniki Gdańskiej",
+        "Poljska – Računalniška oprema in pribor – Dostawa podzespołów komputerowych do realizacji zadań w projektach PROACTIF, Shift2SDV oraz AIMS5.0. na potrzeby Wydziału Elektroniki, Telekomunikacji i Informatyki Politechniki Gdańskiej",
+        "Poljska – Računarska oprema i potrepštine – Dostawa podzespołów komputerowych do realizacji zadań w projektach PROACTIF, Shift2SDV oraz AIMS5.0. na potrzeby Wydziału Elektroniki, Telekomunikacji i Informatyki Politechniki Gdańskiej",
+        "Pologne – Matériel et fournitures informatiques – Dostawa podzespołów komputerowych do realizacji zadań w projektach PROACTIF, Shift2SDV oraz AIMS5.0. na potrzeby Wydziału Elektroniki, Telekomunikacji i Informatyki Politechniki Gdańskiej",
+        "Polonia – Apparecchiature informatiche e forniture – Dostawa podzespołów komputerowych do realizacji zadań w projektach PROACTIF, Shift2SDV oraz AIMS5.0. na potrzeby Wydziału Elektroniki, Telekomunikacji i Informatyki Politechniki Gdańskiej",
+        "Polonia – Echipament şi accesorii pentru computer – Dostawa podzespołów komputerowych do realizacji zadań w projektach PROACTIF, Shift2SDV oraz AIMS5.0. na potrzeby Wydziału Elektroniki, Telekomunikacji i Informatyki Politechniki Gdańskiej",
+        "Polonia – Equipo y material informático – Dostawa podzespołów komputerowych do realizacji zadań w projektach PROACTIF, Shift2SDV oraz AIMS5.0. na potrzeby Wydziału Elektroniki, Telekomunikacji i Informatyki Politechniki Gdańskiej",
+        "Polska – Urządzenia komputerowe – Dostawa podzespołów komputerowych do realizacji zadań w projektach PROACTIF, Shift2SDV oraz AIMS5.0. na potrzeby Wydziału Elektroniki, Telekomunikacji i Informatyki Politechniki Gdańskiej",
+        "Polsko – Počítače – Dostawa podzespołów komputerowych do realizacji zadań w projektach PROACTIF, Shift2SDV oraz AIMS5.0. na potrzeby Wydziału Elektroniki, Telekomunikacji i Informatyki Politechniki Gdańskiej",
+        "Polónia – Equipamento e material informático – Dostawa podzespołów komputerowych do realizacji zadań w projektach PROACTIF, Shift2SDV oraz AIMS5.0. na potrzeby Wydziału Elektroniki, Telekomunikacji i Informatyki Politechniki Gdańskiej",
+        "Poola – Arvutiseadmed ja nende tarvikud – Dostawa podzespołów komputerowych do realizacji zadań w projektach PROACTIF, Shift2SDV oraz AIMS5.0. na potrzeby Wydziału Elektroniki, Telekomunikacji i Informatyki Politechniki Gdańskiej",
+        "Poľsko – Počítačové zariadenia a spotrebný materiál – Dostawa podzespołów komputerowych do realizacji zadań w projektach PROACTIF, Shift2SDV oraz AIMS5.0. na potrzeby Wydziału Elektroniki, Telekomunikacji i Informatyki Politechniki Gdańskiej",
+        "Puola – Atk-laitteet ja -tarvikkeet – Dostawa podzespołów komputerowych do realizacji zadań w projektach PROACTIF, Shift2SDV oraz AIMS5.0. na potrzeby Wydziału Elektroniki, Telekomunikacji i Informatyki Politechniki Gdańskiej",
+        "Πολωνία – Εξοπλισμός ηλεκτρονικών υπολογιστών και προμήθειες – Dostawa podzespołów komputerowych do realizacji zadań w projektach PROACTIF, Shift2SDV oraz AIMS5.0. na potrzeby Wydziału Elektroniki, Telekomunikacji i Informatyki Politechniki Gdańskiej",
+        "Полша – Компютърно оборудване и принадлежности – Dostawa podzespołów komputerowych do realizacji zadań w projektach PROACTIF, Shift2SDV oraz AIMS5.0. na potrzeby Wydziału Elektroniki, Telekomunikacji i Informatyki Politechniki Gdańskiej"
+      ],
+      "vendor_keys": [
+        "syriana joanna fischer"
+      ],
+      "versions": [
+        {
+          "date": "2026-09-25",
+          "file": "snapshots/2026-09-25/notices/660583-2026.xml",
+          "sha256": "f45234c8b6c84a06f32d3f03ee41233753c2a4b7e650fe156d7c9822f600e0cd"
+        }
+      ],
+      "winner_names": [
+        "Syriana Joanna Fischer"
+      ],
+      "xml_url": "https://ted.europa.eu/en/notice/660583-2026/xml"
+    },
+    "661336-2026": {
+      "buyer_countries": [
+        "DEU"
+      ],
+      "buyer_names": [
+        "BEW Berliner Energie und Wärme GmbH"
+      ],
+      "cpv": [
+        "72222200",
+        "72222300",
+        "72224100",
+        "72246000"
+      ],
+      "first_seen": "2026-09-25",
+      "gone": false,
+      "last_checked": "2026-09-25",
+      "notice_type": "cn-standard",
+      "phrases": [
+        "Künstliche Intelligenz"
+      ],
+      "publication_date": "2026-09-25",
+      "title": "Germany – Systems consultancy services – Application Management",
+      "titles": [
+        "Alemanha – Serviços de consultoria em matéria de sistemas – Application Management",
+        "Alemania – Servicios de consultoría en sistemas – Application Management",
+        "Allemagne – Services de conseil en systèmes informatiques – Application Management",
+        "An Ghearmáin – Systems consultancy services – Application Management",
+        "Deutschland – Systemberatung – Application Management",
+        "Duitsland – Systeemadviesdiensten – Application Management",
+        "Germania – Servicii de consultanţă privind sistemele – Application Management",
+        "Germania – Servizi di consulenza di sistemi – Application Management",
+        "Germany – Systems consultancy services – Application Management",
+        "Il-Ġermanja – Servizzi ta' sistema ta' konsulenza – Application Management",
+        "Nemecko – Systémové poradenstvo – Application Management",
+        "Nemčija – Storitve svetovanja o sistemih – Application Management",
+        "Niemcy – Usługi doradcze w zakresie systemów – Application Management",
+        "Njemačka – Usluge savjetovanja o sistemima – Application Management",
+        "Németország – Rendszer-tanácsadói szolgáltatások – Application Management",
+        "Německo – Systémové poradenství – Application Management",
+        "Saksa – Järjestelmiä koskevat konsulttipalvelut – Application Management",
+        "Saksamaa – Süsteemi nõustamisteenused – Application Management",
+        "Tyskland – Konsulttjänster för system – Application Management",
+        "Tyskland – Systemrådgivning – Application Management",
+        "Vokietija – Sistemų konsultacinės paslaugos – Application Management",
+        "Vācija – Sistēmu konsultāciju pakalpojumi – Application Management",
+        "Γερμανία – Υπηρεσίες παροχής συμβουλών σε θέματα συστημάτων πληροφορικής – Application Management",
+        "Гepмaния – Консултантски услуги по компютърни системи – Application Management"
+      ],
+      "vendor_keys": [],
+      "versions": [
+        {
+          "date": "2026-09-25",
+          "file": "snapshots/2026-09-25/notices/661336-2026.xml",
+          "sha256": "43a7c81e720089413b3bab9b3889e25ea4dcd0c8f6b70f62308e8b8bc9edd9a2"
+        }
+      ],
+      "winner_names": [],
+      "xml_url": "https://ted.europa.eu/en/notice/661336-2026/xml"
     }
   }
 }

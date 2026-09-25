@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><ContractAwardNotice xmlns="urn:oasis:names:specification:ubl:schema:xsd:ContractAwardNotice-2" xmlns:cac="urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-2" xmlns:cbc="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-2" xmlns:efac="http://data.europa.eu/p27/eforms-ubl-extension-aggregate-components/1" xmlns:efbc="http://data.europa.eu/p27/eforms-ubl-extension-basic-components/1" xmlns:efext="http://data.europa.eu/p27/eforms-ubl-extensions/1" xmlns:ext="urn:oasis:names:specification:ubl:schema:xsd:CommonExtensionComponents-2">
+   <ext:UBLExtensions>
+      <ext:UBLExtension>
+         <ext:ExtensionContent>
+            <efext:EformsExtension>
+               <efac:NoticeResult>
+                  <cbc:TotalAmount currencyID="PLN">30735</cbc:TotalAmount>
+                  <efac:LotResult>
+                     <cbc:ID schemeName="result">RES-0001</cbc:ID>
+                     <cbc:HigherTenderAmount currencyID="PLN">40619</cbc:HigherTenderAmount>
+                     <cbc:LowerTenderAmount currencyID="PLN">30735</cbc:LowerTenderAmount>
+                     <cbc:TenderResultCode listName="winner-selection-status">selec-w</cbc:TenderResultCode>
+                     <efac:LotTender>
+                        <cbc:ID schemeName="tender">TEN-0001</cbc:ID>
+                     </efac:LotTender>
+                     <efac:ReceivedSubmissionsStatistics>
+                        <efbc:StatisticsCode listName="received-submission-type">tenders</efbc:StatisticsCode>
+                        <efbc:StatisticsNumeric>4</efbc:StatisticsNumeric>
+                     </efac:ReceivedSubmissionsStatistics>
+                     <efac:ReceivedSubmissionsStatistics>
+                        <efbc:StatisticsCode listName="received-submission-type">t-esubm</efbc:StatisticsCode>
+                        <efbc:StatisticsNumeric>4</efbc:StatisticsNumeric>
+                     </efac:ReceivedSubmissionsStatistics>
+                     <efac:ReceivedSubmissionsStatistics>
+                        <efbc:StatisticsCode listName="received-submission-type">t-sme</efbc:StatisticsCode>
+                        <efbc:StatisticsNumeric>4</efbc:StatisticsNumeric>
+                     </efac:ReceivedSubmissionsStatistics>
+                     <efac:ReceivedSubmissionsStatistics>
+                        <efbc:StatisticsCode listName="received-submission-type">t-no-eea</efbc:StatisticsCode>
+                        <efbc:StatisticsNumeric>0</efbc:StatisticsNumeric>
+                     </efac:ReceivedSubmissionsStatistics>
+                     <efac:ReceivedSubmissionsStatistics>
+                        <efbc:StatisticsCode listName="received-submission-type">t-oth-eea</efbc:StatisticsCode>
+                        <efbc:StatisticsNumeric>0</efbc:StatisticsNumeric>
+                     </efac:ReceivedSubmissionsStatistics>
+                     <efac:SettledContract>
+                        <cbc:ID schemeName="contract">CON-0001</cbc:ID>
+                     </efac:SettledContract>
+                     <efac:TenderLot>
+                        <cbc:ID schemeName="Lot">LOT-0001</cbc:ID>
+                     </efac:TenderLot>
+                  </efac:LotResult>
+                  <efac:LotTender>
+                     <cbc:ID schemeName="tender">TEN-0001</cbc:ID>
+                     <cbc:RankCode>1</cbc:RankCode>
+                     <efbc:TenderRankedIndicator>true</efbc:TenderRankedIndicator>
+                     <efbc:TenderVariantIndicator>false</efbc:TenderVariantIndicator>
+                     <cac:LegalMonetaryTotal>
+                        <cbc:PayableAmount currencyID="PLN">30735</cbc:PayableAmount>
+                     </cac:LegalMonetaryTotal>
+                     <efac:SubcontractingTerm>
+                        <efbc:TermCode listName="applicability">no</efbc:TermCode>
+                     </efac:SubcontractingTerm>
+                     <efac:TenderingParty>
+                        <cbc:ID schemeName="tendering-party">TPA-0001</cbc:ID>
+                     </efac:TenderingParty>
+                     <efac:TenderLot>
+                        <cbc:ID>LOT-0001</cbc:ID>
+                     </efac:TenderLot>
+                     <efac:TenderReference>
+                        <cbc:ID>Oferta Syriana Joanna Fischer</cbc:ID>
+                     </efac:TenderReference>
+                  </efac:LotTender>
+                  <efac:SettledContract>
+                     <cbc:ID schemeName="contract">CON-0001</cbc:ID>
+                     <cbc:AwardDate>2026-09-02+02:00</cbc:AwardDate>
+                     <cbc:IssueDate>2026-09-16+02:00</cbc:IssueDate>
+                     <cbc:Title languageID="POL">Dostawa podzespołów komputerowych do realizacji zadań w projektach PROACTIF, Shift2SDV oraz AIMS5.0 na potrzeby Wydziału Elektroniki, Telekomunikacji i Informatyki Politechniki Gdańskiej.</cbc:Title>
+                     <cac:SignatoryParty>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0002</cbc:ID>
+                        </cac:PartyIdentification>
+                     </cac:SignatoryParty>
+                     <efac:ContractReference>
+                        <cbc:ID>Umowa ZP/16/WETI/26</cbc:ID>
+                     </efac:ContractReference>
+                     <efac:LotTender>
+                        <cbc:ID schemeName="tender">TEN-0001</cbc:ID>
+                     </efac:LotTender>
+                     <efac:Funding>
+                        <efbc:FinancingIdentifier>1. AIMS:AIMS: Zastosowanie sztucznej inteligencji w produkcji przemysłowej dla celów zrównoważonego rozwoju I Przemysłu 5.0/Artificial Intelligence in Manufacturing leading to Sustainability and Industry5.0 Akronim: AIMS5.0 Nr umowy z KE 101112089 Z NCBR KDT/2022/32/AIMS5.0/2023 2. PROACTIF PROACTIF Unmanned Vehicles for Civil Security and Surveillance Missions/ Pojazdy bezzałogowe do misji bezpieczeństwa cywilnego i obserwacji KE Umowa nr 101194239 z 16.05.2025 r. Decyzja NCBR DWM/Chips/447/2025 z 23/12/2025 3. ”Shift2SDV wspólne ramy rozwoju oprogramowania i niezależna od sprzętu architektura oprogramowania architektura oprogramowania pośredniczącego do stopniowej migracji do definiowanego programowo pojazdu przyszłości” / „Shift2SDV a common Software development framework and hardware independent microserviceoriented middleware architecture for the stepwise migration to the Software Defined Vehicle of the Future”; akronim projektu: Shift2SD KE Umowa nr 101194245 z 13.06.2025 r. decyzja NCBR DWM/ChipsJU/Call2024/30/2026 z 26/05/2026.</efbc:FinancingIdentifier>
+                        <cbc:FundingProgramCode listName="eu-programme">HORIZONEU</cbc:FundingProgramCode>
+                     </efac:Funding>
+                  </efac:SettledContract>
+                  <efac:TenderingParty>
+                     <cbc:ID schemeName="tendering-party">TPA-0001</cbc:ID>
+                     <cbc:Name>Syriana Joanna Fischer</cbc:Name>
+                     <efac:Tenderer>
+                        <cbc:ID schemeName="organization">ORG-0003</cbc:ID>
+                     </efac:Tenderer>
+                  </efac:TenderingParty>
+               </efac:NoticeResult>
+               <efac:NoticeSubType>
+                  <cbc:SubTypeCode listName="notice-subtype">29</cbc:SubTypeCode>
+               </efac:NoticeSubType>
+               <efac:Organizations>
+                  <efac:Organization>
+                     <efac:Company>
+                        <cbc:WebsiteURI>https://www.gov.pl/web/uzp/krajowa-izba-odwolawcza</cbc:WebsiteURI>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="POL">Krajowa Izba Odwoławcza</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:StreetName>ul. Postępu 17a</cbc:StreetName>
+                           <cbc:CityName>Warszawa</cbc:CityName>
+                           <cbc:PostalZone>02-676</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">PL911</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>5262239325</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:Telephone>224587840</cbc:Telephone>
+                           <cbc:ElectronicMail>odwolania@uzp.gov.pl</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+                  <efac:Organization>
+                     <efac:Company>
+                        <cbc:WebsiteURI>https://www.pg.edu.pl</cbc:WebsiteURI>
+                        <cbc:EndpointID>https://platformazakupowa.pl/pn/pg_edu</cbc:EndpointID>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0002</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="POL">Politechnika Gdańska</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:StreetName>Gabriela Narutowicza 11/12</cbc:StreetName>
+                           <cbc:CityName>Gdańsk</cbc:CityName>
+                           <cbc:PostalZone>80-233</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">PL634</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>5840203593</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:Telephone>583471866</cbc:Telephone>
+                           <cbc:ElectronicMail>michalina.kalkowska@pg.edu.pl</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+                  <efac:Organization>
+                     <efac:Company>
+                        <efbc:CompanySizeCode listName="economic-operator-size">micro</efbc:CompanySizeCode>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0003</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="POL">Syriana Joanna Fischer</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:StreetName>ul. Porębskiego 28/17</cbc:StreetName>
+                           <cbc:CityName>Gdańsk</cbc:CityName>
+                           <cbc:PostalZone>80-180</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">PL634</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>5851088842</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:ElectronicMail>syriana@syriana.pl</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+                  <efac:Organization>
+                     <efbc:NaturalPersonIndicator>false</efbc:NaturalPersonIndicator>
+                     <efac:Company>
+                        <cbc:WebsiteURI>https://op.europa.eu</cbc:WebsiteURI>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0000</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="POL">Publications Office of the European Union</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:CityName>Luxembourg</cbc:CityName>
+                           <cbc:PostalZone>2417</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">LU000</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">LUX</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>PUBL</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:Telephone>+352 29291</cbc:Telephone>
+                           <cbc:ElectronicMail>ted@publications.europa.eu</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+               </efac:Organizations>
+            <efac:Publication><efbc:NoticePublicationID schemeName="ojs-notice-id">00660583-2026</efbc:NoticePublicationID><efbc:GazetteID schemeName="ojs-id">186/2026</efbc:GazetteID><efbc:PublicationDate>2026-09-25+02:00</efbc:PublicationDate></efac:Publication></efext:EformsExtension>
+         </ext:ExtensionContent>
+      </ext:UBLExtension>
+   </ext:UBLExtensions>
+   <cbc:UBLVersionID>2.3</cbc:UBLVersionID>
+   <cbc:CustomizationID>eforms-sdk-1.14</cbc:CustomizationID>
+   <cbc:ID schemeName="notice-id">5694cf3c-31ed-4f40-9a6f-1f3c16da4268</cbc:ID>
+   <cbc:ContractFolderID>a7dfbb4d-23c3-4c34-8d7e-c608f0779a61</cbc:ContractFolderID>
+   <cbc:IssueDate>2026-09-24Z</cbc:IssueDate>
+   <cbc:IssueTime>09:29:07Z</cbc:IssueTime>
+   <cbc:VersionID>01</cbc:VersionID>
+   <cbc:RegulatoryDomain>32014L0024</cbc:RegulatoryDomain>
+   <cbc:NoticeTypeCode listName="result">can-standard</cbc:NoticeTypeCode>
+   <cbc:NoticeLanguageCode listName="language">POL</cbc:NoticeLanguageCode>
+   <cac:ContractingParty>
+      <cbc:BuyerProfileURI>https://platformazakupowa.pl/pn/pg_edu</cbc:BuyerProfileURI>
+      <cac:ContractingPartyType>
+         <cbc:PartyTypeCode listName="buyer-legal-type">body-pl</cbc:PartyTypeCode>
+      </cac:ContractingPartyType>
+      <cac:ContractingActivity>
+         <cbc:ActivityTypeCode listName="authority-activity">education</cbc:ActivityTypeCode>
+      </cac:ContractingActivity>
+      <cac:Party>
+         <cac:PartyIdentification>
+            <cbc:ID schemeName="organization">ORG-0002</cbc:ID>
+         </cac:PartyIdentification>
+         <cac:ServiceProviderParty>
+            <cbc:ServiceTypeCode listName="organisation-role">ted-esen</cbc:ServiceTypeCode>
+            <cac:Party>
+               <cac:PartyIdentification>
+                  <cbc:ID schemeName="organization">ORG-0000</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:Party>
+         </cac:ServiceProviderParty>
+      </cac:Party>
+   </cac:ContractingParty>
+   <cac:TenderingProcess>
+      <cbc:ProcedureCode listName="procurement-procedure-type">open</cbc:ProcedureCode>
+      <cac:NoticeDocumentReference>
+         <cbc:ID schemeName="ojs-notice-id">477173-2026</cbc:ID>
+      </cac:NoticeDocumentReference>
+      <cac:ProcessJustification>
+         <cbc:ProcessReasonCode listName="accelerated-procedure">false</cbc:ProcessReasonCode>
+      </cac:ProcessJustification>
+   </cac:TenderingProcess>
+   <cac:ProcurementProject>
+      <cbc:Name languageID="POL">Dostawa podzespołów komputerowych do realizacji zadań w projektach PROACTIF, Shift2SDV oraz AIMS5.0. na potrzeby Wydziału Elektroniki, Telekomunikacji i Informatyki Politechniki Gdańskiej</cbc:Name>
+      <cbc:Description languageID="POL">1.	Przedmiotem zamówienia jest dostawa podzespołów komputerowych do realizacja zadań w projektach PROACTIF, Shift2SDV oraz AIMS5.0. na potrzeby Wydziału Elektroniki, Telekomunikacji i Informatyki Politechniki Gdańskiej.
+2.	Przedmiot zamówienia obejmuje dostawę przedmiotu zamówienia do siedziby Zamawiającego: Politechnika Gdańska, Wydział Elektroniki, Telekomunikacji i Informatyki, ul. Narutowicza 11/12, 80-233 Gdańsk, budynek WETI A (nr 41) pomieszczenie 116. 
+3.	Przedmiot zamówienia musi być fabrycznie nowy, pochodzący z bieżącej produkcji, wolny od wad prawnych i fizycznych, bez wcześniejszej eksploatacji i nie może być przedmiotem praw osób trzecich. 
+4.	Kody wg klasyfikacji Wspólnego Słownika Zamówień (CPV):
+30200000-1 Urządzenia komputerowe
+5.	Oferowane urządzenia muszą być objęte okresem gwarancyjnym w wymiarze: min. 12 miesięcy liczonym od dnia podpisania protokołu zdawczo-odbiorczego, bez uwag.
+Uwaga ! Termin gwarancji jest jednym z kryteriów oceny ofert. W związku z powyższym wskazany termin jest minimalnym terminem gwarancji przedmiotu zamówienia, który każdy z Wykonawców może go zwiększyć. Szczegółowe informacje zawiera rozdział XIV SWZ.
+6.	Szczegółowy opis przedmiotu zamówienia zawiera Załącznik nr 4 do SWZ.
+Informacja o przedmiotowych środkach dowodowych
+1.	Zamawiający żąda, aby Wykonawca złożył wraz z ofertą przedmiotowe środki dowodowe tj. dokumentację techniczną potwierdzającą, że oferowana dostawa spełnia wymagania określone przez Zamawiającego w dokumentach zamówienia.
+2.	Przez dokumentację techniczną Zamawiający rozumie w szczególności:
+− specyfikacje techniczne udostępniane przez producentów lub dystrybutorów
+− karty katalogowe producenta lub dystrybutora
+− opisy lub karty katalogowe sporządzone własnoręcznie przez Wykonawcę na ich podstawie wraz ze wskazaniem źródeł pochodzenia przedstawionych informacji, np. adres strony www.producenta lub dystrybutora. W przypadku, gdy Wykonawca oferuje produkty własne, nie mogą one naruszać majątkowych praw autorskich osób trzecich.
+Zamawiający przypomina o konieczności opatrzenia przedmiotowych środków dowodowych kwalifikowanym podpisem elektronicznym.
+3.	Wskazane źródła informacji, na podstawie których sporządzona została dokumentacja techniczna muszą być weryfikowalne w okresie prowadzonego postępowania. Dokumentacja techniczna musi potwierdzać wszystkie wymagane parametry techniczne przedmiotu zamówienia wyszczególnione w opisie przedmiotu zamówienia.
+4.	Dokumentacja techniczna musi być oznaczona w sposób umożliwiający jej powiązanie z konkretną pozycją formularza rzeczowo-cenowego (np. poprzez oznaczenie, że dot. danej pozycji formularza rzeczowo-cenowego).
+5.	Zamawiający zaakceptuje równoważne przedmiotowe środki dowodowe, jeśli potwierdzają, że oferowane urządzenia spełniają określone przez Zamawiającego wymagania, cechy lub kryteria, wyszczególnione w opisie przedmiotu zamówienia.
+6.	Zamawiający dopuszcza złożenie ww. dokumentacji technicznej w języku angielskim.
+7.	Zamawiający zaakceptuje równoważne przedmiotowe środki dowodowe wystawione przez podmiot mający siedzibę w innym państwie członkowskim Europejskiego Obszaru Gospodarczego.
+8.	Jeżeli wykonawca nie złoży przedmiotowych środków dowodowych lub złożone środki dowodowe będą niekompletne, zamawiający wezwie do ich złożenia lub uzupełnienia w wyznaczonym terminie, zgodnie z art. 107 ust. 2 ustawy Pzp.</cbc:Description>
+      <cbc:ProcurementTypeCode listName="contract-nature">supplies</cbc:ProcurementTypeCode>
+      <cbc:Note languageID="POL">1.	O udzielenie zamówienia publicznego mogą ubiegać się Wykonawcy, którzy nie podlegają wykluczeniu.
+2.	Z postępowania o udzielenie zamówienia Zamawiający wykluczy Wykonawcę, w stosunku do którego zachodzi którakolwiek z okoliczności, o których mowa w art. 108 ust. 1 oraz w art. 109 ust. 1 pkt. 4 ustawy Pzp.
+3.	Wykluczenie Wykonawcy na podstawie art. 108 i 109 ustawy Pzp nastąpi zgodnie z art. 111 ustawy Pzp a wykluczenie na podstawie art. 7 ust. 1 ustawy sankcyjnej zgodnie z art. 7 ust. 3 ustawy sankcyjnej.
+4.	Wykonawca nie podlega wykluczeniu w okolicznościach określonych w art. 108 ust. 1 pkt 1, 2 i 5 lub art. 109 ust. 1 pkt. 2-5 i 7-10 ustawy Pzp, jeżeli udowodni Zamawiającemu, że spełnił łącznie przesłanki określone w art. 110 ust. 2 ustawy Pzp.
+5.	Zamawiający oceni, czy podjęte przez wykonawcę czynności, o których mowa w art. 110 ust. 2 ustawy Pzp, są wystarczające do wykazania jego rzetelności, uwzględniając wagę i szczególne okoliczności czynu wykonawcy. Jeżeli podjęte przez wykonawcę czynności nie są wystarczające do wykazania jego rzetelności, zamawiający wyklucza wykonawcę.
+6.	W przypadku wspólnego ubiegania się wykonawców o udzielenie zamówienia Zamawiający bada, czy nie zachodzą podstawy wykluczenia wobec każdego z tych wykonawców.
+7. Z postępowania o udzielenie zamówienia, zgodnie z art. 7 ust. 1 Ustawy o szczególnych rozwiązaniach w zakresie przeciwdziałania wspieraniu agresji na Ukrainę oraz służących ochronie bezpieczeństwa narodowego (Dz. U. z 2025 r. poz. 514) wyklucza się:
+1)	wykonawcę oraz uczestnika konkursu wymienionego w wykazach określonych w rozporządzeniu 765/2006 i rozporządzeniu 269/2014 albo wpisanego na listę na podstawie decyzji w sprawie wpisu na listę rozstrzygającej o zastosowaniu środka, o którym mowa w art. 1 pkt 3; 
+2)	wykonawcę oraz uczestnika konkursu, którego beneficjentem rzeczywistym w rozumieniu ustawy z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu (Dz. U. z 2023 r. poz. 1124, z późn. zm.) jest osoba wymieniona w wykazach określonych w rozporządzeniu 765/2006 i rozporządzeniu 269/2014 albo wpisana na listę lub będąca takim beneficjentem rzeczywistym od dnia 24 lutego 2022 r., o ile została wpisana na listę na podstawie decyzji w sprawie wpisu na listę rozstrzygającej o zastosowaniu środka, o którym mowa w art. 1 pkt 3;
+3)	wykonawcę oraz uczestnika konkursu, którego jednostką dominującą w rozumieniu art. 3 ust. 1 pkt 37 ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2023 r. poz. 120, 295 i 1598 oraz z 2024 r. poz. 619, 1685 i 1863) jest podmiot wymieniony w wykazach określonych w rozporządzeniu 765/2006 i rozporządzeniu 269/2014 albo wpisany na listę lub będący taką jednostką dominującą od dnia 24 lutego 2022 r., o ile został wpisany na listę na podstawie decyzji w sprawie wpisu na listę rozstrzygającej o zastosowaniu środka, o którym mowa w art. 1 pkt 3.
+8.  Wykluczenie wskazane w ust. 7 powyżej następuje na okres trwania okoliczności określonych w tym ustępie.
+9.  Ponadto Zamawiający wykluczy z postępowania o udzielenie zamówienia Wykonawcę, w stosunku do którego zachodzi którakolwiek z okoliczności, o którym mowa w art. 5k Rozporządzenia 2022/576 do rozporządzenia Rady (UE) nr 833/2014 z dnia 31 lipca 2014 r. dotyczącego środków ograniczających w związku z działaniami Rosji destabilizującymi sytuację na Ukrainie (Dz. Urz. UE nr L 229 z 31.7.2014, str. 1) dalej: rozporządzenie 833/2014, w brzmieniu nadanym rozporządzeniem Rady (UE) 2022/576 w sprawie zmiany rozporządzenia (UE) nr 833/2014 dotyczącego środków ograniczających w związku z działaniami Rosji destabilizującymi sytuację na Ukrainie (Dz. Urz. UE nr L 111 z 8.4.2022, str. 1) dalej rozporządzenie 2022/576 w następującym brzmieniu: 
+Zakazuje się udzielania lub dalszego wykonywania wszelkich zamówień publicznych lub koncesji objętych zakresem dyrektyw w sprawie zamówień publicznych, a także zakresem art. 10 ust. 1, 3, art. 10 ust. 6 lit. a)–e), art. 10 ust. 8, 9 i 10, art. 11, 12, 13 i 14 dyrektywy 2014/23/UE, art. 7 lit. a)-d), art. 8, art. 10 lit. b)–f) i lit. h)–j) dyrektywy 2014/24/UE, art. 18, art. 21 lit. b)–e) i lit. g)–i), art. 29 i 30 dyrektywy 2014/25/UE oraz art. 13 lit. a)–d), lit. f)–h) i lit. j) dyrektywy 2009/81/WE na rzecz lub z udziałem: 
+a) obywateli rosyjskich, osób fizycznych zamieszkałych w Rosji lub osób prawnych, podmiotów lub organów z siedzibą w Rosji; 
+b) osób prawnych, podmiotów lub organów, do których prawa własności bezpośrednio lub pośrednio w ponad 50 % należą do osoby fizycznej lub prawnej, podmiotu lub organu, o których mowa w lit. a) niniejszego ustępu; lub 
+c) osób fizycznych lub prawnych, podmiotów lub organów działających w imieniu lub pod kierunkiem osoby fizycznej lub prawnej, podmiotu lub organu, o których mowa w lit. a) lub b) niniejszego ustępu, w tym podwykonawców, dostawców lub podmiotów, na których zdolności polega się w rozumieniu dyrektyw w sprawie zamówień publicznych, w przypadku gdy przypada na nich ponad 10 % wartości zamówienia.
+10. W przypadku wykluczenia Wykonawcy na podstawie art. 5k rozporządzenia 833/2014 oraz art. 7 ust. 1 ustawy sankcyjnej, Zamawiający odrzuci jego ofertę na podstawie art. 226 ust. 1 pkt 2 lit. a uPzp w związku z art. 7 ust. 1 i 3 ustawy sankcyjnej.
+11. Wykonawca składa wraz z ofertą oświadczenie o niepodleganiu wykluczeniu i spełnianiu warunków udziału w postępowaniu, w zakresie wskazanym przez Zamawiającego w rozdziale VI ust. 1 i rozdziale VII ust. 1 SWZ, na formularzu jednolitego europejskiego dokumentu zamówienia, zwanego dalej JEDZ, sporządzonym zgodnie ze wzorem standardowego formularza określonego w rozporządzeniu wykonawczym Komisji (UE) 2016/7 z dnia 5 stycznia 2016 r. ustanawiającym standardowy formularz jednolitego europejskiego dokumentu zamówienia (Dz. Urz. UE L 3 z 06.01.2016, str. 16). Oświadczenie stanowi dowód potwierdzający brak podstaw wykluczenia i spełnianie warunków udziału w postępowaniu na dzień składania ofert, tymczasowo zastępujący wymagane przez Zamawiającego podmiotowe środki dowodowe.
+12. Wykonawca składa wraz z ofertą oświadczenie dotyczące przesłanek wykluczenia z art. 5k rozporządzenia 833/2014 oraz art. 7 ust. 1 ustawy sankcyjnej sporządzone wg wzoru stanowiącego Załącznik nr 8 do SWZ.</cbc:Note>
+      <cac:MainCommodityClassification>
+         <cbc:ItemClassificationCode listName="cpv">30200000</cbc:ItemClassificationCode>
+      </cac:MainCommodityClassification>
+      <cac:RealizedLocation>
+         <cac:Address>
+            <cbc:CountrySubentityCode listName="nuts">PL634</cbc:CountrySubentityCode>
+            <cac:Country>
+               <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+            </cac:Country>
+         </cac:Address>
+      </cac:RealizedLocation>
+   </cac:ProcurementProject>
+   <cac:ProcurementProjectLot>
+      <cbc:ID schemeName="Lot">LOT-0001</cbc:ID>
+      <cac:TenderingTerms>
+         <cbc:FundingProgramCode listName="eu-funded">eu-funds</cbc:FundingProgramCode>
+         <cac:AwardingTerms>
+            <cac:AwardingCriterion>
+               <cac:SubordinateAwardingCriterion>
+                  <ext:UBLExtensions>
+                     <ext:UBLExtension>
+                        <ext:ExtensionContent>
+                           <efext:EformsExtension>
+                              <efac:AwardCriterionParameter>
+                                 <efbc:ParameterCode listName="number-weight">per-exa</efbc:ParameterCode>
+                                 <efbc:ParameterNumeric>60</efbc:ParameterNumeric>
+                              </efac:AwardCriterionParameter>
+                           </efext:EformsExtension>
+                        </ext:ExtensionContent>
+                     </ext:UBLExtension>
+                  </ext:UBLExtensions>
+                  <cbc:AwardingCriterionTypeCode listName="award-criterion-type">price</cbc:AwardingCriterionTypeCode>
+                  <cbc:Name languageID="POL">Cena</cbc:Name>
+                  <cbc:Description languageID="POL">1.	Za ofertę najkorzystniejszą zostanie uznana oferta, która przedstawia najkorzystniejszy bilans w kryteriach określonych poniżej dla każdej części postępowania: 
+Ocenie podlegają wyłącznie oferty niepodlegające odrzuceniu na postawie art. 226 ust. 1 ustawy Pzp. 
+1.1.	Sposób i zasady oceny ofert według następujących kryteriów :
+1)	Cena oferty brutto (Pc) – waga kryterium 60 pkt. 
+2)	Termin dostawy (Pt) – waga kryterium 20 pkt.
+3)	Okres gwarancji (Pg) – waga kryterium 20 pkt.
+Kryterium 1: Cena oferty (Pc)  – waga 60 pkt.
+a)	Ocenie podlega cena brutto oferty w PLN podana przez Wykonawcę na Formularzu oferty.
+b)	Oferta z najniższą ceną otrzyma maksymalną liczbę punktów w kryterium „cena oferty” – 60 pkt.
+c)	Ocena punktowa pozostałych ofert zostanie dokonana wg wzoru: 
+  Cn
+    		  PC =  ---------- x 60
+     			  Cb
+         gdzie:
+   Pc - liczba punktów przyznanych ocenianej ofercie w kryterium „cena oferty”;
+   Cn - najniższa cena spośród złożonych ofert podlegających ocenie;
+   Cb - cena oferty badanej (ocenianej);
+   60 – waga kryterium „cena oferty”.</cbc:Description>
+               </cac:SubordinateAwardingCriterion>
+               <cac:SubordinateAwardingCriterion>
+                  <ext:UBLExtensions>
+                     <ext:UBLExtension>
+                        <ext:ExtensionContent>
+                           <efext:EformsExtension>
+                              <efac:AwardCriterionParameter>
+                                 <efbc:ParameterCode listName="number-weight">per-exa</efbc:ParameterCode>
+                                 <efbc:ParameterNumeric>20</efbc:ParameterNumeric>
+                              </efac:AwardCriterionParameter>
+                           </efext:EformsExtension>
+                        </ext:ExtensionContent>
+                     </ext:UBLExtension>
+                  </ext:UBLExtensions>
+                  <cbc:AwardingCriterionTypeCode listName="award-criterion-type">quality</cbc:AwardingCriterionTypeCode>
+                  <cbc:Name languageID="POL">Termin dostawy</cbc:Name>
+                  <cbc:Description languageID="POL">Termin dostawy nie może być dłuższy niż: 21 dni kalendarzowych od dnia zawarcia umowy oraz nie krótszy niż 7 dni kalendarzowych od dnia zawarcia umowy.
+Kryterium „termin dostawy” rozpatrywane będzie na podstawie następującego 
+•	7 dni - 20 punktów
+•	14 dni - 10 punktów
+•	21 dni - 0 punktów
+W przypadku niewpisania przez Wykonawcę terminu dostawy, Zamawiający uzna, że Wykonawca zaoferował termin dostawy wynoszący 21 dni kalendarzowych.
+W przypadku wpisania przez Wykonawcę terminu dostawy dłuższego niż 21 dni kalendarzowych, Zamawiający odrzuci ofertę.
+W przypadku wpisania przez Wykonawcę terminu dostawy krótszego niż 7 dni kalendarzowych, Zamawiający uzna, że Wykonawca zaoferował termin dostawy wynoszący 7 dni kalendarzowych i za tyle przyzna punkty.</cbc:Description>
+               </cac:SubordinateAwardingCriterion>
+               <cac:SubordinateAwardingCriterion>
+                  <ext:UBLExtensions>
+                     <ext:UBLExtension>
+                        <ext:ExtensionContent>
+                           <efext:EformsExtension>
+                              <efac:AwardCriterionParameter>
+                                 <efbc:ParameterCode listName="number-weight">per-exa</efbc:ParameterCode>
+                                 <efbc:ParameterNumeric>20</efbc:ParameterNumeric>
+                              </efac:AwardCriterionParameter>
+                           </efext:EformsExtension>
+                        </ext:ExtensionContent>
+                     </ext:UBLExtension>
+                  </ext:UBLExtensions>
+                  <cbc:AwardingCriterionTypeCode listName="award-criterion-type">quality</cbc:AwardingCriterionTypeCode>
+                  <cbc:Name languageID="POL">Okres gwarancji</cbc:Name>
+                  <cbc:Description languageID="POL">Minimalny wymagany przez Zamawiającego okres gwarancji wynosi 12 miesięcy.
+Zamawiający przyzna punkty w tym kryterium wg następujących zasad:
+o	za zaoferowanie gwarancji w wymiarze 12 miesięcy, Zamawiający przyzna 0 pkt.
+o	za zaoferowanie gwarancji w wymiarze 24 miesięcy, Zamawiający przyzna 10 pkt.
+o	za zaoferowanie gwarancji w wymiarze 36 miesięcy, Zamawiający przyzna 20 pkt.
+W przypadku niewpisania przez Wykonawcę oferowanego okresu gwarancji, Zamawiający uzna, iż Wykonawca zaoferował minimalny wymagany okres gwarancji wynoszący 12 miesięcy i nie przyzna punktów w tym kryterium.
+W przypadku zaoferowania przez Wykonawcę okresu gwarancji krótszego niż 12 miesięcy, Zamawiający odrzuci ofertę.</cbc:Description>
+               </cac:SubordinateAwardingCriterion>
+            </cac:AwardingCriterion>
+         </cac:AwardingTerms>
+         <cac:AdditionalInformationParty>
+            <cac:PartyIdentification>
+               <cbc:ID>ORG-0002</cbc:ID>
+            </cac:PartyIdentification>
+         </cac:AdditionalInformationParty>
+         <cac:DocumentProviderParty>
+            <cac:PartyIdentification>
+               <cbc:ID>ORG-0002</cbc:ID>
+            </cac:PartyIdentification>
+         </cac:DocumentProviderParty>
+         <cac:AppealTerms>
+            <cac:PresentationPeriod>
+               <cbc:Description languageID="POL">1. Odwołanie wnosi się w terminie 10 dni od dnia przekazania informacji o czynności zamawiającego stanowiącej podstawę jego wniesienia, jeżeli informacja została przekazana przy użyciu środków komunikacji elektronicznej 2. Odwołanie wobec treści ogłoszenia wszczynającego postępowanie o udzielenie zamówienia lub wobec treści dokumentów zamówienia, wnosi się w terminie 10 dni od dnia publikacji ogłoszenia w Dzienniku Urzędowym Unii Europejskiej lub zamieszczenia dokumentów zamówienia na stronie internetowej. 3. Odwołanie w przypadkach innych niż określone w pkt. 6 i 7 wnosi się w terminie 10 dni od dnia, w którym powzięto lub przy zachowaniu należytej staranności można było powziąć wiadomość o okolicznościach stanowiących podstawę jego wniesienia, 4. Szczegółowe informacje dotyczące środków ochrony prawnej określone są w Dziale IX „Środki ochrony prawnej” ustawy Pzp.</cbc:Description>
+            </cac:PresentationPeriod>
+            <cac:AppealInformationParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0001</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealInformationParty>
+            <cac:AppealReceiverParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0001</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealReceiverParty>
+         </cac:AppealTerms>
+      </cac:TenderingTerms>
+      <cac:TenderingProcess>
+         <cbc:GovernmentAgreementConstraintIndicator>false</cbc:GovernmentAgreementConstraintIndicator>
+         <cac:AuctionTerms>
+            <cbc:AuctionConstraintIndicator>false</cbc:AuctionConstraintIndicator>
+         </cac:AuctionTerms>
+         <cac:ContractingSystem>
+            <cbc:ContractingSystemTypeCode listName="framework-agreement">none</cbc:ContractingSystemTypeCode>
+         </cac:ContractingSystem>
+         <cac:ContractingSystem>
+            <cbc:ContractingSystemTypeCode listName="dps-usage">none</cbc:ContractingSystemTypeCode>
+         </cac:ContractingSystem>
+      </cac:TenderingProcess>
+      <cac:ProcurementProject>
+         <cbc:Name languageID="POL">Dostawa podzespołów komputerowych do realizacji zadań w projektach PROACTIF, Shift2SDV oraz AIMS5.0. na potrzeby Wydziału Elektroniki, Telekomunikacji i Informatyki Politechniki Gdańskiej</cbc:Name>
+         <cbc:Description languageID="POL">1.	Przedmiotem zamówienia jest dostawa podzespołów komputerowych do realizacja zadań w projektach PROACTIF, Shift2SDV oraz AIMS5.0. na potrzeby Wydziału Elektroniki, Telekomunikacji i Informatyki Politechniki Gdańskiej.
+2.	Przedmiot zamówienia obejmuje dostawę przedmiotu zamówienia do siedziby Zamawiającego: Politechnika Gdańska, Wydział Elektroniki, Telekomunikacji i Informatyki, ul. Narutowicza 11/12, 80-233 Gdańsk, budynek WETI A (nr 41) pomieszczenie 116. 
+3.	Przedmiot zamówienia musi być fabrycznie nowy, pochodzący z bieżącej produkcji, wolny od wad prawnych i fizycznych, bez wcześniejszej eksploatacji i nie może być przedmiotem praw osób trzecich. 
+4.	Kody wg klasyfikacji Wspólnego Słownika Zamówień (CPV):
+30200000-1 Urządzenia komputerowe
+5.	Oferowane urządzenia muszą być objęte okresem gwarancyjnym w wymiarze: min. 12 miesięcy liczonym od dnia podpisania protokołu zdawczo-odbiorczego, bez uwag.
+Uwaga ! Termin gwarancji jest jednym z kryteriów oceny ofert. W związku z powyższym wskazany termin jest minimalnym terminem gwarancji przedmiotu zamówienia, który każdy z Wykonawców może go zwiększyć. Szczegółowe informacje zawiera rozdział XIV SWZ.
+6.	Szczegółowy opis przedmiotu zamówienia zawiera Załącznik nr 4 do SWZ.
+Informacja o przedmiotowych środkach dowodowych
+1.	Zamawiający żąda, aby Wykonawca złożył wraz z ofertą przedmiotowe środki dowodowe tj. dokumentację techniczną potwierdzającą, że oferowana dostawa spełnia wymagania określone przez Zamawiającego w dokumentach zamówienia.
+2.	Przez dokumentację techniczną Zamawiający rozumie w szczególności:
+− specyfikacje techniczne udostępniane przez producentów lub dystrybutorów
+− karty katalogowe producenta lub dystrybutora
+− opisy lub karty katalogowe sporządzone własnoręcznie przez Wykonawcę na ich podstawie wraz ze wskazaniem źródeł pochodzenia przedstawionych informacji, np. adres strony www.producenta lub dystrybutora. W przypadku, gdy Wykonawca oferuje produkty własne, nie mogą one naruszać majątkowych praw autorskich osób trzecich.
+Zamawiający przypomina o konieczności opatrzenia przedmiotowych środków dowodowych kwalifikowanym podpisem elektronicznym.
+3.	Wskazane źródła informacji, na podstawie których sporządzona została dokumentacja techniczna muszą być weryfikowalne w okresie prowadzonego postępowania. Dokumentacja techniczna musi potwierdzać wszystkie wymagane parametry techniczne przedmiotu zamówienia wyszczególnione w opisie przedmiotu zamówienia.
+4.	Dokumentacja techniczna musi być oznaczona w sposób umożliwiający jej powiązanie z konkretną pozycją formularza rzeczowo-cenowego (np. poprzez oznaczenie, że dot. danej pozycji formularza rzeczowo-cenowego).
+5.	Zamawiający zaakceptuje równoważne przedmiotowe środki dowodowe, jeśli potwierdzają, że oferowane urządzenia spełniają określone przez Zamawiającego wymagania, cechy lub kryteria, wyszczególnione w opisie przedmiotu zamówienia.
+6.	Zamawiający dopuszcza złożenie ww. dokumentacji technicznej w języku angielskim.
+7.	Zamawiający zaakceptuje równoważne przedmiotowe środki dowodowe wystawione przez podmiot mający siedzibę w innym państwie członkowskim Europejskiego Obszaru Gospodarczego.
+8.	Jeżeli wykonawca nie złoży przedmiotowych środków dowodowych lub złożone środki dowodowe będą niekompletne, zamawiający wezwie do ich złożenia lub uzupełnienia w wyznaczonym terminie, zgodnie z art. 107 ust. 2 ustawy Pzp.</cbc:Description>
+         <cbc:ProcurementTypeCode listName="contract-nature">supplies</cbc:ProcurementTypeCode>
+         <cbc:Note languageID="POL">1)	zdolności do występowania w obrocie gospodarczym:
+Zamawiający nie wyznacza szczegółowego warunku w tym zakresie.
+2)	uprawnień do prowadzenia określonej działalności gospodarczej lub zawodowej, o ile wynika to z odrębnych przepisów:
+Zamawiający nie wyznacza szczegółowego warunku w tym zakresie.
+3)	sytuacji ekonomicznej lub finansowej:
+Zamawiający nie wyznacza szczegółowego warunku w tym zakresie.
+4)	zdolności technicznej lub zawodowej:
+Zamawiający nie wyznacza szczegółowego warunku w tym zakresie.</cbc:Note>
+         <cac:RequestedTenderTotal>
+            <cbc:EstimatedOverallContractAmount currencyID="PLN">28317.07</cbc:EstimatedOverallContractAmount>
+         </cac:RequestedTenderTotal>
+         <cac:MainCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">30200000</cbc:ItemClassificationCode>
+         </cac:MainCommodityClassification>
+         <cac:RealizedLocation>
+            <cac:Address>
+               <cbc:CountrySubentityCode listName="nuts">PL634</cbc:CountrySubentityCode>
+               <cac:Country>
+                  <cbc:IdentificationCode listName="country">POL</cbc:IdentificationCode>
+               </cac:Country>
+            </cac:Address>
+         </cac:RealizedLocation>
+         <cac:PlannedPeriod>
+            <cbc:DurationMeasure unitCode="DAY">21</cbc:DurationMeasure>
+         </cac:PlannedPeriod>
+         <cac:ContractExtension>
+            <cbc:OptionsDescription languageID="POL">Zamawiający nie przewiduje wznowień i opcji.</cbc:OptionsDescription>
+            <cbc:MaximumNumberNumeric>0</cbc:MaximumNumberNumeric>
+         </cac:ContractExtension>
+      </cac:ProcurementProject>
+   </cac:ProcurementProjectLot>
+   <cac:TenderResult>
+      <cbc:AwardDate>2000-01-01Z</cbc:AwardDate>
+   </cac:TenderResult>
+</ContractAwardNotice>

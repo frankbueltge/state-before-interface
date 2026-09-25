@@ -1,0 +1,54 @@
+{
+  "created": "2026-09-25T10:14:24+00:00",
+  "criteria": {
+    "consequential_relation": {
+      "passed": false,
+      "reason": "no marker of a sensitive administrative domain (employment, welfare, policing, migration, health, education, justice, taxation)"
+    },
+    "digital_form_possible": {
+      "passed": true,
+      "reason": "form hypothesis: an annotated dossier along the structure of the notice"
+    },
+    "falsifiable_investigation": {
+      "passed": true,
+      "reason": "testable proposition: buyer 'BEW Berliner Energie und Wärme GmbH' already on record (581337-2026) — this is a sustained procurement programme, not a one-off purchase"
+    },
+    "machine_readable_evidence": {
+      "passed": true,
+      "reason": "1 preserved eForms XML record(s) with SHA-256 on file"
+    },
+    "machine_scale_advantage": {
+      "passed": true,
+      "reason": "machine memory relates this record to prior records: buyer 'BEW Berliner Energie und Wärme GmbH' already on record (581337-2026)"
+    },
+    "observable_public_problem": {
+      "passed": true,
+      "reason": "identifiable public buyer(s): BEW Berliner Energie und Wärme GmbH"
+    }
+  },
+  "form_hypothesis": "an annotated dossier along the structure of the notice",
+  "id": "c-20260925-08",
+  "notices_context": [
+    {
+      "buyers": [
+        "BEW Berliner Energie und Wärme GmbH"
+      ],
+      "countries": [
+        "DEU"
+      ],
+      "publication_number": "661336-2026",
+      "title": "Germany – Systems consultancy services – Application Management"
+    }
+  ],
+  "proposition": "buyer 'BEW Berliner Energie und Wärme GmbH' already on record (581337-2026) — this is a sustained procurement programme, not a one-off purchase",
+  "signal": {
+    "date": "2026-09-25",
+    "detail": "notice 661336-2026 entered the envelope (phrases: Künstliche Intelligenz)",
+    "key": "NEW_MATCH:661336-2026",
+    "notices": [
+      "661336-2026"
+    ],
+    "type": "NEW_MATCH"
+  },
+  "verdict": "DECLINED"
+}

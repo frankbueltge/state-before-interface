@@ -1,0 +1,610 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><ContractNotice xmlns="urn:oasis:names:specification:ubl:schema:xsd:ContractNotice-2" xmlns:cac="urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-2" xmlns:cbc="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-2" xmlns:efac="http://data.europa.eu/p27/eforms-ubl-extension-aggregate-components/1" xmlns:efbc="http://data.europa.eu/p27/eforms-ubl-extension-basic-components/1" xmlns:efext="http://data.europa.eu/p27/eforms-ubl-extensions/1" xmlns:ext="urn:oasis:names:specification:ubl:schema:xsd:CommonExtensionComponents-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <ext:UBLExtensions>
+       <ext:UBLExtension>
+          <ext:ExtensionContent>
+             <efext:EformsExtension>
+                <efac:NoticeSubType>
+                   <cbc:SubTypeCode listName="notice-subtype">16</cbc:SubTypeCode>
+                </efac:NoticeSubType>
+                <efac:Organizations>
+                  <efac:Organization>
+        
+         <efac:Company>
+          <cbc:WebsiteURI>https://www.oslo.kommune.no/politikk/byradet/byrad-for-kultur-og-naring/</cbc:WebsiteURI>
+          <cac:PartyIdentification>
+             <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+          </cac:PartyIdentification>
+          <cac:PartyName><cbc:Name languageID="ENG">Oslo kommune v/ Byrådsavdeling for kultur og næring</cbc:Name></cac:PartyName>
+          <cac:PostalAddress>
+             <cbc:StreetName>Oslo rådhus, Rådhusplassen 1</cbc:StreetName>
+             <cbc:CityName>Oslo</cbc:CityName>
+             <cbc:PostalZone>0037</cbc:PostalZone>
+             <cbc:CountrySubentityCode listName="nuts">NO081</cbc:CountrySubentityCode>
+             <cac:Country>
+                <cbc:IdentificationCode listName="country">NOR</cbc:IdentificationCode>
+             </cac:Country>
+          </cac:PostalAddress>
+          <cac:PartyLegalEntity>
+             <cbc:CompanyID>997703634</cbc:CompanyID>
+          </cac:PartyLegalEntity>
+          <cac:Contact>
+             <cbc:Name>Marthe Fredriksen Hjort</cbc:Name>
+             <cbc:Telephone>+47 21802180</cbc:Telephone>
+             <cbc:ElectronicMail>postmottak@byr.oslo.kommune.no</cbc:ElectronicMail>
+          </cac:Contact>
+         </efac:Company>
+        </efac:Organization>
+<efac:Organization>
+        
+         <efac:Company>
+          <cbc:WebsiteURI>https://www.oslo.kommune.no/politikk/byradet/byradslederen/</cbc:WebsiteURI>
+          <cac:PartyIdentification>
+             <cbc:ID schemeName="organization">ORG-0002</cbc:ID>
+          </cac:PartyIdentification>
+          <cac:PartyName><cbc:Name languageID="ENG">Oslo kommune Byrådslederens kontor</cbc:Name></cac:PartyName>
+          <cac:PostalAddress>
+             <cbc:StreetName>Rådhuset, Rådhusplassen 1</cbc:StreetName>
+             <cbc:CityName>Oslo</cbc:CityName>
+             <cbc:PostalZone>0037</cbc:PostalZone>
+             <cbc:CountrySubentityCode listName="nuts">NO081</cbc:CountrySubentityCode>
+             <cac:Country>
+                <cbc:IdentificationCode listName="country">NOR</cbc:IdentificationCode>
+             </cac:Country>
+          </cac:PostalAddress>
+          <cac:PartyLegalEntity>
+             <cbc:CompanyID>976819837</cbc:CompanyID>
+          </cac:PartyLegalEntity>
+          <cac:Contact>
+             <cbc:Name>Anne Solheim </cbc:Name>
+             <cbc:Telephone>+47 </cbc:Telephone>
+             <cbc:ElectronicMail>postmottak@byr.oslo.kommune.no</cbc:ElectronicMail>
+          </cac:Contact>
+         </efac:Company>
+        </efac:Organization>
+      <efac:Organization>
+       <efac:Company>
+           <cbc:WebsiteURI>https://www.domstol.no/no/domstoler/tingrett/oslo-tingrett/</cbc:WebsiteURI>
+           <cac:PartyIdentification>
+               <cbc:ID schemeName="organization">ORG-0003</cbc:ID>
+           </cac:PartyIdentification>
+           <cac:PartyName>
+               <cbc:Name languageID="ENG">Oslo tingrett</cbc:Name>
+           </cac:PartyName>
+           <cac:PostalAddress>
+               <cbc:StreetName>Postboks 2106 Vika</cbc:StreetName>
+               <cbc:CityName>Oslo</cbc:CityName>
+               <cbc:PostalZone>0125</cbc:PostalZone>
+               <cbc:CountrySubentityCode listName="nuts">NO081</cbc:CountrySubentityCode>
+               <cac:Country>
+                   <cbc:IdentificationCode listName="country">NOR</cbc:IdentificationCode>
+               </cac:Country>
+           </cac:PostalAddress>
+           <cac:PartyLegalEntity>
+               <cbc:CompanyID>926725939</cbc:CompanyID>
+           </cac:PartyLegalEntity>
+           <cac:Contact>
+               <cbc:Telephone>+47 22035200</cbc:Telephone>
+               <cbc:ElectronicMail>oslo.tingrett@domstol.no</cbc:ElectronicMail>
+           </cac:Contact>
+       </efac:Company>
+      </efac:Organization>
+      <efac:Organization>
+       <efac:Company>
+           <cbc:WebsiteURI>https://artifik.no</cbc:WebsiteURI>
+           <cac:PartyIdentification>
+               <cbc:ID schemeName="organization">ORG-0004</cbc:ID>
+           </cac:PartyIdentification>
+           <cac:PartyName>
+               <cbc:Name languageID="ENG">Artifik AS</cbc:Name>
+           </cac:PartyName>
+           <cac:PostalAddress>
+               <cbc:StreetName>Stortingsgata 12</cbc:StreetName>
+               <cbc:CityName>Oslo</cbc:CityName>
+               <cbc:PostalZone>0161</cbc:PostalZone>
+               <cbc:CountrySubentityCode listName="nuts">NO081</cbc:CountrySubentityCode>
+               <cac:Country>
+                   <cbc:IdentificationCode listName="country">NOR</cbc:IdentificationCode>
+               </cac:Country>
+           </cac:PostalAddress>
+           <cac:PartyLegalEntity>
+               <cbc:CompanyID>925364967</cbc:CompanyID>
+           </cac:PartyLegalEntity>
+           <cac:Contact>
+               <cbc:ElectronicMail>support@artifik.no</cbc:ElectronicMail>
+           </cac:Contact>
+       </efac:Company>
+      </efac:Organization>
+                </efac:Organizations>
+             <efac:Publication><efbc:NoticePublicationID schemeName="ojs-notice-id">00664290-2026</efbc:NoticePublicationID><efbc:GazetteID schemeName="ojs-id">187/2026</efbc:GazetteID><efbc:PublicationDate>2026-09-28+02:00</efbc:PublicationDate></efac:Publication></efext:EformsExtension>
+          </ext:ExtensionContent>
+       </ext:UBLExtension>
+    </ext:UBLExtensions>
+    <cbc:UBLVersionID>2.3</cbc:UBLVersionID>
+    <cbc:CustomizationID>eforms-sdk-1.13</cbc:CustomizationID>
+    <cbc:ID schemeName="notice-id">190fdfc4-accf-4a9d-897e-836ef82e1d6c</cbc:ID>
+    <cbc:ContractFolderID>fa467838-fb44-46a6-a98e-e8c7262026ef</cbc:ContractFolderID>
+    <cbc:IssueDate>2026-09-25Z</cbc:IssueDate>
+    <cbc:IssueTime>12:11:16.768Z</cbc:IssueTime>
+    <cbc:VersionID>01</cbc:VersionID>
+    <cbc:RegulatoryDomain>32014L0024</cbc:RegulatoryDomain>
+    <cbc:NoticeTypeCode listName="competition">cn-standard</cbc:NoticeTypeCode>
+    <cbc:NoticeLanguageCode>ENG</cbc:NoticeLanguageCode>
+    
+    <cac:ContractingParty>
+        <cbc:BuyerProfileURI>https://www.oslo.kommune.no/politikk/byradet/byrad-for-kultur-og-naring/</cbc:BuyerProfileURI>
+        <cac:ContractingPartyType><cbc:PartyTypeCode listName="buyer-legal-type">body-pl-ra</cbc:PartyTypeCode></cac:ContractingPartyType>
+        <cac:ContractingActivity>
+          <cbc:ActivityTypeCode listName="authority-activity">gen-pub</cbc:ActivityTypeCode>
+        </cac:ContractingActivity>
+        <cac:Party>
+           <cac:PartyIdentification>
+              <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+           </cac:PartyIdentification>
+           <cac:ServiceProviderParty>
+      <cbc:ServiceTypeCode listName="organisation-role">serv-prov</cbc:ServiceTypeCode>
+        <cac:Party>
+          <cac:PartyIdentification>
+            <cbc:ID schemeName="organization">ORG-0004</cbc:ID>
+          </cac:PartyIdentification>
+        </cac:Party>
+     </cac:ServiceProviderParty>
+        </cac:Party>
+    </cac:ContractingParty>
+<cac:ContractingParty>
+        <cbc:BuyerProfileURI>https://www.oslo.kommune.no/politikk/byradet/byradslederen/</cbc:BuyerProfileURI>
+        <cac:ContractingPartyType><cbc:PartyTypeCode listName="buyer-legal-type">body-pl-ra</cbc:PartyTypeCode></cac:ContractingPartyType>
+        <cac:ContractingActivity>
+          <cbc:ActivityTypeCode listName="authority-activity">gen-pub</cbc:ActivityTypeCode>
+        </cac:ContractingActivity>
+        <cac:Party>
+           <cac:PartyIdentification>
+              <cbc:ID schemeName="organization">ORG-0002</cbc:ID>
+           </cac:PartyIdentification>
+           <cac:ServiceProviderParty>
+      <cbc:ServiceTypeCode listName="organisation-role">serv-prov</cbc:ServiceTypeCode>
+        <cac:Party>
+          <cac:PartyIdentification>
+            <cbc:ID schemeName="organization">ORG-0004</cbc:ID>
+          </cac:PartyIdentification>
+        </cac:Party>
+     </cac:ServiceProviderParty>
+        </cac:Party>
+    </cac:ContractingParty>
+    <cac:TenderingTerms>
+    <cac:TendererQualificationRequest>
+      <cac:SpecificTendererRequirement>
+             <cbc:TendererRequirementTypeCode listName="exclusion-ground">exg-sitn-other</cbc:TendererRequirementTypeCode>
+             <cbc:Description languageID="ENG">Is the tenderer in a bankruptcy situation? Specify why, under the mentioned circumstances, one is able to carry out the contract, considering the current national provisions and measures for continuing the business activities? It is not necessary to provide this information if rejection of tenderers in such a situation is obligatory in accordance with the current national law with no exceptions, when the tenderer is still able to carry out the contract.</cbc:Description>
+          </cac:SpecificTendererRequirement>
+<cac:SpecificTendererRequirement>
+             <cbc:TendererRequirementTypeCode listName="exclusion-ground">exg-sitn-bankr</cbc:TendererRequirementTypeCode>
+             <cbc:Description languageID="ENG">Is the tenderer in a bankruptcy situation? Specify why, under the mentioned circumstances, one is able to carry out the contract, considering the current national provisions and measures for continuing the business activities? It is not necessary to provide this information if rejection of tenderers in such a situation is obligatory in accordance with the current national law with no exceptions, when the tenderer is still able to carry out the contract.</cbc:Description>
+          </cac:SpecificTendererRequirement>
+<cac:SpecificTendererRequirement>
+             <cbc:TendererRequirementTypeCode listName="exclusion-ground">exg-crim-corrpt</cbc:TendererRequirementTypeCode>
+             <cbc:Description languageID="ENG">Is the tenderer himself or a person, who is a member of the tenderer's administration, management or supervisory body or has the competence to represent or control or make decisions in such bodies, by enforceable judgement been convicted of corruption by a verdict handed down not more than five years ago, or a rejection period determined directly in the judgement that still applies? Corruption as defined in Article 3 of the Convention on Combating Corruption, involving European Communities or European Union member states (EUT C 195 of 25.6.1997, s. 1), and in Article 2, point 1, in the Council ́s framework decision 2003/568/RIA of 22 July 2003 on combating corruption in the private sector (EUT L 192 of 31.7.2003,  p. 54). This rejection reason also includes corruption as defined in national law for the contracting authority or supplier.</cbc:Description>
+          </cac:SpecificTendererRequirement>
+<cac:SpecificTendererRequirement>
+             <cbc:TendererRequirementTypeCode listName="exclusion-ground">exg-sitn-cred-arran</cbc:TendererRequirementTypeCode>
+             <cbc:Description languageID="ENG">Is the supplier in a situation where he has been forced debt arrangement? Specify why, under the mentioned circumstances, one is able to carry out the contract, considering the current national provisions and measures for continuing the business activities? It is not necessary to provide this information if rejection of tenderers in such a situation is obligatory in accordance with the current national law with no exceptions, when the tenderer is still able to carry out the contract.</cbc:Description>
+          </cac:SpecificTendererRequirement>
+<cac:SpecificTendererRequirement>
+             <cbc:TendererRequirementTypeCode listName="exclusion-ground">exg-crim-part</cbc:TendererRequirementTypeCode>
+             <cbc:Description languageID="ENG">Is the tenderer himself or a person, who is a member of the tenderer's administration, management or supervisory body or has the competence to represent or control or make decisions in such bodies, at the time a legally convicted verdict of participation in a criminal organisation by a verdict handed down no more than five years ago, or a rejection period set out directly in the judgement that still applies? Participation in a criminal organisation as defined in Article 2 of the Council ́s framework decision 2008/841/RIA of 24 October 2008 on control of organised crime (EUT L 300 of 11.11.2008, p. 42).</cbc:Description>
+          </cac:SpecificTendererRequirement>
+<cac:SpecificTendererRequirement>
+             <cbc:TendererRequirementTypeCode listName="exclusion-ground">exg-mis-distortion</cbc:TendererRequirementTypeCode>
+             <cbc:Description languageID="ENG">Has the tenderer entered into agreement(s) with other tenderers with the intention of turning the competition?</cbc:Description>
+          </cac:SpecificTendererRequirement>
+<cac:SpecificTendererRequirement>
+             <cbc:TendererRequirementTypeCode listName="exclusion-ground">exg-mis-bre-env-law</cbc:TendererRequirementTypeCode>
+             <cbc:Description languageID="ENG">Is the tenderer aware of breaches of environmental provisions as stated in national law, the relevant notice or procurement documents or Article 18 (2) of Directive 2014/24/EU.</cbc:Description>
+          </cac:SpecificTendererRequirement>
+<cac:SpecificTendererRequirement>
+             <cbc:TendererRequirementTypeCode listName="exclusion-ground">exg-crim-laund</cbc:TendererRequirementTypeCode>
+             <cbc:Description languageID="ENG">Is the tenderer himself or a person, who is a member of the tenderer's administration, management or supervisory body or has the competence to represent or control or make decisions in such bodies, in the event a legal verdict has been convicted of money laundering or financing terrorism by a verdict handed down no more than five years ago, or a rejection period set out directly in the judgement that still applies? Money laundering or financing terrorism As defined in Article 1 of the European Parliament and Council Directive 2005/60/EF of 26 October 2005 on preventive measures against the use of the financial system for money laundering and financing terrorism (EUT L 309 of 25.11.2005, p. 15).</cbc:Description>
+          </cac:SpecificTendererRequirement>
+<cac:SpecificTendererRequirement>
+             <cbc:TendererRequirementTypeCode listName="exclusion-ground">exg-crim-fraud</cbc:TendererRequirementTypeCode>
+             <cbc:Description languageID="ENG">Is the tenderer himself or a person, who is a member of the tenderer's administration, management or supervisory body or has the competence to represent or control or make decisions in such bodies, at the time a legally convicted of fraud has been convicted of fraud by a verdict handed down not more than five years ago, or a rejection period determined directly in the judgement that still applies? Fraud included in Article 1 of the Convention on protection of the Financial Interests of the European Communities (EFT C 316 of 27.11.1995, p. 48).</cbc:Description>
+          </cac:SpecificTendererRequirement>
+<cac:SpecificTendererRequirement>
+             <cbc:TendererRequirementTypeCode listName="exclusion-ground">exg-crim-traffick</cbc:TendererRequirementTypeCode>
+             <cbc:Description languageID="ENG">Is the tenderer himself or a person, who is a member of the tenderer's administration, management or supervisory body or has the competence to represent or control or make decisions in such bodies, in the event a legal verdict has been convicted of child labour and other forms of human trafficking by a verdict handed down no more than five years ago, or a rejection period determined directly in the judgement that still applies? Child labour and other forms of human trafficking as defined in Article 2 of the European Parliament and council directive 2011/36/EU of 5. 1 April 2011 on the prevention and control of human trafficking and the protection of its victims and for compensation of the Council ́s framework decision 2002/629/RIA (EUT L 101 of 15.4.2011, p. 1).</cbc:Description>
+          </cac:SpecificTendererRequirement>
+<cac:SpecificTendererRequirement>
+             <cbc:TendererRequirementTypeCode listName="exclusion-ground">exg-sitn-insolvency</cbc:TendererRequirementTypeCode>
+             <cbc:Description languageID="ENG">Is the tenderer in an insolvency situation? Specify why, under the mentioned circumstances, one is able to carry out the contract, considering the current national provisions and measures for continuing the business activities? It is not necessary to provide this information if rejection of tenderers in such a situation is obligatory in accordance with the current national law with no exceptions, when the tenderer is still able to carry out the contract.</cbc:Description>
+          </cac:SpecificTendererRequirement>
+<cac:SpecificTendererRequirement>
+             <cbc:TendererRequirementTypeCode listName="exclusion-ground">exg-mis-bre-lab-law</cbc:TendererRequirementTypeCode>
+             <cbc:Description languageID="ENG">Is the tenderer aware of breaches of provisions on working conditions as stated in national law, the relevant notice or procurement documents or Article 18 (2) of Directive 2014/24/EU.</cbc:Description>
+          </cac:SpecificTendererRequirement>
+<cac:SpecificTendererRequirement>
+             <cbc:TendererRequirementTypeCode listName="exclusion-ground">exg-sitn-liq-admin</cbc:TendererRequirementTypeCode>
+             <cbc:Description languageID="ENG">Specify why, under the mentioned circumstances, one is able to carry out the contract, considering the current national provisions and measures for continuing the business activities? It is not necessary to provide this information if rejection of tenderers in such a situation is obligatory in accordance with the current national law with no exceptions, when the tenderer is still able to carry out the contract.</cbc:Description>
+          </cac:SpecificTendererRequirement>
+<cac:SpecificTendererRequirement>
+             <cbc:TendererRequirementTypeCode listName="exclusion-ground">exg-mis-misrepresent</cbc:TendererRequirementTypeCode>
+             <cbc:Description languageID="ENG">Has the tenderer: a) given grossly incorrect information with the notification of the information required to verify that there is no basis for rejection, or of the qualification requirements being fulfilled, b) failed to provide such information, c) made reservations immediately to present the supporting documents requested by the contracting authority, or d) improperly affected the contracting authority ́s decision process to acquire confidential information that could give this an unlawful advantage in connection with competition, or negligently has given misleading information that can have a significant influence on decisions on rejection, selection or award?</cbc:Description>
+          </cac:SpecificTendererRequirement>
+<cac:SpecificTendererRequirement>
+             <cbc:TendererRequirementTypeCode listName="exclusion-ground">exg-mis-partic-confl</cbc:TendererRequirementTypeCode>
+             <cbc:Description languageID="ENG">Is the tenderer aware of a conflict of interest as stated in national law, the relevant notice or procurement documents?</cbc:Description>
+          </cac:SpecificTendererRequirement>
+<cac:SpecificTendererRequirement>
+             <cbc:TendererRequirementTypeCode listName="exclusion-ground">exg-mis-prep-confl</cbc:TendererRequirementTypeCode>
+             <cbc:Description languageID="ENG">Has the tenderer or an entity associated with the supplier advised the contracting authority or in another way been involved in the planning of the competition?</cbc:Description>
+          </cac:SpecificTendererRequirement>
+<cac:SpecificTendererRequirement>
+             <cbc:TendererRequirementTypeCode listName="exclusion-ground">exg-mis-misconduct</cbc:TendererRequirementTypeCode>
+             <cbc:Description languageID="ENG">Has the tenderer committed serious errors in professional practice? If relevant, see the definitions in national law, the relevant notice or procurement documents.</cbc:Description>
+          </cac:SpecificTendererRequirement>
+<cac:SpecificTendererRequirement>
+             <cbc:TendererRequirementTypeCode listName="exclusion-ground">exg-mis-sanction</cbc:TendererRequirementTypeCode>
+             <cbc:Description languageID="ENG">Has the tenderer committed significant breaches of contract in connection with the fulfilment of a previous public contract, a previous contract with a public contracting authority or a previous concession contract, where the breach has led to the cancellation of the contract, compensation or other similar sanctions?</cbc:Description>
+          </cac:SpecificTendererRequirement>
+<cac:SpecificTendererRequirement>
+             <cbc:TendererRequirementTypeCode listName="exclusion-ground">exg-mis-bre-soc-law</cbc:TendererRequirementTypeCode>
+             <cbc:Description languageID="ENG">Is the tenderer aware of breaches of provisions on social conditions as stated in national law, the relevant notice or procurement documents or Article 18 (2) of Directive 2014/24/EU.</cbc:Description>
+          </cac:SpecificTendererRequirement>
+<cac:SpecificTendererRequirement>
+             <cbc:TendererRequirementTypeCode listName="exclusion-ground">exg-pmt-bre-ssc</cbc:TendererRequirementTypeCode>
+             <cbc:Description languageID="ENG">Have tenderers failed to fulfil all their social security obligations in the country where they are established and in their member state, if this is a different country than what he is established in?</cbc:Description>
+          </cac:SpecificTendererRequirement>
+<cac:SpecificTendererRequirement>
+             <cbc:TendererRequirementTypeCode listName="exclusion-ground">exg-sitn-as-susp</cbc:TendererRequirementTypeCode>
+             <cbc:Description languageID="ENG">Specify why, under the mentioned circumstances, one is able to carry out the contract, considering the current national provisions and measures for continuing the business activities? It is not necessary to provide this information if rejection of tenderers in such a situation is obligatory in accordance with the current national law with no exceptions, when the tenderer is still able to carry out the contract.</cbc:Description>
+          </cac:SpecificTendererRequirement>
+<cac:SpecificTendererRequirement>
+             <cbc:TendererRequirementTypeCode listName="exclusion-ground">exg-pmt-bre-tax</cbc:TendererRequirementTypeCode>
+             <cbc:Description languageID="ENG">Has the tenderer not fulfilled all of his tax and duty obligations in both the country where he is established and in the contracting authority's member state, if this is a different country than what he is established in?</cbc:Description>
+          </cac:SpecificTendererRequirement>
+<cac:SpecificTendererRequirement>
+             <cbc:TendererRequirementTypeCode listName="exclusion-ground">exg-crim-terror</cbc:TendererRequirementTypeCode>
+             <cbc:Description languageID="ENG">Is the tenderer himself or a person, who is a member of the tenderer's administration, management or supervisory body, or has the competence to represent or control or make decisions in such bodies, in the event a legal verdict has been convicted of acts of terrorism or criminal acts connected to terrorist activities by a verdict handed down no more than five years ago, or a rejection period set directly in the judgement that still applies? Acts of terrorism or criminal acts relating to terrorist activity as defined in Article 1 and 3 of the Council ́s framework decision 2002/475/RIA of 13 June 2002 on combating terrorism (EFT L 164, af 22.6.2002, p. 3). This rejection reason also includes incitement to, participation or attempts to commit such actions as included in Article 4 in the mentioned framework decision.</cbc:Description>
+          </cac:SpecificTendererRequirement>
+<cac:SpecificTendererRequirement>
+             <cbc:TendererRequirementTypeCode listName="exclusion-ground">exg-mis-off-cond</cbc:TendererRequirementTypeCode>
+             <cbc:Description languageID="ENG">Is the tenderer himself or a person, who is a member of the tenderer's administration, management or supervisory body, or has the competence to represent or control or make decisions in such bodies, have been legally convicted of offences regarding professional behaviour in defence procurements?</cbc:Description>
+          </cac:SpecificTendererRequirement>
+<cac:SpecificTendererRequirement>
+             <cbc:TendererRequirementTypeCode listName="exclusion-ground">exg-mis-unrel-sec</cbc:TendererRequirementTypeCode>
+             <cbc:Description languageID="ENG">Is the tenderer assessed to lack the reliability necessary to exclude the risk of national security?</cbc:Description>
+          </cac:SpecificTendererRequirement>
+<cac:SpecificTendererRequirement>
+             <cbc:TendererRequirementTypeCode listName="exclusion-ground">exg-natl-bre-nat-law</cbc:TendererRequirementTypeCode>
+             <cbc:Description languageID="ENG">The contracting authority shall state that in Norway there are national rejection reasons. These shall be described in the procurement documents. Tenderers must respond to whether they are in one or more of the situations described in the national rejection reasons.</cbc:Description>
+          </cac:SpecificTendererRequirement>
+
+    </cac:TendererQualificationRequest>
+    <cac:TendererQualificationRequest>
+        <cac:SpecificTendererRequirement>
+            <cbc:TendererRequirementTypeCode listName="exclusion-grounds-source">epo-notice</cbc:TendererRequirementTypeCode>
+        </cac:SpecificTendererRequirement>
+    </cac:TendererQualificationRequest>
+    
+  </cac:TenderingTerms>
+    <cac:TenderingProcess>
+      <cbc:ProcedureCode listName="procurement-procedure-type">neg-w-call</cbc:ProcedureCode>
+      <cac:ProcessJustification><cbc:ProcessReasonCode listName="accelerated-procedure">false</cbc:ProcessReasonCode></cac:ProcessJustification>
+    </cac:TenderingProcess>
+    <cac:ProcurementProject>
+  <cbc:ID>8752</cbc:ID>
+   <cbc:Name languageID="ENG">Competence brokering (FoUI guideline) Oslo</cbc:Name>
+   <cbc:Description languageID="ENG">The core of the delivery is FoUI guidance as described below. Oslo municipality also requests an option for other services.
+
+The objective of the procurement is to enter into a contract with 4-7 FoUI guides for selected input areas. The FoUI guideline shall strengthen research supported innovation in the region ́s businesses and the municipality ́s own activities. The effort shall strengthen capacity for innovation in business and shall also contribute to strengthening Oslo municipality ́s own capacity for research-supported innovation, in line with the approved strategy for knowledge based development, innovation and digital technology for Oslo municipality (KID). Business orientated efforts will be prioritised, among other things, in accordance with the regional plan for competitiveness and value creation in Oslo and Akershus, which is at a hearing in autumn 2026.
+
+Special emphasis will be placed on competence for business, the public sector and research within:
+
+·         Sustainable restructuring and systems for the green shift.
+
+·         Public Health, Health and Life Sciences
+
+·         Digitalisation and artificial intelligence
+
+·         Stand-by, Security and Civil Protection
+
+It is an advantage to refer to in-depth knowledge of industries that are strategically important for Oslo, such as maritime, digitalisation, health, dual-use and circular economy. Artificial intelligence and digitalisation are in the process of taking in all parts of business and society. Knowledge on digitalisation and artificial intelligence is therefore not limited to one priority area, and it will be advantageous to be able to use digitalisation and AI within the individual commitment areas.
+The R&amp;D guides have the main assignment of mobilising businesses and Oslo ́s own entities for more research-supported R&amp;D. The R&amp;D guides discuss project ideas and possibilities with companies or the public sector and can connect R&amp;D needs with relevant researchers. The FoUI guideline mobilises to regional, national and international schemes, as well as for preliminary projects and the subsidy scheme SmartOslo. New this time is that we want the FoUI guidelines to also be able to contribute to mobilising to EU support schemes for businesses, including EIC.</cbc:Description>
+   <cbc:ProcurementTypeCode listName="contract-nature">services</cbc:ProcurementTypeCode>
+   <cac:RequestedTenderTotal>
+            
+            <cbc:EstimatedOverallContractAmount currencyID="NOK">7500000</cbc:EstimatedOverallContractAmount>
+          </cac:RequestedTenderTotal>
+   <cac:MainCommodityClassification>
+      <cbc:ItemClassificationCode listName="cpv">73200000</cbc:ItemClassificationCode>
+   </cac:MainCommodityClassification>
+   <cac:AdditionalCommodityClassification>
+      <cbc:ItemClassificationCode listName="cpv">73000000</cbc:ItemClassificationCode>
+   </cac:AdditionalCommodityClassification>
+   <cac:RealizedLocation>
+        <cac:Address>
+          <cbc:CountrySubentityCode listName="nuts">NO081</cbc:CountrySubentityCode>
+          <cac:Country>
+            <cbc:IdentificationCode listName="country">NOR</cbc:IdentificationCode>
+          </cac:Country>
+        </cac:Address>
+      </cac:RealizedLocation>
+   <cac:PlannedPeriod><cbc:DurationMeasure unitCode="MONTH">36</cbc:DurationMeasure></cac:PlannedPeriod>
+  </cac:ProcurementProject>
+    <cac:ProcurementProjectLot>
+       <cbc:ID schemeName="Lot">LOT-0001</cbc:ID>
+       <cac:TenderingTerms>
+          <ext:UBLExtensions>
+     <ext:UBLExtension>
+        <ext:ExtensionContent>
+           <efext:EformsExtension>
+              <efac:SelectionCriteria>
+             <cbc:TendererRequirementTypeCode listName="selection-criterion">slc-suit-reg-trade</cbc:TendererRequirementTypeCode>
+             <cbc:Name languageID="ENG">Registration requirement</cbc:Name>
+             <cbc:Description languageID="ENG">
+The tenderer shall be a legally established company.
+
+Documentation requirements:
+                Norwegian companies: Company registration certificate, register printout or equivalent documentation of the establishment.
+
+Foreign companies: Proof that the company is registered in a trade or business register as prescribed by the law of the country where the company is established. 
+             </cbc:Description>
+             <cbc:CalculationExpressionCode listName="usage">used</cbc:CalculationExpressionCode>
+          </efac:SelectionCriteria><efac:SelectionCriteria>
+             <cbc:TendererRequirementTypeCode listName="selection-criterion">slc-stand-other</cbc:TendererRequirementTypeCode>
+             <cbc:Name languageID="ENG">Requirement for economic and financial capacity.</cbc:Name>
+             <cbc:Description languageID="ENG">
+Tenderers must have sufficient economic and financial capacity to be able to fulfil the contract. 
+                Documentation requirements:
+                The tenderer's Annual Financial Statements including notes with the Board's and the auditor's reports from the last two (2) completed financial years. If the tenderer is not obliged to account, the tenderer can provide accounts in accordance with the bookkeeping rules or other suitable documentation.
+
+The contracting authority reserves the right to carry out a credit assessment.
+
+The financial strength will be assessed based on turnover, profit ratio, solidity and liquidity.
+             </cbc:Description>
+             <cbc:CalculationExpressionCode listName="usage">used</cbc:CalculationExpressionCode>
+          </efac:SelectionCriteria><efac:SelectionCriteria>
+             <cbc:TendererRequirementTypeCode listName="selection-criterion">slc-abil-ref-services</cbc:TendererRequirementTypeCode>
+             <cbc:Name languageID="ENG">Experience requirements</cbc:Name>
+             <cbc:Description languageID="ENG">
+Tenderers shall have sufficient experience from relevant and comparable deliveries.
+
+Relevant and comparable deliveries means experience from competence brokering, FoUI guidance, R&amp;D work, guidance/consultancy in research, innovation or restructuring, or projects that have provided in-depth knowledge in strategically important industries for Oslo (maritime, digitalisation, health, dual-use and circular economy).
+                Documentation requirements:
+                Description of up to five (5) most relevant and comparable deliveries from the last three (3) years. The description shall include the name of the contracting authority, date, value, role and a description of what has been carried out. It is up to the tenderer to highlight relevance.
+             </cbc:Description>
+             <cbc:CalculationExpressionCode listName="usage">used</cbc:CalculationExpressionCode>
+          </efac:SelectionCriteria>
+              
+           </efext:EformsExtension>
+        </ext:ExtensionContent>
+     </ext:UBLExtension>
+    </ext:UBLExtensions>
+          <cbc:FundingProgramCode listName="eu-funded">no-eu-funds</cbc:FundingProgramCode>
+          <cac:RequiredFinancialGuarantee>
+            <cbc:GuaranteeTypeCode listName="tender-guarantee-required">false</cbc:GuaranteeTypeCode>
+          </cac:RequiredFinancialGuarantee>
+          <cac:CallForTendersDocumentReference>
+             <cbc:ID>8752</cbc:ID>
+             <cbc:DocumentType>restricted-document</cbc:DocumentType>
+             <cac:Attachment>
+                <cac:ExternalReference>
+                   <cbc:URI>https://app.artifik.no/procurements/8752</cbc:URI>
+                </cac:ExternalReference>
+             </cac:Attachment>
+          </cac:CallForTendersDocumentReference>
+          <cac:PaymentTerms>
+            <cbc:Note languageID="ENG">N/A</cbc:Note>
+          </cac:PaymentTerms>
+          <cac:TendererQualificationRequest>
+             <cac:SpecificTendererRequirement>
+                <cbc:TendererRequirementTypeCode listName="reserved-procurement">none</cbc:TendererRequirementTypeCode>
+             </cac:SpecificTendererRequirement>
+          </cac:TendererQualificationRequest>
+          <cac:TendererQualificationRequest>
+            <cbc:CompanyLegalFormCode listName="required">false</cbc:CompanyLegalFormCode>
+          </cac:TendererQualificationRequest>
+          <cac:TendererQualificationRequest>
+        <!-- Selection Criteria Source (BT-821) -->
+        <cac:SpecificTendererRequirement>
+            <cbc:TendererRequirementTypeCode listName="selection-criteria-source">epo-notice</cbc:TendererRequirementTypeCode>
+        </cac:SpecificTendererRequirement>
+    </cac:TendererQualificationRequest>
+          
+          <cac:ContractExecutionRequirement>
+             <cbc:ExecutionRequirementCode listName="reserved-execution">no</cbc:ExecutionRequirementCode>
+          </cac:ContractExecutionRequirement>
+          <cac:ContractExecutionRequirement>
+             <cbc:ExecutionRequirementCode listName="einvoicing">required</cbc:ExecutionRequirementCode>
+          </cac:ContractExecutionRequirement>
+          <cac:ContractExecutionRequirement>
+             <cbc:ExecutionRequirementCode listName="ecatalog-submission">not-allowed</cbc:ExecutionRequirementCode>
+          </cac:ContractExecutionRequirement>
+          <cac:ContractExecutionRequirement>
+            <cbc:ExecutionRequirementCode listName="conditions">performance</cbc:ExecutionRequirementCode>
+            <cbc:Description languageID="ENG">N/A</cbc:Description>
+          </cac:ContractExecutionRequirement>
+          <cac:AwardingTerms>
+        
+        
+        <cbc:NoFurtherNegotiationIndicator>false</cbc:NoFurtherNegotiationIndicator>
+      <cac:AwardingCriterion>
+        <cac:SubordinateAwardingCriterion>
+              <ext:UBLExtensions>
+          <ext:UBLExtension>
+            <ext:ExtensionContent>
+              <efext:EformsExtension>
+                <efac:AwardCriterionParameter>
+                  <efbc:ParameterCode listName="number-weight">per-exa</efbc:ParameterCode>
+                  <efbc:ParameterNumeric>30</efbc:ParameterNumeric>
+                </efac:AwardCriterionParameter>
+              </efext:EformsExtension>
+            </ext:ExtensionContent>
+          </ext:UBLExtension>
+        </ext:UBLExtensions>
+              <cbc:AwardingCriterionTypeCode listName="award-criterion-type">price</cbc:AwardingCriterionTypeCode>
+              <cbc:Description languageID="ENG">Price</cbc:Description>
+                 </cac:SubordinateAwardingCriterion><cac:SubordinateAwardingCriterion>
+              <ext:UBLExtensions>
+          <ext:UBLExtension>
+            <ext:ExtensionContent>
+              <efext:EformsExtension>
+                <efac:AwardCriterionParameter>
+                  <efbc:ParameterCode listName="number-weight">per-exa</efbc:ParameterCode>
+                  <efbc:ParameterNumeric>35</efbc:ParameterNumeric>
+                </efac:AwardCriterionParameter>
+              </efext:EformsExtension>
+            </ext:ExtensionContent>
+          </ext:UBLExtension>
+        </ext:UBLExtensions>
+              <cbc:AwardingCriterionTypeCode listName="award-criterion-type">quality</cbc:AwardingCriterionTypeCode>
+              <cbc:Description languageID="ENG">Competence</cbc:Description>
+                 </cac:SubordinateAwardingCriterion><cac:SubordinateAwardingCriterion>
+              <ext:UBLExtensions>
+          <ext:UBLExtension>
+            <ext:ExtensionContent>
+              <efext:EformsExtension>
+                <efac:AwardCriterionParameter>
+                  <efbc:ParameterCode listName="number-weight">per-exa</efbc:ParameterCode>
+                  <efbc:ParameterNumeric>35</efbc:ParameterNumeric>
+                </efac:AwardCriterionParameter>
+              </efext:EformsExtension>
+            </ext:ExtensionContent>
+          </ext:UBLExtension>
+        </ext:UBLExtensions>
+              <cbc:AwardingCriterionTypeCode listName="award-criterion-type">quality</cbc:AwardingCriterionTypeCode>
+              <cbc:Description languageID="ENG">Assignment comprehension and solution proposal</cbc:Description>
+                 </cac:SubordinateAwardingCriterion><cac:SubordinateAwardingCriterion>
+              <ext:UBLExtensions>
+          <ext:UBLExtension>
+            <ext:ExtensionContent>
+              <efext:EformsExtension>
+                <efac:AwardCriterionParameter>
+                  <efbc:ParameterCode listName="number-weight">per-exa</efbc:ParameterCode>
+                  <efbc:ParameterNumeric>0</efbc:ParameterNumeric>
+                </efac:AwardCriterionParameter>
+              </efext:EformsExtension>
+            </ext:ExtensionContent>
+          </ext:UBLExtension>
+        </ext:UBLExtensions>
+              <cbc:AwardingCriterionTypeCode listName="award-criterion-type">quality</cbc:AwardingCriterionTypeCode>
+              <cbc:Description languageID="ENG">The procurement includes consultancy services where the main service is the consultants ́ work efforts. The work can include some but limited travel activities.
+
+The consultants ́ climate footprint and environmental impact will be equal to the load from an average permanent employee. It relates to the employee ́s need for office space and equipment, energy consumption in office buildings, possible travel activities for work and waste generation. 
+
+It is considered that none of the above mentioned elements fall within the nature of the procurement. The elements that are related to the nature, i.e. the technical and professional assistance that is provided, lead to an immaterial climate footprint and an immaterial environmental impact. 
+
+Based on the assessments above, the contracting authority will use the exclusion provision in loa § 5b first section, as the procurement is assessed to have a climate footprint and an environmental impact that is immaterial.  </cbc:Description>
+                 </cac:SubordinateAwardingCriterion>
+      </cac:AwardingCriterion>
+    </cac:AwardingTerms>
+          <cac:AdditionalInformationParty>
+             <cac:PartyIdentification>
+                <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+             </cac:PartyIdentification>
+          </cac:AdditionalInformationParty>
+          <cac:TenderRecipientParty>
+             <cbc:EndpointID>https://app.artifik.no/procurements/8752</cbc:EndpointID>
+             <cac:PartyIdentification>
+                 <cbc:ID schemeName="organization">ORG-0004</cbc:ID>
+              </cac:PartyIdentification>
+           </cac:TenderRecipientParty>
+           
+           <cac:AppealTerms>
+                 <cac:AppealInformationParty>
+                    <cac:PartyIdentification>
+                        <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+                    </cac:PartyIdentification>
+                </cac:AppealInformationParty>
+              <cac:AppealReceiverParty>
+                 <cac:PartyIdentification>
+                    <cbc:ID schemeName="organization">ORG-0003</cbc:ID>
+                 </cac:PartyIdentification>
+              </cac:AppealReceiverParty>
+           </cac:AppealTerms>
+           <cac:Language><cbc:ID>NOR</cbc:ID></cac:Language>
+           <cac:PostAwardProcess>
+              <cbc:ElectronicOrderUsageIndicator>true</cbc:ElectronicOrderUsageIndicator>
+              <cbc:ElectronicPaymentUsageIndicator>true</cbc:ElectronicPaymentUsageIndicator>
+           </cac:PostAwardProcess>
+        </cac:TenderingTerms>
+        <cac:TenderingProcess>
+           <ext:UBLExtensions>
+              <ext:UBLExtension>
+                 <ext:ExtensionContent>
+                    <efext:EformsExtension>
+                       <efbc:AccessToolName>e-Tendering</efbc:AccessToolName>
+                    </efext:EformsExtension>
+                 </ext:ExtensionContent>
+              </ext:UBLExtension>
+           </ext:UBLExtensions>
+           <cbc:SubmissionMethodCode listName="esubmission">required</cbc:SubmissionMethodCode>
+           <cbc:CandidateReductionConstraintIndicator>false</cbc:CandidateReductionConstraintIndicator>
+           <cbc:GovernmentAgreementConstraintIndicator>true</cbc:GovernmentAgreementConstraintIndicator>
+           <cac:ParticipationRequestReceptionPeriod>
+              <cbc:EndDate>2026-10-26Z</cbc:EndDate>
+              <cbc:EndTime>11:00:00.000Z</cbc:EndTime>
+          </cac:ParticipationRequestReceptionPeriod>
+           <cac:AuctionTerms>
+              <cbc:AuctionConstraintIndicator>false</cbc:AuctionConstraintIndicator>
+           </cac:AuctionTerms>
+           
+           <cac:ContractingSystem>
+              <cbc:ContractingSystemTypeCode listName="framework-agreement">none</cbc:ContractingSystemTypeCode>
+           </cac:ContractingSystem>
+           <cac:ContractingSystem>
+              <cbc:ContractingSystemTypeCode listName="dps-usage">none</cbc:ContractingSystemTypeCode>
+           </cac:ContractingSystem>
+        </cac:TenderingProcess>
+        <cac:ProcurementProject>
+          <cbc:ID>11406</cbc:ID>
+          <cbc:Name languageID="ENG">Competence brokering (FoUI guideline) Oslo</cbc:Name>
+          <cbc:Description languageID="ENG">The core of the delivery is FoUI guidance as described below. Oslo municipality also requests an option for other services.
+
+The objective of the procurement is to enter into a contract with 4-7 FoUI guides for selected input areas. The FoUI guideline shall strengthen research supported innovation in the region ́s businesses and the municipality ́s own activities. The effort shall strengthen capacity for innovation in business and shall also contribute to strengthening Oslo municipality ́s own capacity for research-supported innovation, in line with the approved strategy for knowledge based development, innovation and digital technology for Oslo municipality (KID). Business orientated efforts will be prioritised, among other things, in accordance with the regional plan for competitiveness and value creation in Oslo and Akershus, which is at a hearing in autumn 2026.
+
+Special emphasis will be placed on competence for business, the public sector and research within:
+
+·         Sustainable restructuring and systems for the green shift.
+
+·         Public Health, Health and Life Sciences
+
+·         Digitalisation and artificial intelligence
+
+·         Stand-by, Security and Civil Protection
+
+It is an advantage to refer to in-depth knowledge of industries that are strategically important for Oslo, such as maritime, digitalisation, health, dual-use and circular economy. Artificial intelligence and digitalisation are in the process of taking in all parts of business and society. Knowledge on digitalisation and artificial intelligence is therefore not limited to one priority area, and it will be advantageous to be able to use digitalisation and AI within the individual commitment areas.
+The R&amp;D guides have the main assignment of mobilising businesses and Oslo ́s own entities for more research-supported R&amp;D. The R&amp;D guides discuss project ideas and possibilities with companies or the public sector and can connect R&amp;D needs with relevant researchers. The FoUI guideline mobilises to regional, national and international schemes, as well as for preliminary projects and the subsidy scheme SmartOslo. New this time is that we want the FoUI guidelines to also be able to contribute to mobilising to EU support schemes for businesses, including EIC.</cbc:Description>
+          <cbc:ProcurementTypeCode listName="contract-nature">services</cbc:ProcurementTypeCode>
+          
+          
+          <cac:MainCommodityClassification>
+      <cbc:ItemClassificationCode listName="cpv">73200000</cbc:ItemClassificationCode>
+   </cac:MainCommodityClassification>
+   <cac:AdditionalCommodityClassification>
+      <cbc:ItemClassificationCode listName="cpv">73000000</cbc:ItemClassificationCode>
+   </cac:AdditionalCommodityClassification>
+          <cac:RealizedLocation>
+        <cac:Address>
+          <cbc:CountrySubentityCode listName="nuts">NO081</cbc:CountrySubentityCode>
+          <cac:Country>
+            <cbc:IdentificationCode listName="country">NOR</cbc:IdentificationCode>
+          </cac:Country>
+        </cac:Address>
+      </cac:RealizedLocation>
+          <cac:PlannedPeriod><cbc:DurationMeasure unitCode="MONTH">36</cbc:DurationMeasure></cac:PlannedPeriod>
+          <cac:ContractExtension>
+        <cbc:OptionsDescription languageID="ENG">Oslo municipality has learned that the foui guidelines ́branch knowledge and the contact network can also be useful for the municipality in other assignments than foui guidance. An option is therefore to be added to the assignment. Additional assignments may include assistance with delegation journeys, or other practical business orientated activities. Additional assignments will be carried out in cooperation with the municipality or other relevant cooperation partners.
+
+Additional assignments are financed and agreed separately. Nok 600,000 per annum.</cbc:OptionsDescription>
+        <cbc:MaximumNumberNumeric>1</cbc:MaximumNumberNumeric>
+        <cac:Renewal>
+       <cac:Period>
+         <cbc:Description languageID="ENG">
+Two years.
+            The contract will be valid for one year, with an option for an extension for up to 2 years, subject to budget resolutions.
+         </cbc:Description>
+       </cac:Period>
+     </cac:Renewal>
+    </cac:ContractExtension>
+        </cac:ProcurementProject>
+      </cac:ProcurementProjectLot>
+  </ContractNotice>

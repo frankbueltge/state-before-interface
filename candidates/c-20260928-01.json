@@ -1,0 +1,55 @@
+{
+  "created": "2026-09-28T11:44:24+00:00",
+  "criteria": {
+    "consequential_relation": {
+      "passed": false,
+      "reason": "no marker of a sensitive administrative domain (employment, welfare, policing, migration, health, education, justice, taxation)"
+    },
+    "digital_form_possible": {
+      "passed": true,
+      "reason": "form hypothesis: an annotated dossier along the structure of the notice"
+    },
+    "falsifiable_investigation": {
+      "passed": false,
+      "reason": "no machine-testable proposition can be formed yet"
+    },
+    "machine_readable_evidence": {
+      "passed": true,
+      "reason": "1 preserved eForms XML record(s) with SHA-256 on file"
+    },
+    "machine_scale_advantage": {
+      "passed": false,
+      "reason": "a single first-seen notice is equally visible to any human reader of the journal"
+    },
+    "observable_public_problem": {
+      "passed": true,
+      "reason": "identifiable public buyer(s): Oslo kommune Byrådslederens kontor, Oslo kommune v/ Byrådsavdeling for kultur og næring"
+    }
+  },
+  "form_hypothesis": "an annotated dossier along the structure of the notice",
+  "id": "c-20260928-01",
+  "notices_context": [
+    {
+      "buyers": [
+        "Oslo kommune Byrådslederens kontor",
+        "Oslo kommune v/ Byrådsavdeling for kultur og næring"
+      ],
+      "countries": [
+        "NOR"
+      ],
+      "publication_number": "664290-2026",
+      "title": "Norway – Research and development consultancy services – Competence brokering (FoUI guideline) Oslo"
+    }
+  ],
+  "proposition": null,
+  "signal": {
+    "date": "2026-09-28",
+    "detail": "notice 664290-2026 entered the envelope (phrases: artificial intelligence)",
+    "key": "NEW_MATCH:664290-2026",
+    "notices": [
+      "664290-2026"
+    ],
+    "type": "NEW_MATCH"
+  },
+  "verdict": "DECLINED"
+}

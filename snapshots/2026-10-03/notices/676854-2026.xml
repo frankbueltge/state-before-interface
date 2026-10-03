@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><PriorInformationNotice xmlns="urn:oasis:names:specification:ubl:schema:xsd:PriorInformationNotice-2" xmlns:cac="urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-2" xmlns:cbc="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-2" xmlns:ccts-cct="urn:un:unece:uncefact:data:specification:CoreComponentTypeSchemaModule:2" xmlns:efac="http://data.europa.eu/p27/eforms-ubl-extension-aggregate-components/1" xmlns:efbc="http://data.europa.eu/p27/eforms-ubl-extension-basic-components/1" xmlns:efext="http://data.europa.eu/p27/eforms-ubl-extensions/1" xmlns:ext="urn:oasis:names:specification:ubl:schema:xsd:CommonExtensionComponents-2" xmlns:qdt="urn:oasis:names:specification:ubl:schema:xsd:QualifiedDataTypes-2" xmlns:udt="urn:oasis:names:specification:bdndr:schema:xsd:UnqualifiedDataTypes-1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<ext:UBLExtensions>
+		<ext:UBLExtension>
+			<ext:ExtensionContent>
+				<efext:EformsExtension>
+					<efac:NoticeSubType>
+						<cbc:SubTypeCode listName="notice-subtype">4</cbc:SubTypeCode>
+					</efac:NoticeSubType>
+					<efac:Organizations>
+						<efac:Organization>
+							<efac:Company>
+								<cbc:WebsiteURI>https://www.uk-essen.de</cbc:WebsiteURI>
+								<cac:PartyIdentification>
+									<cbc:ID>ORG-0001</cbc:ID>
+								</cac:PartyIdentification>
+								<cac:PartyName>
+									<cbc:Name languageID="DEU">Universitätsklinikum Essen (AöR)</cbc:Name>
+								</cac:PartyName>
+								<cac:PostalAddress>
+									<cbc:StreetName>Hufelandstraße 55</cbc:StreetName>
+									<cbc:CityName>Essen</cbc:CityName>
+									<cbc:PostalZone>45147</cbc:PostalZone>
+									<cbc:CountrySubentityCode listName="nuts-lvl3">DEA13</cbc:CountrySubentityCode>
+									<cac:Country>
+										<cbc:IdentificationCode listName="country">DEU</cbc:IdentificationCode>
+									</cac:Country>
+								</cac:PostalAddress>
+								<cac:PartyLegalEntity>
+									<cbc:CompanyID>DE 119 656 585</cbc:CompanyID>
+								</cac:PartyLegalEntity>
+								<cac:Contact>
+									<cbc:Telephone>+49 20172377131</cbc:Telephone>
+									<cbc:ElectronicMail>vergabe@uk-essen.de</cbc:ElectronicMail>
+								</cac:Contact>
+							</efac:Company>
+						</efac:Organization>
+						<efac:Organization>
+							<efac:Company>
+								<cbc:WebsiteURI>https://www.bezreg-koeln.nrw.de/themen/wirtschaft-und-kultur/vergabekammer-rheinland</cbc:WebsiteURI>
+								<cac:PartyIdentification>
+									<cbc:ID>ORG-0002</cbc:ID>
+								</cac:PartyIdentification>
+								<cac:PartyName>
+									<cbc:Name languageID="DEU">Vergabekammer Rheinland c/o Bezirksregierung Köln</cbc:Name>
+								</cac:PartyName>
+								<cac:PostalAddress>
+									<cbc:StreetName>Zeughausstraße 2-10</cbc:StreetName>
+									<cbc:CityName>Köln</cbc:CityName>
+									<cbc:PostalZone>50667</cbc:PostalZone>
+									<cbc:CountrySubentityCode listName="nuts-lvl3">DEA23</cbc:CountrySubentityCode>
+									<cac:Country>
+										<cbc:IdentificationCode listName="country">DEU</cbc:IdentificationCode>
+									</cac:Country>
+								</cac:PostalAddress>
+								<cac:PartyLegalEntity>
+									<cbc:CompanyID>DE 812110859</cbc:CompanyID>
+								</cac:PartyLegalEntity>
+								<cac:Contact>
+									<cbc:Telephone>+49 221147-3045</cbc:Telephone>
+									<cbc:ElectronicMail>presse@bezreg-koeln.nrw.de</cbc:ElectronicMail>
+								</cac:Contact>
+							</efac:Company>
+						</efac:Organization>
+					<efac:Organization><efac:Company><cac:PartyIdentification><cbc:ID schemeName="organization">ORG-0003</cbc:ID></cac:PartyIdentification><cac:PartyName><cbc:Name languageID="DEU">Datenservice Öffentlicher Einkauf (in Verantwortung des Beschaffungsamts des BMI)</cbc:Name></cac:PartyName><cac:PostalAddress><cbc:CityName>Bonn</cbc:CityName><cbc:PostalZone>53119</cbc:PostalZone><cbc:CountrySubentityCode listName="nuts">DEA22</cbc:CountrySubentityCode><cac:Country><cbc:IdentificationCode listName="country">DEU</cbc:IdentificationCode></cac:Country></cac:PostalAddress><cac:PartyLegalEntity><cbc:CompanyID schemeID="002">0204:994-DOEVD-83</cbc:CompanyID></cac:PartyLegalEntity><cac:Contact><cbc:Telephone>+49228996100</cbc:Telephone><cbc:ElectronicMail>noreply.esender_hub@bescha.bund.de</cbc:ElectronicMail></cac:Contact></efac:Company></efac:Organization></efac:Organizations>
+				<efac:Publication><efbc:NoticePublicationID schemeName="ojs-notice-id">00676854-2026</efbc:NoticePublicationID><efbc:GazetteID schemeName="ojs-id">190/2026</efbc:GazetteID><efbc:PublicationDate>2026-10-01+02:00</efbc:PublicationDate></efac:Publication></efext:EformsExtension>
+			</ext:ExtensionContent>
+		</ext:UBLExtension>
+	</ext:UBLExtensions>
+	<cbc:UBLVersionID>2.3</cbc:UBLVersionID>
+	<cbc:CustomizationID>eforms-sdk-1.13</cbc:CustomizationID>
+	<cbc:ProfileID>eforms-sdk-1.13</cbc:ProfileID>
+	<cbc:ID schemeName="notice-id">99d8e578-21cb-4f67-8a60-3b25b0d0a693</cbc:ID>
+	<cbc:IssueDate>2026-09-30+02:00</cbc:IssueDate>
+	<cbc:IssueTime>10:09:25+02:00</cbc:IssueTime>
+	<cbc:VersionID>01</cbc:VersionID>
+	<cbc:RequestedPublicationDate>2026-09-30+02:00</cbc:RequestedPublicationDate>
+	<cbc:PlannedDate>2026-11-30+01:00</cbc:PlannedDate>
+	<cbc:RegulatoryDomain>32014L0024</cbc:RegulatoryDomain>
+	<cbc:NoticeTypeCode listName="planning">pin-only</cbc:NoticeTypeCode>
+	<cbc:NoticeLanguageCode listID="eu-official-language">DEU</cbc:NoticeLanguageCode>
+	<cac:ContractingParty>
+		<cac:ContractingPartyType>
+			<cbc:PartyTypeCode listName="buyer-legal-type">body-pl-ra</cbc:PartyTypeCode>
+		</cac:ContractingPartyType>
+		<cac:ContractingActivity>
+			<cbc:ActivityTypeCode listName="authority-activity">health</cbc:ActivityTypeCode>
+		</cac:ContractingActivity>
+		<cac:Party>
+			<cac:PartyIdentification>
+				<cbc:ID>ORG-0001</cbc:ID>
+			</cac:PartyIdentification>
+		<cac:ServiceProviderParty><cbc:ServiceTypeCode listName="organisation-role">ted-esen</cbc:ServiceTypeCode><cac:Party><cac:PartyIdentification><cbc:ID schemeName="organization">ORG-0003</cbc:ID></cac:PartyIdentification></cac:Party></cac:ServiceProviderParty></cac:Party>
+	</cac:ContractingParty>
+	<cac:TenderingTerms>
+		<cac:ProcurementLegislationDocumentReference>
+			<cbc:ID>vgv</cbc:ID>
+		</cac:ProcurementLegislationDocumentReference>
+		<cac:CallForTendersDocumentReference>
+			<ext:UBLExtensions>
+				<ext:UBLExtension>
+					<ext:ExtensionContent>
+						<efext:EformsExtension>
+							<efac:OfficialLanguages>
+								<cac:Language>
+									<cbc:ID>DEU</cbc:ID>
+								</cac:Language>
+							</efac:OfficialLanguages>
+						</efext:EformsExtension>
+					</ext:ExtensionContent>
+				</ext:UBLExtension>
+			</ext:UBLExtensions>
+			<cbc:ID>SomeTenderDocID1</cbc:ID>
+			<cbc:DocumentType>non-restricted-document</cbc:DocumentType>
+		</cac:CallForTendersDocumentReference>
+		<cac:AppealTerms>
+			<cac:AppealReceiverParty>
+				<cac:PartyIdentification>
+					<cbc:ID schemeName="organization">ORG-0002</cbc:ID>
+				</cac:PartyIdentification>
+			</cac:AppealReceiverParty>
+		</cac:AppealTerms>
+	</cac:TenderingTerms>
+	<cac:ProcurementProject>
+		<cbc:ID schemeName="internalID">Dez.03-2026 - VI - 01</cbc:ID>
+		<cbc:Name languageID="DEU">Beschaffung von SAP Rise with SAP Private Cloud Edition - einschließlich Lizenzen, Betrieb und Infrastruktur</cbc:Name>
+		<cbc:Description languageID="DEU">Die Universitätsklinikum Essen AöR beabsichtigt die ERP - Modernisierung mit der Beschaffung von SAP Rise with SAP Private Cloud Edition - einschließlich Lizenzen, Betrieb und Infrastruktur. Die separat erhältlichen Unterlagen beschreiben vollständig:   - den Leistungsgegenstand   - die geforderten Aufgaben und Pflichten des potenziellen Kooperationspartners   - das weitere Vorgehen der Markterkundung.   Das Informationsmemorandum kann formlos per E-Mail bei der Vergabestelle angefordert werden. Für Rückfragen wenden Sie sich bitte an: vergabe@uk-essen.de. Interessierte Unternehmen werden gebeten, bis zum 21.10.2026 10 Uhr eine substanzielle Interessenbekundung nebst Erstkonzeption gemäß den Vorgaben des Anschreibens und des Informationsmemorandums einzureichen.</cbc:Description>
+		<cbc:ProcurementTypeCode listName="contract-nature">supplies</cbc:ProcurementTypeCode>
+		<cbc:Note languageID="DEU">#Bekanntmachungs-ID: CXPNYBKDWD7#
+
+
+Bei der vorliegenden Bekanntmachung handelt es sich ausdrücklich weder um eine Auftragsbekanntmachung noch um eine Aufforderung zur Abgabe von Angeboten oder Teilnahmeanträgen. Durch die Durchführung der Markterkundung wird kein Vergabeverfahren eingeleitet. Der Auftraggeber ist nicht verpflichtet, auf Grundlage der Markterkundung ein Vergabeverfahren durchzuführen, und ist an deren Ergebnisse nicht gebunden. Die Teilnahme begründet keinerlei Rechtsansprüche, insbesondere keinen Anspruch auf Durchführung eines Vergabeverfahrens oder auf Berücksichtigung in einem etwaigen späteren Vergabeverfahren. Die Teilnahme an der Markterkundung ist freiwillig und unentgeltlich. Den teilnehmenden Unternehmen werden keine Kosten erstattet, die ihnen im Zusammenhang mit der Teilnahme, der Ausarbeitung von Stellungnahmen, Konzepten oder der Übermittlung von Unterlagen entstehen. Die Teilnahme an der Markterkundung ist keine Voraussetzung für eine spätere Beteiligung an einem Vergabeverfahren und hat keinen Einfluss auf die Zuschlagschancen eines Unternehmens. Der Auftraggeber bittet interessierte Marktteilnehmer um substanzielle, nachvollziehbare und belegte Rückmeldungen, insbesondere zur technischen Möglichkeit der vollständigen Integration, zu den einschlägigen Zertifizierungen sowie zu etwaigen technischen Hindernissen bei der Umsetzung. Sollte ein Unternehmen einzelne Anforderungen nicht erfüllen können, wird es ausdrücklich gebeten, dies offenzulegen und die technischen oder rechtlichen Hindernisse zu benennen. Sollte keine Rückmeldung eingehen, wird der Auftraggeber davon ausgehen, dass das Unternehmen die beschriebenen Anforderungen nicht erfüllt. Interessierte Unternehmen werden gebeten, ihr Interesse unverzüglich per E-Mail zu bekunden. Die separat erhältlichen Unterlagen geben einen genauen Überblick über den Leistungsgegenstand, die technischen Anforderungen und das weitere Vorgehen der Markterkundung.   Das Memorandum kann formlos per E-Mail bei der Vergabestelle vergabe@uk-essen.de angefordert werden. Im Anschluss an die Auswertung der eingereichten Unterlagen können ausgewählte Interessenten eingeladen werden, ihre Konzepte im Rahmen eines strukturierten Dialogs näher zu erläutern. Diese Vertiefung kann in Form eines Vor-Ort-Termins oder ersatzweise per Video- oder Telefonkonferenz erfolgen. Sämtliche im Rahmen der Markterkundung übermittelten Unterlagen gehen in das Eigentum des Auftraggebers über. Mit der Teilnahme erklären sich die Interessenten damit einverstanden, dass ihre eingereichten Konzepte, Bewertungen, Vorschläge und sonstigen Erkenntnisse zur Vorbereitung einer möglichen Beschaffung sowie zur Erarbeitung von Umsetzungsvorschlägen genutzt und soweit erforderlich an den Auftraggeber weitergegeben werden dürfen, sofern dem nicht ausdrücklich widersprochen wird. Der Auftraggeber gewährleistet den Schutz von Geschäfts- und Betriebsgeheimnissen. Eine Weitergabe von im Rahmen der Markterkundung erlangten Informationen an Dritte erfolgt nicht, mit Ausnahme des Auftraggebers selbst sowie ggf. von durch ihn beauftragten Beratungsunternehmen (RSM Ebner Stolz Partnerschaft mbB) und, soweit zur Beurteilung der technischen Machbarkeit erforderlich, in Abstimmung mit dem Interessenten und nach dessen Freigabe der SAP Deutschland SE &amp; Co. KG. Sofern der Auftraggeber auf Grundlage der Ergebnisse der Markterkundung ein Vergabeverfahren einleiten sollte, wird er geeignete Maßnahmen ergreifen, um eine Verfälschung des Wettbewerbs auszuschließen. Hierzu zählen insbesondere die Gleichbehandlung aller interessierten Unternehmen, die Bereitstellung relevanter Informationen für alle Bewerber und Bieter sowie die Festlegung angemessener Fristen.   Voraussichtliche Zeitplanung:   - Veröffentlichung der Markterkundung: 30.09.2026 - Anforderung des Informationsmemorandums: unverzüglich nach Veröffentlichung  - Interessenbekundung und Einreichung der Erstkonzeption: 21.10.2026, 10:00 Uhr  - Präsentationen und Interviews sowie Abschluss der Markterkundung: 10/2026   Bitte beachten Sie folgenden zusätzlichen Hinweis. Die Angabe eines Veröffentlichungsdatums ist systembedingt verpflichtend auszufüllen. Dies entfaltet keine Bindung für den Auftraggeber.</cbc:Note>
+		<cac:RequestedTenderTotal>
+			<cbc:EstimatedOverallContractAmount currencyID="EUR">0.00</cbc:EstimatedOverallContractAmount>
+		</cac:RequestedTenderTotal>
+		<cac:MainCommodityClassification>
+			<cbc:ItemClassificationCode listName="cpv">48100000</cbc:ItemClassificationCode>
+		</cac:MainCommodityClassification>
+		<cac:RealizedLocation>
+			<cac:Address>
+				<cbc:StreetName>Hufelandstr. 55</cbc:StreetName>
+				<cbc:CityName>Essen</cbc:CityName>
+				<cbc:PostalZone>45147</cbc:PostalZone>
+				<cbc:CountrySubentityCode listName="nuts">DEA13</cbc:CountrySubentityCode>
+				<cac:Country>
+					<cbc:IdentificationCode listName="country">DEU</cbc:IdentificationCode>
+				</cac:Country>
+			</cac:Address>
+		</cac:RealizedLocation>
+	</cac:ProcurementProject>
+	<cac:ProcurementProjectLot>
+		<cbc:ID schemeName="Part">PAR-0001</cbc:ID>
+		<cac:TenderingTerms>
+			<cac:CallForTendersDocumentReference>
+				<ext:UBLExtensions>
+					<ext:UBLExtension>
+						<ext:ExtensionContent>
+							<efext:EformsExtension>
+								<efac:OfficialLanguages>
+									<cac:Language>
+										<cbc:ID>DEU</cbc:ID>
+									</cac:Language>
+								</efac:OfficialLanguages>
+							</efext:EformsExtension>
+						</ext:ExtensionContent>
+					</ext:UBLExtension>
+				</ext:UBLExtensions>
+				<cbc:ID>SomeTenderDocID1</cbc:ID>
+				<cbc:DocumentType>non-restricted-document</cbc:DocumentType>
+				<cac:Attachment>
+					<cac:ExternalReference>
+						<cbc:URI>https://www.evergabe.nrw.de/VMPSatellite/notice/CXPNYBKDWD7/documents</cbc:URI>
+					</cac:ExternalReference>
+				</cac:Attachment>
+			</cac:CallForTendersDocumentReference>
+			<cac:AdditionalInformationParty>
+				<cac:PartyIdentification>
+					<cbc:ID>ORG-0001</cbc:ID>
+				</cac:PartyIdentification>
+			</cac:AdditionalInformationParty>
+			<cac:AppealTerms>
+				<cac:AppealReceiverParty>
+					<cac:PartyIdentification>
+						<cbc:ID schemeName="organization">ORG-0002</cbc:ID>
+					</cac:PartyIdentification>
+				</cac:AppealReceiverParty>
+			</cac:AppealTerms>
+		</cac:TenderingTerms>
+		<cac:TenderingProcess>
+			<cbc:GovernmentAgreementConstraintIndicator>true</cbc:GovernmentAgreementConstraintIndicator>
+			<cac:ContractingSystem>
+				<cbc:ContractingSystemTypeCode listName="framework-agreement">none</cbc:ContractingSystemTypeCode>
+			</cac:ContractingSystem>
+		</cac:TenderingProcess>
+		<cac:ProcurementProject>
+			<cbc:ID schemeName="internalID">Dez.03-2026 - VI - 01</cbc:ID>
+			<cbc:Name languageID="DEU">Beschaffung von SAP Rise with SAP Private Cloud Edition - einschließlich Lizenzen, Betrieb und Infrastruktur</cbc:Name>
+			<cbc:Description languageID="DEU">Vor dem Hintergrund des auslaufenden Mainstream-Supports für SAP ECC (Ende: 31. Dezember 2027; Extended Maintenance bis 31. Dezember 2030, ausschließlich gegen gesonderte Vergütung) sowie der strategischen Zielsetzung, die digitale Infrastruktur des UK Essen nachhaltig weiterzuentwickeln, beabsichtigt das UKE die Transformation seiner bestehenden ERP-Landschaft auf eine moderne, cloudbasierte Zielarchitektur auf Basis von SAP S/4HANA. Mit der Beschaffung verfolgt das UK Essen das Ziel, eine leistungsfähige, sichere, skalierbare und langfristig tragfähige ERP-Plattform zu etablieren. Die zukünftige Plattform soll die bestehenden Geschäftsprozesse des UK Essen zuverlässig unterstützen, die Voraussetzungen für die Digitalisierung weiterer Prozesse schaffen und gleichzeitig die technische Grundlage für zukünftige Innovationen in den Bereichen Datenmanagement, Analytik, Automatisierung und Künstliche Intelligenz bereitstellen. Die Zielarchitektur soll die Standardisierung und Harmonisierung von Geschäftsprozessen fördern, die Komplexität der bestehenden Systemlandschaft reduzieren, die langfristige Herstellerunterstützung sicherstellen sowie die wirtschaftliche Nutzbarkeit bestehender Investitionen gewährleisten. Gegenstand der Markterkundung ist ausschließlich die Bereitstellung einer integrierten SAP-Unternehmensplattform auf Basis von RISE with SAP Private Cloud Edition sowie - für das Personalwesen - SAP SuccessFactors (Public Cloud) einschließlich der hierfür erforderlichen Softwarelizenzen, Infrastruktur-, Betriebs-, Wartungs- und Supportleistungen. Die eigentliche ERP-Transformation (Systemdesign, Prozesskonzeption, Implementierung, Customizing und Datenmigration) ist nicht Gegenstand dieser Beschaffung. Entsprechende Implementierungsleistungen werden in einem gesonderten Vergabeverfahren vergeben. Soweit nachfolgend Transformationsunterstützung erwähnt wird, bezieht sich dies ausschließlich auf herstellerseitige Onboarding- und Migrationsvorbereitung im Rahmen des RISE Conversion Agreements (insbesondere Lizenzkonvertierung und License Value Credit-Anrechnung). Ein wesentlicher Bestandteil des Beschaffungsgegenstandes ist die Überführung der bestehenden SAP-Lizenzlandschaft des UKE in das zukünftige Betriebs- und Nutzungsmodell. Das UKE verfügt über eine historisch gewachsene SAP-Systemlandschaft mit bestehenden Lizenz-, Wartungs- und Nutzungsrechten, die im Rahmen der Transformation wirtschaftlich, technisch und lizenzrechtlich in die zukünftige Zielarchitektur überführt werden sollen. Die Berücksichtigung bestehender Investitionen sowie die Nutzung der hierfür vorgesehenen Transformations- und Konvertierungsmechanismen stellen einen zentralen Bestandteil des Vorhabens dar. Somit sind die bestehenden Lizenzen vom Auftragnehmer im Rahmen der Umstellung auf das neue SAP-Private-Cloud-Lizenzmodell zu berücksichtigen. Eine Doppelbelastung durch parallellaufende On-Premise-Wartungsgebühren und neue Cloud-Betriebskosten während der Migrationsphase soll effektiv vermieden werden. Die im Rahmen der Markterkundung angefragte Leistung umfasst insbesondere: - Cloud Service Bereitstellung (SAP Cloud ERP Private und SAP SuccessFactors) sowie die zugehörigen SAP-Werkzeuge (z. B. SAP Signavio, SAP LeanIX, SAP Cloud ALM, SAP Test Automation by Tricentis, SAP Build und SAP Integration Suite) - Nutzungslizenzen - Betrieb und Wartung - Cloud Application Services Die Ihnen zur Verfügung gestellten Unterlagen geben Ihnen einen genauen Überblick über: - den Leistungsgegenstand - die geforderten Aufgaben und Pflichten des potenziellen Kooperationspartners sowie das weitere Vorgehen der Markterkundung.</cbc:Description>
+			<cbc:ProcurementTypeCode listName="contract-nature">supplies</cbc:ProcurementTypeCode>
+			<cbc:SMESuitableIndicator>false</cbc:SMESuitableIndicator>
+			<cac:ProcurementAdditionalType>
+				<cbc:ProcurementTypeCode listName="strategic-procurement">none</cbc:ProcurementTypeCode>
+			</cac:ProcurementAdditionalType>
+			<cac:MainCommodityClassification>
+				<cbc:ItemClassificationCode listName="cpv">48100000</cbc:ItemClassificationCode>
+			</cac:MainCommodityClassification>
+			<cac:RealizedLocation>
+				<cac:Address>
+					<cbc:StreetName>Hufelandstr. 55</cbc:StreetName>
+					<cbc:CityName>Essen</cbc:CityName>
+					<cbc:PostalZone>45147</cbc:PostalZone>
+					<cbc:CountrySubentityCode listName="nuts">DEA13</cbc:CountrySubentityCode>
+					<cac:Country>
+						<cbc:IdentificationCode listName="country">DEU</cbc:IdentificationCode>
+					</cac:Country>
+				</cac:Address>
+			</cac:RealizedLocation>
+		</cac:ProcurementProject>
+	</cac:ProcurementProjectLot>
+</PriorInformationNotice>

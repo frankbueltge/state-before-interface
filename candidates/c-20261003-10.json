@@ -1,0 +1,54 @@
+{
+  "created": "2026-10-03T10:27:12+00:00",
+  "criteria": {
+    "consequential_relation": {
+      "passed": false,
+      "reason": "no marker of a sensitive administrative domain (employment, welfare, policing, migration, health, education, justice, taxation)"
+    },
+    "digital_form_possible": {
+      "passed": true,
+      "reason": "form hypothesis: an annotated dossier along the structure of the notice"
+    },
+    "falsifiable_investigation": {
+      "passed": false,
+      "reason": "no machine-testable proposition can be formed yet"
+    },
+    "machine_readable_evidence": {
+      "passed": true,
+      "reason": "1 preserved eForms XML record(s) with SHA-256 on file"
+    },
+    "machine_scale_advantage": {
+      "passed": false,
+      "reason": "a single first-seen notice is equally visible to any human reader of the journal"
+    },
+    "observable_public_problem": {
+      "passed": true,
+      "reason": "identifiable public buyer(s): European Foundation for the Improvement of Living and Working Conditions"
+    }
+  },
+  "form_hypothesis": "an annotated dossier along the structure of the notice",
+  "id": "c-20261003-10",
+  "notices_context": [
+    {
+      "buyers": [
+        "European Foundation for the Improvement of Living and Working Conditions"
+      ],
+      "countries": [
+        "IRL"
+      ],
+      "publication_number": "680891-2026",
+      "title": "Ireland – Survey services – Preparation and implementation of the pilot survey on company use and productivity impact of AI - 250001/7820"
+    }
+  ],
+  "proposition": null,
+  "signal": {
+    "date": "2026-10-03",
+    "detail": "notice 680891-2026 entered the envelope (phrases: artificial intelligence)",
+    "key": "NEW_MATCH:680891-2026",
+    "notices": [
+      "680891-2026"
+    ],
+    "type": "NEW_MATCH"
+  },
+  "verdict": "DECLINED"
+}

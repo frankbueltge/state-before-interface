@@ -58,7 +58,18 @@
     "NEW_MATCH:659569-2026",
     "NEW_MATCH:660583-2026",
     "NEW_MATCH:661336-2026",
-    "NEW_MATCH:664290-2026"
+    "NEW_MATCH:664290-2026",
+    "NEW_MATCH:671041-2026",
+    "NEW_MATCH:672213-2026",
+    "NEW_MATCH:673212-2026",
+    "NEW_MATCH:673584-2026",
+    "NEW_MATCH:674672-2026",
+    "NEW_MATCH:676246-2026",
+    "NEW_MATCH:676854-2026",
+    "NEW_MATCH:676917-2026",
+    "NEW_MATCH:677429-2026",
+    "NEW_MATCH:680891-2026",
+    "NEW_MATCH:681054-2026"
   ],
   "notices": {
     "537409-2026": {
@@ -2780,7 +2791,7 @@
       ],
       "first_seen": "2026-09-19",
       "gone": false,
-      "last_checked": "2026-10-02",
+      "last_checked": "2026-10-03",
       "notice_type": "can-standard",
       "phrases": [
         "artificial intelligence"
@@ -2840,7 +2851,7 @@
       ],
       "first_seen": "2026-09-19",
       "gone": false,
-      "last_checked": "2026-10-02",
+      "last_checked": "2026-10-03",
       "notice_type": "veat",
       "phrases": [
         "Künstliche Intelligenz",
@@ -2898,7 +2909,7 @@
       ],
       "first_seen": "2026-09-19",
       "gone": false,
-      "last_checked": "2026-10-02",
+      "last_checked": "2026-10-03",
       "notice_type": "cn-standard",
       "phrases": [
         "Künstliche Intelligenz",
@@ -2961,7 +2972,7 @@
       ],
       "first_seen": "2026-09-21",
       "gone": false,
-      "last_checked": "2026-10-02",
+      "last_checked": "2026-10-03",
       "notice_type": "pin-only",
       "phrases": [
         "artificial intelligence"
@@ -3017,7 +3028,7 @@
       ],
       "first_seen": "2026-09-21",
       "gone": false,
-      "last_checked": "2026-10-02",
+      "last_checked": "2026-10-03",
       "notice_type": "veat",
       "phrases": [
         "Künstliche Intelligenz",
@@ -3074,7 +3085,7 @@
       ],
       "first_seen": "2026-09-25",
       "gone": false,
-      "last_checked": "2026-10-02",
+      "last_checked": "2026-10-03",
       "notice_type": "cn-standard",
       "phrases": [
         "Künstliche Intelligenz"
@@ -3130,7 +3141,7 @@
       ],
       "first_seen": "2026-09-25",
       "gone": false,
-      "last_checked": "2026-10-02",
+      "last_checked": "2026-10-03",
       "notice_type": "cn-standard",
       "phrases": [
         "Künstliche Intelligenz"
@@ -3186,7 +3197,7 @@
       ],
       "first_seen": "2026-09-25",
       "gone": false,
-      "last_checked": "2026-10-02",
+      "last_checked": "2026-10-03",
       "notice_type": "pin-cfc-standard",
       "phrases": [
         "artificial intelligence"
@@ -3245,7 +3256,7 @@
       ],
       "first_seen": "2026-09-25",
       "gone": false,
-      "last_checked": "2026-10-02",
+      "last_checked": "2026-10-03",
       "notice_type": "cn-standard",
       "phrases": [
         "intelligence artificielle"
@@ -3305,7 +3316,7 @@
       ],
       "first_seen": "2026-09-25",
       "gone": false,
-      "last_checked": "2026-10-02",
+      "last_checked": "2026-10-03",
       "notice_type": "can-standard",
       "phrases": [
         "artificial intelligence"
@@ -3368,7 +3379,7 @@
       ],
       "first_seen": "2026-09-25",
       "gone": false,
-      "last_checked": "2026-10-02",
+      "last_checked": "2026-10-03",
       "notice_type": "cn-standard",
       "phrases": [
         "artificial intelligence"
@@ -3424,7 +3435,7 @@
       ],
       "first_seen": "2026-09-25",
       "gone": false,
-      "last_checked": "2026-10-02",
+      "last_checked": "2026-10-03",
       "notice_type": "can-standard",
       "phrases": [
         "artificial intelligence"
@@ -3487,7 +3498,7 @@
       ],
       "first_seen": "2026-09-25",
       "gone": false,
-      "last_checked": "2026-10-02",
+      "last_checked": "2026-10-03",
       "notice_type": "cn-standard",
       "phrases": [
         "Künstliche Intelligenz"
@@ -3545,7 +3556,7 @@
       ],
       "first_seen": "2026-09-28",
       "gone": false,
-      "last_checked": "2026-10-02",
+      "last_checked": "2026-10-03",
       "notice_type": "cn-standard",
       "phrases": [
         "artificial intelligence"
@@ -3588,6 +3599,695 @@
       ],
       "winner_names": [],
       "xml_url": "https://ted.europa.eu/en/notice/664290-2026/xml"
+    },
+    "671041-2026": {
+      "buyer_countries": [
+        "NOR"
+      ],
+      "buyer_names": [
+        "Trøndelag fylkeskommune"
+      ],
+      "cpv": [
+        "09300000",
+        "38000000",
+        "38300000",
+        "38400000",
+        "38410000",
+        "38420000",
+        "38500000",
+        "38550000",
+        "38551000",
+        "48000000",
+        "48100000",
+        "48610000",
+        "48614000",
+        "51000000",
+        "51200000",
+        "71000000",
+        "71300000",
+        "71314000",
+        "71314300",
+        "72000000",
+        "72300000",
+        "72310000",
+        "72314000"
+      ],
+      "first_seen": "2026-10-03",
+      "gone": false,
+      "last_checked": "2026-10-03",
+      "notice_type": "can-standard",
+      "phrases": [
+        "artificial intelligence"
+      ],
+      "publication_date": "2026-09-30",
+      "title": "Norway – Software package and information systems – Energy follow-up system (EOS) - contract award notice",
+      "titles": [
+        "An Iorua – Software package and information systems – Energy follow-up system (EOS) - contract award notice",
+        "In-Norveġja – Pakketti tas-softwer u sistemi ta' informazzjoni – Energy follow-up system (EOS) - contract award notice",
+        "Noorwegen – Software en informatiesystemen – Energy follow-up system (EOS) - contract award notice",
+        "Norge – Programpakker og informationssystemer – Energy follow-up system (EOS) - contract award notice",
+        "Norge – Programvara och informationssystem – Energy follow-up system (EOS) - contract award notice",
+        "Norja – Ohjelmatuotteet ja tietojärjestelmät – Energy follow-up system (EOS) - contract award notice",
+        "Norra – Tarkvarapaketid ja infosüsteemid – Energy follow-up system (EOS) - contract award notice",
+        "Norsko – Balíky programů a informační systémy – Energy follow-up system (EOS) - contract award notice",
+        "Noruega – Pacotes de software e sistemas de informação – Energy follow-up system (EOS) - contract award notice",
+        "Noruega – Paquetes de software y sistemas de información – Energy follow-up system (EOS) - contract award notice",
+        "Norvegia – Pacchetti software e sistemi di informazione – Energy follow-up system (EOS) - contract award notice",
+        "Norvegia – Pachete software şi sisteme informatice – Energy follow-up system (EOS) - contract award notice",
+        "Norvegija – Programinės įrangos paketai ir informacinės sistemos – Energy follow-up system (EOS) - contract award notice",
+        "Norveška – Programski paketi i informacijski sustavi – Energy follow-up system (EOS) - contract award notice",
+        "Norveška – Programski paketi in informacijski sistemi – Energy follow-up system (EOS) - contract award notice",
+        "Norvège – Logiciels et systèmes d'information – Energy follow-up system (EOS) - contract award notice",
+        "Norvégia – Szoftvercsomag és információs rendszerek – Energy follow-up system (EOS) - contract award notice",
+        "Norvēģija – Programmatūras pakotne un informācijas sistēmas – Energy follow-up system (EOS) - contract award notice",
+        "Norway – Software package and information systems – Energy follow-up system (EOS) - contract award notice",
+        "Norwegen – Softwarepaket und Informationssysteme – Energy follow-up system (EOS) - contract award notice",
+        "Norwegia – Pakiety oprogramowania i systemy informatyczne – Energy follow-up system (EOS) - contract award notice",
+        "Nórsko – Softvérové balíky a informačné systémy – Energy follow-up system (EOS) - contract award notice",
+        "Νορβηγία – Πακέτα λογισμικού και συστήματα πληροφορικής – Energy follow-up system (EOS) - contract award notice",
+        "Норвегия – Софтуерни пакети и информационни системи – Energy follow-up system (EOS) - contract award notice"
+      ],
+      "vendor_keys": [
+        "entro"
+      ],
+      "versions": [
+        {
+          "date": "2026-10-03",
+          "file": "snapshots/2026-10-03/notices/671041-2026.xml",
+          "sha256": "ccbef1a7b40f19b287cb89c714eb6b681768b21d4eccbcc1821c5a4306fb8c9a"
+        }
+      ],
+      "winner_names": [
+        "ENTRO AS"
+      ],
+      "xml_url": "https://ted.europa.eu/en/notice/671041-2026/xml"
+    },
+    "672213-2026": {
+      "buyer_countries": [
+        "MLT"
+      ],
+      "buyer_names": [
+        "Central Procurement and Supplies Unit (MFH)"
+      ],
+      "cpv": [
+        "33115100"
+      ],
+      "first_seen": "2026-10-03",
+      "gone": false,
+      "last_checked": "2026-10-03",
+      "notice_type": "veat",
+      "phrases": [
+        "artificial intelligence"
+      ],
+      "publication_date": "2026-09-30",
+      "title": "Malta – CT scanners – Negotiated Procedure to upgrade the GE Healthcare Model Revolution CT Scanner installed at the Medical Imaging Department at MDH",
+      "titles": [
+        "Malta – CT Escáneres para tomografía computerizada – Negotiated Procedure to upgrade the GE Healthcare Model Revolution CT Scanner installed at the Medical Imaging Department at MDH",
+        "Malta – CT scanners – Negotiated Procedure to upgrade the GE Healthcare Model Revolution CT Scanner installed at the Medical Imaging Department at MDH",
+        "Malta – CT skener – Negotiated Procedure to upgrade the GE Healthcare Model Revolution CT Scanner installed at the Medical Imaging Department at MDH",
+        "Malta – CT skeneri – Negotiated Procedure to upgrade the GE Healthcare Model Revolution CT Scanner installed at the Medical Imaging Department at MDH",
+        "Malta – CT-Scanner – Negotiated Procedure to upgrade the GE Healthcare Model Revolution CT Scanner installed at the Medical Imaging Department at MDH",
+        "Malta – CT-scannere – Negotiated Procedure to upgrade the GE Healthcare Model Revolution CT Scanner installed at the Medical Imaging Department at MDH",
+        "Malta – CT-skannerid – Negotiated Procedure to upgrade the GE Healthcare Model Revolution CT Scanner installed at the Medical Imaging Department at MDH",
+        "Malta – Computertomografiescanners – Negotiated Procedure to upgrade the GE Healthcare Model Revolution CT Scanner installed at the Medical Imaging Department at MDH",
+        "Malta – Datortomografer (\"CT scanner\") – Negotiated Procedure to upgrade the GE Healthcare Model Revolution CT Scanner installed at the Medical Imaging Department at MDH",
+        "Malta – Datortomogrāfi – Negotiated Procedure to upgrade the GE Healthcare Model Revolution CT Scanner installed at the Medical Imaging Department at MDH",
+        "Malta – Kompiuterinės tomografijos (CT) skeneriai – Negotiated Procedure to upgrade the GE Healthcare Model Revolution CT Scanner installed at the Medical Imaging Department at MDH",
+        "Malta – Scanner CT – Negotiated Procedure to upgrade the GE Healthcare Model Revolution CT Scanner installed at the Medical Imaging Department at MDH",
+        "Malta – Scanners de tomografia computorizada – Negotiated Procedure to upgrade the GE Healthcare Model Revolution CT Scanner installed at the Medical Imaging Department at MDH",
+        "Malta – Scanners tip CT – Negotiated Procedure to upgrade the GE Healthcare Model Revolution CT Scanner installed at the Medical Imaging Department at MDH",
+        "Malta – Skanery do tomografii komputerowej – Negotiated Procedure to upgrade the GE Healthcare Model Revolution CT Scanner installed at the Medical Imaging Department at MDH",
+        "Malta – Skener počítačového tomografu (CT) – Negotiated Procedure to upgrade the GE Healthcare Model Revolution CT Scanner installed at the Medical Imaging Department at MDH",
+        "Malta – Tietokonetomografialaitteet – Negotiated Procedure to upgrade the GE Healthcare Model Revolution CT Scanner installed at the Medical Imaging Department at MDH",
+        "Malta – Tomodensitometre – Negotiated Procedure to upgrade the GE Healthcare Model Revolution CT Scanner installed at the Medical Imaging Department at MDH",
+        "Malte – Tomodensitomètres – Negotiated Procedure to upgrade the GE Healthcare Model Revolution CT Scanner installed at the Medical Imaging Department at MDH",
+        "Málta – CT letapogató készülékek – Negotiated Procedure to upgrade the GE Healthcare Model Revolution CT Scanner installed at the Medical Imaging Department at MDH",
+        "Málta – CT scanners – Negotiated Procedure to upgrade the GE Healthcare Model Revolution CT Scanner installed at the Medical Imaging Department at MDH",
+        "Μάλτα – Υπολογιστικοί τομογράφοι – Negotiated Procedure to upgrade the GE Healthcare Model Revolution CT Scanner installed at the Medical Imaging Department at MDH",
+        "Малта – CT скенери – Negotiated Procedure to upgrade the GE Healthcare Model Revolution CT Scanner installed at the Medical Imaging Department at MDH"
+      ],
+      "vendor_keys": [],
+      "versions": [
+        {
+          "date": "2026-10-03",
+          "file": "snapshots/2026-10-03/notices/672213-2026.xml",
+          "sha256": "ab6be12ef05f5b50a65c5a5b29364d7c75752ae76cc61072a12bbf39f6aff156"
+        }
+      ],
+      "winner_names": [],
+      "xml_url": "https://ted.europa.eu/en/notice/672213-2026/xml"
+    },
+    "673212-2026": {
+      "buyer_countries": [
+        "DEU"
+      ],
+      "buyer_names": [
+        "Neue Wege Kreis Bergstraße - Kommunales Jobcenter -"
+      ],
+      "cpv": [
+        "72268000",
+        "80522000"
+      ],
+      "first_seen": "2026-10-03",
+      "gone": false,
+      "last_checked": "2026-10-03",
+      "notice_type": "cn-standard",
+      "phrases": [
+        "Künstliche Intelligenz"
+      ],
+      "publication_date": "2026-09-30",
+      "title": "Germany – Training seminars – Bereitstellung einer KI-Kompetenzplattform sowie Durchführung von KI-Grundlagen- und KI-Aufbauqualifizierung",
+      "titles": [
+        "Alemanha – Seminários de formação – Bereitstellung einer KI-Kompetenzplattform sowie Durchführung von KI-Grundlagen- und KI-Aufbauqualifizierung",
+        "Alemania – Seminarios de formación – Bereitstellung einer KI-Kompetenzplattform sowie Durchführung von KI-Grundlagen- und KI-Aufbauqualifizierung",
+        "Allemagne – Séminaires de formation – Bereitstellung einer KI-Kompetenzplattform sowie Durchführung von KI-Grundlagen- und KI-Aufbauqualifizierung",
+        "An Ghearmáin – Training seminars – Bereitstellung einer KI-Kompetenzplattform sowie Durchführung von KI-Grundlagen- und KI-Aufbauqualifizierung",
+        "Deutschland – Schulungsseminare – Bereitstellung einer KI-Kompetenzplattform sowie Durchführung von KI-Grundlagen- und KI-Aufbauqualifizierung",
+        "Duitsland – Opleidingsseminars – Bereitstellung einer KI-Kompetenzplattform sowie Durchführung von KI-Grundlagen- und KI-Aufbauqualifizierung",
+        "Germania – Seminari di formazione – Bereitstellung einer KI-Kompetenzplattform sowie Durchführung von KI-Grundlagen- und KI-Aufbauqualifizierung",
+        "Germania – Seminarii de formare – Bereitstellung einer KI-Kompetenzplattform sowie Durchführung von KI-Grundlagen- und KI-Aufbauqualifizierung",
+        "Germany – Training seminars – Bereitstellung einer KI-Kompetenzplattform sowie Durchführung von KI-Grundlagen- und KI-Aufbauqualifizierung",
+        "Il-Ġermanja – Seminars tat-taħriġ – Bereitstellung einer KI-Kompetenzplattform sowie Durchführung von KI-Grundlagen- und KI-Aufbauqualifizierung",
+        "Nemecko – Školiace semináre – Bereitstellung einer KI-Kompetenzplattform sowie Durchführung von KI-Grundlagen- und KI-Aufbauqualifizierung",
+        "Nemčija – Izobraževalni seminarji – Bereitstellung einer KI-Kompetenzplattform sowie Durchführung von KI-Grundlagen- und KI-Aufbauqualifizierung",
+        "Niemcy – Seminaria szkoleniowe – Bereitstellung einer KI-Kompetenzplattform sowie Durchführung von KI-Grundlagen- und KI-Aufbauqualifizierung",
+        "Njemačka – Obrazovni seminari – Bereitstellung einer KI-Kompetenzplattform sowie Durchführung von KI-Grundlagen- und KI-Aufbauqualifizierung",
+        "Németország – Képzési szeminárium – Bereitstellung einer KI-Kompetenzplattform sowie Durchführung von KI-Grundlagen- und KI-Aufbauqualifizierung",
+        "Německo – Vzdělávací semináře – Bereitstellung einer KI-Kompetenzplattform sowie Durchführung von KI-Grundlagen- und KI-Aufbauqualifizierung",
+        "Saksa – Koulutusseminaarit – Bereitstellung einer KI-Kompetenzplattform sowie Durchführung von KI-Grundlagen- und KI-Aufbauqualifizierung",
+        "Saksamaa – Koolitusseminarid – Bereitstellung einer KI-Kompetenzplattform sowie Durchführung von KI-Grundlagen- und KI-Aufbauqualifizierung",
+        "Tyskland – Uddannelsesseminarer – Bereitstellung einer KI-Kompetenzplattform sowie Durchführung von KI-Grundlagen- und KI-Aufbauqualifizierung",
+        "Tyskland – Utbildningsseminarier – Bereitstellung einer KI-Kompetenzplattform sowie Durchführung von KI-Grundlagen- und KI-Aufbauqualifizierung",
+        "Vokietija – Mokomieji seminarai – Bereitstellung einer KI-Kompetenzplattform sowie Durchführung von KI-Grundlagen- und KI-Aufbauqualifizierung",
+        "Vācija – Mācību semināri – Bereitstellung einer KI-Kompetenzplattform sowie Durchführung von KI-Grundlagen- und KI-Aufbauqualifizierung",
+        "Γερμανία – Σεμινάρια κατάρτισης – Bereitstellung einer KI-Kompetenzplattform sowie Durchführung von KI-Grundlagen- und KI-Aufbauqualifizierung",
+        "Гepмaния – Семинари за обучение – Bereitstellung einer KI-Kompetenzplattform sowie Durchführung von KI-Grundlagen- und KI-Aufbauqualifizierung"
+      ],
+      "vendor_keys": [],
+      "versions": [
+        {
+          "date": "2026-10-03",
+          "file": "snapshots/2026-10-03/notices/673212-2026.xml",
+          "sha256": "a7b417835be0ed0cba61842b6429a4ed0dafa453b1fc0a0f38ad5daf11f52007"
+        }
+      ],
+      "winner_names": [],
+      "xml_url": "https://ted.europa.eu/en/notice/673212-2026/xml"
+    },
+    "673584-2026": {
+      "buyer_countries": [
+        "DEU"
+      ],
+      "buyer_names": [
+        "Bäderland Hamburg GmbH"
+      ],
+      "cpv": [
+        "32323500",
+        "32420000",
+        "35125300",
+        "48000000",
+        "48328000",
+        "48820000",
+        "51314000"
+      ],
+      "first_seen": "2026-10-03",
+      "gone": false,
+      "last_checked": "2026-10-03",
+      "notice_type": "veat",
+      "phrases": [
+        "Künstliche Intelligenz"
+      ],
+      "publication_date": "2026-09-30",
+      "title": "Germany – Video-surveillance system – Bäderland Hamburg GmbH: Projekt KI - gestütztes Ertrinkenden-Erkennungssystem",
+      "titles": [
+        "Alemanha – Sistema de vigilância por vídeo – Bäderland Hamburg GmbH: Projekt KI - gestütztes Ertrinkenden-Erkennungssystem",
+        "Alemania – Sistema de vigilancia por vídeo – Bäderland Hamburg GmbH: Projekt KI - gestütztes Ertrinkenden-Erkennungssystem",
+        "Allemagne – Système de surveillance vidéo – Bäderland Hamburg GmbH: Projekt KI - gestütztes Ertrinkenden-Erkennungssystem",
+        "An Ghearmáin – Video-surveillance system – Bäderland Hamburg GmbH: Projekt KI - gestütztes Ertrinkenden-Erkennungssystem",
+        "Deutschland – Video-Überwachungssystem – Bäderland Hamburg GmbH: Projekt KI - gestütztes Ertrinkenden-Erkennungssystem",
+        "Duitsland – Videobewakingsuitrusting – Bäderland Hamburg GmbH: Projekt KI - gestütztes Ertrinkenden-Erkennungssystem",
+        "Germania – Sistem video de supraveghere – Bäderland Hamburg GmbH: Projekt KI - gestütztes Ertrinkenden-Erkennungssystem",
+        "Germania – Sistema di videosorveglianza – Bäderland Hamburg GmbH: Projekt KI - gestütztes Ertrinkenden-Erkennungssystem",
+        "Germany – Video-surveillance system – Bäderland Hamburg GmbH: Projekt KI - gestütztes Ertrinkenden-Erkennungssystem",
+        "Il-Ġermanja – Sistema ta' sorveljanza bil-video – Bäderland Hamburg GmbH: Projekt KI - gestütztes Ertrinkenden-Erkennungssystem",
+        "Nemecko – Dohľadový videosystém – Bäderland Hamburg GmbH: Projekt KI - gestütztes Ertrinkenden-Erkennungssystem",
+        "Nemčija – Sistem za video nadzor – Bäderland Hamburg GmbH: Projekt KI - gestütztes Ertrinkenden-Erkennungssystem",
+        "Niemcy – Urządzenia do nadzoru wideo – Bäderland Hamburg GmbH: Projekt KI - gestütztes Ertrinkenden-Erkennungssystem",
+        "Njemačka – Oprema za videonadzor – Bäderland Hamburg GmbH: Projekt KI - gestütztes Ertrinkenden-Erkennungssystem",
+        "Németország – Videós felügyeleti rendszerek – Bäderland Hamburg GmbH: Projekt KI - gestütztes Ertrinkenden-Erkennungssystem",
+        "Německo – Kontrolní videosystémy – Bäderland Hamburg GmbH: Projekt KI - gestütztes Ertrinkenden-Erkennungssystem",
+        "Saksa – Videovalvontajärjestelmä – Bäderland Hamburg GmbH: Projekt KI - gestütztes Ertrinkenden-Erkennungssystem",
+        "Saksamaa – Videoseiresüsteemid – Bäderland Hamburg GmbH: Projekt KI - gestütztes Ertrinkenden-Erkennungssystem",
+        "Tyskland – TV-övervakningssystem – Bäderland Hamburg GmbH: Projekt KI - gestütztes Ertrinkenden-Erkennungssystem",
+        "Tyskland – Videoovervågningssystem – Bäderland Hamburg GmbH: Projekt KI - gestütztes Ertrinkenden-Erkennungssystem",
+        "Vokietija – Stebėjimo videosistema – Bäderland Hamburg GmbH: Projekt KI - gestütztes Ertrinkenden-Erkennungssystem",
+        "Vācija – Videonovērošanas sistēma – Bäderland Hamburg GmbH: Projekt KI - gestütztes Ertrinkenden-Erkennungssystem",
+        "Γερμανία – Σύστημα βιντεοπαρακολούθησης – Bäderland Hamburg GmbH: Projekt KI - gestütztes Ertrinkenden-Erkennungssystem",
+        "Гepмaния – Система за видеонаблюдение – Bäderland Hamburg GmbH: Projekt KI - gestütztes Ertrinkenden-Erkennungssystem"
+      ],
+      "vendor_keys": [],
+      "versions": [
+        {
+          "date": "2026-10-03",
+          "file": "snapshots/2026-10-03/notices/673584-2026.xml",
+          "sha256": "299094d3bc9b827cdf07912594a5df29ab7c893e5386ec747ab41ec5a76d2046"
+        }
+      ],
+      "winner_names": [],
+      "xml_url": "https://ted.europa.eu/en/notice/673584-2026/xml"
+    },
+    "674672-2026": {
+      "buyer_countries": [
+        "LUX"
+      ],
+      "buyer_names": [
+        "European High-Performance Computing Joint Undertaking"
+      ],
+      "cpv": [
+        "72211000",
+        "72310000",
+        "72317000",
+        "72416000",
+        "72500000"
+      ],
+      "first_seen": "2026-10-03",
+      "gone": false,
+      "last_checked": "2026-10-03",
+      "notice_type": "cn-standard",
+      "phrases": [
+        "artificial intelligence"
+      ],
+      "publication_date": "2026-10-01",
+      "title": "Luxembourg – Computer-related services – Call for Tenders for the selection of Artificial Intelligence Gigafactory Consortia and the establishment of AI Gigafactories",
+      "titles": [
+        "Il-Lussemburgu – Servizzi relatati mal-kompjuter – Call for Tenders for the selection of Artificial Intelligence Gigafactory Consortia and the establishment of AI Gigafactories",
+        "Liuksemburgas – Su kompiuteriais susijusios paslaugos – Call for Tenders for the selection of Artificial Intelligence Gigafactory Consortia and the establishment of AI Gigafactories",
+        "Lucembursko – Výpočetní služby – Call for Tenders for the selection of Artificial Intelligence Gigafactory Consortia and the establishment of AI Gigafactories",
+        "Lucsamburg – Computer-related services – Call for Tenders for the selection of Artificial Intelligence Gigafactory Consortia and the establishment of AI Gigafactories",
+        "Luksemburg – Arvutiga seotud teenused – Call for Tenders for the selection of Artificial Intelligence Gigafactory Consortia and the establishment of AI Gigafactories",
+        "Luksemburg – Komputerowe usługi pokrewne – Call for Tenders for the selection of Artificial Intelligence Gigafactory Consortia and the establishment of AI Gigafactories",
+        "Luksemburg – Usluge povezane s računalom – Call for Tenders for the selection of Artificial Intelligence Gigafactory Consortia and the establishment of AI Gigafactories",
+        "Luksemburg – Z računalniki povezane storitve – Call for Tenders for the selection of Artificial Intelligence Gigafactory Consortia and the establishment of AI Gigafactories",
+        "Luksemburga – Datorsaistītie pakalpojumi – Call for Tenders for the selection of Artificial Intelligence Gigafactory Consortia and the establishment of AI Gigafactories",
+        "Lussemburgo – Servizi informatici – Call for Tenders for the selection of Artificial Intelligence Gigafactory Consortia and the establishment of AI Gigafactories",
+        "Luxembourg – Computer-related services – Call for Tenders for the selection of Artificial Intelligence Gigafactory Consortia and the establishment of AI Gigafactories",
+        "Luxembourg – Services informatiques – Call for Tenders for the selection of Artificial Intelligence Gigafactory Consortia and the establishment of AI Gigafactories",
+        "Luxembourg – Servicevirksomhed i forbindelse med datamater – Call for Tenders for the selection of Artificial Intelligence Gigafactory Consortia and the establishment of AI Gigafactories",
+        "Luxemburg – Datenverarbeitungsdienste – Call for Tenders for the selection of Artificial Intelligence Gigafactory Consortia and the establishment of AI Gigafactories",
+        "Luxemburg – Datortjänster – Call for Tenders for the selection of Artificial Intelligence Gigafactory Consortia and the establishment of AI Gigafactories",
+        "Luxemburg – Informaticadiensten – Call for Tenders for the selection of Artificial Intelligence Gigafactory Consortia and the establishment of AI Gigafactories",
+        "Luxemburg – Servicii informatice – Call for Tenders for the selection of Artificial Intelligence Gigafactory Consortia and the establishment of AI Gigafactories",
+        "Luxemburg – Számítógépekkel kapcsolatos szolgáltatások – Call for Tenders for the selection of Artificial Intelligence Gigafactory Consortia and the establishment of AI Gigafactories",
+        "Luxemburg – Tietokonepalvelut – Call for Tenders for the selection of Artificial Intelligence Gigafactory Consortia and the establishment of AI Gigafactories",
+        "Luxemburgo – Servicios informáticos – Call for Tenders for the selection of Artificial Intelligence Gigafactory Consortia and the establishment of AI Gigafactories",
+        "Luxemburgo – Serviços relacionados com a informática – Call for Tenders for the selection of Artificial Intelligence Gigafactory Consortia and the establishment of AI Gigafactories",
+        "Luxembursko – Služby súvisiace s počítačmi – Call for Tenders for the selection of Artificial Intelligence Gigafactory Consortia and the establishment of AI Gigafactories",
+        "Λουξεμβούργο – Υπηρεσίες πληροφορικής – Call for Tenders for the selection of Artificial Intelligence Gigafactory Consortia and the establishment of AI Gigafactories",
+        "Люксембург – Услуги, свързани с използване на компютри – Call for Tenders for the selection of Artificial Intelligence Gigafactory Consortia and the establishment of AI Gigafactories"
+      ],
+      "vendor_keys": [],
+      "versions": [
+        {
+          "date": "2026-10-03",
+          "file": "snapshots/2026-10-03/notices/674672-2026.xml",
+          "sha256": "56adbd363740e4548d98992fe0845100e576bf368e2b23cbffaa4b5c591ea7af"
+        }
+      ],
+      "winner_names": [],
+      "xml_url": "https://ted.europa.eu/en/notice/674672-2026/xml"
+    },
+    "676246-2026": {
+      "buyer_countries": [
+        "BEL"
+      ],
+      "buyer_names": [
+        "European Commission, DG CNECT - Communications Networks, Content and Technology"
+      ],
+      "cpv": [
+        "73000000"
+      ],
+      "first_seen": "2026-10-03",
+      "gone": false,
+      "last_checked": "2026-10-03",
+      "notice_type": "can-standard",
+      "phrases": [
+        "artificial intelligence"
+      ],
+      "publication_date": "2026-10-01",
+      "title": "Belgium – Research and development services and related consultancy services – AI for Public Good Lot 1 (Health: Innovative AI-based cancer imaging solutions for breast and prostate diagnosis) and Lot 2 (Energy: Innovative AI-based solutions for electric grid optimization)",
+      "titles": [
+        "An Bheilg – Research and development services and related consultancy services – AI for Public Good Lot 1 (Health: Innovative AI-based cancer imaging solutions for breast and prostate diagnosis) and Lot 2 (Energy: Innovative AI-based solutions for electric grid optimization)",
+        "Belgia – Servicii de cercetare şi de dezvoltare şi servicii conexe de consultanţă – AI for Public Good Lot 1 (Health: Innovative AI-based cancer imaging solutions for breast and prostate diagnosis) and Lot 2 (Energy: Innovative AI-based solutions for electric grid optimization)",
+        "Belgia – Tutkimus- ja kehityspalvelut ja niihin liittyvät konsulttipalvelut – AI for Public Good Lot 1 (Health: Innovative AI-based cancer imaging solutions for breast and prostate diagnosis) and Lot 2 (Energy: Innovative AI-based solutions for electric grid optimization)",
+        "Belgia – Usługi badawcze i eksperymentalno-rozwojowe oraz pokrewne usługi doradcze – AI for Public Good Lot 1 (Health: Innovative AI-based cancer imaging solutions for breast and prostate diagnosis) and Lot 2 (Energy: Innovative AI-based solutions for electric grid optimization)",
+        "Belgia – Uurimis- ja arendusteenused ja seonduvad nõustamisteenused – AI for Public Good Lot 1 (Health: Innovative AI-based cancer imaging solutions for breast and prostate diagnosis) and Lot 2 (Energy: Innovative AI-based solutions for electric grid optimization)",
+        "Belgicko – Výskum a vývoj a súvisiace poradenské služby – AI for Public Good Lot 1 (Health: Innovative AI-based cancer imaging solutions for breast and prostate diagnosis) and Lot 2 (Energy: Innovative AI-based solutions for electric grid optimization)",
+        "Belgie – Výzkum a vývoj a související služby – AI for Public Good Lot 1 (Health: Innovative AI-based cancer imaging solutions for breast and prostate diagnosis) and Lot 2 (Energy: Innovative AI-based solutions for electric grid optimization)",
+        "Belgien – FoU-tjänster samt tillhörande konsulttjänster – AI for Public Good Lot 1 (Health: Innovative AI-based cancer imaging solutions for breast and prostate diagnosis) and Lot 2 (Energy: Innovative AI-based solutions for electric grid optimization)",
+        "Belgien – Forschungs- und Entwicklungsdienste und zugehörige Beratung – AI for Public Good Lot 1 (Health: Innovative AI-based cancer imaging solutions for breast and prostate diagnosis) and Lot 2 (Energy: Innovative AI-based solutions for electric grid optimization)",
+        "Belgien – Forsknings- og udviklingsvirksomhed og hermed beslægtet konsulentvirksomhed – AI for Public Good Lot 1 (Health: Innovative AI-based cancer imaging solutions for breast and prostate diagnosis) and Lot 2 (Energy: Innovative AI-based solutions for electric grid optimization)",
+        "Belgija – Mokslinių tyrimų ir taikomosios veiklos paslaugos bei su jomis susijusios konsultacinės paslaugos – AI for Public Good Lot 1 (Health: Innovative AI-based cancer imaging solutions for breast and prostate diagnosis) and Lot 2 (Energy: Innovative AI-based solutions for electric grid optimization)",
+        "Belgija – Storitve na področju raziskav in razvoja ter s tem povezane svetovalne storitve – AI for Public Good Lot 1 (Health: Innovative AI-based cancer imaging solutions for breast and prostate diagnosis) and Lot 2 (Energy: Innovative AI-based solutions for electric grid optimization)",
+        "Belgija – Usluge na području istraživanja i razvoja i s tim povezane usluge savjetovanja – AI for Public Good Lot 1 (Health: Innovative AI-based cancer imaging solutions for breast and prostate diagnosis) and Lot 2 (Energy: Innovative AI-based solutions for electric grid optimization)",
+        "Belgio – Servizi di ricerca e sviluppo nonché servizi di consulenza affini – AI for Public Good Lot 1 (Health: Innovative AI-based cancer imaging solutions for breast and prostate diagnosis) and Lot 2 (Energy: Innovative AI-based solutions for electric grid optimization)",
+        "Belgique – Services de recherche et développement et services de conseil connexes – AI for Public Good Lot 1 (Health: Innovative AI-based cancer imaging solutions for breast and prostate diagnosis) and Lot 2 (Energy: Innovative AI-based solutions for electric grid optimization)",
+        "Belgium – Kutatási és fejlesztési szolgáltatások és kapcsolódó tanácsadói szolgáltatások – AI for Public Good Lot 1 (Health: Innovative AI-based cancer imaging solutions for breast and prostate diagnosis) and Lot 2 (Energy: Innovative AI-based solutions for electric grid optimization)",
+        "Belgium – Research and development services and related consultancy services – AI for Public Good Lot 1 (Health: Innovative AI-based cancer imaging solutions for breast and prostate diagnosis) and Lot 2 (Energy: Innovative AI-based solutions for electric grid optimization)",
+        "België – Onderzoek en ontwikkeling, en aanverwante adviezen – AI for Public Good Lot 1 (Health: Innovative AI-based cancer imaging solutions for breast and prostate diagnosis) and Lot 2 (Energy: Innovative AI-based solutions for electric grid optimization)",
+        "Beļģija – Pētniecības un izstrādes pakalpojumi un saistītie konsultāciju pakalpojumi – AI for Public Good Lot 1 (Health: Innovative AI-based cancer imaging solutions for breast and prostate diagnosis) and Lot 2 (Energy: Innovative AI-based solutions for electric grid optimization)",
+        "Bélgica – Servicios de investigación y desarrollo y servicios de consultoría conexos – AI for Public Good Lot 1 (Health: Innovative AI-based cancer imaging solutions for breast and prostate diagnosis) and Lot 2 (Energy: Innovative AI-based solutions for electric grid optimization)",
+        "Bélgica – Serviços de investigação e desenvolvimento e serviços de consultoria conexos – AI for Public Good Lot 1 (Health: Innovative AI-based cancer imaging solutions for breast and prostate diagnosis) and Lot 2 (Energy: Innovative AI-based solutions for electric grid optimization)",
+        "Il-Belġju – Servizzi ta' riċerka u żvilupp u servizzi relatati mal-konsulenza – AI for Public Good Lot 1 (Health: Innovative AI-based cancer imaging solutions for breast and prostate diagnosis) and Lot 2 (Energy: Innovative AI-based solutions for electric grid optimization)",
+        "Βέλγιο – Υπηρεσίες έρευνας και ανάπτυξης, καθώς και συναφείς υπηρεσίες παροχής συμβουλών – AI for Public Good Lot 1 (Health: Innovative AI-based cancer imaging solutions for breast and prostate diagnosis) and Lot 2 (Energy: Innovative AI-based solutions for electric grid optimization)",
+        "Бeлгия – Научни изследвания и експериментални разработки и свързаните с тях консултантски услуги – AI for Public Good Lot 1 (Health: Innovative AI-based cancer imaging solutions for breast and prostate diagnosis) and Lot 2 (Energy: Innovative AI-based solutions for electric grid optimization)"
+      ],
+      "vendor_keys": [
+        "ait",
+        "areti",
+        "bip",
+        "inesc tec",
+        "netz niederosterreich",
+        "research university institute of communication and computer systems",
+        "technical university of denmark dtu",
+        "wiener netze"
+      ],
+      "versions": [
+        {
+          "date": "2026-10-03",
+          "file": "snapshots/2026-10-03/notices/676246-2026.xml",
+          "sha256": "c31b49ba307854373a497d742805456d52d8bd72097fbe98c870db972c5bee22"
+        }
+      ],
+      "winner_names": [
+        "AIT",
+        "ARETI S.P.A.",
+        "BIP",
+        "INESC TEC",
+        "NETZ NIEDEROSTERREICH GMBH",
+        "RESEARCH UNIVERSITY INSTITUTE OF COMMUNICATION AND COMPUTER SYSTEMS",
+        "TECHNICAL UNIVERSITY OF DENMARK DTU",
+        "Wiener Netze GmbH"
+      ],
+      "xml_url": "https://ted.europa.eu/en/notice/676246-2026/xml"
+    },
+    "676854-2026": {
+      "buyer_countries": [
+        "DEU"
+      ],
+      "buyer_names": [
+        "Universitätsklinikum Essen (AöR)"
+      ],
+      "cpv": [
+        "48100000"
+      ],
+      "first_seen": "2026-10-03",
+      "gone": false,
+      "last_checked": "2026-10-03",
+      "notice_type": "pin-only",
+      "phrases": [
+        "Künstliche Intelligenz"
+      ],
+      "publication_date": "2026-10-01",
+      "title": "Germany – Industry specific software package – Beschaffung von SAP Rise with SAP Private Cloud Edition - einschließlich Lizenzen, Betrieb und Infrastruktur",
+      "titles": [
+        "Alemanha – Pacote de software para sectores específicos – Beschaffung von SAP Rise with SAP Private Cloud Edition - einschließlich Lizenzen, Betrieb und Infrastruktur",
+        "Alemania – Paquetes de software específico de un sector económico – Beschaffung von SAP Rise with SAP Private Cloud Edition - einschließlich Lizenzen, Betrieb und Infrastruktur",
+        "Allemagne – Logiciels pour l'industrie – Beschaffung von SAP Rise with SAP Private Cloud Edition - einschließlich Lizenzen, Betrieb und Infrastruktur",
+        "An Ghearmáin – Industry specific software package – Beschaffung von SAP Rise with SAP Private Cloud Edition - einschließlich Lizenzen, Betrieb und Infrastruktur",
+        "Deutschland – Branchenspezifisches Softwarepaket – Beschaffung von SAP Rise with SAP Private Cloud Edition - einschließlich Lizenzen, Betrieb und Infrastruktur",
+        "Duitsland – Speciale software voor de industrie – Beschaffung von SAP Rise with SAP Private Cloud Edition - einschließlich Lizenzen, Betrieb und Infrastruktur",
+        "Germania – Pacchetti software specifici per l'industria – Beschaffung von SAP Rise with SAP Private Cloud Edition - einschließlich Lizenzen, Betrieb und Infrastruktur",
+        "Germania – Pachete software pentru industrie – Beschaffung von SAP Rise with SAP Private Cloud Edition - einschließlich Lizenzen, Betrieb und Infrastruktur",
+        "Germany – Industry specific software package – Beschaffung von SAP Rise with SAP Private Cloud Edition - einschließlich Lizenzen, Betrieb und Infrastruktur",
+        "Il-Ġermanja – Pakkett ta-softwer speċifiku għall-industrija – Beschaffung von SAP Rise with SAP Private Cloud Edition - einschließlich Lizenzen, Betrieb und Infrastruktur",
+        "Nemecko – Softvérový balík pre konkrétne odvetvie – Beschaffung von SAP Rise with SAP Private Cloud Edition - einschließlich Lizenzen, Betrieb und Infrastruktur",
+        "Nemčija – Programski paket za posamezno industrijo – Beschaffung von SAP Rise with SAP Private Cloud Edition - einschließlich Lizenzen, Betrieb und Infrastruktur",
+        "Niemcy – Przemysłowe specyficzne pakiety oprogramowania – Beschaffung von SAP Rise with SAP Private Cloud Edition - einschließlich Lizenzen, Betrieb und Infrastruktur",
+        "Njemačka – Programski paket za industriju – Beschaffung von SAP Rise with SAP Private Cloud Edition - einschließlich Lizenzen, Betrieb und Infrastruktur",
+        "Németország – Iparspecifikus szoftvercsomag – Beschaffung von SAP Rise with SAP Private Cloud Edition - einschließlich Lizenzen, Betrieb und Infrastruktur",
+        "Německo – Balík programů určený pro specifické odvětví – Beschaffung von SAP Rise with SAP Private Cloud Edition - einschließlich Lizenzen, Betrieb und Infrastruktur",
+        "Saksa – Toimialakohtaiset ohjelmatuotteet – Beschaffung von SAP Rise with SAP Private Cloud Edition - einschließlich Lizenzen, Betrieb und Infrastruktur",
+        "Saksamaa – Tööstusliku tarkvara pakett – Beschaffung von SAP Rise with SAP Private Cloud Edition - einschließlich Lizenzen, Betrieb und Infrastruktur",
+        "Tyskland – Branchespecifik programpakke – Beschaffung von SAP Rise with SAP Private Cloud Edition - einschließlich Lizenzen, Betrieb und Infrastruktur",
+        "Tyskland – Programvara för särskild industri – Beschaffung von SAP Rise with SAP Private Cloud Edition - einschließlich Lizenzen, Betrieb und Infrastruktur",
+        "Vokietija – Pramonei skirti programinės įrangos paketai – Beschaffung von SAP Rise with SAP Private Cloud Edition - einschließlich Lizenzen, Betrieb und Infrastruktur",
+        "Vācija – Specizalizēta programmatūras pakotne – Beschaffung von SAP Rise with SAP Private Cloud Edition - einschließlich Lizenzen, Betrieb und Infrastruktur",
+        "Γερμανία – Πακέτα λογισμικού για συγκεκριμένους κλάδους – Beschaffung von SAP Rise with SAP Private Cloud Edition - einschließlich Lizenzen, Betrieb und Infrastruktur",
+        "Гepмaния – Софтуерни пакети за индустрията – Beschaffung von SAP Rise with SAP Private Cloud Edition - einschließlich Lizenzen, Betrieb und Infrastruktur"
+      ],
+      "vendor_keys": [],
+      "versions": [
+        {
+          "date": "2026-10-03",
+          "file": "snapshots/2026-10-03/notices/676854-2026.xml",
+          "sha256": "e9b616fe456e2e1e216d95252ce137840be4c419e3e32eda392aacd61f793702"
+        }
+      ],
+      "winner_names": [],
+      "xml_url": "https://ted.europa.eu/en/notice/676854-2026/xml"
+    },
+    "676917-2026": {
+      "buyer_countries": [
+        "DEU"
+      ],
+      "buyer_names": [
+        "Universitätsklinikum Aachen AöR"
+      ],
+      "cpv": [
+        "38000000"
+      ],
+      "first_seen": "2026-10-03",
+      "gone": false,
+      "last_checked": "2026-10-03",
+      "notice_type": "cn-standard",
+      "phrases": [
+        "Künstliche Intelligenz"
+      ],
+      "publication_date": "2026-10-01",
+      "title": "Germany – Laboratory, optical and precision equipments (excl. glasses) – Scanner Hub Digitale Pathologie",
+      "titles": [
+        "Alemanha – Equipamento laboratorial, óptico e de precisão (exc. óculos) – Scanner Hub Digitale Pathologie",
+        "Alemania – Equipo de laboratorio, óptico y de precisión (excepto gafas) – Scanner Hub Digitale Pathologie",
+        "Allemagne – Équipements de laboratoire, d'optique et de précision (excepté les lunettes) – Scanner Hub Digitale Pathologie",
+        "An Ghearmáin – Laboratory, optical and precision equipments (excl. glasses) – Scanner Hub Digitale Pathologie",
+        "Deutschland – Laborgeräte, optische Geräte und Präzisionsgeräte (außer Gläser) – Scanner Hub Digitale Pathologie",
+        "Duitsland – Laboratoriuminstrumenten, optische en precisie-instrumenten (uitgezonderd brillen) – Scanner Hub Digitale Pathologie",
+        "Germania – Attrezzature da laboratorio, ottiche e di precisione (escluso vetri) – Scanner Hub Digitale Pathologie",
+        "Germania – Echipamente de laborator, optice şi de precizie (cu excepţia ochelarilor) – Scanner Hub Digitale Pathologie",
+        "Germany – Laboratory, optical and precision equipments (excl. glasses) – Scanner Hub Digitale Pathologie",
+        "Il-Ġermanja – Tagħmir tal-laboratorju, ottiku u ta' preċiżjoni (minbarra nuċċalijiet) – Scanner Hub Digitale Pathologie",
+        "Nemecko – Laboratórne, optické a presné prístroje a vybavenie (s výnimkou skiel) – Scanner Hub Digitale Pathologie",
+        "Nemčija – Laboratorijska, optična in precizna oprema (razen očal) – Scanner Hub Digitale Pathologie",
+        "Niemcy – Sprzęt laboratoryjny, optyczny i precyzyjny (z wyjątkiem szklanego) – Scanner Hub Digitale Pathologie",
+        "Njemačka – Laboratorijska, optička i precizna oprema (osim naočala) – Scanner Hub Digitale Pathologie",
+        "Németország – Laboratóriumi, optikai és precíziós felszerelések (kivéve szemüvegek) – Scanner Hub Digitale Pathologie",
+        "Německo – Laboratorní, optické a přesné přístroje a zařízení (mimo skel) – Scanner Hub Digitale Pathologie",
+        "Saksa – Laboratoriolaitteet, optiset ja tarkkuuslaitteet (lukuun ottamatta silmälaseja) – Scanner Hub Digitale Pathologie",
+        "Saksamaa – Laboriseadmed, optika- ja täppisinstrumendid (v.a klaasid) – Scanner Hub Digitale Pathologie",
+        "Tyskland – Laboratorieudstyr, optisk udstyr og præcisionsudstyr (ikke briller) – Scanner Hub Digitale Pathologie",
+        "Tyskland – Laboratorieutrustning, optisk utrustning och precisionsutrustning (exkl. glas) – Scanner Hub Digitale Pathologie",
+        "Vokietija – Laboratorinė, optinė ir precizinė įranga (išskyrus akinius) – Scanner Hub Digitale Pathologie",
+        "Vācija – Laboratorijas, optiskās un precīzijas ierīces (izņemot brilles) – Scanner Hub Digitale Pathologie",
+        "Γερμανία – Εξοπλισμός εργαστηριακός, οπτικός και ακριβείας (εκτός από γυαλιά) – Scanner Hub Digitale Pathologie",
+        "Гepмaния – Лабораторно, оптично и прецизно оборудване (без стъклени изделия) – Scanner Hub Digitale Pathologie"
+      ],
+      "vendor_keys": [],
+      "versions": [
+        {
+          "date": "2026-10-03",
+          "file": "snapshots/2026-10-03/notices/676917-2026.xml",
+          "sha256": "f49fc404158b6ce90410680f925f0ac9575f6bbc81423dd2551ba2e32cc5efe5"
+        }
+      ],
+      "winner_names": [],
+      "xml_url": "https://ted.europa.eu/en/notice/676917-2026/xml"
+    },
+    "677429-2026": {
+      "buyer_countries": [
+        "BEL"
+      ],
+      "buyer_names": [
+        "European Commission, DG CNECT - Communications Networks, Content and Technology"
+      ],
+      "cpv": [
+        "73000000"
+      ],
+      "first_seen": "2026-10-03",
+      "gone": false,
+      "last_checked": "2026-10-03",
+      "notice_type": "can-standard",
+      "phrases": [
+        "artificial intelligence"
+      ],
+      "publication_date": "2026-10-01",
+      "title": "Belgium – Research and development services and related consultancy services – AI for Public Good Lot 1 (Health: Innovative AI-based cancer imaging solutions for breast and prostate diagnosis) and Lot 2 (Energy: Innovative AI-based solutions for electric grid optimization)",
+      "titles": [
+        "An Bheilg – Research and development services and related consultancy services – AI for Public Good Lot 1 (Health: Innovative AI-based cancer imaging solutions for breast and prostate diagnosis) and Lot 2 (Energy: Innovative AI-based solutions for electric grid optimization)",
+        "Belgia – Servicii de cercetare şi de dezvoltare şi servicii conexe de consultanţă – AI for Public Good Lot 1 (Health: Innovative AI-based cancer imaging solutions for breast and prostate diagnosis) and Lot 2 (Energy: Innovative AI-based solutions for electric grid optimization)",
+        "Belgia – Tutkimus- ja kehityspalvelut ja niihin liittyvät konsulttipalvelut – AI for Public Good Lot 1 (Health: Innovative AI-based cancer imaging solutions for breast and prostate diagnosis) and Lot 2 (Energy: Innovative AI-based solutions for electric grid optimization)",
+        "Belgia – Usługi badawcze i eksperymentalno-rozwojowe oraz pokrewne usługi doradcze – AI for Public Good Lot 1 (Health: Innovative AI-based cancer imaging solutions for breast and prostate diagnosis) and Lot 2 (Energy: Innovative AI-based solutions for electric grid optimization)",
+        "Belgia – Uurimis- ja arendusteenused ja seonduvad nõustamisteenused – AI for Public Good Lot 1 (Health: Innovative AI-based cancer imaging solutions for breast and prostate diagnosis) and Lot 2 (Energy: Innovative AI-based solutions for electric grid optimization)",
+        "Belgicko – Výskum a vývoj a súvisiace poradenské služby – AI for Public Good Lot 1 (Health: Innovative AI-based cancer imaging solutions for breast and prostate diagnosis) and Lot 2 (Energy: Innovative AI-based solutions for electric grid optimization)",
+        "Belgie – Výzkum a vývoj a související služby – AI for Public Good Lot 1 (Health: Innovative AI-based cancer imaging solutions for breast and prostate diagnosis) and Lot 2 (Energy: Innovative AI-based solutions for electric grid optimization)",
+        "Belgien – FoU-tjänster samt tillhörande konsulttjänster – AI for Public Good Lot 1 (Health: Innovative AI-based cancer imaging solutions for breast and prostate diagnosis) and Lot 2 (Energy: Innovative AI-based solutions for electric grid optimization)",
+        "Belgien – Forschungs- und Entwicklungsdienste und zugehörige Beratung – AI for Public Good Lot 1 (Health: Innovative AI-based cancer imaging solutions for breast and prostate diagnosis) and Lot 2 (Energy: Innovative AI-based solutions for electric grid optimization)",
+        "Belgien – Forsknings- og udviklingsvirksomhed og hermed beslægtet konsulentvirksomhed – AI for Public Good Lot 1 (Health: Innovative AI-based cancer imaging solutions for breast and prostate diagnosis) and Lot 2 (Energy: Innovative AI-based solutions for electric grid optimization)",
+        "Belgija – Mokslinių tyrimų ir taikomosios veiklos paslaugos bei su jomis susijusios konsultacinės paslaugos – AI for Public Good Lot 1 (Health: Innovative AI-based cancer imaging solutions for breast and prostate diagnosis) and Lot 2 (Energy: Innovative AI-based solutions for electric grid optimization)",
+        "Belgija – Storitve na področju raziskav in razvoja ter s tem povezane svetovalne storitve – AI for Public Good Lot 1 (Health: Innovative AI-based cancer imaging solutions for breast and prostate diagnosis) and Lot 2 (Energy: Innovative AI-based solutions for electric grid optimization)",
+        "Belgija – Usluge na području istraživanja i razvoja i s tim povezane usluge savjetovanja – AI for Public Good Lot 1 (Health: Innovative AI-based cancer imaging solutions for breast and prostate diagnosis) and Lot 2 (Energy: Innovative AI-based solutions for electric grid optimization)",
+        "Belgio – Servizi di ricerca e sviluppo nonché servizi di consulenza affini – AI for Public Good Lot 1 (Health: Innovative AI-based cancer imaging solutions for breast and prostate diagnosis) and Lot 2 (Energy: Innovative AI-based solutions for electric grid optimization)",
+        "Belgique – Services de recherche et développement et services de conseil connexes – AI for Public Good Lot 1 (Health: Innovative AI-based cancer imaging solutions for breast and prostate diagnosis) and Lot 2 (Energy: Innovative AI-based solutions for electric grid optimization)",
+        "Belgium – Kutatási és fejlesztési szolgáltatások és kapcsolódó tanácsadói szolgáltatások – AI for Public Good Lot 1 (Health: Innovative AI-based cancer imaging solutions for breast and prostate diagnosis) and Lot 2 (Energy: Innovative AI-based solutions for electric grid optimization)",
+        "Belgium – Research and development services and related consultancy services – AI for Public Good Lot 1 (Health: Innovative AI-based cancer imaging solutions for breast and prostate diagnosis) and Lot 2 (Energy: Innovative AI-based solutions for electric grid optimization)",
+        "België – Onderzoek en ontwikkeling, en aanverwante adviezen – AI for Public Good Lot 1 (Health: Innovative AI-based cancer imaging solutions for breast and prostate diagnosis) and Lot 2 (Energy: Innovative AI-based solutions for electric grid optimization)",
+        "Beļģija – Pētniecības un izstrādes pakalpojumi un saistītie konsultāciju pakalpojumi – AI for Public Good Lot 1 (Health: Innovative AI-based cancer imaging solutions for breast and prostate diagnosis) and Lot 2 (Energy: Innovative AI-based solutions for electric grid optimization)",
+        "Bélgica – Servicios de investigación y desarrollo y servicios de consultoría conexos – AI for Public Good Lot 1 (Health: Innovative AI-based cancer imaging solutions for breast and prostate diagnosis) and Lot 2 (Energy: Innovative AI-based solutions for electric grid optimization)",
+        "Bélgica – Serviços de investigação e desenvolvimento e serviços de consultoria conexos – AI for Public Good Lot 1 (Health: Innovative AI-based cancer imaging solutions for breast and prostate diagnosis) and Lot 2 (Energy: Innovative AI-based solutions for electric grid optimization)",
+        "Il-Belġju – Servizzi ta' riċerka u żvilupp u servizzi relatati mal-konsulenza – AI for Public Good Lot 1 (Health: Innovative AI-based cancer imaging solutions for breast and prostate diagnosis) and Lot 2 (Energy: Innovative AI-based solutions for electric grid optimization)",
+        "Βέλγιο – Υπηρεσίες έρευνας και ανάπτυξης, καθώς και συναφείς υπηρεσίες παροχής συμβουλών – AI for Public Good Lot 1 (Health: Innovative AI-based cancer imaging solutions for breast and prostate diagnosis) and Lot 2 (Energy: Innovative AI-based solutions for electric grid optimization)",
+        "Бeлгия – Научни изследвания и експериментални разработки и свързаните с тях консултантски услуги – AI for Public Good Lot 1 (Health: Innovative AI-based cancer imaging solutions for breast and prostate diagnosis) and Lot 2 (Energy: Innovative AI-based solutions for electric grid optimization)"
+      ],
+      "vendor_keys": [
+        "fbg",
+        "foundation for research and technology hellas forth",
+        "fundacao champalimaud"
+      ],
+      "versions": [
+        {
+          "date": "2026-10-03",
+          "file": "snapshots/2026-10-03/notices/677429-2026.xml",
+          "sha256": "443e016df12524e06ef91f3a0c735c5d3c3e99010d99c0e6206772200ec5c782"
+        }
+      ],
+      "winner_names": [
+        "FBG",
+        "FUNDACAO CHAMPALIMAUD",
+        "Foundation for Research and Technology - Hellas (FORTH)"
+      ],
+      "xml_url": "https://ted.europa.eu/en/notice/677429-2026/xml"
+    },
+    "680891-2026": {
+      "buyer_countries": [
+        "IRL"
+      ],
+      "buyer_names": [
+        "European Foundation for the Improvement of Living and Working Conditions"
+      ],
+      "cpv": [
+        "79311000",
+        "79311100",
+        "79311200",
+        "79311210",
+        "79311300",
+        "79315000"
+      ],
+      "first_seen": "2026-10-03",
+      "gone": false,
+      "last_checked": "2026-10-03",
+      "notice_type": "cn-standard",
+      "phrases": [
+        "artificial intelligence"
+      ],
+      "publication_date": "2026-10-02",
+      "title": "Ireland – Survey services – Preparation and implementation of the pilot survey on company use and productivity impact of AI - 250001/7820",
+      "titles": [
+        "Airija – Apklausų paslaugos – Preparation and implementation of the pilot survey on company use and productivity impact of AI - 250001/7820",
+        "Ierland – Uitvoeren van studies – Preparation and implementation of the pilot survey on company use and productivity impact of AI - 250001/7820",
+        "Iirimaa – Turu-uuringud – Preparation and implementation of the pilot survey on company use and productivity impact of AI - 250001/7820",
+        "Ireland – Survey services – Preparation and implementation of the pilot survey on company use and productivity impact of AI - 250001/7820",
+        "Irland – Rundspørger – Preparation and implementation of the pilot survey on company use and productivity impact of AI - 250001/7820",
+        "Irland – Umfragen – Preparation and implementation of the pilot survey on company use and productivity impact of AI - 250001/7820",
+        "Irland – Undersökningar – Preparation and implementation of the pilot survey on company use and productivity impact of AI - 250001/7820",
+        "Irlanda – Servicii de studii – Preparation and implementation of the pilot survey on company use and productivity impact of AI - 250001/7820",
+        "Irlanda – Servicios de estudios – Preparation and implementation of the pilot survey on company use and productivity impact of AI - 250001/7820",
+        "Irlanda – Servizi di indagine – Preparation and implementation of the pilot survey on company use and productivity impact of AI - 250001/7820",
+        "Irlanda – Serviços relacionados com inquéritos – Preparation and implementation of the pilot survey on company use and productivity impact of AI - 250001/7820",
+        "Irlande – Services d'études – Preparation and implementation of the pilot survey on company use and productivity impact of AI - 250001/7820",
+        "Irlandia – Usługi w zakresie ankiet – Preparation and implementation of the pilot survey on company use and productivity impact of AI - 250001/7820",
+        "Irlanti – Kyselytutkimuspalvelut – Preparation and implementation of the pilot survey on company use and productivity impact of AI - 250001/7820",
+        "Irska – Storitve anketiranja – Preparation and implementation of the pilot survey on company use and productivity impact of AI - 250001/7820",
+        "Irska – Usluge anketiranja – Preparation and implementation of the pilot survey on company use and productivity impact of AI - 250001/7820",
+        "Irsko – Průzkum služeb – Preparation and implementation of the pilot survey on company use and productivity impact of AI - 250001/7820",
+        "L-Irlanda – Servizzi ta' l-istħarriġ – Preparation and implementation of the pilot survey on company use and productivity impact of AI - 250001/7820",
+        "Éire – Survey services – Preparation and implementation of the pilot survey on company use and productivity impact of AI - 250001/7820",
+        "Írország – Felmérési, közvélemény-kutatási szolgáltatások – Preparation and implementation of the pilot survey on company use and productivity impact of AI - 250001/7820",
+        "Írsko – Služby spojené s prieskumom – Preparation and implementation of the pilot survey on company use and productivity impact of AI - 250001/7820",
+        "Īrija – Aptaujas pakalpojumi – Preparation and implementation of the pilot survey on company use and productivity impact of AI - 250001/7820",
+        "Ιρλανδία – Υπηρεσίες ερευνών – Preparation and implementation of the pilot survey on company use and productivity impact of AI - 250001/7820",
+        "Иpлaндия – Услуги, свързани с проучвания – Preparation and implementation of the pilot survey on company use and productivity impact of AI - 250001/7820"
+      ],
+      "vendor_keys": [],
+      "versions": [
+        {
+          "date": "2026-10-03",
+          "file": "snapshots/2026-10-03/notices/680891-2026.xml",
+          "sha256": "568865753416de2a392bdbdce28133adec964aad70ffd865b1695edd62fedd4a"
+        }
+      ],
+      "winner_names": [],
+      "xml_url": "https://ted.europa.eu/en/notice/680891-2026/xml"
+    },
+    "681054-2026": {
+      "buyer_countries": [
+        "NLD"
+      ],
+      "buyer_names": [
+        "Kamer van Koophandel"
+      ],
+      "cpv": [
+        "48000000",
+        "72000000",
+        "72512000"
+      ],
+      "first_seen": "2026-10-03",
+      "gone": false,
+      "last_checked": "2026-10-03",
+      "notice_type": "can-standard",
+      "phrases": [
+        "artificial intelligence"
+      ],
+      "publication_date": "2026-10-02",
+      "title": "Netherlands – Software package and information systems – System for electronic Certificates of Origin (e-CO)",
+      "titles": [
+        "Alankomaat – Ohjelmatuotteet ja tietojärjestelmät – System for electronic Certificates of Origin (e-CO)",
+        "An Ísiltír – Software package and information systems – System for electronic Certificates of Origin (e-CO)",
+        "Holandsko – Softvérové balíky a informačné systémy – System for electronic Certificates of Origin (e-CO)",
+        "Hollandia – Szoftvercsomag és információs rendszerek – System for electronic Certificates of Origin (e-CO)",
+        "In-Netherlands – Pakketti tas-softwer u sistemi ta' informazzjoni – System for electronic Certificates of Origin (e-CO)",
+        "Madalmaad – Tarkvarapaketid ja infosüsteemid – System for electronic Certificates of Origin (e-CO)",
+        "Nederland – Software en informatiesystemen – System for electronic Certificates of Origin (e-CO)",
+        "Nederlandene – Programpakker og informationssystemer – System for electronic Certificates of Origin (e-CO)",
+        "Nederländerna – Programvara och informationssystem – System for electronic Certificates of Origin (e-CO)",
+        "Netherlands – Software package and information systems – System for electronic Certificates of Origin (e-CO)",
+        "Niderlandy – Pakiety oprogramowania i systemy informatyczne – System for electronic Certificates of Origin (e-CO)",
+        "Niederlande – Softwarepaket und Informationssysteme – System for electronic Certificates of Origin (e-CO)",
+        "Nizozemska – Programski paketi i informacijski sustavi – System for electronic Certificates of Origin (e-CO)",
+        "Nizozemska – Programski paketi in informacijski sistemi – System for electronic Certificates of Origin (e-CO)",
+        "Nizozemsko – Balíky programů a informační systémy – System for electronic Certificates of Origin (e-CO)",
+        "Nyderlandai – Programinės įrangos paketai ir informacinės sistemos – System for electronic Certificates of Origin (e-CO)",
+        "Nīderlande – Programmatūras pakotne un informācijas sistēmas – System for electronic Certificates of Origin (e-CO)",
+        "Paesi Bassi – Pacchetti software e sistemi di informazione – System for electronic Certificates of Origin (e-CO)",
+        "Pays-Bas – Logiciels et systèmes d'information – System for electronic Certificates of Origin (e-CO)",
+        "Países Baixos – Pacotes de software e sistemas de informação – System for electronic Certificates of Origin (e-CO)",
+        "Países Bajos – Paquetes de software y sistemas de información – System for electronic Certificates of Origin (e-CO)",
+        "Ţările de Jos – Pachete software şi sisteme informatice – System for electronic Certificates of Origin (e-CO)",
+        "Κάτω Χώρες – Πακέτα λογισμικού και συστήματα πληροφορικής – System for electronic Certificates of Origin (e-CO)",
+        "Нидерландия – Софтуерни пакети и информационни системи – System for electronic Certificates of Origin (e-CO)"
+      ],
+      "vendor_keys": [
+        "sgs united kingdom"
+      ],
+      "versions": [
+        {
+          "date": "2026-10-03",
+          "file": "snapshots/2026-10-03/notices/681054-2026.xml",
+          "sha256": "1116aa35d6a8a18ba72bd50aefc65abd5d002904a24aeeedd7d51588cb310555"
+        }
+      ],
+      "winner_names": [
+        "SGS United Kingdom Limited"
+      ],
+      "xml_url": "https://ted.europa.eu/en/notice/681054-2026/xml"
     }
   }
 }

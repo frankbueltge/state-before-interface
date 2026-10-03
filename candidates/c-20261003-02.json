@@ -1,0 +1,54 @@
+{
+  "created": "2026-10-03T10:27:12+00:00",
+  "criteria": {
+    "consequential_relation": {
+      "passed": true,
+      "reason": "touches a sensitive administrative domain: title marker 'health' (672213-2026)"
+    },
+    "digital_form_possible": {
+      "passed": true,
+      "reason": "form hypothesis: an annotated dossier along the structure of the notice"
+    },
+    "falsifiable_investigation": {
+      "passed": false,
+      "reason": "no machine-testable proposition can be formed yet"
+    },
+    "machine_readable_evidence": {
+      "passed": true,
+      "reason": "1 preserved eForms XML record(s) with SHA-256 on file"
+    },
+    "machine_scale_advantage": {
+      "passed": false,
+      "reason": "a single first-seen notice is equally visible to any human reader of the journal"
+    },
+    "observable_public_problem": {
+      "passed": true,
+      "reason": "identifiable public buyer(s): Central Procurement and Supplies Unit (MFH)"
+    }
+  },
+  "form_hypothesis": "an annotated dossier along the structure of the notice",
+  "id": "c-20261003-02",
+  "notices_context": [
+    {
+      "buyers": [
+        "Central Procurement and Supplies Unit (MFH)"
+      ],
+      "countries": [
+        "MLT"
+      ],
+      "publication_number": "672213-2026",
+      "title": "Malta – CT scanners – Negotiated Procedure to upgrade the GE Healthcare Model Revolution CT Scanner installed at the Medical Imaging Department at MDH"
+    }
+  ],
+  "proposition": null,
+  "signal": {
+    "date": "2026-10-03",
+    "detail": "notice 672213-2026 entered the envelope (phrases: artificial intelligence)",
+    "key": "NEW_MATCH:672213-2026",
+    "notices": [
+      "672213-2026"
+    ],
+    "type": "NEW_MATCH"
+  },
+  "verdict": "DECLINED"
+}

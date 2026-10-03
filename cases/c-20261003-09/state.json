@@ -5,7 +5,17 @@
       "by": "sentinel-gate",
       "state": "CASE_OPEN",
       "ts": "2026-10-03T10:27:12+00:00"
+    },
+    {
+      "by": "machine",
+      "state": "INVESTIGATING",
+      "ts": "2026-10-03T10:35:49+00:00"
+    },
+    {
+      "by": "machine",
+      "state": "INTERESTING_BUT_TRIVIAL",
+      "ts": "2026-10-03T11:05:00+00:00"
     }
   ],
-  "state": "CASE_OPEN"
+  "state": "INTERESTING_BUT_TRIVIAL"
 }

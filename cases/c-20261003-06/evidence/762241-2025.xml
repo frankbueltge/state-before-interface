@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><ContractAwardNotice xmlns="urn:oasis:names:specification:ubl:schema:xsd:ContractAwardNotice-2" xmlns:cac="urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-2" xmlns:cbc="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-2" xmlns:efac="http://data.europa.eu/p27/eforms-ubl-extension-aggregate-components/1" xmlns:efbc="http://data.europa.eu/p27/eforms-ubl-extension-basic-components/1" xmlns:efext="http://data.europa.eu/p27/eforms-ubl-extensions/1" xmlns:ext="urn:oasis:names:specification:ubl:schema:xsd:CommonExtensionComponents-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:specification:ubl:schema:xsd:ContractAwardNotice-2 UBL-ContractAwardNotice-2.3.xsd">
+  <ext:UBLExtensions>
+    <ext:UBLExtension>
+      <ext:ExtensionContent>
+        <efext:EformsExtension>
+          <efac:NoticeResult>
+            <efac:LotResult>
+              <cbc:ID>RES-0001</cbc:ID>
+              <cbc:TenderResultCode listName="winner-selection-status">clos-nw</cbc:TenderResultCode>
+              <efac:DecisionReason>
+                <efbc:DecisionReasonCode listName="non-award-justification">other</efbc:DecisionReasonCode>
+              </efac:DecisionReason>
+              <efac:ReceivedSubmissionsStatistics>
+                <efbc:StatisticsCode listName="received-submission-type">t-esubm</efbc:StatisticsCode>
+                <efbc:StatisticsNumeric>11</efbc:StatisticsNumeric>
+              </efac:ReceivedSubmissionsStatistics>
+              <efac:TenderLot>
+                <cbc:ID>LOT-0001</cbc:ID>
+              </efac:TenderLot>
+            </efac:LotResult>
+          </efac:NoticeResult>
+          <efac:NoticeSubType>
+            <cbc:SubTypeCode listName="notice-subtype">29</cbc:SubTypeCode>
+          </efac:NoticeSubType>
+          <efac:Organizations>
+            <efac:Organization>
+              <efac:Company>
+                <cbc:WebsiteURI>https://ec.europa.eu/info/departments/communications-networks-content-and-technology_en</cbc:WebsiteURI>
+                <cac:PartyIdentification>
+                  <cbc:ID>ORG-0001</cbc:ID>
+                </cac:PartyIdentification>
+                <cac:PartyName>
+                  <cbc:Name languageID="ENG">European Commission, DG CNECT - Communications Networks, Content and Technology</cbc:Name>
+                </cac:PartyName>
+                <cac:PostalAddress>
+                  <cbc:StreetName>Rue de la Loi 200, Wetstraat 200</cbc:StreetName>
+                  <cbc:Department>CNECT.A - Artificial Intelligence Office,CNECT.A.5 - Artificial Intelligence for Societal Good</cbc:Department>
+                  <cbc:CityName>Brussels</cbc:CityName>
+                  <cbc:PostalZone>B-1049</cbc:PostalZone>
+                  <cbc:CountrySubentityCode listName="nuts">BE100</cbc:CountrySubentityCode>
+                  <cac:Country>
+                    <cbc:IdentificationCode listName="country">BEL</cbc:IdentificationCode>
+                  </cac:Country>
+                </cac:PostalAddress>
+                <cac:PartyLegalEntity>
+                  <cbc:CompanyID>COM</cbc:CompanyID>
+                </cac:PartyLegalEntity>
+                <cac:Contact>
+                  <cbc:Telephone>+32 2 299 11 11</cbc:Telephone>
+                  <cbc:ElectronicMail>cnect-tendering@ec.europa.eu</cbc:ElectronicMail>
+                </cac:Contact>
+              </efac:Company>
+            </efac:Organization>
+            <efac:Organization>
+              <efac:Company>
+                <cbc:WebsiteURI>http://curia.europa.eu</cbc:WebsiteURI>
+                <cac:PartyIdentification>
+                  <cbc:ID>ORG-0002</cbc:ID>
+                </cac:PartyIdentification>
+                <cac:PartyName>
+                  <cbc:Name languageID="ENG">Court of Justice of the European Union</cbc:Name>
+                </cac:PartyName>
+                <cac:PostalAddress>
+                  <cbc:StreetName>Rue du Fort Niedergrünewald</cbc:StreetName>
+                  <cbc:CityName>Luxembourg</cbc:CityName>
+                  <cbc:PostalZone>L-2925</cbc:PostalZone>
+                  <cbc:CountrySubentityCode listName="nuts">LU000</cbc:CountrySubentityCode>
+                  <cac:Country>
+                    <cbc:IdentificationCode listName="country">LUX</cbc:IdentificationCode>
+                  </cac:Country>
+                </cac:PostalAddress>
+                <cac:PartyLegalEntity>
+                  <cbc:CompanyID>CURIA</cbc:CompanyID>
+                </cac:PartyLegalEntity>
+                <cac:Contact>
+                  <cbc:Telephone>+352 4303-1</cbc:Telephone>
+                  <cbc:ElectronicMail>GC.Registry@curia.europa.eu</cbc:ElectronicMail>
+                </cac:Contact>
+              </efac:Company>
+            </efac:Organization>
+            <efac:Organization>
+              <efac:Company>
+                <cbc:WebsiteURI>https://commission.europa.eu/</cbc:WebsiteURI>
+                <cac:PartyIdentification>
+                  <cbc:ID>ORG-0003</cbc:ID>
+                </cac:PartyIdentification>
+                <cac:PartyName>
+                  <cbc:Name languageID="ENG">European Commission</cbc:Name>
+                </cac:PartyName>
+                <cac:PostalAddress>
+                  <cbc:StreetName>Mondrian (CDMA), Rue du Champ de Mars 21</cbc:StreetName>
+                  <cbc:CityName>Brussels</cbc:CityName>
+                  <cbc:PostalZone>B-1050</cbc:PostalZone>
+                  <cbc:CountrySubentityCode listName="nuts">BE100</cbc:CountrySubentityCode>
+                  <cac:Country>
+                    <cbc:IdentificationCode listName="country">BEL</cbc:IdentificationCode>
+                  </cac:Country>
+                </cac:PostalAddress>
+                <cac:PartyLegalEntity>
+                  <cbc:CompanyID>EUCOM</cbc:CompanyID>
+                </cac:PartyLegalEntity>
+                <cac:Contact>
+                  <cbc:Telephone>+32 2 299 11 11</cbc:Telephone>
+                  <cbc:ElectronicMail>cnect-tendering@ec.europa.eu</cbc:ElectronicMail>
+                </cac:Contact>
+              </efac:Company>
+            </efac:Organization>
+          </efac:Organizations>
+        <efac:Publication><efbc:NoticePublicationID schemeName="ojs-notice-id">00762241-2025</efbc:NoticePublicationID><efbc:GazetteID schemeName="ojs-id">222/2025</efbc:GazetteID><efbc:PublicationDate>2025-11-18+01:00</efbc:PublicationDate></efac:Publication></efext:EformsExtension>
+      </ext:ExtensionContent>
+    </ext:UBLExtension>
+  </ext:UBLExtensions>
+  <cbc:UBLVersionID>2.3</cbc:UBLVersionID>
+  <cbc:CustomizationID>eforms-sdk-1.13</cbc:CustomizationID>
+  <cbc:ID schemeName="notice-id">3cdd3d9a-f2e8-40c0-aa90-7896ec7bf9e2</cbc:ID>
+  <cbc:ContractFolderID>2820fee6-b69f-4be1-9204-da30fdfc9809</cbc:ContractFolderID>
+  <cbc:IssueDate>2025-11-14+01:00</cbc:IssueDate>
+  <cbc:IssueTime>15:21:37+01:00</cbc:IssueTime>
+  <cbc:VersionID>01</cbc:VersionID>
+  <cbc:RegulatoryDomain>32024R2509</cbc:RegulatoryDomain>
+  <cbc:NoticeTypeCode listName="result">can-standard</cbc:NoticeTypeCode>
+  <cbc:NoticeLanguageCode>ENG</cbc:NoticeLanguageCode>
+  <cac:ContractingParty>
+    <cac:ContractingPartyType>
+      <cbc:PartyTypeCode listName="buyer-legal-type">eu-ins-bod-ag</cbc:PartyTypeCode>
+    </cac:ContractingPartyType>
+    <cac:ContractingActivity>
+      <cbc:ActivityTypeCode listName="authority-activity">gen-pub</cbc:ActivityTypeCode>
+    </cac:ContractingActivity>
+    <cac:Party>
+      <cac:PartyIdentification>
+        <cbc:ID>ORG-0001</cbc:ID>
+      </cac:PartyIdentification>
+      <cac:ServiceProviderParty>
+        <cbc:ServiceTypeCode listName="organisation-role">ted-esen</cbc:ServiceTypeCode>
+        <cac:Party>
+          <cac:PartyIdentification>
+            <cbc:ID>ORG-0003</cbc:ID>
+          </cac:PartyIdentification>
+        </cac:Party>
+      </cac:ServiceProviderParty>
+    </cac:Party>
+  </cac:ContractingParty>
+  <cac:TenderingProcess>
+    <cbc:ProcedureCode listName="procurement-procedure-type">open</cbc:ProcedureCode>
+    <cac:NoticeDocumentReference>
+      <cbc:ID>484917-2025</cbc:ID>
+    </cac:NoticeDocumentReference>
+  </cac:TenderingProcess>
+  <cac:ProcurementProject>
+    <cbc:ID>EC-CNECT/2024/OP/0094</cbc:ID>
+    <cbc:Name languageID="ENG">AI for Public Good Lot 1 (Health: Innovative AI-based cancer imaging solutions for breast and prostate diagnosis) and Lot 2 (Energy: Innovative AI-based solutions for electric grid optimization)</cbc:Name>
+    <cbc:Description languageID="ENG">The purpose of this call is to cover the EU activities of the EU-US scientific collaboration described above, to develop and test AI-based solutions for the benefit of the two counterparts as well as wider communities and third countries. The call has two lots, on AI for Cancer imaging (LOT1) and on AI for Electric grid optimisation (LOT2).</cbc:Description>
+    <cbc:ProcurementTypeCode listName="contract-nature">services</cbc:ProcurementTypeCode>
+    <cac:RequestedTenderTotal>
+      <cbc:EstimatedOverallContractAmount currencyID="EUR">5400000</cbc:EstimatedOverallContractAmount>
+    </cac:RequestedTenderTotal>
+    <cac:MainCommodityClassification>
+      <cbc:ItemClassificationCode listName="cpv">73000000</cbc:ItemClassificationCode>
+    </cac:MainCommodityClassification>
+    <cac:RealizedLocation>
+      <cbc:Description languageID="ENG">Please consult the procurement documents.</cbc:Description>
+      <cac:Address>
+        <cbc:Region>anyw</cbc:Region>
+      </cac:Address>
+    </cac:RealizedLocation>
+  </cac:ProcurementProject>
+  <cac:ProcurementProjectLot>
+    <cbc:ID schemeName="Lot">LOT-0001</cbc:ID>
+    <cac:TenderingTerms>
+      <cbc:FundingProgramCode listName="eu-funded">eu-funds</cbc:FundingProgramCode>
+      <cac:AwardingTerms>
+        <cac:AwardingCriterion>
+          <cac:SubordinateAwardingCriterion>
+            <ext:UBLExtensions>
+              <ext:UBLExtension>
+                <ext:ExtensionContent>
+                  <efext:EformsExtension>
+                    <efac:AwardCriterionParameter>
+                      <efbc:ParameterCode listName="number-weight">per-exa</efbc:ParameterCode>
+                      <efbc:ParameterNumeric>60</efbc:ParameterNumeric>
+                    </efac:AwardCriterionParameter>
+                  </efext:EformsExtension>
+                </ext:ExtensionContent>
+              </ext:UBLExtension>
+            </ext:UBLExtensions>
+            <cbc:AwardingCriterionTypeCode listName="award-criterion-type">quality</cbc:AwardingCriterionTypeCode>
+            <cbc:Description languageID="ENG">Please consult the procurement documents.</cbc:Description>
+          </cac:SubordinateAwardingCriterion>
+          <cac:SubordinateAwardingCriterion>
+            <ext:UBLExtensions>
+              <ext:UBLExtension>
+                <ext:ExtensionContent>
+                  <efext:EformsExtension>
+                    <efac:AwardCriterionParameter>
+                      <efbc:ParameterCode listName="number-weight">per-exa</efbc:ParameterCode>
+                      <efbc:ParameterNumeric>40</efbc:ParameterNumeric>
+                    </efac:AwardCriterionParameter>
+                  </efext:EformsExtension>
+                </ext:ExtensionContent>
+              </ext:UBLExtension>
+            </ext:UBLExtensions>
+            <cbc:AwardingCriterionTypeCode listName="award-criterion-type">price</cbc:AwardingCriterionTypeCode>
+            <cbc:Description languageID="ENG">Please consult the procurement documents.</cbc:Description>
+          </cac:SubordinateAwardingCriterion>
+        </cac:AwardingCriterion>
+      </cac:AwardingTerms>
+      <cac:AppealTerms>
+        <cac:AppealInformationParty>
+          <cac:PartyIdentification>
+            <cbc:ID>ORG-0001</cbc:ID>
+          </cac:PartyIdentification>
+        </cac:AppealInformationParty>
+        <cac:AppealReceiverParty>
+          <cac:PartyIdentification>
+            <cbc:ID>ORG-0002</cbc:ID>
+          </cac:PartyIdentification>
+        </cac:AppealReceiverParty>
+      </cac:AppealTerms>
+    </cac:TenderingTerms>
+    <cac:TenderingProcess>
+      <cbc:GovernmentAgreementConstraintIndicator>false</cbc:GovernmentAgreementConstraintIndicator>
+      <cac:AuctionTerms>
+        <cbc:AuctionConstraintIndicator>false</cbc:AuctionConstraintIndicator>
+      </cac:AuctionTerms>
+      <cac:ContractingSystem>
+        <cbc:ContractingSystemTypeCode listName="framework-agreement">none</cbc:ContractingSystemTypeCode>
+      </cac:ContractingSystem>
+      <cac:ContractingSystem>
+        <cbc:ContractingSystemTypeCode listName="dps-usage">none</cbc:ContractingSystemTypeCode>
+      </cac:ContractingSystem>
+    </cac:TenderingProcess>
+    <cac:ProcurementProject>
+      <cbc:ID>EC-CNECT/2024/OP/0094-LOT-1</cbc:ID>
+      <cbc:Name languageID="ENG">AI for Public Good (Health): Innovative AI-powered cancer imaging solutions for breast and prostate diagnosis</cbc:Name>
+      <cbc:Description languageID="ENG">The purpose of this call for tenders is to develop and test AI-powered solutions for the benefit of the
+EU as well as wider communities and third countries. The call has two lots, on AI for Cancer imaging
+(LOT1) and on AI for Electric grid optimisation (LOT2). LOT 1 will explore and demonstrate how AI-powered solutions applied to EU cancer imaging data
+can be further fine-tuned and applied in other locations and settings covering a large variety of
+populations, without transferring the underlying sensitive health data. It has two predefined use-cases,
+breast cancer and prostate cancer..</cbc:Description>
+      <cbc:ProcurementTypeCode listName="contract-nature">services</cbc:ProcurementTypeCode>
+      <cac:RequestedTenderTotal>
+        <cbc:EstimatedOverallContractAmount currencyID="EUR">2400000</cbc:EstimatedOverallContractAmount>
+      </cac:RequestedTenderTotal>
+      <cac:MainCommodityClassification>
+        <cbc:ItemClassificationCode listName="cpv">73000000</cbc:ItemClassificationCode>
+      </cac:MainCommodityClassification>
+      <cac:RealizedLocation>
+        <cbc:Description languageID="ENG">Please consult the procurement documents.</cbc:Description>
+        <cac:Address>
+          <cbc:Region>anyw</cbc:Region>
+        </cac:Address>
+      </cac:RealizedLocation>
+      <cac:PlannedPeriod>
+        <cbc:DurationMeasure unitCode="MONTH">24</cbc:DurationMeasure>
+      </cac:PlannedPeriod>
+    </cac:ProcurementProject>
+  </cac:ProcurementProjectLot>
+  <cac:TenderResult>
+    <cbc:AwardDate>2025-11-10Z</cbc:AwardDate>
+  </cac:TenderResult>
+</ContractAwardNotice>

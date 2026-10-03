@@ -1,0 +1,166 @@
+<!doctype html>
+<!--
+  Form derivation (see findings.md "Form" section):
+  the eForms notice schema this case investigated nests
+  ProcurementProject > ProcurementProjectLot > TenderResult/LotResult.
+  This page keeps exactly that nesting, laid out twice side by side —
+  once per procurement edition — so the one fact this case adds (Lot 1
+  failed once, then succeeded on an unchanged re-run) is visible as a
+  difference between two otherwise identical structures, not as prose.
+  No template gallery: the two-column shape comes from there being
+  exactly two known editions of this call in the public record.
+-->
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>AI for Public Good — two editions of one call (case c-20261003-06)</title>
+<style>
+  :root {
+    color-scheme: light dark;
+    --bg: #faf9f6; --fg: #1c1c1a; --muted: #6b6a64; --line: #e2e0d8;
+    --fail: #8a2a1e; --fail-bg: #f8e9e6; --ok: #0a6b3d; --ok-bg: #e3f2e9;
+    --accent: #1a4f8a;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #16161a; --fg: #e8e6e0; --muted: #9a988f; --line: #32323a;
+      --fail: #e0897a; --fail-bg: #331810; --ok: #6fce9e; --ok-bg: #10301f;
+      --accent: #7aaede;
+    }
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0 auto; padding: 2rem 1rem 4rem; max-width: 56rem;
+    background: var(--bg); color: var(--fg);
+    font: 1rem/1.55 ui-sans-serif, system-ui, sans-serif;
+  }
+  h1 { font-size: 1.25rem; letter-spacing: 0.02em; margin: 0 0 0.3rem; }
+  .sub { color: var(--muted); margin: 0 0 1.6rem; }
+  code { font-family: ui-monospace, monospace; font-size: 0.9em; }
+  .editions {
+    display: grid; grid-template-columns: 1fr 1fr; gap: 1.2rem;
+  }
+  @media (max-width: 40rem) { .editions { grid-template-columns: 1fr; } }
+  .edition { border: 1px solid var(--line); border-radius: 8px; padding: 1rem 1.1rem; }
+  .edition h2 { font-size: 1rem; margin: 0 0 0.2rem; }
+  .edition .meta { color: var(--muted); font-size: 0.85rem; margin: 0 0 1rem; }
+  .stage { border-top: 1px dashed var(--line); padding: 0.7rem 0 0.1rem; }
+  .stage:first-of-type { border-top: none; }
+  .stage h3 { font-size: 0.85rem; text-transform: uppercase; letter-spacing: 0.06em;
+              color: var(--muted); margin: 0 0 0.35rem; }
+  .fact { margin: 0 0 0.5rem; }
+  .pub { color: var(--muted); }
+  .status { display: inline-block; font-size: 0.78rem; padding: 0.05rem 0.5rem;
+            border-radius: 99px; letter-spacing: 0.03em; margin-left: 0.3rem; }
+  .status.fail { background: var(--fail-bg); color: var(--fail); }
+  .status.ok { background: var(--ok-bg); color: var(--ok); }
+  .status.unknown { background: var(--line); color: var(--muted); }
+  .annotation {
+    margin: 2rem 0; padding: 1rem 1.2rem; border-left: 3px solid var(--accent);
+    background: color-mix(in srgb, var(--accent) 8%, transparent);
+  }
+  .annotation h2 { font-size: 0.95rem; margin: 0 0 0.4rem; }
+  footer { margin-top: 2.5rem; border-top: 1px solid var(--line); padding-top: 1rem;
+           color: var(--muted); font-size: 0.82rem; }
+  a { color: var(--accent); }
+</style>
+</head>
+<body>
+
+<h1>"AI for Public Good" — two editions of one procurement, not two</h1>
+<p class="sub">European Commission, DG CNECT — Communications Networks, Content
+and Technology. Case <code>c-20261003-06</code>, terminal state
+<strong>RESEARCH_RESULT</strong>. Every figure below is a quote from a preserved,
+hashed TED eForms notice; see <code>cases/c-20261003-06/claims.json</code> for
+the evidence chain behind each one.</p>
+
+<div class="editions">
+
+  <section class="edition">
+    <h2>Edition 1 — <code>EC-CNECT/2024/OP/0094</code></h2>
+    <p class="meta">Estimated budget: €5,400,000 (Lot 1 €2,400,000 · Lot 2 €3,000,000)</p>
+
+    <div class="stage">
+      <h3>Contract notice</h3>
+      <p class="fact"><code>484917-2025</code> <span class="pub">published 2025-07-24</span></p>
+    </div>
+
+    <div class="stage">
+      <h3>Lot 1 — Health (cancer imaging)</h3>
+      <p class="fact">
+        <code>762241-2025</code> <span class="pub">award notice, published 2025-11-18</span>
+        <span class="status fail">closed — no winner</span>
+      </p>
+      <p class="fact">11 electronic submissions received; decision dated 2025-11-10.
+      Non-award justification code: <code>other</code>.</p>
+    </div>
+
+    <div class="stage">
+      <h3>Lot 2 — Energy (grid optimisation)</h3>
+      <p class="fact">
+        <code>763846-2025</code> <span class="pub">award notice, published 2025-11-18</span>
+        <span class="status unknown">not retrievable</span>
+      </p>
+      <p class="fact">TED's XML endpoint returned HTTP 202 (empty body) on every
+      retrieval attempt. Outcome not claimed either way.</p>
+    </div>
+  </section>
+
+  <section class="edition">
+    <h2>Edition 2 — <code>EC-CNECT/2026/OP/0003</code></h2>
+    <p class="meta">Estimated budget: €5,400,000 (Lot 1 €2,400,000 · Lot 2 €3,000,000)</p>
+
+    <div class="stage">
+      <h3>Contract notice</h3>
+      <p class="fact"><code>115144-2026</code> <span class="pub">published 2026-02-17</span></p>
+    </div>
+
+    <div class="stage">
+      <h3>Lot 1 — Health (cancer imaging)</h3>
+      <p class="fact">
+        <code>677429-2026</code> <span class="pub">award notice, published 2026-10-01</span>
+        <span class="status ok">awarded</span>
+      </p>
+      <p class="fact">€2,060,727.30 to a consortium including Fundação Champalimaud,
+      awarded 2026-09-04.</p>
+    </div>
+
+    <div class="stage">
+      <h3>Lot 2 — Energy (grid optimisation)</h3>
+      <p class="fact">
+        <code>676246-2026</code> <span class="pub">award notice, published 2026-10-01</span>
+        <span class="status ok">awarded</span>
+      </p>
+      <p class="fact">€2,711,670 to a consortium led by INESC TEC, awarded
+      2026-08-25. Horizon Europe funded (HORIZONEU).</p>
+    </div>
+  </section>
+
+</div>
+
+<div class="annotation">
+<h2>What this shows</h2>
+<p>Same title, same two lots, same budget split, run fifteen months apart under
+two different contract folders. Lot 1 (the health lot) found no winner the
+first time despite eleven bids, and was re-run unchanged — in scope and
+budget — until it succeeded. This is ordinary procurement behaviour, not an
+irregularity: TED's own vocabulary has a standard code for exactly this
+outcome ("closed, no winner selected", justification "other"). The pattern
+is only visible by holding two notices, fifteen months and several hundred
+unrelated TED publications apart, in memory at once — which is the kind of
+fact a persistent machine archive surfaces and a one-at-a-time reader of
+daily procurement bulletins normally would not.</p>
+</div>
+
+<footer>
+<p>Source: TED (Tenders Electronic Daily), the EU's public procurement
+journal — eForms XML, preserved with SHA-256 and retrieval time. No natural
+persons appear on this page; all facts are organization-level. Full
+provenance chain and the two competing (boring) explanations that were
+tested and survived first: <code>cases/c-20261003-06/</code> in the
+repository.</p>
+</footer>
+
+</body>
+</html>

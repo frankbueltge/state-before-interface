@@ -1,0 +1,486 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><ContractNotice xmlns="urn:oasis:names:specification:ubl:schema:xsd:ContractNotice-2" xmlns:cac="urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-2" xmlns:cbc="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-2" xmlns:defext="german-eforms-extension" xmlns:efac="http://data.europa.eu/p27/eforms-ubl-extension-aggregate-components/1" xmlns:efbc="http://data.europa.eu/p27/eforms-ubl-extension-basic-components/1" xmlns:efext="http://data.europa.eu/p27/eforms-ubl-extensions/1" xmlns:ext="urn:oasis:names:specification:ubl:schema:xsd:CommonExtensionComponents-2">
+   <ext:UBLExtensions>
+      <ext:UBLExtension>
+         <ext:ExtensionContent>
+            <efext:EformsExtension>
+               <efac:NoticeSubType>
+                  <cbc:SubTypeCode listName="notice-subtype">16</cbc:SubTypeCode>
+               </efac:NoticeSubType>
+               <efac:Organizations>
+                  <efac:Organization>
+                     <efac:Company>
+                        <cbc:WebsiteURI>http://www.helmholtz-berlin.de</cbc:WebsiteURI>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="DEU">Helmholtz-Zentrum Berlin für Materialien und Energie GmbH (HZB)</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:StreetName>Hahn-Meitner-Platz 1</cbc:StreetName>
+                           <cbc:CityName>Berlin</cbc:CityName>
+                           <cbc:PostalZone>14109</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">DE300</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">DEU</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>Berichtseinheit-ID 00005522</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:Telephone>+49 308062-13185</cbc:Telephone>
+                           <cbc:ElectronicMail>vergabe@helmholtz-berlin.de</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+                  <efac:Organization>
+                     <efac:Company>
+                        <cbc:WebsiteURI>https://www.bundeskartellamt.de</cbc:WebsiteURI>
+                        <cac:PartyIdentification>
+                           <cbc:ID schemeName="organization">ORG-0002</cbc:ID>
+                        </cac:PartyIdentification>
+                        <cac:PartyName>
+                           <cbc:Name languageID="DEU">Bundeskartellamt - Vergabekammern des Bundes</cbc:Name>
+                        </cac:PartyName>
+                        <cac:PostalAddress>
+                           <cbc:StreetName>Bundeskanzlerplatz 2–10</cbc:StreetName>
+                           <cbc:CityName>Bonn</cbc:CityName>
+                           <cbc:PostalZone>53113</cbc:PostalZone>
+                           <cbc:CountrySubentityCode listName="nuts">DEA22</cbc:CountrySubentityCode>
+                           <cac:Country>
+                              <cbc:IdentificationCode listName="country">DEU</cbc:IdentificationCode>
+                           </cac:Country>
+                        </cac:PostalAddress>
+                        <cac:PartyLegalEntity>
+                           <cbc:CompanyID>991-02380-92</cbc:CompanyID>
+                        </cac:PartyLegalEntity>
+                        <cac:Contact>
+                           <cbc:Telephone>+49 2289499-0</cbc:Telephone>
+                           <cbc:Telefax>+49 2289499-163</cbc:Telefax>
+                           <cbc:ElectronicMail>vk@bundeskartellamt.bund.de</cbc:ElectronicMail>
+                        </cac:Contact>
+                     </efac:Company>
+                  </efac:Organization>
+               <efac:Organization><efac:Company><cac:PartyIdentification><cbc:ID schemeName="organization">ORG-0003</cbc:ID></cac:PartyIdentification><cac:PartyName><cbc:Name languageID="DEU">Datenservice Öffentlicher Einkauf (in Verantwortung des Beschaffungsamts des BMI)</cbc:Name></cac:PartyName><cac:PostalAddress><cbc:CityName>Bonn</cbc:CityName><cbc:PostalZone>53119</cbc:PostalZone><cbc:CountrySubentityCode listName="nuts">DEA22</cbc:CountrySubentityCode><cac:Country><cbc:IdentificationCode listName="country">DEU</cbc:IdentificationCode></cac:Country></cac:PostalAddress><cac:PartyLegalEntity><cbc:CompanyID schemeID="002">0204:994-DOEVD-83</cbc:CompanyID></cac:PartyLegalEntity><cac:Contact><cbc:Telephone>+49228996100</cbc:Telephone><cbc:ElectronicMail>noreply.esender_hub@bescha.bund.de</cbc:ElectronicMail></cac:Contact></efac:Company></efac:Organization></efac:Organizations>
+            <efac:Publication><efbc:NoticePublicationID schemeName="ojs-notice-id">00682877-2026</efbc:NoticePublicationID><efbc:GazetteID schemeName="ojs-id">192/2026</efbc:GazetteID><efbc:PublicationDate>2026-10-05+02:00</efbc:PublicationDate></efac:Publication></efext:EformsExtension>
+         </ext:ExtensionContent>
+      </ext:UBLExtension>
+   </ext:UBLExtensions>
+   <cbc:UBLVersionID>2.3</cbc:UBLVersionID>
+   <cbc:CustomizationID>eforms-sdk-1.14</cbc:CustomizationID>
+   <cbc:ProfileID>eforms-sdk-1.14</cbc:ProfileID>
+   <cbc:ID schemeName="notice-id">6aeced38-a56e-4117-912c-cf29c36ade2a</cbc:ID>
+   <cbc:ContractFolderID>9d59b24e-f0be-49b2-a02f-4d56fd3c61e1</cbc:ContractFolderID>
+   <cbc:IssueDate>2026-10-02+02:00</cbc:IssueDate>
+   <cbc:IssueTime>13:28:13+02:00</cbc:IssueTime>
+   <cbc:VersionID>01</cbc:VersionID>
+   <cbc:RequestedPublicationDate>2026-10-02+02:00</cbc:RequestedPublicationDate>
+   <cbc:RegulatoryDomain>32014L0024</cbc:RegulatoryDomain>
+   <cbc:NoticeTypeCode listName="competition">cn-standard</cbc:NoticeTypeCode>
+   <cbc:NoticeLanguageCode>DEU</cbc:NoticeLanguageCode>
+   <cac:ContractingParty>
+      <cac:ContractingPartyType>
+         <cbc:PartyTypeCode listName="buyer-legal-type">pub-undert-cga</cbc:PartyTypeCode>
+      </cac:ContractingPartyType>
+      <cac:ContractingActivity>
+         <cbc:ActivityTypeCode listName="authority-activity">education</cbc:ActivityTypeCode>
+      </cac:ContractingActivity>
+      <cac:Party>
+         <cac:PartyIdentification>
+            <cbc:ID schemeName="organization">ORG-0001</cbc:ID>
+         </cac:PartyIdentification>
+      <cac:ServiceProviderParty><cbc:ServiceTypeCode listName="organisation-role">ted-esen</cbc:ServiceTypeCode><cac:Party><cac:PartyIdentification><cbc:ID schemeName="organization">ORG-0003</cbc:ID></cac:PartyIdentification></cac:Party></cac:ServiceProviderParty></cac:Party>
+   </cac:ContractingParty>
+   <cac:TenderingTerms>
+      <cac:ProcurementLegislationDocumentReference>
+         <cbc:ID>vgv</cbc:ID>
+         <cbc:DocumentDescription languageID="DEU">VgV</cbc:DocumentDescription>
+      </cac:ProcurementLegislationDocumentReference>
+      <cac:TendererQualificationRequest>
+         <cac:SpecificTendererRequirement>
+            <cbc:TendererRequirementTypeCode listName="exclusion-ground">exg-sitn-liq-admin</cbc:TendererRequirementTypeCode>
+            <cbc:Description languageID="DEU">Es werden Bieter ausgeschlossen:
+• deren Angebote nicht den Bewerbungsbedingungen entsprechen,
+• über deren Vermögen ein Konkursverfahren oder ein Vergleichsverfahren eröffnet oder die Eröffnung beantragt worden ist,
+• die sich in Liquidation befinden,
+• die nachweislich eine schwere Verfehlung begangen haben, die ihre Zuverlässigkeit als Bewerber in Frage stellt,
+• die ihre Verpflichtung zur Zahlung von Steuern und Abgaben sowie der Beiträge zur gesetzlichen Sozialversicherung nicht ordnungsgemäß erfüllt haben,
+• die im Vergabeverfahren vorsätzlich unzutreffende Erklärungen in Bezug auf ihre Fachkunde, Leistungsfähigkeit und Zuverlässigkeit abgegeben haben.
+***
+Weiterhin gelten die Ausschlusskriterien gemäß VgV Unterabschnitt 7 (§§ 56-63).
+***</cbc:Description>
+         </cac:SpecificTendererRequirement>
+      </cac:TendererQualificationRequest>
+      <cac:TendererQualificationRequest>
+         <cac:SpecificTendererRequirement>
+            <cbc:TendererRequirementTypeCode listName="exclusion-grounds-source">epo-notice</cbc:TendererRequirementTypeCode>
+         </cac:SpecificTendererRequirement>
+      </cac:TendererQualificationRequest>
+   </cac:TenderingTerms>
+   <cac:TenderingProcess>
+      <cbc:ProcedureCode listName="procurement-procedure-type">open</cbc:ProcedureCode>
+      <cac:ProcessJustification>
+         <cbc:ProcessReasonCode listName="accelerated-procedure">false</cbc:ProcessReasonCode>
+      </cac:ProcessJustification>
+   </cac:TenderingProcess>
+   <cac:ProcurementProject>
+      <cbc:ID schemeName="InternalID">V427_2026</cbc:ID>
+      <cbc:Name languageID="DEU">V427_2026 – WI-AOS – Toroid-Spiegel für KMC-1 (Bessy II+)</cbc:Name>
+      <cbc:Description languageID="DEU">Die Helmholtz-Zentrum Berlin für Materialien und Energie GmbH (HZB) ist ein unabhängiges wissenschaftliches Forschungszentrum unter dem Dach der Helmholtz-Gemeinschaft mit Standorten in Berlin-Adlershof und Wannsee.
+
+Der Elektronenspeicherring BESSY II liefert hochbrillante Synchrotronstrahlung vom Terahertz- bis zum Röntgenbereich. Mit seinem Schwerpunkt auf VUV- und weicher Röntgenstrahlung eignet sich BESSY II hervorragend für die Analyse von Energiematerialien und Dünnschichtsystemen. Die Weiterentwicklung der Instrumentierung sowie die Erarbeitung eines Konzepts für eine Nachfolgequelle (BESSY III) gehören zu den wichtigsten Aufgaben der kommenden Jahre.
+
+An unserem Elektronenspeicherring BESSY II verzeichnen wir jährlich durchschnittlich 2.700 Besuche von Gastforschenden aus 28 Ländern. Jährlich erscheinen 500 bis 600 Publikationen in wissenschaftlichen Fachzeitschriften, die auf Messungen an BESSY II sowie – bis Ende 2019 – auf Messungen am BER II basieren.
+
+Das Upgrade-Programm „BESSY II+“:
+Dieses Programm ermöglicht es, die Spitzenforschung an BESSY II fortzuführen und neue Konzepte im Hinblick auf die Nachfolgequelle BESSY III zu erproben. BESSY soll zu einem „Operando-Synchrotron für die Energiewende“ werden.
+
+BESSY II+ umfasst neue experimentelle Möglichkeiten, insbesondere für Operando-Untersuchungen. Diese erlauben es beispielsweise, Batterien oder Solarzellen „im Betrieb“ zu beobachten. Neben den neuen „Operando“-Möglichkeiten konzentriert sich das Projekt BESSY II+ auch auf die Themen „Modernisierung“ und „Nachhaltigkeit“. Zur Nachhaltigkeit gehört unter anderem die Nutzung der Abwärme aus der Experimentierhalle von BESSY II. Zudem werden zunehmend maschinelles Lernen und künstliche Intelligenz in viele Prozesse integriert.
+
+Im Rahmen des Modernisierungsprojekts hat das HZB zusätzliche Fördermittel vom Bundesministerium für Bildung und Forschung (BMBF) erhalten. „Invest BESSY II+“ umfasst die wichtigsten Investitionen für das vom BMBF geförderte Projekt. Diese Förderung sichert die Entwicklung neuer Infrastrukturen, wie etwa des Instruments SoTeXS (Soft-to-Tender X-ray Spectroscopy). Dabei handelt es sich um ein umfassendes Konzept für metrologische, multimodale Experimente, die in der Batterie- und Materialforschung für Energieanwendungen eingesetzt werden können.
+
+Diese Ausschreibung umfasst die Beschaffung und Fertigung von zwei mit Pt/B4C beschichteten toroidalen Röntgen-Spiegeln (TO-1, TO-2) für die Messstation KMC-1 am Helmholtz-Zentrum Berlin. Die Spiegel dienen dazu, den weißen Strahl des Speicherrings zu fokussieren.</cbc:Description>
+      <cbc:ProcurementTypeCode listName="contract-nature">supplies</cbc:ProcurementTypeCode>
+      <cbc:Note languageID="DEU"># Besonders geeignet für:(freelance/Startup/Selbst)# - nicht zutreffend !
+
+Diese Ausschreibung wird einfach und kostengünstig über das elektronische Vergabeinformations-System
+subreport ELViS abgewickelt. Der Teilnahmeantrag sowie das Angebot und alle weiteren Unterlagen sind in elektronischer Form auf diesem
+Portal abzugeben. Bitte registrieren Sie sich kostenlos unter https://www.subreport.de.
+
+Erste Informationen erhalten Sie unter:
+subreport Verlag Schawe GmbH, Buchforststr. 1-15, 51101 Köln, Tel.: +49 (0)221/98578-23, Fax: +49 (0)221/98578-66, E-Mail: info@subreport.de , Internet: www.subreport.de
+***
+Angebote sind ausschließlich elektronisch in Textform abzugeben.
+***
+Nach kostenfreier und erfolgreicher Registrierung können die hinterlegten Vergabeunterlagen heruntergeladen werden.
+***
+Ihre Registrierung gewährleistet, dass Sie alle für die Ausschreibung relevanten Informationen, wie Antworten auf Bieterfragen und Änderungen bei den Fristen oder Vergabeunterlagen, automatisch an Ihre dort eingetragene E-Mail Adresse erhalten.
+***
+Sofern Sie bereit sind, an der Ausschreibung teilzunehmen, erbitten wir dazu Ihr Angebot ausschließlich in elektronischer Form. Laden Sie dies bei www. subreport.de bis zum Ablauf der Frist zur Abgabe (Eingangsdatum) hoch. 
+Nicht fristgerecht eingegangene, unvollständige und/oder formal nicht ordnungsgemäße Angebote bleiben unberücksichtigt. Fristgerecht bedeutet die Einreichung des vollständigen und unterschriebenen Angebots mit allen geforderten Unterlagen zum benannten Termin.
+Fehlende oder falsche Unterlagen werden nicht nachgefordert.
+
+Fragen können via Bieterkommunikation/Nachrichten ausschließlich elektronisch bis 7 Tage vor der Angebotsabgabefrist gestellt werden.
+Zur Wahrung des gleichen Informationsstandes aller Bewerber bzw. Bewerbergemeinschaften werden die anonymisierten Fragen und Antworten ausschließlich über subreport.de veröffentlicht. Es liegt in der Verantwortung des Bewerbers, sich über ergänzende Informationen in regelmäßigen Abständen zu informieren.
+
+Die AGB von Auftragnehmer und Auftraggeber sind ausgeschlossen und finden keine Anwendung. Sie werden vollständig ersetzt durch die Allgemeinen Vertragsbedingungen für die Ausführung von Leistungen (VOL/B), Fassung 2003.
+
+Änderungen und Ergänzungen der Verdingungsunterlagen sind unzulässig. Nebenangebote sind nicht zugelassen.
+
+Mit dem Angebotsdeckblatt (FB 633) ist ein detailliertes Angebot auf Geschäftspapier und ggf. das Preisblatt (siehe Technical Specification) abzugeben. Das Angebot muss die Preise und eine ausführliche Beschreibung zum Angebotsumfang sowie zum Liefer-/ Leistungszeitraum enthalten. Dadurch muss belegt werden, dass die Vorgaben der Leistungsbeschreibung eingehalten werden. Das Angebot muss alle (sonstigen) geforderten Angaben und Erklärungen enthalten sowie rechtsverbindlich unterschrieben sein. 
+
+Unvollständige Angebote werden ausgeschlossen.
+
+Enthalten die Verdingungsunterlagen nach Auffassung des Bewerbers / Bieters Unklarheiten oder sind diese zur Vertragsausführung unwirtschaftlich, fehlerhaft, unvollständig, nicht eindeutig oder sind die Leistungen objektiv so nicht ausführbar, so hat der Bewerber / Bieter die ausschreibende Stelle unverzüglich schriftlich auf dieses und die erkennbaren Folgen hinzuweisen.
+
+Der Einwand, dass sich der Bewerber / Bieter über den Umfang der Leistung oder die Art und Weise der Ausführung nicht genügend informieren konnte, ist ausgeschlossen. 
+
+Unzulässig sind den Wettbewerb beschränkende Absprachen im Sinne des Gesetzes gegen Wettbewerbsbeschränkungen, insbesondere Verabredungen oder Empfehlungen über die Abgabe bzw. Nichtabgabe von Angeboten und über die zu fordernden Preise.
+
+Das Angebot kann nur bis zum Ablauf der Angebotsfrist geändert, berichtigt oder zurückgezogen werden. Vom Ablauf der Angebotsfrist an bis zum Ablauf der Bindefrist ist der Bieter an sein Angebot gebunden. Das Angebot sowie alle Anlagen und die geforderten Nachweise müssen in sämtlichen Teilen in deutscher oder englischer Sprache vorliegen. Anderssprachige Unterlagen werden nicht gewertet; es sei denn, es liegt eine beglaubigte Übersetzung bei.
+
+Sämtliche Preisangaben sind in EURO netto, d. h. ohne USt, zu machen. Das FB 633 VHB „Angebotsschreiben“ fordert die Angabe von Brutto-Preisen. Dies gilt jedoch nur für Bieter aus der Bundesrepublik Deutschland.
+***
+Alle Angebote sind verbindlich abzugeben.
+
+Mitteilung von Unklarheiten in den Vergabeunterlagen:
+Die Bieter haben sich unmittelbar nach Erhalt der Vergabeunterlagen über deren Vollständigkeit zu vergewissern.
+Enthalten die Vergabeunterlagen nach Auffassung des Bieters Unklarheiten, Ungenauigkeiten oder Rechtsverstöße, so hat der Bieter den Auftraggeber unverzüglich – spätestens 7 Tage vor Ablauf der Frist zur Angebotsabgabe - schriftlich darauf hinzuweisen.
+
+Die Bieter sind verpflichtet, die Vollständigkeit und Lesbarkeit aller Unterlagen unverzüglich zu überprüfen. Nur so verbleibt der Vergabestelle ausreichend Zeit und Gelegenheit, angemessen auf die Anzeigen und Hinweise zu reagieren, dies allen Bietern im Rahmen der gebotenen Verfahrenstransparenz und Gleichbehandlung mitzuteilen und so die Möglichkeit zu geben, diese Aspekte bei der Angebotserstellung rechtzeitig zu berücksichtigen.
+
+Offene Fragestellungen / Rückfragen:
+Technische Fragen oder Anmerkungen senden Sie bitte ausschließlich über die Vergabeplattform unter Menüpunkt „Nachrichten Bieterkommunikation - Nachrichten“ in Subreport Elvis. Anfragen per Telefon oder Email sind nicht zulässig und bleiben unbeantwortet.
+
+Wir werden Ihre Fragestellung möglichst kurzfristig beantworten, und sowohl Ihre Fragestellung als auch die resultierende(n) Antwort(en) allen Bietern im Zuge der Gleichbehandlung zusenden.
+***
+Für Informationen zum allgemeinen Rechtsrahmen können Bewerber sich an nachfolgend aufgeführte Stellen wenden:
+
+•	Steuerrecht: 
+www.bundesfinanzministerium.de 
+Rubrik Steuern,
+Bundesfinanzministerium, 11016 Berlin, 
+Tel.-Nr.: 01888/682-0, Fax: 01888/682-4248, 
+
+•	Umweltrecht: 
+www.bundesumweltministerium.de 
+Rubrik Gesetze/Verordnungen, Bundesumweltministerium, Postfach 120629, 
+53048 Bonn, Tel.-Nr.: 01888/305-0, Fax: 01888/305-3225, 
+
+•	Arbeitsschutz und Arbeitsbedingungen: 
+www.bmas.bund.de 
+Rubrik Arbeitsschutz; Bundesministerium für Arbeit und Soziales, 53107 Bonn, 
+Tel.-Nr.: 01888/527-0, Fax: 01888/527-4900
+
+Zur Nachprüfung behaupteter Verstöße gegen Vergabebestimmungen können sich die Bewerber oder Bieter an nachfolgend aufgeführte Stelle wenden: 
+
+www.bundeskartellamt.de
+Vergabekammern des Bundes, Bundeskartellamt, Bundeskanzlerplatz 2-10, 53113 Bonn
+Tel.-Nr.: +49 2289499-0, Email: vk@bundeskartellamt.bund.de
+***</cbc:Note>
+      <cac:MainCommodityClassification>
+         <cbc:ItemClassificationCode listName="cpv">38000000</cbc:ItemClassificationCode>
+      </cac:MainCommodityClassification>
+      <cac:AdditionalCommodityClassification>
+         <cbc:ItemClassificationCode listName="cpv">38622000</cbc:ItemClassificationCode>
+      </cac:AdditionalCommodityClassification>
+      <cac:RealizedLocation>
+         <cbc:Description languageID="DEU">Empfänger: WI-AOS</cbc:Description>
+         <cac:Address>
+            <cbc:StreetName>Albert-Einstein-Straße 15</cbc:StreetName>
+            <cbc:CityName>Berlin</cbc:CityName>
+            <cbc:PostalZone>12489 Berlin</cbc:PostalZone>
+            <cbc:CountrySubentityCode listName="nuts">DE300</cbc:CountrySubentityCode>
+            <cac:Country>
+               <cbc:IdentificationCode listName="country">DEU</cbc:IdentificationCode>
+            </cac:Country>
+         </cac:Address>
+      </cac:RealizedLocation>
+   </cac:ProcurementProject>
+   <cac:ProcurementProjectLot>
+      <cbc:ID schemeName="Lot">LOT-0001</cbc:ID>
+      <cac:TenderingTerms>
+         <ext:UBLExtensions>
+            <ext:UBLExtension>
+               <ext:ExtensionContent>
+                  <efext:EformsExtension>
+                     <efac:SelectionCriteria>
+                        <cbc:TendererRequirementTypeCode listName="selection-criterion">slc-suit-reg-trade</cbc:TendererRequirementTypeCode>
+                        <cbc:Description languageID="DEU">Zum Nachweis seiner Fachkunde, Leistungsfähigkeit und Zuverlässigkeit entsprechend VgV Unterabschnitt 5 (§§ 42 – 51) sind durch den Bewerber / Bieter mit dem Teilnahmeantrag und dem Angebot die nachfolgenden Unterlagen einzureichen:
+
+• Teilnahmeantrag,
+• Bewerbungsbogen - vollständig ausgefüllt und rechtsverbindlich unterzeichnet inkl. Erklärung über den Gesamtumsatz des Unternehmens sowie ggf. den Umsatz bezüglich der besonderen Leistungsart, die Gegenstand der Vergabe ist, bezogen auf die letzten drei Geschäftsjahre. Sofern dies nicht gelingt, z. B. aufgrund von Fusion, Übernahme oder Umfirmierung, sind entsprechende Nachweise der Unternehmenswandlung beizulegen. Die wirtschaftliche Leistungsfähigkeit ist hierbei hervorzuheben.
+• Drei Referenzen vergleichbarer Komplexität, möglichst nicht älter als fünf Jahre, mit Beschreibung des Projektes, dessen Dauer und Fertigstellung sowie Angabe eines Ansprechpartners vom Auftraggeber mit Position und Telefonnummer.
+
+• Nachweis der Vertretungsbefugnis bei juristischen Personen 
+• Unterschriebene Eigenerklärungen: 
+- EE EU Angaben zum Bieter,
+- EE EU GWB 123 124, 
+- EE EU Sanktionen RUS,
+- EE EU Nachhaltigkeit, 
+- EE EU Angaben zum MiLoG sowie 
+- EE EU Verkaufszahlen
+
+• Nachweis der Haftpflichtversicherung des Unternehmens
+• Handelsregisterauszug
+• Kurze Unternehmenspräsentation 
+• Ggf. Bevollmächtigung des Vertreters bei Bietergemeinschaften sowie angaben zu Nachunternehmerleistungen</cbc:Description>
+                     </efac:SelectionCriteria>
+                     <efac:StrategicProcurement>
+                        <efbc:ApplicableLegalBasis listName="cvd-scope">false</efbc:ApplicableLegalBasis>
+                     </efac:StrategicProcurement>
+                  </efext:EformsExtension>
+               </ext:ExtensionContent>
+            </ext:UBLExtension>
+         </ext:UBLExtensions>
+         <cbc:VariantConstraintCode listName="permission">not-allowed</cbc:VariantConstraintCode>
+         <cbc:FundingProgramCode listName="eu-funded">no-eu-funds</cbc:FundingProgramCode>
+         <cbc:RequiredCurriculaCode listName="requirement-stage">not-requ</cbc:RequiredCurriculaCode>
+         <cbc:RecurringProcurementIndicator>false</cbc:RecurringProcurementIndicator>
+         <cbc:MultipleTendersCode listName="permission">not-allowed</cbc:MultipleTendersCode>
+         <cac:RequiredFinancialGuarantee>
+            <cbc:GuaranteeTypeCode listName="tender-guarantee-required">false</cbc:GuaranteeTypeCode>
+         </cac:RequiredFinancialGuarantee>
+         <cac:CallForTendersDocumentReference>
+            <ext:UBLExtensions>
+               <ext:UBLExtension>
+                  <ext:ExtensionContent>
+                     <efext:EformsExtension>
+                        <efac:NonOfficialLanguages>
+                           <cac:Language>
+                              <cbc:ID>ENG</cbc:ID>
+                           </cac:Language>
+                        </efac:NonOfficialLanguages>
+                        <efac:OfficialLanguages>
+                           <cac:Language>
+                              <cbc:ID>DEU</cbc:ID>
+                           </cac:Language>
+                        </efac:OfficialLanguages>
+                     </efext:EformsExtension>
+                  </ext:ExtensionContent>
+               </ext:UBLExtension>
+            </ext:UBLExtensions>
+            <cbc:ID>E28166494</cbc:ID>
+            <cbc:DocumentType>non-restricted-document</cbc:DocumentType>
+            <cac:Attachment>
+               <cac:ExternalReference>
+                  <cbc:URI>https://www.subreport.de/E28166494</cbc:URI>
+               </cac:ExternalReference>
+            </cac:Attachment>
+         </cac:CallForTendersDocumentReference>
+         <cac:PaymentTerms>
+            <cbc:Note languageID="DEU">Die AGB von Auftraggeber und Auftragnehmer sind grundsätzlich ausgeschlossen und finden keine Anwendung. Sie werden vollständig ersetzt durch die Allgemeinen Vertragsbedingungen für die Ausführung von Leistungen (VOL/B), Fassung 2003. 
+***
+Zahlungsbedingungen: 100 % nach Lieferung und finaler Abnahme. Die Zahlung der Rechnung erfolgt innerhalb von 30 Tagen nach Rechnungseingang, netto, per Überweisung. 
+***
+HZB-Vertragsbedingungen // HZB-Besondere Vertragsbedingungen: Angebote, die von den genannten Vertragsbedingungen abweichen, werden von der Auftragsvergabe ausgeschlossen.</cbc:Note>
+         </cac:PaymentTerms>
+         <cac:TendererQualificationRequest>
+            <cbc:CompanyLegalFormCode listName="required">false</cbc:CompanyLegalFormCode>
+         </cac:TendererQualificationRequest>
+         <cac:TendererQualificationRequest>
+            <cac:SpecificTendererRequirement>
+               <cbc:TendererRequirementTypeCode listName="selection-criteria-source">epo-notice</cbc:TendererRequirementTypeCode>
+            </cac:SpecificTendererRequirement>
+         </cac:TendererQualificationRequest>
+         <cac:TendererQualificationRequest>
+            <cac:SpecificTendererRequirement>
+               <cbc:TendererRequirementTypeCode listName="reserved-procurement">none</cbc:TendererRequirementTypeCode>
+            </cac:SpecificTendererRequirement>
+         </cac:TendererQualificationRequest>
+         <cac:TendererQualificationRequest>
+            <cac:SpecificTendererRequirement>
+               <cbc:TendererRequirementTypeCode listName="missing-info-submission">late-all</cbc:TendererRequirementTypeCode>
+               <cbc:Description languageID="DEU">siehe Bewerbungsbedingungen und Vergabeunterlagen</cbc:Description>
+            </cac:SpecificTendererRequirement>
+         </cac:TendererQualificationRequest>
+         <cac:ContractExecutionRequirement>
+            <cbc:ExecutionRequirementCode listName="ecatalog-submission">not-allowed</cbc:ExecutionRequirementCode>
+         </cac:ContractExecutionRequirement>
+         <cac:ContractExecutionRequirement>
+            <cbc:ExecutionRequirementCode listName="einvoicing">required</cbc:ExecutionRequirementCode>
+         </cac:ContractExecutionRequirement>
+         <cac:ContractExecutionRequirement>
+            <cbc:ExecutionRequirementCode listName="esignature-submission">false</cbc:ExecutionRequirementCode>
+         </cac:ContractExecutionRequirement>
+         <cac:ContractExecutionRequirement>
+            <cbc:ExecutionRequirementCode listName="nda">false</cbc:ExecutionRequirementCode>
+         </cac:ContractExecutionRequirement>
+         <cac:ContractExecutionRequirement>
+            <cbc:ExecutionRequirementCode listName="reserved-execution">no</cbc:ExecutionRequirementCode>
+         </cac:ContractExecutionRequirement>
+         <cac:AwardingTerms>
+            <cac:AwardingCriterion>
+               <cbc:CalculationExpression languageID="DEU">siehe Bewertungsmatrix</cbc:CalculationExpression>
+               <cac:SubordinateAwardingCriterion>
+                  <cbc:AwardingCriterionTypeCode listName="award-criterion-type">price</cbc:AwardingCriterionTypeCode>
+                  <cbc:Name languageID="DEU">Preis = 40 %</cbc:Name>
+                  <cbc:Description languageID="DEU">Das Angebot mit dem geringsten Preis erhält 100 Punkte, danach lineare Abschöpfung.</cbc:Description>
+               </cac:SubordinateAwardingCriterion>
+               <cac:SubordinateAwardingCriterion>
+                  <cbc:AwardingCriterionTypeCode listName="award-criterion-type">quality</cbc:AwardingCriterionTypeCode>
+                  <cbc:Name languageID="DEU">Qualität = 60 %</cbc:Name>
+                  <cbc:Description languageID="DEU">siehe Bewertungsmatrix</cbc:Description>
+               </cac:SubordinateAwardingCriterion>
+            </cac:AwardingCriterion>
+         </cac:AwardingTerms>
+         <cac:AdditionalInformationParty>
+            <cac:PartyIdentification>
+               <cbc:ID>ORG-0001</cbc:ID>
+            </cac:PartyIdentification>
+         </cac:AdditionalInformationParty>
+         <cac:DocumentProviderParty>
+            <cac:PartyIdentification>
+               <cbc:ID>ORG-0001</cbc:ID>
+            </cac:PartyIdentification>
+         </cac:DocumentProviderParty>
+         <cac:TenderRecipientParty>
+            <cbc:EndpointID>https://www.subreport.de/E28166494</cbc:EndpointID>
+            <cac:PartyIdentification>
+               <cbc:ID>ORG-0001</cbc:ID>
+            </cac:PartyIdentification>
+         </cac:TenderRecipientParty>
+         <cac:TenderEvaluationParty>
+            <cac:PartyIdentification>
+               <cbc:ID>ORG-0001</cbc:ID>
+            </cac:PartyIdentification>
+         </cac:TenderEvaluationParty>
+         <cac:TenderValidityPeriod>
+            <cbc:DurationMeasure unitCode="DAY">21</cbc:DurationMeasure>
+         </cac:TenderValidityPeriod>
+         <cac:AppealTerms>
+            <cac:PresentationPeriod>
+               <cbc:Description languageID="DEU">Der Nachprüfungsantrag ist nach § 160 Abs. 3 GWB unzulässig, soweit der Antragsteller den geltend gemachten Verstoß gegen Vergabevorschriften vor Einreichen des Nachprüfungsantrags erkannt und gegenüber dem Auftraggeber nicht innerhalb einer Frist von zehn Kalendertagen gerügt hat. 
+Verstöße gegen Vergabevorschriften, die aufgrund der Bekanntmachung erkennbar sind, müssen spätestens bis zum Ablauf der in der Bekanntmachung benannten Frist zur Bewerbung oder zur Angebotsabgabe gegenüber dem Auftraggeber gerügt werden, Verstöße gegen Vergabevorschriften, die erst in den Vergabeunterlagen erkennbar sind, spätestens bis zum Ablauf der Frist zur Bewerbung oder zur Angebotsabgabe. Der Nachprüfungsantrag ist ebenfalls unzulässig, wenn mehr als 15 Kalendertage nach Eingang der Mitteilung des Auftraggebers, einer Rüge nicht abhelfen zu wollen, vergangen sind.</cbc:Description>
+            </cac:PresentationPeriod>
+            <cac:AppealInformationParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0001</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealInformationParty>
+            <cac:AppealReceiverParty>
+               <cac:PartyIdentification>
+                  <cbc:ID>ORG-0002</cbc:ID>
+               </cac:PartyIdentification>
+            </cac:AppealReceiverParty>
+         </cac:AppealTerms>
+         <cac:Language>
+            <cbc:ID>ENG</cbc:ID>
+         </cac:Language>
+         <cac:Language>
+            <cbc:ID>DEU</cbc:ID>
+         </cac:Language>
+         <cac:PostAwardProcess>
+            <cbc:ElectronicOrderUsageIndicator>true</cbc:ElectronicOrderUsageIndicator>
+            <cbc:ElectronicPaymentUsageIndicator>true</cbc:ElectronicPaymentUsageIndicator>
+         </cac:PostAwardProcess>
+         <cac:SecurityClearanceTerm>
+            <cbc:Code listName="required">false</cbc:Code>
+         </cac:SecurityClearanceTerm>
+      </cac:TenderingTerms>
+      <cac:TenderingProcess>
+         <cbc:SubmissionMethodCode listName="esubmission">required</cbc:SubmissionMethodCode>
+         <cbc:GovernmentAgreementConstraintIndicator>true</cbc:GovernmentAgreementConstraintIndicator>
+         <cbc:AccessToolsURI>https://www.subreport.de/E28166494</cbc:AccessToolsURI>
+         <cac:TenderSubmissionDeadlinePeriod>
+            <cbc:EndDate>2026-11-09+01:00</cbc:EndDate>
+            <cbc:EndTime>10:00:00+01:00</cbc:EndTime>
+         </cac:TenderSubmissionDeadlinePeriod>
+         <cac:OpenTenderEvent>
+            <cbc:OccurrenceDate>2026-11-09+01:00</cbc:OccurrenceDate>
+            <cbc:OccurrenceTime>10:15:00+01:00</cbc:OccurrenceTime>
+            <cac:OccurenceLocation>
+               <cbc:Description languageID="DEU">elektronisch; die Anwesenheit von Bietern ist nicht zulässig</cbc:Description>
+            </cac:OccurenceLocation>
+         </cac:OpenTenderEvent>
+         <cac:AuctionTerms>
+            <cbc:AuctionConstraintIndicator>false</cbc:AuctionConstraintIndicator>
+         </cac:AuctionTerms>
+         <cac:ContractingSystem>
+            <cbc:ContractingSystemTypeCode listName="dps-usage">none</cbc:ContractingSystemTypeCode>
+         </cac:ContractingSystem>
+         <cac:ContractingSystem>
+            <cbc:ContractingSystemTypeCode listName="framework-agreement">none</cbc:ContractingSystemTypeCode>
+         </cac:ContractingSystem>
+      </cac:TenderingProcess>
+      <cac:ProcurementProject>
+         <cbc:ID schemeName="InternalID">LOT-0001 V427_2026</cbc:ID>
+         <cbc:Name languageID="DEU">Lieferung Toroid-Spiegel für KMC-1 (Bessy II+)</cbc:Name>
+         <cbc:Description languageID="DEU">2x 1 Stück Toroid-Spiegel für KMC-1 (Bessy II+), gemäß Leistungsbeschreibung (Technischer Spezifikation) und Vergabeunterlagen</cbc:Description>
+         <cbc:ProcurementTypeCode listName="contract-nature">supplies</cbc:ProcurementTypeCode>
+         <cbc:EstimatedOverallContractQuantity unitCode="H87">1</cbc:EstimatedOverallContractQuantity>
+         <cbc:Note languageID="DEU">#Besonders auch geeignet für:startup#
+- NICHT zutreffend</cbc:Note>
+         <cbc:SMESuitableIndicator>true</cbc:SMESuitableIndicator>
+         <cac:ProcurementAdditionalType>
+            <cbc:ProcurementTypeCode listName="innovative-acquisition">rd-act</cbc:ProcurementTypeCode>
+         </cac:ProcurementAdditionalType>
+         <cac:ProcurementAdditionalType>
+            <cbc:ProcurementTypeCode listName="strategic-procurement">inn-pur</cbc:ProcurementTypeCode>
+            <cbc:ProcurementType languageID="DEU">Herstellung und Lieferung von zwei Toroid-Spiegeln nach Beschaffervorgaben.</cbc:ProcurementType>
+         </cac:ProcurementAdditionalType>
+         <cac:MainCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">38000000</cbc:ItemClassificationCode>
+         </cac:MainCommodityClassification>
+         <cac:AdditionalCommodityClassification>
+            <cbc:ItemClassificationCode listName="cpv">38622000</cbc:ItemClassificationCode>
+         </cac:AdditionalCommodityClassification>
+         <cac:RealizedLocation>
+            <cac:Address>
+               <cbc:StreetName>Hahn-Meitner-Platz 1</cbc:StreetName>
+               <cbc:CityName>Berlin</cbc:CityName>
+               <cbc:PostalZone>14109</cbc:PostalZone>
+               <cbc:CountrySubentityCode listName="nuts">DE300</cbc:CountrySubentityCode>
+               <cac:Country>
+                  <cbc:IdentificationCode listName="country">DEU</cbc:IdentificationCode>
+               </cac:Country>
+            </cac:Address>
+         </cac:RealizedLocation>
+         <cac:PlannedPeriod>
+            <cbc:StartDate>2026-12-01+01:00</cbc:StartDate>
+            <cbc:EndDate>2028-03-31+02:00</cbc:EndDate>
+         </cac:PlannedPeriod>
+      </cac:ProcurementProject>
+   </cac:ProcurementProjectLot>
+</ContractNotice>

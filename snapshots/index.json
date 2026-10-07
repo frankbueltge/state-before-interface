@@ -69,7 +69,12 @@
     "NEW_MATCH:676917-2026",
     "NEW_MATCH:677429-2026",
     "NEW_MATCH:680891-2026",
-    "NEW_MATCH:681054-2026"
+    "NEW_MATCH:681054-2026",
+    "NEW_MATCH:681546-2026",
+    "NEW_MATCH:682877-2026",
+    "NEW_MATCH:683094-2026",
+    "NEW_MATCH:690422-2026",
+    "PATTERN:ex libris"
   ],
   "notices": {
     "537409-2026": {
@@ -3085,7 +3090,7 @@
       ],
       "first_seen": "2026-09-25",
       "gone": false,
-      "last_checked": "2026-10-06",
+      "last_checked": "2026-10-07",
       "notice_type": "cn-standard",
       "phrases": [
         "Künstliche Intelligenz"
@@ -3141,7 +3146,7 @@
       ],
       "first_seen": "2026-09-25",
       "gone": false,
-      "last_checked": "2026-10-06",
+      "last_checked": "2026-10-07",
       "notice_type": "cn-standard",
       "phrases": [
         "Künstliche Intelligenz"
@@ -3197,7 +3202,7 @@
       ],
       "first_seen": "2026-09-25",
       "gone": false,
-      "last_checked": "2026-10-06",
+      "last_checked": "2026-10-07",
       "notice_type": "pin-cfc-standard",
       "phrases": [
         "artificial intelligence"
@@ -3256,7 +3261,7 @@
       ],
       "first_seen": "2026-09-25",
       "gone": false,
-      "last_checked": "2026-10-06",
+      "last_checked": "2026-10-07",
       "notice_type": "cn-standard",
       "phrases": [
         "intelligence artificielle"
@@ -3316,7 +3321,7 @@
       ],
       "first_seen": "2026-09-25",
       "gone": false,
-      "last_checked": "2026-10-06",
+      "last_checked": "2026-10-07",
       "notice_type": "can-standard",
       "phrases": [
         "artificial intelligence"
@@ -3379,7 +3384,7 @@
       ],
       "first_seen": "2026-09-25",
       "gone": false,
-      "last_checked": "2026-10-06",
+      "last_checked": "2026-10-07",
       "notice_type": "cn-standard",
       "phrases": [
         "artificial intelligence"
@@ -3435,7 +3440,7 @@
       ],
       "first_seen": "2026-09-25",
       "gone": false,
-      "last_checked": "2026-10-06",
+      "last_checked": "2026-10-07",
       "notice_type": "can-standard",
       "phrases": [
         "artificial intelligence"
@@ -3498,7 +3503,7 @@
       ],
       "first_seen": "2026-09-25",
       "gone": false,
-      "last_checked": "2026-10-06",
+      "last_checked": "2026-10-07",
       "notice_type": "cn-standard",
       "phrases": [
         "Künstliche Intelligenz"
@@ -3556,7 +3561,7 @@
       ],
       "first_seen": "2026-09-28",
       "gone": false,
-      "last_checked": "2026-10-06",
+      "last_checked": "2026-10-07",
       "notice_type": "cn-standard",
       "phrases": [
         "artificial intelligence"
@@ -3634,7 +3639,7 @@
       ],
       "first_seen": "2026-10-03",
       "gone": false,
-      "last_checked": "2026-10-06",
+      "last_checked": "2026-10-07",
       "notice_type": "can-standard",
       "phrases": [
         "artificial intelligence"
@@ -3694,7 +3699,7 @@
       ],
       "first_seen": "2026-10-03",
       "gone": false,
-      "last_checked": "2026-10-06",
+      "last_checked": "2026-10-07",
       "notice_type": "veat",
       "phrases": [
         "artificial intelligence"
@@ -3750,7 +3755,7 @@
       ],
       "first_seen": "2026-10-03",
       "gone": false,
-      "last_checked": "2026-10-06",
+      "last_checked": "2026-10-07",
       "notice_type": "cn-standard",
       "phrases": [
         "Künstliche Intelligenz"
@@ -3812,7 +3817,7 @@
       ],
       "first_seen": "2026-10-03",
       "gone": false,
-      "last_checked": "2026-10-06",
+      "last_checked": "2026-10-07",
       "notice_type": "veat",
       "phrases": [
         "Künstliche Intelligenz"
@@ -3872,7 +3877,7 @@
       ],
       "first_seen": "2026-10-03",
       "gone": false,
-      "last_checked": "2026-10-06",
+      "last_checked": "2026-10-07",
       "notice_type": "cn-standard",
       "phrases": [
         "artificial intelligence"
@@ -3928,7 +3933,7 @@
       ],
       "first_seen": "2026-10-03",
       "gone": false,
-      "last_checked": "2026-10-06",
+      "last_checked": "2026-10-07",
       "notice_type": "can-standard",
       "phrases": [
         "artificial intelligence"
@@ -4002,7 +4007,7 @@
       ],
       "first_seen": "2026-10-03",
       "gone": false,
-      "last_checked": "2026-10-06",
+      "last_checked": "2026-10-07",
       "notice_type": "pin-only",
       "phrases": [
         "Künstliche Intelligenz"
@@ -4058,7 +4063,7 @@
       ],
       "first_seen": "2026-10-03",
       "gone": false,
-      "last_checked": "2026-10-06",
+      "last_checked": "2026-10-07",
       "notice_type": "cn-standard",
       "phrases": [
         "Künstliche Intelligenz"
@@ -4114,7 +4119,7 @@
       ],
       "first_seen": "2026-10-03",
       "gone": false,
-      "last_checked": "2026-10-06",
+      "last_checked": "2026-10-07",
       "notice_type": "can-standard",
       "phrases": [
         "artificial intelligence"
@@ -4183,7 +4188,7 @@
       ],
       "first_seen": "2026-10-03",
       "gone": false,
-      "last_checked": "2026-10-06",
+      "last_checked": "2026-10-07",
       "notice_type": "cn-standard",
       "phrases": [
         "artificial intelligence"
@@ -4241,7 +4246,7 @@
       ],
       "first_seen": "2026-10-03",
       "gone": false,
-      "last_checked": "2026-10-06",
+      "last_checked": "2026-10-07",
       "notice_type": "can-standard",
       "phrases": [
         "artificial intelligence"
@@ -4288,6 +4293,259 @@
         "SGS United Kingdom Limited"
       ],
       "xml_url": "https://ted.europa.eu/en/notice/681054-2026/xml"
+    },
+    "681546-2026": {
+      "buyer_countries": [
+        "BEL"
+      ],
+      "buyer_names": [
+        "European Commission, DG CNECT - Communications Networks, Content and Technology"
+      ],
+      "cpv": [
+        "73200000"
+      ],
+      "first_seen": "2026-10-07",
+      "gone": false,
+      "last_checked": "2026-10-07",
+      "notice_type": "cn-standard",
+      "phrases": [
+        "artificial intelligence"
+      ],
+      "publication_date": "2026-10-05",
+      "title": "Belgium – Research and development consultancy services – Supporting the AI Observatory",
+      "titles": [
+        "An Bheilg – Research and development consultancy services – Supporting the AI Observatory",
+        "Belgia – Servicii de consultanţă în cercetare şi în dezvoltare – Supporting the AI Observatory",
+        "Belgia – Tutkimus- ja kehitystoiminnan konsulttipalvelut – Supporting the AI Observatory",
+        "Belgia – Usługi doradcze w zakresie badań i rozwoju – Supporting the AI Observatory",
+        "Belgia – Uurimis- ja arendustöö nõustamisteenused – Supporting the AI Observatory",
+        "Belgicko – Poradenstvo pre výskum a vývoj – Supporting the AI Observatory",
+        "Belgie – Poradenství v oblasti výzkumu a vývoje – Supporting the AI Observatory",
+        "Belgien – Beratung im Bereich Forschung und Entwicklung – Supporting the AI Observatory",
+        "Belgien – FoU-rådgivning – Supporting the AI Observatory",
+        "Belgien – Konsulentvirksomhed inden for forskning og udvikling – Supporting the AI Observatory",
+        "Belgija – Mokslinių tyrimų ir taikomosios veiklos konsultacinės paslaugos – Supporting the AI Observatory",
+        "Belgija – Storitve svetovanja na področju raziskav in razvoja – Supporting the AI Observatory",
+        "Belgija – Usluge savjetovanja na području istraživanja i razvoja – Supporting the AI Observatory",
+        "Belgio – Consulenza nel campo della ricerca e dello sviluppo – Supporting the AI Observatory",
+        "Belgique – Services de conseil en recherche et développement – Supporting the AI Observatory",
+        "Belgium – Kutatási és fejlesztési tanácsadó szolgáltatások – Supporting the AI Observatory",
+        "Belgium – Research and development consultancy services – Supporting the AI Observatory",
+        "België – Advies inzake onderzoek en ontwikkeling – Supporting the AI Observatory",
+        "Beļģija – Pētniecības un izstrādes konsultāciju pakalpojumi – Supporting the AI Observatory",
+        "Bélgica – Servicios de consultoría en investigación y desarrollo – Supporting the AI Observatory",
+        "Bélgica – Serviços de consultoria em matéria de investigação e desenvolvimento – Supporting the AI Observatory",
+        "Il-Belġju – Servizzi ta' konsulenza dwar ir-riċerka u l-iżvilupp – Supporting the AI Observatory",
+        "Βέλγιο – Υπηρεσίες παροχής συμβουλών σε θέματα έρευνας και ανάπτυξης – Supporting the AI Observatory",
+        "Бeлгия – Консултантски услуги, свързани с научни изследвания и експериментални разработки – Supporting the AI Observatory"
+      ],
+      "vendor_keys": [],
+      "versions": [
+        {
+          "date": "2026-10-07",
+          "file": "snapshots/2026-10-07/notices/681546-2026.xml",
+          "sha256": "98e0779d3ab9a9d0d4766cf02c7a1443e034ad57ee24ef424df3a8cc5a72abd7"
+        }
+      ],
+      "winner_names": [],
+      "xml_url": "https://ted.europa.eu/en/notice/681546-2026/xml"
+    },
+    "682877-2026": {
+      "buyer_countries": [
+        "DEU"
+      ],
+      "buyer_names": [
+        "Helmholtz-Zentrum Berlin für Materialien und Energie GmbH (HZB)"
+      ],
+      "cpv": [
+        "38000000",
+        "38622000"
+      ],
+      "first_seen": "2026-10-07",
+      "gone": false,
+      "last_checked": "2026-10-07",
+      "notice_type": "cn-standard",
+      "phrases": [
+        "Künstliche Intelligenz"
+      ],
+      "publication_date": "2026-10-05",
+      "title": "Germany – Laboratory, optical and precision equipments (excl. glasses) – V427_2026 – WI-AOS – Toroid-Spiegel für KMC-1 (Bessy II+)",
+      "titles": [
+        "Alemanha – Equipamento laboratorial, óptico e de precisão (exc. óculos) – V427_2026 – WI-AOS – Toroid-Spiegel für KMC-1 (Bessy II+)",
+        "Alemania – Equipo de laboratorio, óptico y de precisión (excepto gafas) – V427_2026 – WI-AOS – Toroid-Spiegel für KMC-1 (Bessy II+)",
+        "Allemagne – Équipements de laboratoire, d'optique et de précision (excepté les lunettes) – V427_2026 – WI-AOS – Toroid-Spiegel für KMC-1 (Bessy II+)",
+        "An Ghearmáin – Laboratory, optical and precision equipments (excl. glasses) – V427_2026 – WI-AOS – Toroid-Spiegel für KMC-1 (Bessy II+)",
+        "Deutschland – Laborgeräte, optische Geräte und Präzisionsgeräte (außer Gläser) – V427_2026 – WI-AOS – Toroid-Spiegel für KMC-1 (Bessy II+)",
+        "Duitsland – Laboratoriuminstrumenten, optische en precisie-instrumenten (uitgezonderd brillen) – V427_2026 – WI-AOS – Toroid-Spiegel für KMC-1 (Bessy II+)",
+        "Germania – Attrezzature da laboratorio, ottiche e di precisione (escluso vetri) – V427_2026 – WI-AOS – Toroid-Spiegel für KMC-1 (Bessy II+)",
+        "Germania – Echipamente de laborator, optice şi de precizie (cu excepţia ochelarilor) – V427_2026 – WI-AOS – Toroid-Spiegel für KMC-1 (Bessy II+)",
+        "Germany – Laboratory, optical and precision equipments (excl. glasses) – V427_2026 – WI-AOS – Toroid-Spiegel für KMC-1 (Bessy II+)",
+        "Il-Ġermanja – Tagħmir tal-laboratorju, ottiku u ta' preċiżjoni (minbarra nuċċalijiet) – V427_2026 – WI-AOS – Toroid-Spiegel für KMC-1 (Bessy II+)",
+        "Nemecko – Laboratórne, optické a presné prístroje a vybavenie (s výnimkou skiel) – V427_2026 – WI-AOS – Toroid-Spiegel für KMC-1 (Bessy II+)",
+        "Nemčija – Laboratorijska, optična in precizna oprema (razen očal) – V427_2026 – WI-AOS – Toroid-Spiegel für KMC-1 (Bessy II+)",
+        "Niemcy – Sprzęt laboratoryjny, optyczny i precyzyjny (z wyjątkiem szklanego) – V427_2026 – WI-AOS – Toroid-Spiegel für KMC-1 (Bessy II+)",
+        "Njemačka – Laboratorijska, optička i precizna oprema (osim naočala) – V427_2026 – WI-AOS – Toroid-Spiegel für KMC-1 (Bessy II+)",
+        "Németország – Laboratóriumi, optikai és precíziós felszerelések (kivéve szemüvegek) – V427_2026 – WI-AOS – Toroid-Spiegel für KMC-1 (Bessy II+)",
+        "Německo – Laboratorní, optické a přesné přístroje a zařízení (mimo skel) – V427_2026 – WI-AOS – Toroid-Spiegel für KMC-1 (Bessy II+)",
+        "Saksa – Laboratoriolaitteet, optiset ja tarkkuuslaitteet (lukuun ottamatta silmälaseja) – V427_2026 – WI-AOS – Toroid-Spiegel für KMC-1 (Bessy II+)",
+        "Saksamaa – Laboriseadmed, optika- ja täppisinstrumendid (v.a klaasid) – V427_2026 – WI-AOS – Toroid-Spiegel für KMC-1 (Bessy II+)",
+        "Tyskland – Laboratorieudstyr, optisk udstyr og præcisionsudstyr (ikke briller) – V427_2026 – WI-AOS – Toroid-Spiegel für KMC-1 (Bessy II+)",
+        "Tyskland – Laboratorieutrustning, optisk utrustning och precisionsutrustning (exkl. glas) – V427_2026 – WI-AOS – Toroid-Spiegel für KMC-1 (Bessy II+)",
+        "Vokietija – Laboratorinė, optinė ir precizinė įranga (išskyrus akinius) – V427_2026 – WI-AOS – Toroid-Spiegel für KMC-1 (Bessy II+)",
+        "Vācija – Laboratorijas, optiskās un precīzijas ierīces (izņemot brilles) – V427_2026 – WI-AOS – Toroid-Spiegel für KMC-1 (Bessy II+)",
+        "Γερμανία – Εξοπλισμός εργαστηριακός, οπτικός και ακριβείας (εκτός από γυαλιά) – V427_2026 – WI-AOS – Toroid-Spiegel für KMC-1 (Bessy II+)",
+        "Гepмaния – Лабораторно, оптично и прецизно оборудване (без стъклени изделия) – V427_2026 – WI-AOS – Toroid-Spiegel für KMC-1 (Bessy II+)"
+      ],
+      "vendor_keys": [],
+      "versions": [
+        {
+          "date": "2026-10-07",
+          "file": "snapshots/2026-10-07/notices/682877-2026.xml",
+          "sha256": "19d944b370ffdd3ecda2a912e249361804be95f6ff4e82b0d52bfbec8f77101e"
+        }
+      ],
+      "winner_names": [],
+      "xml_url": "https://ted.europa.eu/en/notice/682877-2026/xml"
+    },
+    "683094-2026": {
+      "buyer_countries": [
+        "NOR"
+      ],
+      "buyer_names": [
+        "Norsk helsenett SF"
+      ],
+      "cpv": [
+        "48180000",
+        "48814000",
+        "72212180",
+        "72222300",
+        "72262000",
+        "72263000",
+        "73000000"
+      ],
+      "first_seen": "2026-10-07",
+      "gone": false,
+      "last_checked": "2026-10-07",
+      "notice_type": "pin-only",
+      "phrases": [
+        "artificial intelligence"
+      ],
+      "publication_date": "2026-10-05",
+      "title": "Norway – Information technology services – Request for information (RFI) regarding new national service for targeted health advice",
+      "titles": [
+        "An Iorua – Information technology services – Request for information (RFI) regarding new national service for targeted health advice",
+        "In-Norveġja – Servizzi teknoloġiċi ta' l-informatika – Request for information (RFI) regarding new national service for targeted health advice",
+        "Noorwegen – Diensten in verband met informatietechnologie – Request for information (RFI) regarding new national service for targeted health advice",
+        "Norge – IT-tjänster – Request for information (RFI) regarding new national service for targeted health advice",
+        "Norge – Tjenesteydelser i forbindelse med informationsteknologi – Request for information (RFI) regarding new national service for targeted health advice",
+        "Norja – Tietotekniikkapalvelut – Request for information (RFI) regarding new national service for targeted health advice",
+        "Norra – Infotehnoloogia teenused – Request for information (RFI) regarding new national service for targeted health advice",
+        "Norsko – Služby informačních technologií – Request for information (RFI) regarding new national service for targeted health advice",
+        "Noruega – Servicios de tecnología de la información – Request for information (RFI) regarding new national service for targeted health advice",
+        "Noruega – Serviços relacionados com as tecnologias da informação – Request for information (RFI) regarding new national service for targeted health advice",
+        "Norvegia – Servicii de tehnologie a informaţiilor – Request for information (RFI) regarding new national service for targeted health advice",
+        "Norvegia – Servizi di tecnologia dell'informazione – Request for information (RFI) regarding new national service for targeted health advice",
+        "Norvegija – Informacijos technologijos paslaugos – Request for information (RFI) regarding new national service for targeted health advice",
+        "Norveška – Storitve informacijske tehnologije – Request for information (RFI) regarding new national service for targeted health advice",
+        "Norveška – Usluge informacijske tehnologije – Request for information (RFI) regarding new national service for targeted health advice",
+        "Norvège – Services de technologies de l'information – Request for information (RFI) regarding new national service for targeted health advice",
+        "Norvégia – Információs technológiával kapcsolatos szolgáltatások – Request for information (RFI) regarding new national service for targeted health advice",
+        "Norvēģija – Informācijas tehnoloģijas pakalpojumi – Request for information (RFI) regarding new national service for targeted health advice",
+        "Norway – Information technology services – Request for information (RFI) regarding new national service for targeted health advice",
+        "Norwegen – Informationstechnologiedienste – Request for information (RFI) regarding new national service for targeted health advice",
+        "Norwegia – Usługi w zakresie technologii informacji – Request for information (RFI) regarding new national service for targeted health advice",
+        "Nórsko – Služby informačných technológií – Request for information (RFI) regarding new national service for targeted health advice",
+        "Νορβηγία – Υπηρεσίες τεχνολογίας των πληροφοριών – Request for information (RFI) regarding new national service for targeted health advice",
+        "Норвегия – Услуги, свързани с информационни технологии – Request for information (RFI) regarding new national service for targeted health advice"
+      ],
+      "vendor_keys": [],
+      "versions": [
+        {
+          "date": "2026-10-07",
+          "file": "snapshots/2026-10-07/notices/683094-2026.xml",
+          "sha256": "df677f9dcf50cbb5bb50584a4ecfd90c6031f31e6cf1cea16fe329ab93020e24"
+        }
+      ],
+      "winner_names": [],
+      "xml_url": "https://ted.europa.eu/en/notice/683094-2026/xml"
+    },
+    "690422-2026": {
+      "buyer_countries": [
+        "BEL",
+        "DEU",
+        "LUX",
+        "MLT",
+        "PRT"
+      ],
+      "buyer_names": [
+        "Authority for Anti-Money Laundering and Countering the Financing of Terrorism",
+        "Committee of the Regions of the European Union",
+        "Court of Justice of the European Union",
+        "EP - European Parliament",
+        "European Commission, Publications Office",
+        "European Court of Auditors",
+        "European Economic and Social Committee",
+        "European External Action Service (EEAS)",
+        "European Schools",
+        "European Union Agency for Asylum",
+        "European Union Drugs Agency",
+        "The General Secretariat of the Council of the European Union"
+      ],
+      "cpv": [
+        "48160000",
+        "48161000",
+        "72212160",
+        "92511000"
+      ],
+      "first_seen": "2026-10-07",
+      "gone": false,
+      "last_checked": "2026-10-07",
+      "notice_type": "can-standard",
+      "phrases": [
+        "artificial intelligence"
+      ],
+      "publication_date": "2026-10-07",
+      "title": "Luxembourg, Belgium, Germany, Malta, Portugal – Library software development services – Library Services Platform",
+      "titles": [
+        "Il-Lussemburgu, Il-Belġju, Il-Ġermanja, Malta, Il-Portugall – Servizzi ta' żvilupp ta' softwer għal-libreriji – Library Services Platform",
+        "Liuksemburgas, Belgija, Vokietija, Malta, Portugalija – Bibliotekų programinės įrangos kūrimo paslaugos – Library Services Platform",
+        "Lucembursko, Belgie, Německo, Malta, Portugalsko – Vývoj programového vybavení pro knihovny – Library Services Platform",
+        "Lucsamburg, An Bheilg, An Ghearmáin, Málta, An Phortaingéil – Library software development services – Library Services Platform",
+        "Luksemburg, Belgia, Niemcy, Malta, Portugalia – Usługi opracowywania oprogramowania bibliotecznego – Library Services Platform",
+        "Luksemburg, Belgia, Saksamaa, Malta, Portugal – Raamatukogude tarkvara arendusteenused – Library Services Platform",
+        "Luksemburg, Belgija, Nemčija, Malta, Portugalska – Storitve razvoja programske opreme za knjižnice – Library Services Platform",
+        "Luksemburg, Belgija, Njemačka, Malta, Portugal – Usluge razvoja programske podrške za knjižnicu – Library Services Platform",
+        "Luksemburga, Beļģija, Vācija, Malta, Portugāle – Bibliotēkas programmatūras izstrādes pakalpojumi – Library Services Platform",
+        "Lussemburgo, Belgio, Germania, Malta, Portogallo – Servizi di programmazione di software per biblioteche – Library Services Platform",
+        "Luxembourg, Belgien, Tyskland, Malta, Portugal – Udvikling af programmel til biblioteker – Library Services Platform",
+        "Luxembourg, Belgique, Allemagne, Malte, Portugal – Services de développement de logiciels de bibliothèques – Library Services Platform",
+        "Luxembourg, Belgium, Germany, Malta, Portugal – Library software development services – Library Services Platform",
+        "Luxemburg, Belgia, Germania, Malta, Portugalia – Servicii de dezvoltare de software pentru biblioteci – Library Services Platform",
+        "Luxemburg, Belgia, Saksa, Malta, Portugali – Kirjasto-ohjelmistojen kehittämispalvelut – Library Services Platform",
+        "Luxemburg, Belgien, Deutschland, Malta, Portugal – Entwicklung von Bibliothekensoftware – Library Services Platform",
+        "Luxemburg, Belgien, Tyskland, Malta, Portugal – Programvaruutvecklingstjänster för bibliotek – Library Services Platform",
+        "Luxemburg, Belgium, Németország, Málta, Portugália – Könyvtári szoftverek fejlesztésével kapcsolatos szolgáltatások – Library Services Platform",
+        "Luxemburg, België, Duitsland, Malta, Portugal – Diensten voor ontwikkeling van bibliotheeksoftware – Library Services Platform",
+        "Luxemburgo, Bélgica, Alemanha, Malta, Portugal – Serviços de desenvolvimento de software para bibliotecas – Library Services Platform",
+        "Luxemburgo, Bélgica, Alemania, Malta, Portugal – Servicios de desarrollo de software de bibliotecas – Library Services Platform",
+        "Luxembursko, Belgicko, Nemecko, Malta, Portugalsko – Služby na vývoj softvéru pre knižnice – Library Services Platform",
+        "Λουξεμβούργο, Βέλγιο, Γερμανία, Μάλτα, Πορτογαλία – Υπηρεσίες ανάπτυξης λογισμικού βιβλιοθηκών – Library Services Platform",
+        "Люксембург, Бeлгия, Гepмaния, Малта, Пopтyгaлия – Услуги по разработване на софтуер за библиотеки – Library Services Platform"
+      ],
+      "vendor_keys": [
+        "ex libris"
+      ],
+      "versions": [
+        {
+          "date": "2026-10-07",
+          "file": "snapshots/2026-10-07/notices/690422-2026.xml",
+          "sha256": "bc619b3ed572a216aceb04726f2f2d915ed4e0c2c55cb36cd6548239d7e07692"
+        }
+      ],
+      "winner_names": [
+        "EX LIBRIS"
+      ],
+      "xml_url": "https://ted.europa.eu/en/notice/690422-2026/xml"
     }
   }
 }

@@ -1,0 +1,45 @@
+{
+  "claims": [
+    {
+      "id": "c-20261007-05-01",
+      "text": "The PATTERN:ex libris signal (candidate c-20261007-05) is generated from exactly one TED notice, 690422-2026 — a single lot, single framework-agreement award, single winner (\"EX LIBRIS\") shared by 12 co-contracting EU-institution buyers across 5 countries (BEL, DEU, LUX, MLT, PRT) — not from five separate, independently decided contract awards.",
+      "confidence": "high",
+      "evidence": [
+        "snapshots/2026-10-07/notices/690422-2026.xml"
+      ],
+      "counter_evidence": [],
+      "status": "supported"
+    },
+    {
+      "id": "c-20261007-05-02",
+      "text": "Notice 690422-2026 (contract award notice, published 2026-10-07) is the award-stage publication of a procedure for which a contract notice (57057-2026) with the identical 12-buyer set, identical CPV code 72212160 and identical multilingual title was already public on 2026-01-26, more than 8 months earlier.",
+      "confidence": "high",
+      "evidence": [
+        "cases/c-20261007-05/evidence/57057-2026-search.json",
+        "cases/c-20261007-05/evidence/european-parliament-library-cpv-search.json"
+      ],
+      "counter_evidence": [],
+      "status": "supported"
+    },
+    {
+      "id": "c-20261007-05-03",
+      "text": "The sole occurrence of the envelope phrase 'artificial intelligence' in notice 690422-2026, the reason the notice entered the observatory's AI-procurement envelope, is inside the postal address of the contracting buyer's contact department name (\"OP.A ... and Artificial Intelligence Exploitation\"), not in any description of the procured Library Services Platform.",
+      "confidence": "high",
+      "evidence": [
+        "snapshots/2026-10-07/notices/690422-2026.xml"
+      ],
+      "counter_evidence": [],
+      "status": "supported"
+    },
+    {
+      "id": "c-20261007-05-04",
+      "text": "Across TED's current index, only 3 contract-award notices combine winner-name 'ex libris' with CPV 72212160 (library software development services): one single-buyer-country award each in Italy (2024) and the Netherlands (2025), and this one 5-country joint award (2026). No other independent multi-country 'ex libris' award exists in TED alongside 690422-2026.",
+      "confidence": "high",
+      "evidence": [
+        "cases/c-20261007-05/evidence/ex-libris-library-cpv-search.json"
+      ],
+      "counter_evidence": [],
+      "status": "supported"
+    }
+  ]
+}

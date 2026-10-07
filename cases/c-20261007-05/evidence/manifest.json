@@ -1,0 +1,28 @@
+{
+  "entries": [
+    {
+      "file": "cases/c-20261007-05/evidence/57057-2026-search.json",
+      "url": "https://api.ted.europa.eu/v3/notices/search",
+      "retrieved_at": "2026-10-07T11:55:32+00:00",
+      "http_status": 200,
+      "sha256": "df29b1926c9edb95ff1b531bbf85206debf1de2a8a72f36cb048abbc27ed1563",
+      "bytes": 8592
+    },
+    {
+      "file": "cases/c-20261007-05/evidence/ex-libris-library-cpv-search.json",
+      "url": "https://api.ted.europa.eu/v3/notices/search",
+      "retrieved_at": "2026-10-07T11:55:51+00:00",
+      "http_status": 200,
+      "sha256": "67bdfa6101017232023b9835944618406fac0c182c511cc8365837e4579b3d2c",
+      "bytes": 27965
+    },
+    {
+      "file": "cases/c-20261007-05/evidence/european-parliament-library-cpv-search.json",
+      "url": "https://api.ted.europa.eu/v3/notices/search",
+      "retrieved_at": "2026-10-07T11:55:59+00:00",
+      "http_status": 200,
+      "sha256": "54ce75f035b4ff421157ca23c45ff096e385f928533d5b5c12616e5530350e47",
+      "bytes": 17219
+    }
+  ]
+}

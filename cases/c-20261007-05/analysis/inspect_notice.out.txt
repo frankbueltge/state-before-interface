@@ -1,0 +1,27 @@
+occurrences of 'artificial intelligence' in snapshots/2026-10-07/notices/690422-2026.xml: 1
+  context: ...              <cbc:StreetName>rue de Reims 20</cbc:StreetName>                   <cbc:Department>OP.A - Data, Information and Knowledge Management Services and Artificial Intelligence Exploitation,OP.A.4 - Data, Information and Knowledge Dissemination and Preservation Services</cbc:Department>                   <cbc:Ci...
+
+procedure metadata (first match each):
+  procedure type: open
+  framework-agreement type: fa-wo-rc
+  notice subtype: 29
+  estimated value (EUR): 9000000
+  duration (months): 96
+  legal basis (regulatory domain): 32024R2509
+
+distinct <cbc:Name> values in the document (buyers + winner, truncated):
+  - Authority for Anti-Money Laundering and Countering the Financing of Terrorism
+  - Committee of the Regions of the European Union
+  - Court of Justice of the European Union
+  - EP - European Parliament
+  - EX LIBRIS
+  - European Commission
+  - European Commission, Publications Office
+  - European Court of Auditors
+  - European Economic and Social Committee
+  - European External Action Service (EEAS)
+  - European Schools
+  - European Union Agency for Asylum
+  - European Union Drugs Agency
+  - Library Services Platform
+  - The General Secretariat of the Council of the European Union

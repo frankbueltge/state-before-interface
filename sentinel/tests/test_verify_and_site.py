@@ -64,3 +64,32 @@ def test_verify_finds_tampered_bytes_and_stale_page(tmp_path):
     (root / "public" / "index.html").write_text("edited by hand")
     problems = verify.check(root)
     assert any("deterministic rebuild" in p for p in problems)
+
+
+def test_the_register_reads_http_202_as_its_own_class(tmp_path):
+    # Night 1 answers 202 for the new notice; night 2 serves it (a retry, not a
+    # second new notice); night 3 answers its recheck with 202. The register
+    # must not call any of the 202s an outage, a capture or a check.
+    root = make_repo(tmp_path)
+    shutil.copytree(REPO_ROOT / "site", root / "site",
+                    ignore=shutil.ignore_patterns("__pycache__"))
+    (root / "site" / "config.json").write_text(json.dumps({"repo_url": ""}))
+    url = "https://ted.example/100-2026/xml"
+    run(root, "2026-08-01", FakeClient([NOTICE], {url: (b"<accepted/>", 202)}))
+    run(root, "2026-08-02", FakeClient([NOTICE], {url: (b"<xml v1/>", 200)}))
+    run(root, "2026-08-03", FakeClient([], {url: (b"<accepted/>", 202)}))
+    sitegen = _load("sitegen_202", root / "site" / "generate.py")
+
+    nights, matched = sitegen._nights(
+        [json.loads((root / "snapshots" / d / "run.json").read_text())
+         for d in ("2026-08-01", "2026-08-02", "2026-08-03")])
+    assert [(n["new"], n["retried"], n["checked"], n["accepted"], n["outages"])
+            for n in nights] == [(1, 0, 0, 1, 0), (0, 1, 0, 0, 0), (0, 0, 0, 1, 0)]
+    assert matched == {"100-2026"}
+
+    sitegen.build(root)
+    page = (root / "public" / "index.html").read_text()
+    assert "<strong>0</strong> matched without original bytes" in page
+    assert "So far 2 requests" in page
+    verify = _load("verify_202", REPO_ROOT / "verify.py")
+    assert verify.check(root) == []

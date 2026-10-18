@@ -2,11 +2,22 @@
 # Decision 2026-08-08: GitHub Pages instead of Cloudflare Pages — zero secrets,
 # zero manual setup, live from day one. The lesson from frankbueltge.de is
 # kept either way: exactly ONE deployer for this project.
+#
+# 2026-10-18: also after every sentinel run and every automerge. Both push with
+# the built-in token, and a push made with that token starts no workflow, so
+# `push` alone only ever saw a person's push: the register stood at 2026-08-22,
+# the last one, while the sentinel committed an observation every night and
+# three case deliveries waited on their branches. `workflow_run` is the answer
+# frankbueltge.de gives its own nightly pipelines. Only a successful run
+# publishes; a red sentinel night has committed nothing new.
 name: deploy
 
 on:
   push:
     branches: [main]
+  workflow_run:
+    workflows: [sentinel, automerge]
+    types: [completed]
   workflow_dispatch:
 
 permissions:
@@ -20,6 +31,9 @@ concurrency:
 
 jobs:
   pages:
+    if: >
+      github.event_name != 'workflow_run' ||
+      github.event.workflow_run.conclusion == 'success'
     runs-on: ubuntu-latest
     environment:
       name: github-pages

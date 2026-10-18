@@ -85,6 +85,10 @@ def run(repo_root: Path, day: str, client: TedClient | None = None) -> dict:
             failures.append({"scope": f"xml:{pubnum}", "error": str(err)})
             continue
         if status != 200:
+            # Any other answer keeps nothing. HTTP 202 is the common one: TED
+            # accepted the request and sent no notice. The register reads that
+            # error as its own class; the notice stays out of the index and is
+            # asked for again while it is inside the lookback window.
             failures.append({"scope": f"xml:{pubnum}", "error": f"HTTP {status}"})
             continue
         manifest_entry = snap.preserve(f"notices/{pubnum}.xml", data, xml_url, status)
@@ -124,14 +128,17 @@ def run(repo_root: Path, day: str, client: TedClient | None = None) -> dict:
         except SourceUnavailable as err:
             failures.append({"scope": f"recheck:{pubnum}", "error": str(err)})
             continue
-        entry["last_checked"] = day
         if status in (404, 410):
+            entry["last_checked"] = day
             entry["gone"] = True
             day_signals.append(sig.disappeared_signal(pubnum, status, day))
             continue
         if status != 200:
+            # An answer without the document (HTTP 202 above all) checked
+            # nothing, so last_checked stays where the last real answer left it.
             failures.append({"scope": f"recheck:{pubnum}", "error": f"HTTP {status}"})
             continue
+        entry["last_checked"] = day
         new_sha = sha256(data)
         old_sha = entry["versions"][-1]["sha256"]
         if new_sha != old_sha:

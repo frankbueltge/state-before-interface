@@ -1,0 +1,12 @@
+{
+  "entries": [
+    {
+      "file": "cases/c-20261003-09/evidence/115144-2026.xml",
+      "url": "https://ted.europa.eu/en/notice/115144-2026/xml",
+      "retrieved_at": "2026-10-03T10:35:49+00:00",
+      "http_status": 200,
+      "sha256": "2a065f69c19ef8d4d03d4ecddb80d41b580f63c071918ba5a4a7be4b9707fc82",
+      "bytes": 34496
+    }
+  ]
+}

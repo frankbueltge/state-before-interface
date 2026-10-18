@@ -1,0 +1,88 @@
+{
+  "per_notice": {
+    "560875-2026": {
+      "contract_folder_id": "b74a2278-5248-42c0-93db-74fc0127ab93",
+      "procedure_id": [
+        "EC-CNECT/2025/OP/0095"
+      ],
+      "payable_amounts_eur": [
+        "149050"
+      ],
+      "estimated_amounts_eur": [
+        "200000",
+        "200000"
+      ],
+      "issue_dates": [
+        "2026-07-27+02:00",
+        "2026-08-12+02:00"
+      ],
+      "lot_ids": [
+        "LOT-0001"
+      ]
+    },
+    "676246-2026": {
+      "contract_folder_id": "f7277ac5-6cb0-4d0a-876d-3e2e5e054bcd",
+      "procedure_id": [
+        "EC-CNECT/2026/OP/0003"
+      ],
+      "payable_amounts_eur": [
+        "2711670"
+      ],
+      "estimated_amounts_eur": [
+        "5400000",
+        "3000000"
+      ],
+      "issue_dates": [
+        "2026-09-16+02:00",
+        "2026-09-30+02:00"
+      ],
+      "lot_ids": [
+        "LOT-0002"
+      ]
+    },
+    "677429-2026": {
+      "contract_folder_id": "f7277ac5-6cb0-4d0a-876d-3e2e5e054bcd",
+      "procedure_id": [
+        "EC-CNECT/2026/OP/0003"
+      ],
+      "payable_amounts_eur": [
+        "2060727.3"
+      ],
+      "estimated_amounts_eur": [
+        "5400000",
+        "2400000"
+      ],
+      "issue_dates": [
+        "2026-09-16+02:00",
+        "2026-09-30+02:00"
+      ],
+      "lot_ids": [
+        "LOT-0001"
+      ]
+    },
+    "115144-2026": {
+      "contract_folder_id": "f7277ac5-6cb0-4d0a-876d-3e2e5e054bcd",
+      "procedure_id": [
+        "EC-CNECT/2026/OP/0003"
+      ],
+      "payable_amounts_eur": [],
+      "estimated_amounts_eur": [
+        "5400000",
+        "2400000",
+        "3000000"
+      ],
+      "issue_dates": [
+        "2026-02-17+01:00"
+      ],
+      "lot_ids": [
+        "LOT-0001",
+        "LOT-0002"
+      ]
+    }
+  },
+  "verdict": {
+    "lots_676246_and_677429_are_one_tender": true,
+    "chatbot_notice_is_a_distinct_procedure": true,
+    "distinct_dg_cnect_ai_procurement_tracks_in_envelope": 2
+  }
+}

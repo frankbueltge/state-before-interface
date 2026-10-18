@@ -1,0 +1,52 @@
+{
+  "claims": [
+    {
+      "id": "c1-same-tender-two-lots",
+      "text": "TED notices 677429-2026 (Lot 1, Health) and 676246-2026 (Lot 2, Energy) are two per-lot award notices issued from a single open-procedure tender run by European Commission, DG CNECT (ContractFolderID f7277ac5-6cb0-4d0a-876d-3e2e5e054bcd, procedure EC-CNECT/2026/OP/0003, originating contract notice 115144-2026 issued 2026-02-17) — not two independent purchases.",
+      "confidence": "high",
+      "evidence": [
+        "snapshots/2026-10-03/notices/677429-2026.xml",
+        "snapshots/2026-10-03/notices/676246-2026.xml",
+        "cases/c-20261003-09/evidence/115144-2026.xml"
+      ],
+      "counter_evidence": [],
+      "status": "supported"
+    },
+    {
+      "id": "c2-two-distinct-procedures-in-window",
+      "text": "Within the observatory's observation window (2026-08-07 to 2026-10-03), European Commission, DG CNECT ran at least two independent, non-overlapping AI-related procurement procedures: EC-CNECT/2025/OP/0095 (public-facing multilingual chatbots for DSA/AI Act support, awarded EUR 149,050) and EC-CNECT/2026/OP/0003 ('AI for Public Good', two lots awarded for a combined EUR 4,772,397.30).",
+      "confidence": "high",
+      "evidence": [
+        "snapshots/2026-08-16/notices/560875-2026.xml",
+        "snapshots/2026-10-03/notices/677429-2026.xml",
+        "snapshots/2026-10-03/notices/676246-2026.xml"
+      ],
+      "counter_evidence": [],
+      "status": "supported"
+    },
+    {
+      "id": "c3-no-overlap-no-overrun",
+      "text": "No winning organisation overlaps between the chatbot procedure (NTT Data Belgique, deepset GmbH) and the 'AI for Public Good' lots (Lot 1: FBG, Fundação Champalimaud, Foundation for Research and Technology - Hellas; Lot 2: AIT, Areti S.p.A., BIP, INESC TEC, Netz Niederösterreich GmbH, Research University Institute of Communication and Computer Systems, Technical University of Denmark, Wiener Netze GmbH), and both 'AI for Public Good' lots were awarded at or below their estimated contract value (Lot 1: EUR 2,060,727.30 awarded vs EUR 2,400,000 estimated; Lot 2: EUR 2,711,670 awarded vs EUR 3,000,000 estimated).",
+      "confidence": "high",
+      "evidence": [
+        "snapshots/2026-08-16/notices/560875-2026.xml",
+        "snapshots/2026-10-03/notices/677429-2026.xml",
+        "snapshots/2026-10-03/notices/676246-2026.xml",
+        "cases/c-20261003-09/evidence/115144-2026.xml"
+      ],
+      "counter_evidence": [],
+      "status": "supported"
+    },
+    {
+      "id": "c4-window-bounds-sustained-framing",
+      "text": "The candidate's 'sustained procurement programme, not a one-off' framing is correctly directionally true but should be read strictly as 'at least two distinct procedures inside an 8-week observed window', not as evidence of a multi-year pattern — this observatory has no preserved record of DG CNECT AI-related notices before 2026-08-07, so any claim beyond the observed window is unsupported by evidence on file.",
+      "confidence": "medium",
+      "evidence": [
+        "snapshots/2026-08-16/notices/560875-2026.xml",
+        "snapshots/2026-10-03/notices/677429-2026.xml"
+      ],
+      "counter_evidence": [],
+      "status": "estimate"
+    }
+  ]
+}

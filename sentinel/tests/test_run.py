@@ -126,3 +126,36 @@ def test_source_outage_is_recorded_not_bridged(tmp_path):
     assert summary["failures"] == 1
     assert record["failures"][0]["scope"].startswith("search:")
     assert record["new_matches"] == []
+
+
+def test_http_202_is_neither_a_capture_nor_a_check(tmp_path):
+    # TED's document endpoint answers many nights with HTTP 202: the request
+    # is accepted and no notice comes back. Nothing of such an answer may be
+    # preserved, indexed or counted as a check.
+    root = make_repo(tmp_path)
+    url = "https://ted.example/100-2026/xml"
+    summary = run(root, "2026-08-01",
+                  FakeClient([NOTICE], {url: (b"<accepted/>", 202)}))
+    assert not (root / "snapshots" / "2026-08-01" / "notices" / "100-2026.xml").exists()
+    files = [e["file"] for e in
+             read_json(root / "snapshots" / "2026-08-01" / "manifest.json")["entries"]]
+    assert not any("notices/" in f for f in files)
+    assert "100-2026" not in read_json(root / "snapshots" / "index.json")["notices"]
+    record = read_json(root / "snapshots" / "2026-08-01" / "run.json")
+    assert record["failures"] == [{"scope": "xml:100-2026", "error": "HTTP 202"}]
+    assert summary["signals"] == 0
+
+    # Still inside the lookback window the next night: asked again, and a
+    # real answer preserves it, first seen on the day the bytes came.
+    run(root, "2026-08-02", FakeClient([NOTICE], {url: (b"<xml v1/>", 200)}))
+    entry = read_json(root / "snapshots" / "index.json")["notices"]["100-2026"]
+    assert entry["first_seen"] == "2026-08-02"
+
+    # A recheck answered 202 changes nothing, signals nothing, checks nothing.
+    run(root, "2026-08-03", FakeClient([], {url: (b"<accepted/>", 202)}))
+    entry = read_json(root / "snapshots" / "index.json")["notices"]["100-2026"]
+    assert entry["last_checked"] == "2026-08-02"
+    assert len(entry["versions"]) == 1
+    record = read_json(root / "snapshots" / "2026-08-03" / "run.json")
+    assert record["failures"] == [{"scope": "recheck:100-2026", "error": "HTTP 202"}]
+    assert record["signals"] == []

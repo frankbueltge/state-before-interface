@@ -1,0 +1,136 @@
+{
+  "candidates": {
+    "declined": [],
+    "open": []
+  },
+  "date": "2026-10-14",
+  "envelope_version": 1,
+  "failures": [
+    {
+      "error": "HTTP 202",
+      "scope": "xml:701325-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "xml:704131-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "xml:705091-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "xml:705362-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "xml:706141-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "xml:708053-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "xml:709678-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "xml:711060-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "recheck:671041-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "recheck:672213-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "recheck:673212-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "recheck:673584-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "recheck:674672-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "recheck:676246-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "recheck:676854-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "recheck:676917-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "recheck:677429-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "recheck:680891-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "recheck:681054-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "recheck:681546-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "recheck:682877-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "recheck:683094-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "recheck:690422-2026"
+    }
+  ],
+  "http_429": 0,
+  "new_matches": [
+    "701325-2026",
+    "704131-2026",
+    "705091-2026",
+    "705362-2026",
+    "706141-2026",
+    "708053-2026",
+    "709678-2026",
+    "711060-2026"
+  ],
+  "phrases": [
+    {
+      "lang": "eng",
+      "phrase": "artificial intelligence",
+      "total": 4,
+      "truncated": false
+    },
+    {
+      "lang": "deu",
+      "phrase": "Künstliche Intelligenz",
+      "total": 2,
+      "truncated": false
+    },
+    {
+      "lang": "fra",
+      "phrase": "intelligence artificielle",
+      "total": 3,
+      "truncated": false
+    }
+  ],
+  "rechecked": 15,
+  "requests": 26,
+  "signals": []
+}

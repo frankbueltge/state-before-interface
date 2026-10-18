@@ -1,0 +1,92 @@
+{
+  "candidates": {
+    "declined": [
+      "c-20261007-01",
+      "c-20261007-02",
+      "c-20261007-03",
+      "c-20261007-04"
+    ],
+    "open": [
+      "c-20261007-05"
+    ]
+  },
+  "date": "2026-10-07",
+  "envelope_version": 1,
+  "failures": [],
+  "http_429": 0,
+  "new_matches": [
+    "681546-2026",
+    "682877-2026",
+    "683094-2026",
+    "690422-2026"
+  ],
+  "phrases": [
+    {
+      "lang": "eng",
+      "phrase": "artificial intelligence",
+      "total": 3,
+      "truncated": false
+    },
+    {
+      "lang": "deu",
+      "phrase": "Künstliche Intelligenz",
+      "total": 1,
+      "truncated": false
+    },
+    {
+      "lang": "fra",
+      "phrase": "intelligence artificielle",
+      "total": 0,
+      "truncated": false
+    }
+  ],
+  "rechecked": 20,
+  "requests": 27,
+  "signals": [
+    {
+      "candidate": "c-20261007-01",
+      "detail": "notice 681546-2026 entered the envelope (phrases: artificial intelligence)",
+      "key": "NEW_MATCH:681546-2026",
+      "notices": [
+        "681546-2026"
+      ],
+      "type": "NEW_MATCH"
+    },
+    {
+      "candidate": "c-20261007-02",
+      "detail": "notice 682877-2026 entered the envelope (phrases: Künstliche Intelligenz)",
+      "key": "NEW_MATCH:682877-2026",
+      "notices": [
+        "682877-2026"
+      ],
+      "type": "NEW_MATCH"
+    },
+    {
+      "candidate": "c-20261007-03",
+      "detail": "notice 683094-2026 entered the envelope (phrases: artificial intelligence)",
+      "key": "NEW_MATCH:683094-2026",
+      "notices": [
+        "683094-2026"
+      ],
+      "type": "NEW_MATCH"
+    },
+    {
+      "candidate": "c-20261007-04",
+      "detail": "notice 690422-2026 entered the envelope (phrases: artificial intelligence)",
+      "key": "NEW_MATCH:690422-2026",
+      "notices": [
+        "690422-2026"
+      ],
+      "type": "NEW_MATCH"
+    },
+    {
+      "candidate": "c-20261007-05",
+      "detail": "vendor 'ex libris' appears with buyers in 5 countries (BEL, DEU, LUX, MLT, PRT) within 90 days",
+      "key": "PATTERN:ex libris",
+      "notices": [
+        "690422-2026"
+      ],
+      "type": "PATTERN"
+    }
+  ]
+}

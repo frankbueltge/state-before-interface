@@ -1,0 +1,67 @@
+{
+  "claims": [
+    {
+      "id": "c-20261003-06-claim-1",
+      "text": "Contract award notices 676246-2026 and 677429-2026 (European Commission, DG CNECT) settle lots of a call for tenders — project EC-CNECT/2026/OP/0003, contract folder f7277ac5-6cb0-4d0a-876d-3e2e5e054bcd — that was already published as contract notice 115144-2026 on 2026-02-17, over seven months before the award notices entered the sentinel's envelope.",
+      "confidence": "high",
+      "evidence": [
+        "cases/c-20261003-06/evidence/115144-2026.xml",
+        "snapshots/2026-10-03/notices/676246-2026.xml",
+        "snapshots/2026-10-03/notices/677429-2026.xml"
+      ],
+      "counter_evidence": [],
+      "status": "supported"
+    },
+    {
+      "id": "c-20261003-06-claim-2",
+      "text": "European Commission, DG CNECT (Communications Networks, Content and Technology) published at least 27 TED notices mentioning 'artificial intelligence' between 2024-08-06 and 2026-10-01, spanning at least five distinct thematic procurement lines (AI Act implementation assistance, AI Act safety technical assistance, DSA/AI Act multilingual chatbots, 'AI for Public Good', 'Digital Twin for Reconstruction', 'Digital Transformation Accelerator'), i.e. a sustained multi-year AI-related procurement activity rather than a single purchase.",
+      "confidence": "high",
+      "evidence": [
+        "cases/c-20261003-06/evidence/ted-search-dgcnect-ai-history.json"
+      ],
+      "counter_evidence": [],
+      "status": "supported"
+    },
+    {
+      "id": "c-20261003-06-claim-3",
+      "text": "'AI for Public Good' (Lot 1 Health: AI-based cancer imaging for breast/prostate diagnosis; Lot 2 Energy: AI-based electric grid optimisation) was run as two separate procurement procedures under distinct contract folders, EC-CNECT/2024/OP/0094 (contract notice 484917-2025, published 2025-07-24) and EC-CNECT/2026/OP/0003 (contract notice 115144-2026, published 2026-02-18), with an identical estimated overall budget of EUR 5,400,000 (EUR 2,400,000 Lot 1 / EUR 3,000,000 Lot 2) in both editions.",
+      "confidence": "high",
+      "evidence": [
+        "cases/c-20261003-06/evidence/484917-2025.xml",
+        "cases/c-20261003-06/evidence/115144-2026.xml"
+      ],
+      "counter_evidence": [],
+      "status": "supported"
+    },
+    {
+      "id": "c-20261003-06-claim-4",
+      "text": "Lot 1 (Health) of the first 'AI for Public Good' edition (EC-CNECT/2024/OP/0094) received 11 electronic submissions but closed without a contract being awarded (winner-selection-status 'clos-nw', non-award-justification code 'other'), per contract award notice 762241-2025 (award date 2025-11-10).",
+      "confidence": "high",
+      "evidence": [
+        "cases/c-20261003-06/evidence/762241-2025.xml"
+      ],
+      "counter_evidence": [],
+      "status": "supported"
+    },
+    {
+      "id": "c-20261003-06-claim-5",
+      "text": "Lot 1 (Health) of the second 'AI for Public Good' edition (EC-CNECT/2026/OP/0003) — the same lot that closed without a winner in the first edition — was awarded on 2026-09-04 for EUR 2,060,727.30 to a consortium including FBG and Fundacao Champalimaud, per contract award notice 677429-2026.",
+      "confidence": "high",
+      "evidence": [
+        "snapshots/2026-10-03/notices/677429-2026.xml"
+      ],
+      "counter_evidence": [],
+      "status": "supported"
+    },
+    {
+      "id": "c-20261003-06-claim-6",
+      "text": "Lot 2 (Energy) of the second 'AI for Public Good' edition (EC-CNECT/2026/OP/0003) was awarded on 2026-08-25 for EUR 2,711,670 to a consortium led by INESC TEC, funded under the Horizon Europe programme (HORIZONEU).",
+      "confidence": "high",
+      "evidence": [
+        "snapshots/2026-10-03/notices/676246-2026.xml"
+      ],
+      "counter_evidence": [],
+      "status": "supported"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "entries": [
+    {
+      "file": "cases/c-20261003-06/evidence/115144-2026.xml",
+      "url": "https://ted.europa.eu/en/notice/115144-2026/xml",
+      "retrieved_at": "2026-10-03T10:29:53+00:00",
+      "http_status": 200,
+      "sha256": "2a065f69c19ef8d4d03d4ecddb80d41b580f63c071918ba5a4a7be4b9707fc82",
+      "bytes": 34496,
+      "note": "Original contract notice (cn-standard) for EC-CNECT/2026/OP/0003, both lots, published 2026-02-17 — the call for tenders that the award notices 676246-2026 and 677429-2026 settle."
+    },
+    {
+      "file": "cases/c-20261003-06/evidence/ted-search-dgcnect-ai-history.json",
+      "url": "https://api.ted.europa.eu/v3/notices/search",
+      "retrieved_at": "2026-10-03T10:30:05+00:00",
+      "http_status": 200,
+      "sha256": "31761d34214b4e1c0e43192fe79b477e882008ca5a1307882fdb2084a922b70b",
+      "bytes": 258910,
+      "note": "TED Search API v3 response for query FT=(\"DG CNECT\") AND FT=(\"artificial intelligence\"), no date restriction, limit 50 page 1 (totalNoticeCount=27, all 27 returned on page 1). Establishes the full known publication history of DG CNECT AI-related notices, 2024-08-06 through 2026-10-01."
+    },
+    {
+      "file": "cases/c-20261003-06/evidence/484917-2025.xml",
+      "url": "https://ted.europa.eu/en/notice/484917-2025/xml",
+      "retrieved_at": "2026-10-03T10:33:40+00:00",
+      "http_status": 200,
+      "sha256": "02fce5fb2d06984027e6b6ba55d9c637f4f673c9d1f850757559b3abeb35b34b",
+      "bytes": 31275,
+      "note": "Contract notice (cn-standard) for project EC-CNECT/2024/OP/0094, titled 'AI for Public Good' Lot 1 (Health: cancer imaging) / Lot 2 (Energy: grid optimisation) — the 2024/2025 edition of the same recurring call title as EC-CNECT/2026/OP/0003."
+    },
+    {
+      "file": "cases/c-20261003-06/evidence/762241-2025.xml",
+      "url": "https://ted.europa.eu/en/notice/762241-2025/xml",
+      "retrieved_at": "2026-10-03T10:33:45+00:00",
+      "http_status": 200,
+      "sha256": "0af6593b49270aaccf8ea901095cb9a8b887c8b1fe2f5b8c13418d5517cf6619",
+      "bytes": 14584,
+      "note": "Contract award notice (can-standard) settling Lot 1 of EC-CNECT/2024/OP/0094, issued 2025-11-14, referencing 484917-2025 — confirms the 2024/2025 'AI for Public Good' edition reached award stage before the 2026 edition (EC-CNECT/2026/OP/0003) was even published for tender."
+    }
+  ]
+}

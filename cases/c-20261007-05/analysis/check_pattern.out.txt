@@ -1,0 +1,15 @@
+--- (1) every TED notice where winner-name='ex libris' AND CPV=72212160 ---
+totalNoticeCount: 3
+  102979-2024 (2024-02-19Z, can-standard) buyer countries: ['ITA']
+  439183-2025 (2025-07-07+02:00, can-standard) buyer countries: ['NLD']
+  690422-2026 (2026-10-07+02:00, can-standard) buyer countries: ['BEL', 'DEU', 'LUX', 'MLT', 'PRT']
+-> only one of these three notices carries more than one buyer country, and it is the candidate notice itself: the 5-country spread is a property of a single notice, not an accumulation across separate notices.
+
+--- (2) same CPV + buyer 'European Parliament', across all years ---
+totalNoticeCount: 2
+  57057-2026 (2026-01-26+01:00, cn-standard)
+  690422-2026 (2026-10-07+02:00, can-standard)
+-> 57057-2026 (contract notice, published 2026-01-26) and 690422-2026 (contract award notice, published 2026-10-07) share buyer set, CPV and title: two publication stages of one procedure, 8+ months apart, not two separate relationships.
+
+--- (3) buyer set identity check ---
+contract-notice (57057-2026) buyers: ['Authority for Anti-Money Laundering and Countering the Financing of Terrorism', 'Committee of the Regions of the European Union', 'Court of Justice of the European Union', 'EP - European Parliament', 'European Commission, Publications Office', 'European Court of Auditors', 'European Economic and Social Committee', 'European External Action Service (EEAS)', 'European Schools', 'European Union Agency for Asylum', 'European Union Drugs Agency', 'The General Secretariat of the Council of the European Union']

@@ -18,6 +18,11 @@ from pathlib import Path
 TERMINALS = ("FALSE_ALARM", "INSUFFICIENT_EVIDENCE", "INTERESTING_BUT_TRIVIAL",
              "RESEARCH_RESULT", "PUBLIC_WORK", "ONGOING_OBSERVATORY")
 
+# TED's document endpoint accepting a request and sending no notice. The run
+# records it as a failure with this error; the register reads it as its own
+# class, because it is neither an outage of the source nor a capture nor a check.
+HTTP_202 = "HTTP 202"
+
 
 def read_json(path: Path, default=None):
     if not path.exists():
@@ -35,6 +40,32 @@ def _candidate_summary(candidate: dict) -> str:
     failed = [c["reason"] for c in candidate["criteria"].values()
               if not c["passed"]]
     return " · ".join(failed)
+
+
+def _nights(runs: list[dict]) -> tuple[list[dict], set[str]]:
+    """One row per night, oldest first, and every notice ever matched.
+
+    Derived here so the record keeps its shape. A notice whose bytes did not
+    come stays out of the index and returns as a new match the next night, so
+    a run's `new_matches` holds retries; a recheck that got no document is
+    counted in `rechecked` all the same. Neither is what the column names say.
+    """
+    matched: set[str] = set()
+    rows = []
+    for run in runs:
+        matches = run.get("new_matches", [])
+        first = [p for p in matches if p not in matched]
+        matched.update(matches)
+        failures = run.get("failures", [])
+        accepted = sum(1 for f in failures if f.get("error") == HTTP_202)
+        unchecked = sum(1 for f in failures
+                        if str(f.get("scope", "")).startswith("recheck:"))
+        rows.append({"run": run, "new": len(first),
+                     "retried": len(matches) - len(first),
+                     "checked": run.get("rechecked", 0) - unchecked,
+                     "accepted": accepted,
+                     "outages": len(failures) - accepted})
+    return rows, matched
 
 
 def build(root: Path, out: Path | None = None) -> Path:
@@ -56,6 +87,10 @@ def build(root: Path, out: Path | None = None) -> Path:
     as_of = runs[-1]["date"] if runs else envelope.get("as_of", "")
     n_open = sum(1 for c in candidates if c["verdict"] == "OPEN")
     n_declined = len(candidates) - n_open
+    nights, matched = _nights(runs)
+    without_bytes = len(matched - set(index["notices"]))
+    accepted_total = sum(n["accepted"] for n in nights)
+    accepted_nights = sum(1 for n in nights if n["accepted"])
 
     parts: list[str] = []
     parts.append(f"""<!doctype html>
@@ -84,6 +119,7 @@ a published <em>false alarm</em> is a successful outcome, not a failure.</p>
 <h2>Observed so far</h2>
 <ul class="stats">
 <li><strong>{len(index["notices"])}</strong> notices preserved</li>
+<li><strong>{without_bytes}</strong> matched without original bytes</li>
 <li><strong>{sum(len(r.get("signals", [])) for r in runs)}</strong> signals</li>
 <li><strong>{n_open}</strong> candidates opened</li>
 <li><strong>{n_declined}</strong> candidates declined</li>
@@ -107,24 +143,37 @@ revision with a reason):</p>
 
     if runs:
         rows = "".join(
-            f"<tr><td>{esc(r['date'])}</td>"
-            f"<td>{esc(len(r.get('new_matches', [])))}</td>"
-            f"<td>{esc(r.get('rechecked', 0))}</td>"
-            f"<td>{esc(len(r.get('signals', []))) if r.get('signals') else 'no signal'}</td>"
-            f"<td>{esc(len(r['candidates']['open']))}</td>"
-            f"<td>{esc(len(r['candidates']['declined']))}</td>"
-            f"<td>{esc(len(r.get('failures', [])))}</td></tr>"
-            for r in reversed(runs))
+            f"<tr><td>{esc(n['run']['date'])}</td>"
+            f"<td>{esc(n['new'])}</td>"
+            f"<td>{esc(n['retried'])}</td>"
+            f"<td>{esc(n['checked'])}</td>"
+            f"<td>{esc(len(n['run']['signals'])) if n['run'].get('signals') else 'no signal'}</td>"
+            f"<td>{esc(len(n['run']['candidates']['open']))}</td>"
+            f"<td>{esc(len(n['run']['candidates']['declined']))}</td>"
+            f"<td>{esc(n['accepted'])}</td>"
+            f"<td>{esc(n['outages'])}</td></tr>"
+            for n in reversed(nights))
         parts.append(f"""
 <section>
 <h2>Runs</h2>
 <div class="scroll"><table>
-<thead><tr><th>night</th><th>new</th><th>rechecked</th><th>signals</th>
-<th>opened</th><th>declined</th><th>outages</th></tr></thead>
+<thead><tr><th>night</th><th>new</th><th>retried</th><th>rechecked</th>
+<th>signals</th><th>opened</th><th>declined</th><th>HTTP 202</th>
+<th>outages</th></tr></thead>
 <tbody>{rows}</tbody>
 </table></div>
 <p class="note">A night without signal is the normal case and is committed as
 exactly that. Source outages are recorded, never bridged.</p>
+<p class="note"><strong>HTTP 202</strong> is a class of its own: TED's document
+endpoint accepted the request and sent no notice. Nothing of such an answer is
+kept. It is no capture, no check and no outage, and a night answered with it
+cannot see a change or a disappearance. So far {esc(accepted_total)} requests
+on {esc(accepted_nights)} of {esc(len(nights))} nights. A matched notice whose
+bytes did not come is asked for again while it stays inside the
+{esc(envelope.get('lookback_days', '?'))}-day search window (<em>retried</em>);
+after that it remains a match without original bytes. <em>Rechecked</em> counts
+only rechecks that got a real answer: the notice's current bytes, or its
+disappearance.</p>
 </section>""")
 
     if candidates:

@@ -1,0 +1,72 @@
+{
+  "candidates": {
+    "declined": [],
+    "open": []
+  },
+  "date": "2026-10-19",
+  "envelope_version": 1,
+  "failures": [
+    {
+      "error": "HTTP 202",
+      "scope": "xml:715148-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "xml:716708-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "xml:720330-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "xml:721582-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "recheck:681546-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "recheck:682877-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "recheck:683094-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "recheck:690422-2026"
+    }
+  ],
+  "http_429": 0,
+  "new_matches": [
+    "715148-2026",
+    "716708-2026",
+    "720330-2026",
+    "721582-2026"
+  ],
+  "phrases": [
+    {
+      "lang": "eng",
+      "phrase": "artificial intelligence",
+      "total": 2,
+      "truncated": false
+    },
+    {
+      "lang": "deu",
+      "phrase": "Künstliche Intelligenz",
+      "total": 0,
+      "truncated": false
+    },
+    {
+      "lang": "fra",
+      "phrase": "intelligence artificielle",
+      "total": 2,
+      "truncated": false
+    }
+  ],
+  "rechecked": 4,
+  "requests": 11,
+  "signals": []
+}

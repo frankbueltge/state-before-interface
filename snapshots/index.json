@@ -74,7 +74,8 @@
     "NEW_MATCH:682877-2026",
     "NEW_MATCH:683094-2026",
     "NEW_MATCH:690422-2026",
-    "PATTERN:ex libris"
+    "PATTERN:ex libris",
+    "NEW_MATCH:745428-2026"
   ],
   "notices": {
     "537409-2026": {
@@ -4546,6 +4547,63 @@
         "EX LIBRIS"
       ],
       "xml_url": "https://ted.europa.eu/en/notice/690422-2026/xml"
+    },
+    "745428-2026": {
+      "buyer_countries": [
+        "DEU"
+      ],
+      "buyer_names": [
+        "Agentur für Innovation in der Cybersicherheit GmbH (Cyberagentur)"
+      ],
+      "cpv": [
+        "73000000"
+      ],
+      "first_seen": "2026-10-31",
+      "gone": false,
+      "last_checked": "2026-10-31",
+      "notice_type": "cn-standard",
+      "phrases": [
+        "Künstliche Intelligenz",
+        "artificial intelligence"
+      ],
+      "publication_date": "2026-10-28",
+      "title": "Germany – Research and development services and related consultancy services – [AI-as-OS] Artificial Intelligence as Operating System",
+      "titles": [
+        "Alemanha – Serviços de investigação e desenvolvimento e serviços de consultoria conexos – [AI-as-OS] Artificial Intelligence as Operating System",
+        "Alemania – Servicios de investigación y desarrollo y servicios de consultoría conexos – [AI-as-OS] Artificial Intelligence as Operating System",
+        "Allemagne – Services de recherche et développement et services de conseil connexes – [AI-as-OS] Artificial Intelligence as Operating System",
+        "An Ghearmáin – Research and development services and related consultancy services – [AI-as-OS] Artificial Intelligence as Operating System",
+        "Deutschland – Forschungs- und Entwicklungsdienste und zugehörige Beratung – [AI-as-OS] Artificial Intelligence as Operating System",
+        "Duitsland – Onderzoek en ontwikkeling, en aanverwante adviezen – [AI-as-OS] Artificial Intelligence as Operating System",
+        "Germania – Servicii de cercetare şi de dezvoltare şi servicii conexe de consultanţă – [AI-as-OS] Artificial Intelligence as Operating System",
+        "Germania – Servizi di ricerca e sviluppo nonché servizi di consulenza affini – [AI-as-OS] Artificial Intelligence as Operating System",
+        "Germany – Research and development services and related consultancy services – [AI-as-OS] Artificial Intelligence as Operating System",
+        "Il-Ġermanja – Servizzi ta' riċerka u żvilupp u servizzi relatati mal-konsulenza – [AI-as-OS] Artificial Intelligence as Operating System",
+        "Nemecko – Výskum a vývoj a súvisiace poradenské služby – [AI-as-OS] Artificial Intelligence as Operating System",
+        "Nemčija – Storitve na področju raziskav in razvoja ter s tem povezane svetovalne storitve – [AI-as-OS] Artificial Intelligence as Operating System",
+        "Niemcy – Usługi badawcze i eksperymentalno-rozwojowe oraz pokrewne usługi doradcze – [AI-as-OS] Artificial Intelligence as Operating System",
+        "Njemačka – Usluge na području istraživanja i razvoja i s tim povezane usluge savjetovanja – [AI-as-OS] Artificial Intelligence as Operating System",
+        "Németország – Kutatási és fejlesztési szolgáltatások és kapcsolódó tanácsadói szolgáltatások – [AI-as-OS] Artificial Intelligence as Operating System",
+        "Německo – Výzkum a vývoj a související služby – [AI-as-OS] Artificial Intelligence as Operating System",
+        "Saksa – Tutkimus- ja kehityspalvelut ja niihin liittyvät konsulttipalvelut – [AI-as-OS] Artificial Intelligence as Operating System",
+        "Saksamaa – Uurimis- ja arendusteenused ja seonduvad nõustamisteenused – [AI-as-OS] Artificial Intelligence as Operating System",
+        "Tyskland – FoU-tjänster samt tillhörande konsulttjänster – [AI-as-OS] Artificial Intelligence as Operating System",
+        "Tyskland – Forsknings- og udviklingsvirksomhed og hermed beslægtet konsulentvirksomhed – [AI-as-OS] Artificial Intelligence as Operating System",
+        "Vokietija – Mokslinių tyrimų ir taikomosios veiklos paslaugos bei su jomis susijusios konsultacinės paslaugos – [AI-as-OS] Artificial Intelligence as Operating System",
+        "Vācija – Pētniecības un izstrādes pakalpojumi un saistītie konsultāciju pakalpojumi – [AI-as-OS] Artificial Intelligence as Operating System",
+        "Γερμανία – Υπηρεσίες έρευνας και ανάπτυξης, καθώς και συναφείς υπηρεσίες παροχής συμβουλών – [AI-as-OS] Artificial Intelligence as Operating System",
+        "Гepмaния – Научни изследвания и експериментални разработки и свързаните с тях консултантски услуги – [AI-as-OS] Artificial Intelligence as Operating System"
+      ],
+      "vendor_keys": [],
+      "versions": [
+        {
+          "date": "2026-10-31",
+          "file": "snapshots/2026-10-31/notices/745428-2026.xml",
+          "sha256": "8bb6c721391bd638cf7aa5ce66e2951c40b799cc99335160cefd58b7c3c51275"
+        }
+      ],
+      "winner_names": [],
+      "xml_url": "https://ted.europa.eu/en/notice/745428-2026/xml"
     }
   }
 }

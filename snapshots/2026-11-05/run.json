@@ -1,0 +1,115 @@
+{
+  "candidates": {
+    "declined": [],
+    "open": []
+  },
+  "date": "2026-11-05",
+  "envelope_version": 1,
+  "failures": [
+    {
+      "error": "HTTP 202",
+      "scope": "xml:758867-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "xml:761215-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "xml:761955-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "xml:763186-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "xml:763579-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "xml:764111-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "xml:764451-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "xml:765085-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "xml:765598-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "xml:766450-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "xml:766605-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "xml:766689-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "xml:766865-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "xml:767113-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "xml:768252-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "recheck:745428-2026"
+    }
+  ],
+  "http_429": 0,
+  "new_matches": [
+    "758867-2026",
+    "761215-2026",
+    "761955-2026",
+    "763186-2026",
+    "763579-2026",
+    "764111-2026",
+    "764451-2026",
+    "765085-2026",
+    "765598-2026",
+    "766450-2026",
+    "766605-2026",
+    "766689-2026",
+    "766865-2026",
+    "767113-2026",
+    "768252-2026"
+  ],
+  "phrases": [
+    {
+      "lang": "eng",
+      "phrase": "artificial intelligence",
+      "total": 4,
+      "truncated": false
+    },
+    {
+      "lang": "deu",
+      "phrase": "Künstliche Intelligenz",
+      "total": 11,
+      "truncated": false
+    },
+    {
+      "lang": "fra",
+      "phrase": "intelligence artificielle",
+      "total": 0,
+      "truncated": false
+    }
+  ],
+  "rechecked": 1,
+  "requests": 19,
+  "signals": []
+}

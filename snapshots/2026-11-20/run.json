@@ -1,0 +1,56 @@
+{
+  "candidates": {
+    "declined": [],
+    "open": []
+  },
+  "date": "2026-11-20",
+  "envelope_version": 1,
+  "failures": [
+    {
+      "error": "HTTP 202",
+      "scope": "xml:798491-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "xml:799738-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "xml:800874-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "xml:805065-2026"
+    }
+  ],
+  "http_429": 0,
+  "new_matches": [
+    "798491-2026",
+    "799738-2026",
+    "800874-2026",
+    "805065-2026"
+  ],
+  "phrases": [
+    {
+      "lang": "eng",
+      "phrase": "artificial intelligence",
+      "total": 1,
+      "truncated": false
+    },
+    {
+      "lang": "deu",
+      "phrase": "Künstliche Intelligenz",
+      "total": 2,
+      "truncated": false
+    },
+    {
+      "lang": "fra",
+      "phrase": "intelligence artificielle",
+      "total": 1,
+      "truncated": false
+    }
+  ],
+  "rechecked": 0,
+  "requests": 7,
+  "signals": []
+}

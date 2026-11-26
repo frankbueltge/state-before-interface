@@ -1,0 +1,96 @@
+{
+  "candidates": {
+    "declined": [],
+    "open": []
+  },
+  "date": "2026-11-26",
+  "envelope_version": 1,
+  "failures": [
+    {
+      "error": "HTTP 202",
+      "scope": "xml:811951-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "xml:812633-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "xml:813199-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "xml:814500-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "xml:817522-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "xml:818754-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "xml:819974-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "xml:821051-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "xml:821175-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "xml:821603-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "xml:822408-2026"
+    },
+    {
+      "error": "HTTP 202",
+      "scope": "xml:824382-2026"
+    }
+  ],
+  "http_429": 0,
+  "new_matches": [
+    "811951-2026",
+    "812633-2026",
+    "813199-2026",
+    "814500-2026",
+    "817522-2026",
+    "818754-2026",
+    "819974-2026",
+    "821051-2026",
+    "821175-2026",
+    "821603-2026",
+    "822408-2026",
+    "824382-2026"
+  ],
+  "phrases": [
+    {
+      "lang": "eng",
+      "phrase": "artificial intelligence",
+      "total": 7,
+      "truncated": false
+    },
+    {
+      "lang": "deu",
+      "phrase": "Künstliche Intelligenz",
+      "total": 4,
+      "truncated": false
+    },
+    {
+      "lang": "fra",
+      "phrase": "intelligence artificielle",
+      "total": 1,
+      "truncated": false
+    }
+  ],
+  "rechecked": 0,
+  "requests": 15,
+  "signals": []
+}
